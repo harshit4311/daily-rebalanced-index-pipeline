@@ -17,7 +17,7 @@ def fetch_ohlcv(pair_address, from_date, to_date, limit=400):
         "currency": "usd",
         "fromDate": from_date,
         "toDate": to_date,
-        "limit": limit
+        "limit": 400
     }
 
     response = requests.get(url, headers=HEADERS, params=params)
@@ -57,13 +57,13 @@ def main():
     from_date = input("From Date (YYYY-MM-DD): ").strip()
     to_date = input("To Date (YYYY-MM-DD): ").strip()
     month = input("Month label for output (e.g., 2024-06): ").strip()
-    limit = input("Limit (default 400): ").strip()
-    limit = int(limit) if limit else 400
+    # limit = input("Limit (default 400): ").strip()
+    # limit = int(limit) if limit else 400
 
     print(f"\nFetching OHLCV for {symbol} from {from_date} to {to_date}...")
 
     try:
-        data = fetch_ohlcv(pair_address, from_date, to_date, limit)
+        data = fetch_ohlcv(pair_address, from_date, to_date, 400)
         df = pd.DataFrame(data)
         process_and_save(df, symbol, month)
     except Exception as e:
