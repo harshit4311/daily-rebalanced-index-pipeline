@@ -1,0 +1,8 @@
+graph:
+  api_key: "214ad8fea4f34456c35952f32963b967"
+  subgraph_id: "5zvR82QoaXYFyDEKLZ9t6v9adgnptxYpKpSbxtgVENFV"
+
+fetch_pools:
+  label: "jan24"
+  start_timestamp: 1704067200  
+  end_timestamp: 1706745600
