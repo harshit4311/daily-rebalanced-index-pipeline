@@ -267,7 +267,7 @@ else:
 # Save metrics to CSV
 if monthly_metrics:
     metrics_df = pd.DataFrame(monthly_metrics)
-    metrics_df.to_csv("monthly_backtest_metrics.csv", index=False)
+    metrics_df.to_csv("/Users/harshit/Downloads/Research-Commons-Quant/automated-memetoken-index-pipeline/metrics/monthly_backtest_metrics.csv", index=False)
     print("\n📁 Monthly metrics saved to monthly_backtest_metrics.csv")
 
 # Plot multi-month cumulative returns for both portfolios if available
