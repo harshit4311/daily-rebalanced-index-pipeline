@@ -89,21 +89,6 @@ def main():
 
     selected_tokens = list(data.items())[:top_n]
 
-    # for token_id, token_info in selected_tokens:
-    #     symbol = token_info["symbol"]
-    #     print(f"\n🔍 {symbol} | {token_id}")
-    #     try:
-    #         pairs = get_pair_addresses(token_id)
-    #         if not pairs:
-    #             print("❌ No LP pairs found.")
-    #             continue
-    #         pair = pairs[0]  # or add logic to choose based on liquidity
-    #         raw = fetch_ohlcv(pair, from_date, to_date)
-    #         df = pd.DataFrame(raw)
-    #         process_and_save(df, symbol, month_label)
-    #     except Exception as e:
-    #         print(f"⚠️ {symbol} failed: {e}")
-    
     for token_id, token_info in selected_tokens:
         symbol = token_info["symbol"]
         print(f"\n🔍 {symbol} | {token_id}")
@@ -129,3 +114,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
