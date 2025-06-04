@@ -6,6 +6,9 @@ import numpy as np
 from datetime import datetime
 from pathlib import Path
 
+from fetch_ohlcv import fetch_ohlcv, process_and_save
+
+
 # --- Moralis + Dexscreener ---
 MORALIS_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjM0MDlmY2YyLWM5Y2ItNDcxYy04MDQ1LTY2ZmQ5MjdmMTc5MyIsIm9yZ0lkIjoiNDQ2NDI2IiwidXNlcklkIjoiNDU5MzEwIiwidHlwZUlkIjoiNjNmZjY2MDUtNTRhYS00NTMyLWE5NWMtOTMwNTIyMjMxNzRiIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NDY5NDM5MzUsImV4cCI6NDkwMjcwMzkzNX0._LVE0RJNvv7vKwmbSmQ4U1NSvTStVaAeZB_qSC6_roY"
 HEADERS = {"X-API-Key": MORALIS_API_KEY}
@@ -65,11 +68,12 @@ def process_and_save(df, symbol, month):
     df['drawdown'] = df['close'] / df['cum_max'] - 1
     df['turnover'] = df['volume'] / df['close']
     df.dropna(subset=["return"], inplace=True)
-
-    output_dir = DF_DIR / month
-    output_dir.mkdir(parents=True, exist_ok=True)
-    df.to_csv(output_dir / f"{symbol}.csv")
-    print(f"✅ Saved {symbol} to {output_dir / f'{symbol}.csv'}")
+    
+    output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
+    os.makedirs(output_dir, exist_ok=True)
+    out_path = os.path.join(output_dir, f"{symbol}.csv")
+    df.to_csv(out_path)
+    return out_path  # Return path for confirmation
 
 
 def main():
@@ -89,6 +93,8 @@ def main():
 
     selected_tokens = list(data.items())[:top_n]
 
+    saved_files = []
+
     for token_id, token_info in selected_tokens:
         symbol = token_info["symbol"]
         print(f"\n🔍 {symbol} | {token_id}")
@@ -97,18 +103,24 @@ def main():
             if not pairs:
                 print("❌ No LP pairs found.")
                 continue
-            
-            # Print all pair addresses fetched from Dexscreener for this token
-            print("🔗 Pair Addresses:")
-            for pair_addr in pairs:
-                print(f"   - {pair_addr}")
+            pair = pairs[0]  # or choose based on liquidity
+            print(f"🔗 Pair Address: {pair}")
 
-            pair = pairs[0]  # or add logic to choose based on liquidity
             raw = fetch_ohlcv(pair, from_date, to_date)
             df = pd.DataFrame(raw)
-            process_and_save(df, symbol, month_label)
+            saved_path = process_and_save(df, symbol, month_label)
+            if saved_path:
+                print(f"✅ Saved {symbol} OHLCV to {saved_path}")
+                saved_files.append(saved_path)
+            else:
+                print(f"❌ No data to save for {symbol}")
         except Exception as e:
             print(f"⚠️ {symbol} failed: {e}")
+
+    if saved_files:
+        print(f"\nAll OHLCV CSV files saved in the folder: dataframes/{month_label}")
+    else:
+        print("\nNo OHLCV files were saved.")
 
 
 
