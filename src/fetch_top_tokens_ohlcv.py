@@ -10,7 +10,7 @@ import numpy as np
 from datetime import datetime
 from pathlib import Path
 
-from fetch_ohlcv import fetch_ohlcv, process_and_save
+from moralis_fetch_ohlcv import fetch_ohlcv, process_and_save
 
 
 # --- Moralis + Dexscreener ---
