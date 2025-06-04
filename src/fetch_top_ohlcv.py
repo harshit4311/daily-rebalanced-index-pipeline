@@ -1,3 +1,7 @@
+''' 
+- fetching ohlcv for top X tokens in a given month 
+- importing fetch_ohlcv.py to fetch data using moralis (done to write cleaner code) 
+'''
 import os
 import json
 import requests
