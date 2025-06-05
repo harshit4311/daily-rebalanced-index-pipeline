@@ -1,10 +1,4 @@
 {
-  "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-  },
   "0x508e00d5cef397b02d260d035e5ee80775e4c821": {
     "symbol": "1CAT",
     "name": "Bitcoin Cats",
@@ -16,12 +10,6 @@
     "name": "BDID",
     "decimals": 18,
     "address": "0x5016878159e84dadb05bb04135f3eac339ae201f"
-  },
-  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   "0x06a4385d11b64be7248db210eca0a04a558608a5": {
     "symbol": "DOVA",
@@ -47,12 +35,6 @@
     "decimals": 18,
     "address": "0x6602e9319f2c5ec0ba31ffcdc4301d7ef03b709e"
   },
-  "0x6b175474e89094c44da98b954eedeac495271d0f": {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin",
-    "decimals": 18,
-    "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
-  },
   "0x9e20461bc2c4c980f62f1b279d71734207a6a356": {
     "symbol": "OMNI",
     "name": "OmniCat",
@@ -64,12 +46,6 @@
     "name": "POINTS",
     "decimals": 18,
     "address": "0xd7c1eb0fe4a30d3b2a846c04aa6300888f087a5f"
-  },
-  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   "0xc256f81d35a54c3599b424171d719e9ae87b2e9b": {
     "symbol": "ZOOA",
@@ -490,12 +466,6 @@
     "name": "SwiftcoToken",
     "decimals": 9,
     "address": "0x0f006e65e4041b94154e90fda278d961ddc9be36"
-  },
-  "0x514910771af9ca656af840dff83e8264ecf986ca": {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "decimals": 18,
-    "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   "0x4efe8665e564bf454ccf5c90ee16817f7485d5cf": {
     "symbol": "BDT",
@@ -1654,12 +1624,6 @@
     "name": "Ryoshi B3 Vision",
     "decimals": 18,
     "address": "0x91043eb3399cdc0e09a4055aa8611b18ebf6f763"
-  },
-  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   "0x8fe6cedfe01e6c150d431626df808bbe37a88a57": {
     "symbol": "break",
@@ -2920,24 +2884,6 @@
     "name": "bt",
     "decimals": 18,
     "address": "0x6b45467e7ee71551657760bb7c80f53d049af530"
-  },
-  "0x1d4241f7370253c0f12efc536b7e16e462fb3526": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0x1d4241f7370253c0f12efc536b7e16e462fb3526"
-  },
-  "0xb83fbac785f5cd4a15a8e922b31c0148316aadf7": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 18,
-    "address": "0xb83fbac785f5cd4a15a8e922b31c0148316aadf7"
-  },
-  "0x110c472ab8773ae3fc8588479e9f21e0fc3e845b": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 18,
-    "address": "0x110c472ab8773ae3fc8588479e9f21e0fc3e845b"
   },
   "0x30f7c830e0c2f4bec871df809d73e27ef19eb151": {
     "symbol": "\u03bcPPG",
