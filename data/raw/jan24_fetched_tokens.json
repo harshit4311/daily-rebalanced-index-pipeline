@@ -1,10 +1,4 @@
 {
-  "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-  },
   "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12": {
     "symbol": "SAVM",
     "name": "SatoshiVM",
@@ -22,12 +16,6 @@
     "name": "PepeFork",
     "decimals": 18,
     "address": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e"
-  },
-  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   "0x8ccd897ca6160ed76755383b201c1948394328c7": {
     "symbol": "wBAI",
@@ -53,12 +41,6 @@
     "decimals": 18,
     "address": "0x3005003bda885dee7c74182e5fe336e9e3df87bb"
   },
-  "0x6b175474e89094c44da98b954eedeac495271d0f": {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin",
-    "decimals": 18,
-    "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
-  },
   "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": {
     "symbol": "weETH",
     "name": "Wrapped eETH",
@@ -82,12 +64,6 @@
     "name": "Flooring Lab Credit",
     "decimals": 18,
     "address": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f"
-  },
-  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   "0x584a4dd38d28fd1ea0e147ba7b70aed29a37e335": {
     "symbol": "BTCINU",
@@ -124,12 +100,6 @@
     "name": "Filx Token",
     "decimals": 18,
     "address": "0x83cb9449b7077947a13bf32025a8eaa3fb1d8a5e"
-  },
-  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
   },
   "0x0aa1582bebf8d96ea384b6829a5d41278579cd88": {
     "symbol": "LYVE",
@@ -2747,12 +2717,6 @@
     "decimals": 18,
     "address": "0x5604c12a582b0f352cc334a703ff0e8dddbb2cc4"
   },
-  "0x89f5f5d35a9fd9bd355a8a893303bd44d64539cc": {
-    "symbol": "usdt",
-    "name": "upsidedowntiger",
-    "decimals": 18,
-    "address": "0x89f5f5d35a9fd9bd355a8a893303bd44d64539cc"
-  },
   "0xe4991b891357893a0b1786410d1188c4c4ad3d09": {
     "symbol": "APPROVAL",
     "name": "Bitcoin ETF ",
@@ -3041,12 +3005,6 @@
     "decimals": 18,
     "address": "0x2586ae3192d71c9b5dcddc2423596233b567db97"
   },
-  "0x92da88b9f5503cca64969a78fe856a3d7f5284fb": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 18,
-    "address": "0x92da88b9f5503cca64969a78fe856a3d7f5284fb"
-  },
   "0x5adfbdf9b6db65c71b7f44376549da6798470e1a": {
     "symbol": "VTM",
     "name": "Commercial Vitamins Token",
@@ -3238,12 +3196,6 @@
     "name": "Wrapped Pulse from PulseChain",
     "decimals": 18,
     "address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a"
-  },
-  "0xb1a7f8b3ada1cbd7752c1306725b07d2f8b4e726": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether from PulseChain",
-    "decimals": 18,
-    "address": "0xb1a7f8b3ada1cbd7752c1306725b07d2f8b4e726"
   },
   "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
     "symbol": "HEX",
@@ -3545,12 +3497,6 @@
     "decimals": 12,
     "address": "0x5b05ecaef0cdb84e06a25d4eb8ea02e805a5ebc7"
   },
-  "0xd533a949740bb3306d119cc777fa900ba034cd52": {
-    "symbol": "CRV",
-    "name": "Curve DAO Token",
-    "decimals": 18,
-    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
-  },
   "0x57a2d64ea8d09b95939b189ea0f3718fd83e123d": {
     "symbol": "SNETH",
     "name": "Shiny New Thing from PulseChain",
@@ -3694,12 +3640,6 @@
     "name": "TRUMP - POTUS 2024 - Make America Great Again",
     "decimals": 9,
     "address": "0x8342905f918ffc072fafff387c426feb12686e7c"
-  },
-  "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": {
-    "symbol": "crvUSD",
-    "name": "Curve.Fi USD Stablecoin",
-    "decimals": 18,
-    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
   },
   "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9": {
     "symbol": "UNIBOT",

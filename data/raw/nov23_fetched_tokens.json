@@ -1,10 +1,4 @@
 {
-  "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-  },
   "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74": {
     "symbol": "MEME",
     "name": "Memecoin",
@@ -70,12 +64,6 @@
     "name": "d/acc",
     "decimals": 18,
     "address": "0x04885ab082ee0770359a3439c08d738d4ecb361f"
-  },
-  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   "0xc3960227e41c3f54e9b399ce216149dea5315c34": {
     "symbol": "CZ",
@@ -172,12 +160,6 @@
     "name": "FRINKCOIN",
     "decimals": 9,
     "address": "0x23b47aace34106ad136a5f0f274450d8cb255098"
-  },
-  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   "0x2a3ca6e816dce9ff0d8023ca3011532b84f594f8": {
     "symbol": "LMX",
@@ -292,18 +274,6 @@
     "name": "Flecca Inu",
     "decimals": 18,
     "address": "0x3ed2933d572d3bd9ab541d05b168d4246fcd16d0"
-  },
-  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
-  },
-  "0xd533a949740bb3306d119cc777fa900ba034cd52": {
-    "symbol": "CRV",
-    "name": "Curve DAO Token",
-    "decimals": 18,
-    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
   },
   "0x3b5933920f2be7fede049e7759d58b692b3790c7": {
     "symbol": "Faceboob",
@@ -617,12 +587,6 @@
     "decimals": 18,
     "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
   },
-  "0x6b175474e89094c44da98b954eedeac495271d0f": {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin",
-    "decimals": 18,
-    "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
-  },
   "0x9bf3a5ba31c5629e9b08a14cf9dc21897bfd3ec1": {
     "symbol": "BENANCE",
     "name": "BENANCE",
@@ -790,12 +754,6 @@
     "name": "PromptIDE",
     "decimals": 9,
     "address": "0xf3e66b03d098d0482be9cb3d6999787231a93ed9"
-  },
-  "0x514910771af9ca656af840dff83e8264ecf986ca": {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "decimals": 18,
-    "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   "0x45c2f8c9b4c0bdc76200448cc26c48ab6ffef83f": {
     "symbol": "DOMI",
@@ -3760,12 +3718,6 @@
     "name": "Olympus",
     "decimals": 9,
     "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5"
-  },
-  "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": {
-    "symbol": "crvUSD",
-    "name": "Curve.Fi USD Stablecoin",
-    "decimals": 18,
-    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
   },
   "0xdb5562cab8024d62699ae83ea3872ae0de1fddcf": {
     "symbol": "ZUZU",

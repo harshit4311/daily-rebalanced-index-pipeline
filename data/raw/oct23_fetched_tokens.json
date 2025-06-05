@@ -1,10 +1,4 @@
 {
-  "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-  },
   "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e": {
     "symbol": "HAY",
     "name": "HayCoin",
@@ -16,18 +10,6 @@
     "name": "Flooring Lab Credit",
     "decimals": 18,
     "address": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f"
-  },
-  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
-  },
-  "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": {
-    "symbol": "crvUSD",
-    "name": "Curve.Fi USD Stablecoin",
-    "decimals": 18,
-    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
   },
   "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1": {
     "symbol": "TITANX",
@@ -64,12 +46,6 @@
     "name": "Joe Coin",
     "decimals": 18,
     "address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8"
-  },
-  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   "0xb504035a11e672e12a099f32b1672b9c4a78b22f": {
     "symbol": "SAFEREUM",
@@ -190,12 +166,6 @@
     "name": "Pepe",
     "decimals": 18,
     "address": "0x4dfae3690b93c47470b03036a17b23c1be05127c"
-  },
-  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
   },
   "0x481aeac57ed8b16c528b60f490366730adf8a491": {
     "symbol": "SHIFU",
@@ -334,12 +304,6 @@
     "name": "Oozaru Vegeta",
     "decimals": 18,
     "address": "0xfdd93fc8f56b05753d719df11fd4aaa66a620bba"
-  },
-  "0x476908d9f75687684ce3dbf6990e722129cdbcc6": {
-    "symbol": "WBTC",
-    "name": "Wrapped Bitcoin",
-    "decimals": 8,
-    "address": "0x476908d9f75687684ce3dbf6990e722129cdbcc6"
   },
   "0xef5cbdc7ee2345fedca1d47129a6e32a8732834c": {
     "symbol": "ELONPEPE",
@@ -700,12 +664,6 @@
     "name": "Pepe D Luffy",
     "decimals": 18,
     "address": "0xd9e6fc2ff69661a9075d70260e2a8fe62790eefa"
-  },
-  "0x6b175474e89094c44da98b954eedeac495271d0f": {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin",
-    "decimals": 18,
-    "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
   },
   "0x9aa52fe1ea72f421a00d372d055ed3733cb64e08": {
     "symbol": "VGA",
@@ -1319,12 +1277,6 @@
     "decimals": 18,
     "address": "0xb2fc1f1fe2367a91471b23192f2648645f6c157c"
   },
-  "0x8fee37116e2beedfd28ed002cfa7162c97a2f573": {
-    "symbol": "BTC",
-    "name": "Bitcash",
-    "decimals": 18,
-    "address": "0x8fee37116e2beedfd28ed002cfa7162c97a2f573"
-  },
   "0x1fcd88f35cc20dff8c9d1fc5506e55bb4ae28cc5": {
     "symbol": "JOEMAMA",
     "name": "JoeMama",
@@ -1714,12 +1666,6 @@
     "name": "Pepe Pepe",
     "decimals": 18,
     "address": "0x76d138fc2188b5e1f37ae8811727a8d4595dc930"
-  },
-  "0x514910771af9ca656af840dff83e8264ecf986ca": {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "decimals": 18,
-    "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   "0xb0a4e28f9bef308509a5d56cb01e6c15d18a057e": {
     "symbol": "SAFE",
@@ -2320,12 +2266,6 @@
     "name": "TRIFORCE",
     "decimals": 18,
     "address": "0x749e24e7297193cf1e46b573d872f738f5c1a2c2"
-  },
-  "0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9": {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9"
   },
   "0x19b00e04b80a8133120955d4b9fcbc7f0793cbfe": {
     "symbol": "0xBTC",
@@ -3659,12 +3599,6 @@
     "decimals": 8,
     "address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495"
   },
-  "0xa10a5e2d813a51374592d6ce440b149f01cf9a7d": {
-    "symbol": "thUSD",
-    "name": "thUSD Stablecoin",
-    "decimals": 18,
-    "address": "0xa10a5e2d813a51374592d6ce440b149f01cf9a7d"
-  },
   "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f": {
     "symbol": "CPRX",
     "name": "Crypto Perx",
@@ -4379,12 +4313,6 @@
     "decimals": 6,
     "address": "0xf9131141e9f2e89211e87b83af231a0310922a18"
   },
-  "0x36094651781dfe96e30ef85f2dd8746fe334a83d": {
-    "symbol": "USDT",
-    "name": "Tether",
-    "decimals": 18,
-    "address": "0x36094651781dfe96e30ef85f2dd8746fe334a83d"
-  },
   "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
     "symbol": "wUSDM",
     "name": "Wrapped Mountain Protocol USD",
@@ -4583,12 +4511,6 @@
     "decimals": 18,
     "address": "0xc191f402d22c8269703c6cecb3edd0d66d58d5f2"
   },
-  "0x9ff3e3a35bcb5a4ca62dcff0ed2fe6628d18e54b": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0x9ff3e3a35bcb5a4ca62dcff0ed2fe6628d18e54b"
-  },
   "0x49a4add60f44a127d10ac65f1447d3e3e20ecdfd": {
     "symbol": "BabyDoge",
     "name": "Baby Doge Ethereum",
@@ -4774,12 +4696,6 @@
     "name": "BOY",
     "decimals": 18,
     "address": "0xc1c726fa6e406a2cb304abf278d19a0766ca20ed"
-  },
-  "0x8ea6bf5c8671289c19c825add83e3b80a36e4cd8": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0x8ea6bf5c8671289c19c825add83e3b80a36e4cd8"
   },
   "0x773844442dac74e020e147d89907270100b23ba1": {
     "symbol": "AZUR",
@@ -5189,12 +5105,6 @@
     "decimals": 18,
     "address": "0xdd90bfaa6138b2d1725f25161bf50a8187818648"
   },
-  "0x28e6d13d3ee3cc7b725a06ff1f9e6fec498a3941": {
-    "symbol": "USDT",
-    "name": "Tether",
-    "decimals": 18,
-    "address": "0x28e6d13d3ee3cc7b725a06ff1f9e6fec498a3941"
-  },
   "0x428487ad75dc9197cccb496629ab516974329dc1": {
     "symbol": "RAEL",
     "name": "RealAliensEnjoyingLiquidity",
@@ -5572,12 +5482,6 @@
     "name": "Tip",
     "decimals": 18,
     "address": "0x0176b898e92e814c06cc379e508ceb571f70bd40"
-  },
-  "0xb5180182b7933e686cc2d86520073d446fd4ecf2": {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xb5180182b7933e686cc2d86520073d446fd4ecf2"
   },
   "0x4e0581de84d2bf874c89f637346214ea1e9be30b": {
     "symbol": "MEVT",
