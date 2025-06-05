@@ -80,52 +80,6 @@ def process_and_save(df, symbol, month):
     return out_path  # Return path for confirmation
 
 
-# def main():
-#     print("📁 Available Token Files:")
-#     files = list_json_files()
-#     for idx, f in enumerate(files):
-#         print(f"{idx + 1}. {f}")
-#     choice = int(input("\nSelect a file: ")) - 1
-#     file = files[choice]
-
-#     month_label = file.split("_")[0]
-#     data = load_tokens_from_file(os.path.join(RAW_DIR, file))
-
-#     top_n = int(input("How many top tokens to fetch OHLCV for? "))
-#     from_date = input("From Date (YYYY-MM-DD): ").strip()
-#     to_date = input("To Date (YYYY-MM-DD): ").strip()
-
-#     selected_tokens = list(data.items())[:top_n]
-
-#     saved_files = []
-
-#     for token_id, token_info in selected_tokens:
-#         symbol = token_info["symbol"]
-#         print(f"\n🔍 {symbol} | {token_id}")
-#         try:
-#             pairs = get_pair_addresses(token_id)
-#             if not pairs:
-#                 print("❌ No LP pairs found.")
-#                 continue
-#             pair = pairs[0]  # or choose based on liquidity
-#             print(f"🔗 Pair Address: {pair}")
-
-#             raw = fetch_ohlcv(pair, from_date, to_date)
-#             df = pd.DataFrame(raw)
-#             saved_path = process_and_save(df, symbol, month_label)
-#             if saved_path:
-#                 print(f"✅ Saved {symbol} OHLCV to {saved_path}")
-#                 saved_files.append(saved_path)
-#             else:
-#                 print(f"❌ No data to save for {symbol}")
-#         except Exception as e:
-#             print(f"⚠️ {symbol} failed: {e}")
-
-#     if saved_files:
-#         print(f"\nAll OHLCV CSV files saved in the folder: dataframes/{month_label}")
-#     else:
-#         print("\nNo OHLCV files were saved.")
-
 def main():
     print("📁 Available Token Files:")
     files = list_json_files()
