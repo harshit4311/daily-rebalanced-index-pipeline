@@ -56,21 +56,55 @@ def fetch_ohlcv(pair_address, from_date, to_date):
     return resp.json().get("result", [])
 
 
-def process_and_save(df, symbol, month, min_rows=250):
+# def process_and_save(df, symbol, month, min_rows=250):
+#     if df.empty:
+#         print(f"No data for {symbol}")
+#         return None
+
+#     df["timestamp"] = pd.to_datetime(df["timestamp"])
+#     df = df.sort_values("timestamp").reset_index(drop=True)  # ensure sorted & clean index
+
+#     # Filter tokens with less than min_rows of data
+#     if len(df) < min_rows:
+#         print(f"⚠️ Skipping {symbol}: only {len(df)} rows (less than {min_rows})")
+#         return None
+
+#     df.set_index("timestamp", inplace=True)
+
+#     df['return'] = df['close'].pct_change()
+#     df['log_return'] = np.log(df['close'] / df['close'].shift(1))
+#     df['cumulative_return'] = (1 + df['return']).cumprod() - 1
+#     df['sharpe_ratio'] = (df['return'].mean() / df['return'].std()) * np.sqrt(365)
+#     df['cum_max'] = df['close'].cummax()
+#     df['drawdown'] = df['close'] / df['cum_max'] - 1
+#     df['turnover'] = df['volume'] / df['close']
+#     df.dropna(subset=["return"], inplace=True)
+
+#     output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
+#     os.makedirs(output_dir, exist_ok=True)
+#     out_path = os.path.join(output_dir, f"{symbol}.csv")
+#     df.to_csv(out_path)
+#     return out_path
+
+
+def process_and_save(df, symbol, month):
     if df.empty:
         print(f"No data for {symbol}")
         return None
 
     df["timestamp"] = pd.to_datetime(df["timestamp"])
-    df = df.sort_values("timestamp").reset_index(drop=True)  # ensure sorted & clean index
+    df = df.sort_values("timestamp").reset_index(drop=True)
 
-    # Filter tokens with less than min_rows of data
-    if len(df) < min_rows:
-        print(f"⚠️ Skipping {symbol}: only {len(df)} rows (less than {min_rows})")
+    # Ensure at least 60 days of data since inception
+    launch_date = df["timestamp"].min()
+    df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
+    df = df[df["days_since_launch"] <= 59]
+
+    if df.shape[0] < 60:
+        print(f"⚠️ Skipping {symbol}: only {df.shape[0]} days of data since launch (needs ≥60)")
         return None
 
     df.set_index("timestamp", inplace=True)
-
     df['return'] = df['close'].pct_change()
     df['log_return'] = np.log(df['close'] / df['close'].shift(1))
     df['cumulative_return'] = (1 + df['return']).cumprod() - 1
