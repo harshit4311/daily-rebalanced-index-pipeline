@@ -56,30 +56,6 @@ def fetch_ohlcv(pair_address, from_date, to_date):
     return resp.json().get("result", [])
 
 
-# def process_and_save(df, symbol, month):
-#     if df.empty:
-#         print(f"No data for {symbol}")
-#         return
-
-#     df["timestamp"] = pd.to_datetime(df["timestamp"])
-#     df.set_index("timestamp", inplace=True)
-
-#     df['return'] = df['close'].pct_change()
-#     df['log_return'] = np.log(df['close'] / df['close'].shift(1))
-#     df['cumulative_return'] = (1 + df['return']).cumprod() - 1
-#     df['sharpe_ratio'] = (df['return'].mean() / df['return'].std()) * np.sqrt(365)
-#     df['cum_max'] = df['close'].cummax()
-#     df['drawdown'] = df['close'] / df['cum_max'] - 1
-#     df['turnover'] = df['volume'] / df['close']
-#     df.dropna(subset=["return"], inplace=True)
-    
-#     output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
-#     os.makedirs(output_dir, exist_ok=True)
-#     out_path = os.path.join(output_dir, f"{symbol}.csv")
-#     df.to_csv(out_path)
-#     return out_path  # Return path for confirmation
-
-
 def process_and_save(df, symbol, month, min_rows=250):
     if df.empty:
         print(f"No data for {symbol}")
