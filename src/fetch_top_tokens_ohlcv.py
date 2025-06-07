@@ -92,7 +92,7 @@ def main():
     data = load_tokens_from_file(os.path.join(RAW_DIR, file))
 
     top_n = int(input("How many top tokens to fetch OHLCV for? "))
-    buffer = 5  # Number of extra tokens to try as fallback
+    buffer = 10  # Number of extra tokens to try as fallback
     from_date = input("From Date (YYYY-MM-DD): ").strip()
     to_date = input("To Date (YYYY-MM-DD): ").strip()
 
