@@ -56,12 +56,43 @@ def fetch_ohlcv(pair_address, from_date, to_date):
     return resp.json().get("result", [])
 
 
-def process_and_save(df, symbol, month):
+# def process_and_save(df, symbol, month):
+#     if df.empty:
+#         print(f"No data for {symbol}")
+#         return
+
+#     df["timestamp"] = pd.to_datetime(df["timestamp"])
+#     df.set_index("timestamp", inplace=True)
+
+#     df['return'] = df['close'].pct_change()
+#     df['log_return'] = np.log(df['close'] / df['close'].shift(1))
+#     df['cumulative_return'] = (1 + df['return']).cumprod() - 1
+#     df['sharpe_ratio'] = (df['return'].mean() / df['return'].std()) * np.sqrt(365)
+#     df['cum_max'] = df['close'].cummax()
+#     df['drawdown'] = df['close'] / df['cum_max'] - 1
+#     df['turnover'] = df['volume'] / df['close']
+#     df.dropna(subset=["return"], inplace=True)
+    
+#     output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
+#     os.makedirs(output_dir, exist_ok=True)
+#     out_path = os.path.join(output_dir, f"{symbol}.csv")
+#     df.to_csv(out_path)
+#     return out_path  # Return path for confirmation
+
+
+def process_and_save(df, symbol, month, min_rows=250):
     if df.empty:
         print(f"No data for {symbol}")
-        return
+        return None
 
     df["timestamp"] = pd.to_datetime(df["timestamp"])
+    df = df.sort_values("timestamp").reset_index(drop=True)  # ensure sorted & clean index
+
+    # Filter tokens with less than min_rows of data
+    if len(df) < min_rows:
+        print(f"⚠️ Skipping {symbol}: only {len(df)} rows (less than {min_rows})")
+        return None
+
     df.set_index("timestamp", inplace=True)
 
     df['return'] = df['close'].pct_change()
@@ -72,12 +103,12 @@ def process_and_save(df, symbol, month):
     df['drawdown'] = df['close'] / df['cum_max'] - 1
     df['turnover'] = df['volume'] / df['close']
     df.dropna(subset=["return"], inplace=True)
-    
+
     output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
     os.makedirs(output_dir, exist_ok=True)
     out_path = os.path.join(output_dir, f"{symbol}.csv")
     df.to_csv(out_path)
-    return out_path  # Return path for confirmation
+    return out_path
 
 
 def main():
@@ -92,7 +123,7 @@ def main():
     data = load_tokens_from_file(os.path.join(RAW_DIR, file))
 
     top_n = int(input("How many top tokens to fetch OHLCV for? "))
-    buffer = 10  # Number of extra tokens to try as fallback
+    buffer = 30  # Number of extra tokens to try as fallback
     from_date = input("From Date (YYYY-MM-DD): ").strip()
     to_date = input("To Date (YYYY-MM-DD): ").strip()
 
