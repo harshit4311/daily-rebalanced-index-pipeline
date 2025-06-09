@@ -66,12 +66,16 @@ def process_and_save(df, symbol, month):
 
     # Ensure at least 60 days of data since inception
     launch_date = df["timestamp"].min()
-    df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
-    df = df[df["days_since_launch"] <= 1]
+    # df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
+    # df = df[df["days_since_launch"] <= 1]
 
-    if df.shape[0] < 1:
-        print(f"⚠️ Skipping {symbol}: only {df.shape[0]} days of data since launch (needs ≥60)")
-        return None
+    # if df.shape[0] < 1:
+    #     print(f"⚠️ Skipping {symbol}: only {df.shape[0]} days of data since launch (needs ≥60)")
+    #     return None
+    
+    df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
+    df = df[df["days_since_launch"] <= 59]  # Keep first 60 days from inception if they've survived, ITS OKAY EVEN IF THEY HAVENT SURVIDED! JUST GET WHATEVER AMT. OF DATA YOU HAVE
+
 
     df.set_index("timestamp", inplace=True)
     df['return'] = df['close'].pct_change()
