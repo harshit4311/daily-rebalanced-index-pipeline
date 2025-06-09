@@ -64,17 +64,22 @@ def process_and_save(df, symbol, month):
     df["timestamp"] = pd.to_datetime(df["timestamp"])
     df = df.sort_values("timestamp").reset_index(drop=True)
 
-    # Ensure at least 60 days of data since inception
-    launch_date = df["timestamp"].min()
+    # # Ensure at least 60 days of data since inception
+    # launch_date = df["timestamp"].min()
     # df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
-    # df = df[df["days_since_launch"] <= 1]
-
-    # if df.shape[0] < 1:
-    #     print(f"⚠️ Skipping {symbol}: only {df.shape[0]} days of data since launch (needs ≥60)")
-    #     return None
+    # df = df[df["days_since_launch"] <= 59]  # Keep first 60 days from inception if they've survived, ITS OKAY EVEN IF THEY HAVENT SURVIDED! JUST GET WHATEVER AMT. OF DATA YOU HAVE
     
+    # After calculating days since launch, slice properly:
+    launch_date = df["timestamp"].min()
     df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
-    df = df[df["days_since_launch"] <= 59]  # Keep first 60 days from inception if they've survived, ITS OKAY EVEN IF THEY HAVENT SURVIDED! JUST GET WHATEVER AMT. OF DATA YOU HAVE
+
+    # Get rows from day 0 up through day 60
+    mask = df["days_since_launch"] <= 60
+    df = df.loc[mask].copy()
+
+    if df.empty:
+        print(f"⚠️ Skipping {symbol}: launch data but no first-60‑day records found.")
+        return None
 
 
     df.set_index("timestamp", inplace=True)
@@ -107,7 +112,8 @@ def main():
 
     top_n = int(input("How many top tokens to fetch OHLCV for? "))
     buffer = 30  # Number of extra tokens to try as fallback
-    from_date = input("From Date (YYYY-MM-DD): ").strip()
+    # from_date = input("From Date (YYYY-MM-DD): ").strip()
+    from_date = "2021-01-01"
     to_date = input("To Date (YYYY-MM-DD): ").strip()
 
     selected_tokens = list(data.items())[:top_n + buffer]
