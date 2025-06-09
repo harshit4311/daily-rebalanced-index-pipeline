@@ -143,12 +143,6 @@ def fetch_pool_day_data(pool_ids):
     return pool_volumes
 
 
-# Tokens to exclude (large caps, stables, majors)
-# EXCLUDE_SYMBOLS = {
-#     "WETH", "WBTC", "BTC", "USDC", "USDT", "CRVUSD", "DAI", "THUSD", 
-#     "AAVE", "CRV", "LINK", "MORPHO, wETH"
-# }
-
 EXCLUDE_SYMBOLS = {
     # Stablecoins
     "USDC", "USDT", "DAI", "FRAX", "LUSD", "TUSD", "THUSD", "GUSD", "CRVUSD",
@@ -160,7 +154,7 @@ EXCLUDE_SYMBOLS = {
     "ETH", "BTC", "WBTC", "AAVE", "CRV", "LINK", "UNI", "COMP", "MKR", "SNX", "BAL",
 
     # LSD & restaking tokens (not meme-related)
-    "STETH", "CBETH", "SWETH", "OSMO", "JUNO", "ATOM", "FXS",
+    "STETH", "CBETH", "SWETH", "OSMO", "JUNO", "ATOM", "FXS", "ezETH", "EZETH",
 
     # Others to exclude
     "MORPHO", "LDO", "ENS", "1INCH", "GRT"
