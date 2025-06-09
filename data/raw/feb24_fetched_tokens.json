@@ -629,6 +629,12 @@
     "decimals": 18,
     "address": "0x3b0cd416755cb30393afaa8b150d8fd71dacbb1e"
   },
+  "0x7068263eda099fb93bb3215c05e728c0b54b3137": {
+    "symbol": "CHIB",
+    "name": "Chiblings",
+    "decimals": 18,
+    "address": "0x7068263eda099fb93bb3215c05e728c0b54b3137"
+  },
   "0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841": {
     "symbol": "INS",
     "name": "Inscribe",
@@ -976,12 +982,6 @@
     "name": "Wombats",
     "decimals": 18,
     "address": "0x4698d8108d823222cf7ee635ff5becaadbd15cb9"
-  },
-  "0x7068263eda099fb93bb3215c05e728c0b54b3137": {
-    "symbol": "CHIB",
-    "name": "Chiblings",
-    "decimals": 18,
-    "address": "0x7068263eda099fb93bb3215c05e728c0b54b3137"
   },
   "0xc5260f22a810646f767fcd61164d40f48f4491b9": {
     "symbol": "Erald",
@@ -1613,6 +1613,12 @@
     "decimals": 9,
     "address": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44"
   },
+  "0xad45fd0a77e780653e78e739b732f5ebc13de239": {
+    "symbol": "MGMI",
+    "name": "Maybe Gonna Make It",
+    "decimals": 18,
+    "address": "0xad45fd0a77e780653e78e739b732f5ebc13de239"
+  },
   "0xcc7035f057943592255de49a1ef2c691d117739d": {
     "symbol": "TRUMP404",
     "name": "Trump 404",
@@ -1720,18 +1726,6 @@
     "name": "KORG",
     "decimals": 18,
     "address": "0x0c20f93967157c27565e17d53ac9f76a67434c0e"
-  },
-  "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": {
-    "symbol": "MKR",
-    "name": "Maker",
-    "decimals": 18,
-    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
-  },
-  "0xad45fd0a77e780653e78e739b732f5ebc13de239": {
-    "symbol": "MGMI",
-    "name": "Maybe Gonna Make It",
-    "decimals": 18,
-    "address": "0xad45fd0a77e780653e78e739b732f5ebc13de239"
   },
   "0xf140b5847290e845b9a8b02ad1c6a9b37c940a8e": {
     "symbol": "PIXEL",
@@ -1954,12 +1948,6 @@
     "name": "Porktoshi Nakamoto",
     "decimals": 9,
     "address": "0xb39bc86ac75118011f646276fca48d56e54c4854"
-  },
-  "0xf41b04093dd9763cf32e60ba4b0aa990391df603": {
-    "symbol": "BAL",
-    "name": "Balance Protocol",
-    "decimals": 18,
-    "address": "0xf41b04093dd9763cf32e60ba4b0aa990391df603"
   },
   "0x7c6314ccd4e34346ba9c9bd9900faafb4e3711b0": {
     "symbol": "ERC404X",
@@ -2542,12 +2530,6 @@
     "name": "Protocol Ghost",
     "decimals": 18,
     "address": "0x03cbe24a9bd0422e3995210d589a897f268bad86"
-  },
-  "0xc00e94cb662c3520282e6f5717214004a7f26888": {
-    "symbol": "COMP",
-    "name": "Compound",
-    "decimals": 18,
-    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888"
   },
   "0x14390b6c422c186973a66f60bfd390cd8f982dce": {
     "symbol": "HLN",
@@ -6425,12 +6407,6 @@
     "decimals": 5,
     "address": "0xbc0899e527007f1b8ced694508fcb7a2b9a46f53"
   },
-  "0xae78736cd615f374d3085123a210448e74fc6393": {
-    "symbol": "rETH",
-    "name": "Rocket Pool ETH",
-    "decimals": 18,
-    "address": "0xae78736cd615f374d3085123a210448e74fc6393"
-  },
   "0xdacd09c13f9c9021b9364e670408e03309243ac8": {
     "symbol": "pRETH",
     "name": "Rocket Pool ETH Peapod",
@@ -6575,12 +6551,6 @@
     "decimals": 18,
     "address": "0xfa2629b9cf3998d52726994e0fcdb750224d8b9d"
   },
-  "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
-    "symbol": "wstETH",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "decimals": 18,
-    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
-  },
   "0x7fa768e035f956c41d6aeaa3bd857e7e5141cad5": {
     "symbol": "InstETH",
     "name": "Inception Restaked stETH",
@@ -6635,12 +6605,6 @@
     "decimals": 18,
     "address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
   },
-  "0xbe9895146f7af43049ca1c1ae358b0541ea49704": {
-    "symbol": "cbETH",
-    "name": "Coinbase Wrapped Staked ETH",
-    "decimals": 18,
-    "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
-  },
   "0xbf19eead55a6b100667f04f8fbc5371e03e8ab2e": {
     "symbol": "IncbETH",
     "name": "Inception Restaked cbETH",
@@ -6652,12 +6616,6 @@
     "name": "Inception Restaked swETH",
     "decimals": 18,
     "address": "0xc3ade5ace1bbb033ccae8177c12ecbfa16bd6a9d"
-  },
-  "0xf951e335afb289353dc249e82926178eac7ded78": {
-    "symbol": "swETH",
-    "name": "swETH",
-    "decimals": 18,
-    "address": "0xf951e335afb289353dc249e82926178eac7ded78"
   },
   "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3": {
     "symbol": "OETH",
@@ -6802,12 +6760,6 @@
     "name": "Color Palette",
     "decimals": 18,
     "address": "0x4e34ffb1e0d20307a0f5a750f9c9990ce3403073"
-  },
-  "0x497460a68d3c630fd41dd1221554aa6374d93688": {
-    "symbol": "ETH",
-    "name": "Ethereum",
-    "decimals": 18,
-    "address": "0x497460a68d3c630fd41dd1221554aa6374d93688"
   },
   "0xc0b81af8b940264b1925ca8b1412ac80bb647af6": {
     "symbol": "PENGUINS",
@@ -7529,12 +7481,6 @@
     "decimals": 18,
     "address": "0x8ab2ff0116a279a99950c66a12298962d152b83c"
   },
-  "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
-    "symbol": "UNI",
-    "name": "Uniswap",
-    "decimals": 18,
-    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
-  },
   "0x1567713be28bc486fe2040876baf6598773ce5ec": {
     "symbol": "KINGJAKE",
     "name": "KINGJAKE",
@@ -7558,12 +7504,6 @@
     "name": "Gala",
     "decimals": 8,
     "address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae"
-  },
-  "0x5a98fcbea516cf06857215779fd812ca3bef1b32": {
-    "symbol": "LDO",
-    "name": "Lido DAO Token",
-    "decimals": 18,
-    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
   },
   "0xd31a59c85ae9d8edefec411d448f90841571b89c": {
     "symbol": "SOL",
