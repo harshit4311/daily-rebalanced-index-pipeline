@@ -127,38 +127,6 @@ def main():
     saved_files = []
     success_count = 0
 
-    # for token_id, token_info in selected_tokens:
-    #     if success_count >= top_n:
-    #         break
-
-    #     symbol = token_info["symbol"]
-    #     print(f"\n🔍 {symbol} | {token_id}")
-    #     try:
-    #         pairs = get_pair_addresses(token_id)
-    #         if not pairs:
-    #             print("❌ No LP pairs found.")
-    #             continue
-    #         pair = pairs[0]  # Could enhance by choosing by volume, etc.
-    #         print(f"🔗 Pair Address: {pair}")
-
-    #         raw = fetch_ohlcv(pair, from_date, to_date)
-    #         df = pd.DataFrame(raw)
-    #         saved_path = process_and_save(df, symbol, month_label)
-    #         if saved_path:
-    #             print(f"✅ Saved {symbol} OHLCV to {saved_path}")
-    #             saved_files.append(saved_path)
-    #             success_count += 1
-    #         else:
-    #             print(f"❌ No data to save for {symbol}")
-    #     except Exception as e:
-    #         print(f"⚠️ {symbol} failed: {e}")
-
-    # if saved_files:
-    #     print(f"\n✅ Collected {len(saved_files)} tokens.")
-    #     print(f"All OHLCV CSV files saved in the folder: dataframes/{month_label}")
-    # else:
-    #     print("\n🚫 No OHLCV files were saved.")
-    
     for token_id, token_info in selected_tokens:
         if success_count >= top_n:
             break
