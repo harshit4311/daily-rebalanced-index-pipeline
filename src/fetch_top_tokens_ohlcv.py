@@ -48,12 +48,23 @@ def fetch_ohlcv(pair_address, from_date, to_date):
         "currency": "usd",
         "fromDate": from_date,
         "toDate": to_date,
-        "limit": 400
+        "limit": 1000  # max
     }
+    print(f"Requesting OHLCV with params: {params}")  # debug print
     resp = requests.get(url, headers=HEADERS, params=params)
     if resp.status_code != 200:
         raise Exception(f"Moralis error: {resp.status_code} - {resp.text}")
-    return resp.json().get("result", [])
+
+    data = resp.json()
+    results = data.get("result", [])
+
+    if results:
+        earliest = min([item['timestamp'] for item in results])
+        print(f"Earliest timestamp in response: {earliest}")  # debug print
+    else:
+        print("No results returned by API")
+
+    return results
 
 
 def process_and_save(df, symbol, month):
@@ -61,11 +72,12 @@ def process_and_save(df, symbol, month):
         print(f"No data for {symbol}")
         return None
 
-    df["timestamp"] = pd.to_datetime(df["timestamp"])
+    df["timestamp"] = pd.to_datetime(df["timestamp"], utc=True)
     df = df.sort_values("timestamp").reset_index(drop=True)
     
     # After calculating days since launch, slice properly:
-    launch_date = df["timestamp"].min()
+    # launch_date = df["timestamp"].min()
+    launch_date = pd.to_datetime(df["timestamp"].min(), utc=True)
     df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
 
     # Get rows from day 0 up through day 60
@@ -92,65 +104,6 @@ def process_and_save(df, symbol, month):
     df.to_csv(out_path)
     return out_path
 
-# def process_and_save(df, symbol, month, to_date_str):
-#     """
-#     Process and save OHLCV data for a token symbol filtered by to_date.
-
-#     Args:
-#       df (pd.DataFrame): raw OHLCV data with 'timestamp', 'close', 'volume' columns
-#       symbol (str): token symbol
-#       month (str): YYYY-MM format for output folder
-#       to_date_str (str): cutoff date for filtering tokens launched after this date (inclusive)
-#     """
-
-#     if df.empty:
-#         print(f"No data for {symbol}")
-#         return None
-
-#     df["timestamp"] = pd.to_datetime(df["timestamp"]).dt.tz_localize('UTC', ambiguous='NaT', nonexistent='shift_forward')
-
-#     launch_date = df["timestamp"].min()
-
-#     # Parse cutoff date with UTC tz to compare correctly
-#     to_date = pd.to_datetime(to_date_str).tz_localize('UTC')
-
-#     if launch_date > to_date:
-#         print(f"🚫 Skipping {symbol}: launched after target date ({launch_date.date()})")
-#         return None
-
-#     df = df.sort_values("timestamp").reset_index(drop=True)
-
-#     # Calculate days since launch and filter first 60 days
-#     df["days_since_launch"] = (df["timestamp"] - launch_date).dt.days
-#     df = df[df["days_since_launch"] <= 60].copy()
-
-#     if df.empty:
-#         print(f"⚠️ Skipping {symbol}: launch data but no first-60-day records found.")
-#         return None
-
-#     df.set_index("timestamp", inplace=True)
-
-#     df['return'] = df['close'].pct_change()
-#     df['log_return'] = np.log(df['close'] / df['close'].shift(1))
-#     df['cumulative_return'] = (1 + df['return']).cumprod() - 1
-
-#     # Annualized Sharpe assuming 365 days (crypto market)
-#     df['sharpe_ratio'] = (df['return'].mean() / df['return'].std()) * np.sqrt(365)
-
-#     df['cum_max'] = df['close'].cummax()
-#     df['drawdown'] = df['close'] / df['cum_max'] - 1
-#     df['turnover'] = df['volume'] / df['close']
-
-#     df.dropna(subset=["return"], inplace=True)
-
-#     output_dir = os.path.join(os.path.dirname(__file__), "..", "dataframes", month)
-#     os.makedirs(output_dir, exist_ok=True)
-#     out_path = os.path.join(output_dir, f"{symbol}.csv")
-#     df.to_csv(out_path)
-
-#     print(f"✅ Saved processed data for {symbol} to {out_path}")
-#     return out_path
-
 
 def main():
     print("📁 Available Token Files:")
@@ -174,6 +127,38 @@ def main():
     saved_files = []
     success_count = 0
 
+    # for token_id, token_info in selected_tokens:
+    #     if success_count >= top_n:
+    #         break
+
+    #     symbol = token_info["symbol"]
+    #     print(f"\n🔍 {symbol} | {token_id}")
+    #     try:
+    #         pairs = get_pair_addresses(token_id)
+    #         if not pairs:
+    #             print("❌ No LP pairs found.")
+    #             continue
+    #         pair = pairs[0]  # Could enhance by choosing by volume, etc.
+    #         print(f"🔗 Pair Address: {pair}")
+
+    #         raw = fetch_ohlcv(pair, from_date, to_date)
+    #         df = pd.DataFrame(raw)
+    #         saved_path = process_and_save(df, symbol, month_label)
+    #         if saved_path:
+    #             print(f"✅ Saved {symbol} OHLCV to {saved_path}")
+    #             saved_files.append(saved_path)
+    #             success_count += 1
+    #         else:
+    #             print(f"❌ No data to save for {symbol}")
+    #     except Exception as e:
+    #         print(f"⚠️ {symbol} failed: {e}")
+
+    # if saved_files:
+    #     print(f"\n✅ Collected {len(saved_files)} tokens.")
+    #     print(f"All OHLCV CSV files saved in the folder: dataframes/{month_label}")
+    # else:
+    #     print("\n🚫 No OHLCV files were saved.")
+    
     for token_id, token_info in selected_tokens:
         if success_count >= top_n:
             break
@@ -182,29 +167,39 @@ def main():
         print(f"\n🔍 {symbol} | {token_id}")
         try:
             pairs = get_pair_addresses(token_id)
+            print(f"Found {len(pairs)} pairs for {symbol}: {pairs}")
+
             if not pairs:
                 print("❌ No LP pairs found.")
                 continue
-            pair = pairs[0]  # Could enhance by choosing by volume, etc.
-            print(f"🔗 Pair Address: {pair}")
 
-            raw = fetch_ohlcv(pair, from_date, to_date)
-            df = pd.DataFrame(raw)
-            saved_path = process_and_save(df, symbol, month_label)
-            if saved_path:
-                print(f"✅ Saved {symbol} OHLCV to {saved_path}")
-                saved_files.append(saved_path)
-                success_count += 1
-            else:
-                print(f"❌ No data to save for {symbol}")
+            for pair in pairs:
+                # (Optional) enhance: use Dexscreener API to get creation date or volume for filtering
+                raw = fetch_ohlcv(pair, from_date, to_date)
+                df = pd.DataFrame(raw)
+
+                if df.empty:
+                    print("⚠️ No data returned.")
+                    continue
+
+                first_timestamp = pd.to_datetime(df["timestamp"].min(), utc=True)
+                to_date_parsed = pd.to_datetime(to_date, utc=True)
+
+                if first_timestamp > to_date_parsed:
+                    print(f"🚫 Skipping {symbol}: first OHLCV is after {to_date} → {first_timestamp}")
+                    continue
+
+                saved_path = process_and_save(df, symbol, month_label)
+                if saved_path:
+                    print(f"✅ Saved {symbol} OHLCV to {saved_path}")
+                    saved_files.append(saved_path)
+                    success_count += 1
+                else:
+                    print(f"❌ No data to save for {symbol}")
+                break  # Break after first successful pair
+
         except Exception as e:
             print(f"⚠️ {symbol} failed: {e}")
-
-    if saved_files:
-        print(f"\n✅ Collected {len(saved_files)} tokens.")
-        print(f"All OHLCV CSV files saved in the folder: dataframes/{month_label}")
-    else:
-        print("\n🚫 No OHLCV files were saved.")
 
 
 

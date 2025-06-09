@@ -9,7 +9,7 @@ MORALIS_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjM0MDlmY2Yy
 HEADERS = {"X-API-Key": MORALIS_API_KEY}
 
 
-def fetch_ohlcv(pair_address, from_date, to_date, limit=400):
+def fetch_ohlcv(pair_address, from_date, to_date, limit=1000):
     url = f"https://deep-index.moralis.io/api/v2.2/pairs/{pair_address}/ohlcv"
     params = {
         "chain": "eth",
@@ -17,13 +17,14 @@ def fetch_ohlcv(pair_address, from_date, to_date, limit=400):
         "currency": "usd",
         "fromDate": from_date,
         "toDate": to_date,
-        "limit": 400
+        "limit": limit  # Use the function parameter here
     }
 
     response = requests.get(url, headers=HEADERS, params=params)
     if response.status_code != 200:
         raise Exception(f"Failed: {response.status_code} - {response.text}")
     return response.json().get("result", [])
+
 
 BASE_DATAFRAMES_DIR = "/Users/harshit/Downloads/Research-Commons-Quant/automated-memetoken-index-pipeline/dataframes"
 
@@ -57,13 +58,13 @@ def main():
     from_date = input("From Date (YYYY-MM-DD): ").strip()
     to_date = input("To Date (YYYY-MM-DD): ").strip()
     month = input("Month label for output (e.g., 2024-06): ").strip()
-    # limit = input("Limit (default 400): ").strip()
-    # limit = int(limit) if limit else 400
+    # limit = input("Limit (default 1000): ").strip()
+    # limit = int(limit) if limit else 1000
 
     print(f"\nFetching OHLCV for {symbol} from {from_date} to {to_date}...")
 
     try:
-        data = fetch_ohlcv(pair_address, from_date, to_date, 400)
+        data = fetch_ohlcv(pair_address, from_date, to_date, 1000)
         df = pd.DataFrame(data)
         process_and_save(df, symbol, month)
     except Exception as e:
