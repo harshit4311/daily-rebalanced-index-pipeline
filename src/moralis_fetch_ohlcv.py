@@ -52,23 +52,54 @@ def process_and_save(df, symbol, month):
     print(f"✅ Saved {symbol} OHLCV to {out_path}")
 
 
+# def main():
+#     symbol = input("Token Symbol (eg. PEPE): ").strip().upper()
+#     pair_address = input("Pair Address (Uniswap/Dexscreener): ").strip()
+#     from_date = input("From Date (YYYY-MM-DD): ").strip()
+#     to_date = input("To Date (YYYY-MM-DD): ").strip()
+#     month = input("Month label for output (e.g., 2024-06): ").strip()
+#     # limit = input("Limit (default 1000): ").strip()
+#     # limit = int(limit) if limit else 1000
+
+#     print(f"\nFetching OHLCV for {symbol} from {from_date} to {to_date}...")
+
+#     try:
+#         data = fetch_ohlcv(pair_address, from_date, to_date, 1000)
+#         df = pd.DataFrame(data)
+#         process_and_save(df, symbol, month)
+#     except Exception as e:
+#         print(f"❌ Error: {e}")
+
+
 def main():
     symbol = input("Token Symbol (eg. PEPE): ").strip().upper()
     pair_address = input("Pair Address (Uniswap/Dexscreener): ").strip()
     from_date = input("From Date (YYYY-MM-DD): ").strip()
     to_date = input("To Date (YYYY-MM-DD): ").strip()
     month = input("Month label for output (e.g., 2024-06): ").strip()
-    # limit = input("Limit (default 1000): ").strip()
-    # limit = int(limit) if limit else 1000
 
     print(f"\nFetching OHLCV for {symbol} from {from_date} to {to_date}...")
 
     try:
         data = fetch_ohlcv(pair_address, from_date, to_date, 1000)
         df = pd.DataFrame(data)
-        process_and_save(df, symbol, month)
+        
+        if df.empty:
+            print(f"⚠️ No data found for {symbol}. Skipping.")
+            return
+
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        inception_date = df['timestamp'].min()
+        target_year, target_month = map(int, month.split('-'))
+
+        if inception_date.year == target_year and inception_date.month == target_month:
+            process_and_save(df, symbol, month)
+        else:
+            print(f"⚠️ Skipping {symbol}: inception date is {inception_date.date()}, not in {month}")
+    
     except Exception as e:
         print(f"❌ Error: {e}")
+
 
 
 if __name__ == "__main__":
