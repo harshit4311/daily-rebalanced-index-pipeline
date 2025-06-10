@@ -148,7 +148,7 @@ EXCLUDE_SYMBOLS = {
     "USDC", "USDT", "DAI", "FRAX", "LUSD", "TUSD", "THUSD", "GUSD", "CRVUSD",
     
     # Wrapped tokens
-    "WETH", "WBTC", "WSTETH", "RETH", "MATICWETH", "ARBITRUMWETH",
+    "WETH", "WBTC", "WSTETH", "RETH", "MATICWETH", "ARBITRUMWETH", "cbBTC", "CBBTC", 
 
     # Major blue-chip tokens
     "ETH", "BTC", "WBTC", "AAVE", "CRV", "LINK", "UNI", "COMP", "MKR", "SNX", "BAL",
