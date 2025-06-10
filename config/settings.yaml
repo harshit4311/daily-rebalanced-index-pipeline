@@ -3,6 +3,6 @@ graph:
   subgraph_id: "5zvR82QoaXYFyDEKLZ9t6v9adgnptxYpKpSbxtgVENFV"
 
 fetch_pools:
-  label: "nov24"
-  start_timestamp: 1730419200
-  end_timestamp: 1733011200
+  label: "dec24"
+  start_timestamp: 1733011200
+  end_timestamp: 1735689600
