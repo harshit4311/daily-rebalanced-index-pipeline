@@ -1,10 +1,9 @@
 import requests
 import time
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 import yaml
 import os
 import json
-from collections import OrderedDict
 
 # Load settings
 config_path = os.path.join(os.path.dirname(__file__), "..", "config", "settings.yaml")
@@ -14,9 +13,10 @@ with open(config_path, "r") as f:
 API_KEY = config["graph"]["api_key"]
 SUBGRAPH_URL = f"https://gateway.thegraph.com/api/{API_KEY}/subgraphs/id/{config['graph']['subgraph_id']}"
 
-START_TS = config["fetch_pools"]["start_timestamp"]
-END_TS = config["fetch_pools"]["end_timestamp"]
-LABEL = config["fetch_pools"]["label"]
+EXCLUDE_SYMBOLS = {
+    "USDC", "USDT", "DAI", "FRAX", "WETH", "WBTC", "ETH", "STETH", "CBETH", "RETH",
+    "AAVE", "CRV", "UNI", "LINK", "MKR", "COMP", "LDO", "1INCH", "SNX", "GRT", "FXS"
+}
 
 
 def run_query(query):
@@ -31,7 +31,7 @@ def run_query(query):
         raise Exception(f"Query failed with status code {response.status_code}: {response.text}")
 
 
-def fetch_pools_created():
+def fetch_pools_created(start_ts, end_ts):
     pools = []
     skip = 0
     batch_size = 1000
@@ -45,8 +45,8 @@ def fetch_pools_created():
             orderBy: createdAtTimestamp,
             orderDirection: asc,
             where: {{
-              createdAtTimestamp_gte: {START_TS},
-              createdAtTimestamp_lt: {END_TS}
+              createdAtTimestamp_gte: {start_ts},
+              createdAtTimestamp_lt: {end_ts}
             }}
           ) {{
             id
@@ -91,7 +91,7 @@ def extract_tokens(pools):
     return tokens
 
 
-def fetch_volumes(pool_ids):
+def fetch_volumes(pool_ids, start_ts, end_ts):
     pool_volumes = defaultdict(float)
     batch_size = 50
 
@@ -104,8 +104,8 @@ def fetch_volumes(pool_ids):
           poolDayDatas(
             where: {{
               pool_in: [{ids_string}],
-              date_gte: {START_TS},
-              date_lt: {END_TS}
+              date_gte: {start_ts},
+              date_lt: {end_ts}
             }},
             first: 1000
           ) {{
@@ -134,28 +134,22 @@ def fetch_volumes(pool_ids):
             pool_volumes[pool["token0"]["id"]] += vol / 2
             pool_volumes[pool["token1"]["id"]] += vol / 2
 
-        print(f"Processed batch {i} to {i+batch_size}, records: {len(day_data)}")
+        print(f"Processed batch {i} to {i + batch_size}, records: {len(day_data)}")
         time.sleep(0.3)
 
     return pool_volumes
 
 
-EXCLUDE_SYMBOLS = {
-    "USDC", "USDT", "DAI", "FRAX", "WETH", "WBTC", "ETH", "STETH", "CBETH", "RETH",
-    "AAVE", "CRV", "UNI", "LINK", "MKR", "COMP", "LDO", "1INCH", "SNX", "GRT", "FXS"
-}
-
-
-def main():
-    print(f"🔍 Fetching Uniswap V3 pools for {LABEL}...")
-    pools = fetch_pools_created()
+def run_fetch_pools(label, start_ts, end_ts, save_dir="data/raw"):
+    print(f"🔍 Fetching Uniswap V3 pools for {label}...")
+    pools = fetch_pools_created(start_ts, end_ts)
     print(f"✅ Total pools fetched: {len(pools)}")
 
     tokens = extract_tokens(pools)
     print(f"✅ Unique tokens extracted: {len(tokens)}")
 
     pool_ids = [p["id"] for p in pools]
-    volumes = fetch_volumes(pool_ids)
+    volumes = fetch_volumes(pool_ids, start_ts, end_ts)
     print(f"✅ Volume stats for {len(volumes)} tokens")
 
     sorted_tokens = sorted(volumes.items(), key=lambda x: x[1], reverse=True)
@@ -168,19 +162,22 @@ def main():
     for token_id, _ in filtered:
         sorted_tokens_dict[token_id] = tokens[token_id]
 
-    # Save
-    output_dir = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
-    os.makedirs(output_dir, exist_ok=True)
+    full_save_path = os.path.join(os.path.dirname(__file__), "..", save_dir)
+    os.makedirs(full_save_path, exist_ok=True)
+    out_path = os.path.join(full_save_path, f"{label}.json")
 
-    out_path = os.path.join(output_dir, f"{LABEL}_fetched_tokens.json")
     with open(out_path, "w") as f:
         json.dump(sorted_tokens_dict, f, indent=2)
 
     print(f"\n💾 Saved {len(sorted_tokens_dict)} tokens → {out_path}")
-    print(f"\n📊 Top 10 tokens for {LABEL}:")
+    print(f"\n📊 Top 10 tokens for {label}:")
     for token_id, vol in filtered[:10]:
         print(f"{tokens[token_id]['symbol']} ({token_id}): ${vol:,.2f}")
 
 
+# Optional direct test mode using old config values (for standalone testing)
 if __name__ == "__main__":
-    main()
+    START_TS = config["fetch_pools"]["start_timestamp"]
+    END_TS = config["fetch_pools"]["end_timestamp"]
+    LABEL = config["fetch_pools"]["label"]
+    run_fetch_pools(label=LABEL, start_ts=START_TS, end_ts=END_TS, save_dir="data/raw/jan25")
