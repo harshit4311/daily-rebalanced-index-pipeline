@@ -1,0 +1,86 @@
+{
+  "0x4448726b23483927c492f09c1dbfdffd3967b452": {
+    "symbol": "PERCY",
+    "name": "Percy Verence",
+    "decimals": 9,
+    "address": "0x4448726b23483927c492f09c1dbfdffd3967b452"
+  },
+  "0x1fa442f79b49f2461f3f0d7b6c10f6ad920c3c10": {
+    "symbol": "DEFAI",
+    "name": "DeFAI",
+    "decimals": 18,
+    "address": "0x1fa442f79b49f2461f3f0d7b6c10f6ad920c3c10"
+  },
+  "0xa1a40f79b52761ea069349778ae2a761a05ee388": {
+    "symbol": "WOJAK",
+    "name": "Wojak",
+    "decimals": 18,
+    "address": "0xa1a40f79b52761ea069349778ae2a761a05ee388"
+  },
+  "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc": {
+    "symbol": "CHAMP",
+    "name": "Super Champs",
+    "decimals": 18,
+    "address": "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc"
+  },
+  "0x2035e4c52275e85658d98b2bd774cd879a3179d2": {
+    "symbol": "MOGIUS",
+    "name": "Mogius Maximus",
+    "decimals": 9,
+    "address": "0x2035e4c52275e85658d98b2bd774cd879a3179d2"
+  },
+  "0x140007c65535aa9c3801ea3bbd3f83c378c7f457": {
+    "symbol": "\ud835\udd4f",
+    "name": "Free Speech",
+    "decimals": 9,
+    "address": "0x140007c65535aa9c3801ea3bbd3f83c378c7f457"
+  },
+  "0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567": {
+    "symbol": "VERTAI",
+    "name": "Vertical AI",
+    "decimals": 18,
+    "address": "0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567"
+  },
+  "0xc7af7dc0a7a7e47e21eb50433a903d742370fffb": {
+    "symbol": "DOGE-1",
+    "name": "DOGE-1",
+    "decimals": 18,
+    "address": "0xc7af7dc0a7a7e47e21eb50433a903d742370fffb"
+  },
+  "0x41a377bf66a6617efe1e50854ba70b27418bb778": {
+    "symbol": "BLIST",
+    "name": "BlueList",
+    "decimals": 9,
+    "address": "0x41a377bf66a6617efe1e50854ba70b27418bb778"
+  },
+  "0x67b4e3b79ac98946f310552884e6761dea0812ca": {
+    "symbol": "VCW",
+    "name": "VCW",
+    "decimals": 18,
+    "address": "0x67b4e3b79ac98946f310552884e6761dea0812ca"
+  },
+  "0x22f998a7b6cbfeb094aeaccd2e6c4b81f0f96353": {
+    "symbol": "CCI",
+    "name": "CryptoCurrency Investiagtors",
+    "decimals": 18,
+    "address": "0x22f998a7b6cbfeb094aeaccd2e6c4b81f0f96353"
+  },
+  "0xe5db5128935e3a8a8eaeabe4577fac2b353ae9fa": {
+    "symbol": "AURK",
+    "name": "Aurk AI",
+    "decimals": 18,
+    "address": "0xe5db5128935e3a8a8eaeabe4577fac2b353ae9fa"
+  },
+  "0x69420c82c84b816280d883489c24e5ec9acb8e8f": {
+    "symbol": "MX",
+    "name": "MX69420",
+    "decimals": 9,
+    "address": "0x69420c82c84b816280d883489c24e5ec9acb8e8f"
+  },
+  "0xb256e8347931541ee236df70dcd1ab980a979abf": {
+    "symbol": "PEPU",
+    "name": "PEPU Maximus",
+    "decimals": 18,
+    "address": "0xb256e8347931541ee236df70dcd1ab980a979abf"
+  }
+}

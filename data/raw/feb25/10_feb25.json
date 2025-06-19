@@ -1,0 +1,74 @@
+{
+  "0xdae0fafd65385e7775cf75b1398735155ef6acd2": {
+    "symbol": "TRU",
+    "name": "Truth",
+    "decimals": 10,
+    "address": "0xdae0fafd65385e7775cf75b1398735155ef6acd2"
+  },
+  "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b": {
+    "symbol": "SEI",
+    "name": "SEI",
+    "decimals": 18,
+    "address": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b"
+  },
+  "0x2206debc266b55a141650bd1e5585c31e0deb14c": {
+    "symbol": "GSL",
+    "name": "Greed Slayer",
+    "decimals": 18,
+    "address": "0x2206debc266b55a141650bd1e5585c31e0deb14c"
+  },
+  "0x29d5afba4c949db14f8b4fe8447ecc8b3328789f": {
+    "symbol": "CAR",
+    "name": "Central African Republic",
+    "decimals": 18,
+    "address": "0x29d5afba4c949db14f8b4fe8447ecc8b3328789f"
+  },
+  "0xef93943bfdbc05b5eb028a8c08432a54c7ecd63d": {
+    "symbol": "COCAINE",
+    "name": "COCAINE",
+    "decimals": 18,
+    "address": "0xef93943bfdbc05b5eb028a8c08432a54c7ecd63d"
+  },
+  "0x3201e65d858c91ca3eadc5670cca726032913a9c": {
+    "symbol": "SAT",
+    "name": "SAT Utility Token",
+    "decimals": 18,
+    "address": "0x3201e65d858c91ca3eadc5670cca726032913a9c"
+  },
+  "0x48cce3f50b4a04e85d38c11228dba57598a6e956": {
+    "symbol": "B3 ",
+    "name": "B3 ",
+    "decimals": 18,
+    "address": "0x48cce3f50b4a04e85d38c11228dba57598a6e956"
+  },
+  "0x2b9d1ba888e5b58d2e357397ee995ae08298324f": {
+    "symbol": "CAR",
+    "name": "Central African Republic Meme",
+    "decimals": 18,
+    "address": "0x2b9d1ba888e5b58d2e357397ee995ae08298324f"
+  },
+  "0xca52cbdb105fd2a89ccddd6d33a3521a19f7fc77": {
+    "symbol": "JBB",
+    "name": "JordanBB",
+    "decimals": 18,
+    "address": "0xca52cbdb105fd2a89ccddd6d33a3521a19f7fc77"
+  },
+  "0xa290bb5ae78d1d13d765f4f33f36497ce9c038b4": {
+    "symbol": "GAS0.8",
+    "name": "Gas0.8",
+    "decimals": 18,
+    "address": "0xa290bb5ae78d1d13d765f4f33f36497ce9c038b4"
+  },
+  "0x8e0088861310c09343cd16cbaa9bf3f0321fcd10": {
+    "symbol": "OVNI",
+    "name": "OVNIS",
+    "decimals": 18,
+    "address": "0x8e0088861310c09343cd16cbaa9bf3f0321fcd10"
+  },
+  "0x5e83e0bd7e7274e198537717400b5d890e50ec86": {
+    "symbol": "JBFT",
+    "name": "JordanB",
+    "decimals": 18,
+    "address": "0x5e83e0bd7e7274e198537717400b5d890e50ec86"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "0xaf0db65b7296c02ab043f5cb17300c8ee949f247": {
+    "symbol": "SHAO",
+    "name": "SHAO",
+    "decimals": 18,
+    "address": "0xaf0db65b7296c02ab043f5cb17300c8ee949f247"
+  },
+  "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776": {
+    "symbol": "NFTX",
+    "name": "NFTX",
+    "decimals": 18,
+    "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+  },
+  "0x7bba8c259074bd2d6aa0a77877904db05577e0ce": {
+    "symbol": "PGR",
+    "name": "Progressive Robot",
+    "decimals": 18,
+    "address": "0x7bba8c259074bd2d6aa0a77877904db05577e0ce"
+  },
+  "0x0d0f1c0c562e866e3ac6dae11b06dca2c42a6e8f": {
+    "symbol": "jellyjelly",
+    "name": "jelly-my-jelly",
+    "decimals": 18,
+    "address": "0x0d0f1c0c562e866e3ac6dae11b06dca2c42a6e8f"
+  },
+  "0x000000c396558ffbab5ea628f39658bdf61345b3": {
+    "symbol": "BUNNI",
+    "name": "Bunni",
+    "decimals": 18,
+    "address": "0x000000c396558ffbab5ea628f39658bdf61345b3"
+  },
+  "0xefba4d966e28af8f2a49d2ee5a93ea21f98791b5": {
+    "symbol": "NKT",
+    "name": "NikitaKaraitianaToken",
+    "decimals": 18,
+    "address": "0xefba4d966e28af8f2a49d2ee5a93ea21f98791b5"
+  },
+  "0x0bc37bea9068a86c221b8bd71ea6228260dad5a2": {
+    "symbol": "SPARKLET",
+    "name": "Upland",
+    "decimals": 18,
+    "address": "0x0bc37bea9068a86c221b8bd71ea6228260dad5a2"
+  },
+  "0x55296f69f40ea6d20e478533c15a6b08b654e758": {
+    "symbol": "XYO",
+    "name": "XY Oracle",
+    "decimals": 18,
+    "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
+  }
+}

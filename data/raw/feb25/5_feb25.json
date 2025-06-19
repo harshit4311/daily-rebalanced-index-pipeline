@@ -1,0 +1,152 @@
+{
+  "0x70a304c1776db52417420722cbac4b3902ca6aea": {
+    "symbol": "\ud83d\udd35",
+    "name": "\u200b",
+    "decimals": 18,
+    "address": "0x70a304c1776db52417420722cbac4b3902ca6aea"
+  },
+  "0x954b5b3bf1aeaccb351e0f6413404c2fdfd2b82d": {
+    "symbol": "BERA",
+    "name": "Berachain",
+    "decimals": 18,
+    "address": "0x954b5b3bf1aeaccb351e0f6413404c2fdfd2b82d"
+  },
+  "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4": {
+    "symbol": "RISE",
+    "name": "AdRise",
+    "decimals": 18,
+    "address": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4"
+  },
+  "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16": {
+    "symbol": "SOIL",
+    "name": "Soil",
+    "decimals": 18,
+    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16"
+  },
+  "0xb4d3af116b3ea9e797e16af6d52f0b67f57d5dc6": {
+    "symbol": "AIF",
+    "name": "AI Fundation",
+    "decimals": 18,
+    "address": "0xb4d3af116b3ea9e797e16af6d52f0b67f57d5dc6"
+  },
+  "0xcda2624424ad3c0b923fddd832376695996a8337": {
+    "symbol": "AIJ",
+    "name": "AI Jupiter",
+    "decimals": 18,
+    "address": "0xcda2624424ad3c0b923fddd832376695996a8337"
+  },
+  "0xd2731af115b107f30e3679933e19909a1b1e797c": {
+    "symbol": "Shibit",
+    "name": "Shibit",
+    "decimals": 18,
+    "address": "0xd2731af115b107f30e3679933e19909a1b1e797c"
+  },
+  "0x51179abb74a024ccd9a768c0ade2a1ce880f888d": {
+    "symbol": "SHIT",
+    "name": "ShitCoin",
+    "decimals": 18,
+    "address": "0x51179abb74a024ccd9a768c0ade2a1ce880f888d"
+  },
+  "0x3a9326f64f3be572ad0189186639a8411b8aa17d": {
+    "symbol": "Trump",
+    "name": "Donald Trump",
+    "decimals": 18,
+    "address": "0x3a9326f64f3be572ad0189186639a8411b8aa17d"
+  },
+  "0xd85657db7309aa2dabfcd861d4ada4e62ebfbbc0": {
+    "symbol": "Slimer",
+    "name": "Slimer ",
+    "decimals": 18,
+    "address": "0xd85657db7309aa2dabfcd861d4ada4e62ebfbbc0"
+  },
+  "0x3545c67e11ffce7f3b3872726d5791d74751590c": {
+    "symbol": "Kirby\ud83d\udcb8",
+    "name": "Kirby\ud83d\udcb8",
+    "decimals": 9,
+    "address": "0x3545c67e11ffce7f3b3872726d5791d74751590c"
+  },
+  "0xa213f6a16b2feb393439667c75e46a084b65bd34": {
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "decimals": 18,
+    "address": "0xa213f6a16b2feb393439667c75e46a084b65bd34"
+  },
+  "0xc68bcee3604f163f183cf8b9a26e610e5961b037": {
+    "symbol": "TESLA AI",
+    "name": "Tesla AI",
+    "decimals": 8,
+    "address": "0xc68bcee3604f163f183cf8b9a26e610e5961b037"
+  },
+  "0x1cf3e03f7360288dd01d0a9cfab266cfcdb3e0c1": {
+    "symbol": "EKO",
+    "name": "EchoLinkV2",
+    "decimals": 18,
+    "address": "0x1cf3e03f7360288dd01d0a9cfab266cfcdb3e0c1"
+  },
+  "0x7c2f7a9e365765f98e5624cd8bdb346ef7321f47": {
+    "symbol": "Shibit",
+    "name": "Binary Shib",
+    "decimals": 18,
+    "address": "0x7c2f7a9e365765f98e5624cd8bdb346ef7321f47"
+  },
+  "0x3d960ca76d344f7b1d87d4f506fc29a9e356ba55": {
+    "symbol": "Newt",
+    "name": "Newt",
+    "decimals": 9,
+    "address": "0x3d960ca76d344f7b1d87d4f506fc29a9e356ba55"
+  },
+  "0xd6600ee262e0127efe1c3818f5319bdc380f5157": {
+    "symbol": "Kirby\ud83d\udcb82",
+    "name": "Kirby\ud83d\udcb82",
+    "decimals": 9,
+    "address": "0xd6600ee262e0127efe1c3818f5319bdc380f5157"
+  },
+  "0x0908078da2935a14bc7a17770292818c85b580dd": {
+    "symbol": "D223",
+    "name": "Dex223 token",
+    "decimals": 18,
+    "address": "0x0908078da2935a14bc7a17770292818c85b580dd"
+  },
+  "0x96a5399d07896f757bd4c6ef56461f58db951862": {
+    "symbol": "DRAGONX",
+    "name": "DragonX",
+    "decimals": 18,
+    "address": "0x96a5399d07896f757bd4c6ef56461f58db951862"
+  },
+  "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057": {
+    "symbol": "FX",
+    "name": "Function X",
+    "decimals": 18,
+    "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057"
+  },
+  "0x04906695d6d12cf5459975d7c3c03356e4ccd460": {
+    "symbol": "sOHM",
+    "name": "Staked OHM",
+    "decimals": 9,
+    "address": "0x04906695d6d12cf5459975d7c3c03356e4ccd460"
+  },
+  "0x6871cbfab040d023d942641dbadbc84d86d58f5f": {
+    "symbol": "PT",
+    "name": "Proxy Token",
+    "decimals": 18,
+    "address": "0x6871cbfab040d023d942641dbadbc84d86d58f5f"
+  },
+  "0xc43db5ae6810223d32a27373f00e42304f605a62": {
+    "symbol": "PT",
+    "name": "Proxy Token",
+    "decimals": 18,
+    "address": "0xc43db5ae6810223d32a27373f00e42304f605a62"
+  },
+  "0x3722359be0bfebb541bc98adfe1250cd901a706c": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x3722359be0bfebb541bc98adfe1250cd901a706c"
+  },
+  "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2": {
+    "symbol": "wWLFI",
+    "name": "Wrapped World Liberty Financial",
+    "decimals": 18,
+    "address": "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2"
+  }
+}

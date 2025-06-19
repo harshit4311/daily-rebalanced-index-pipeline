@@ -1,0 +1,146 @@
+{
+  "0xf765a907e09a1063a18080b99228acc0537e0434": {
+    "symbol": "REFEREUM",
+    "name": "Refereum",
+    "decimals": 18,
+    "address": "0xf765a907e09a1063a18080b99228acc0537e0434"
+  },
+  "0xa7489c678ac04eaf41306d225377ffdcbce2c8ad": {
+    "symbol": "FOUND",
+    "name": "DeFAI Foundation",
+    "decimals": 18,
+    "address": "0xa7489c678ac04eaf41306d225377ffdcbce2c8ad"
+  },
+  "0xfaf266b4878fb3be1d81fe31d59ed54fe5a91faa": {
+    "symbol": "COSA",
+    "name": "CosaNostra",
+    "decimals": 18,
+    "address": "0xfaf266b4878fb3be1d81fe31d59ed54fe5a91faa"
+  },
+  "0xf59a3b78c594e1aaa44c16d82a7b8ac2fce0ad28": {
+    "symbol": "PTN",
+    "name": "PUTIN",
+    "decimals": 18,
+    "address": "0xf59a3b78c594e1aaa44c16d82a7b8ac2fce0ad28"
+  },
+  "0xec0fb86d6302e8b9e61a47b51e7495aa1fbe0170": {
+    "symbol": "ERIC",
+    "name": "Official Eric Trump",
+    "decimals": 18,
+    "address": "0xec0fb86d6302e8b9e61a47b51e7495aa1fbe0170"
+  },
+  "0x59eee9aa427f1fc735ac55ea304c4d14cd709443": {
+    "symbol": "OMER",
+    "name": "Omerta",
+    "decimals": 18,
+    "address": "0x59eee9aa427f1fc735ac55ea304c4d14cd709443"
+  },
+  "0xb28ecfc8ae218bc2c16c1f2218a9cc799191b1a7": {
+    "symbol": "AriaDebutLP",
+    "name": "Aria Premiere Launch",
+    "decimals": 18,
+    "address": "0xb28ecfc8ae218bc2c16c1f2218a9cc799191b1a7"
+  },
+  "0x399ef659fdead53b3e7f97e9491e727925667945": {
+    "symbol": "L1X",
+    "name": "L1X",
+    "decimals": 18,
+    "address": "0x399ef659fdead53b3e7f97e9491e727925667945"
+  },
+  "0x93b170d1cba63a22f97ac7aaf014077ffe74b0bb": {
+    "symbol": "DTT",
+    "name": "Data Trade Token",
+    "decimals": 18,
+    "address": "0x93b170d1cba63a22f97ac7aaf014077ffe74b0bb"
+  },
+  "0xd881a7f17ed2c71fd671afba3a9b30eb914aea5f": {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 8,
+    "address": "0xd881a7f17ed2c71fd671afba3a9b30eb914aea5f"
+  },
+  "0x095fe3043a6e7baf5d403e9f6b9097cad30fa18b": {
+    "symbol": "ROSS",
+    "name": "Ross Ulbricht",
+    "decimals": 18,
+    "address": "0x095fe3043a6e7baf5d403e9f6b9097cad30fa18b"
+  },
+  "0x80e3c92119dac35b4e56346c3149d88c5d54c472": {
+    "symbol": "clETH",
+    "name": "Cygnus Liqiudity ETH",
+    "decimals": 18,
+    "address": "0x80e3c92119dac35b4e56346c3149d88c5d54c472"
+  },
+  "0xb131f337c45d386ceec234e194b2663d5c3d9dcf": {
+    "symbol": "ICOM",
+    "name": "iCommunity",
+    "decimals": 18,
+    "address": "0xb131f337c45d386ceec234e194b2663d5c3d9dcf"
+  },
+  "0x06e6442e063ba536787bf54926ff30fc30b23c18": {
+    "symbol": "SHIZ",
+    "name": "Shiza Inu",
+    "decimals": 18,
+    "address": "0x06e6442e063ba536787bf54926ff30fc30b23c18"
+  },
+  "0x525536d71848f21b66da0d239546c50ee4c1a358": {
+    "symbol": "CTF",
+    "name": "Crypto Task Force",
+    "decimals": 9,
+    "address": "0x525536d71848f21b66da0d239546c50ee4c1a358"
+  },
+  "0x45a2f5d4ab4ccb8d4e3c006774ace22860c77338": {
+    "symbol": "SHIBA",
+    "name": "Shiba Inu",
+    "decimals": 18,
+    "address": "0x45a2f5d4ab4ccb8d4e3c006774ace22860c77338"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0x0e16bd2cd962fadb4a23ec961bb170ffa25208a8": {
+    "symbol": "HONO",
+    "name": "HONO V2",
+    "decimals": 18,
+    "address": "0x0e16bd2cd962fadb4a23ec961bb170ffa25208a8"
+  },
+  "0x35a532d376ffd9a705d0bb319532837337a398e7": {
+    "symbol": "WDOGE",
+    "name": "Wrapped DogeCoin",
+    "decimals": 18,
+    "address": "0x35a532d376ffd9a705d0bb319532837337a398e7"
+  },
+  "0x4206931337dc273a630d328da6441786bfad668f": {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 8,
+    "address": "0x4206931337dc273a630d328da6441786bfad668f"
+  },
+  "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af": {
+    "symbol": "WMINIMA",
+    "name": "Wrapped Minima",
+    "decimals": 18,
+    "address": "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af"
+  },
+  "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5": {
+    "symbol": "$MICRO",
+    "name": "Micro GPT",
+    "decimals": 18,
+    "address": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5"
+  },
+  "0x6bcc5579568385fa785699cab3637fd78af0a175": {
+    "symbol": "EIG",
+    "name": "Eight",
+    "decimals": 18,
+    "address": "0x6bcc5579568385fa785699cab3637fd78af0a175"
+  },
+  "0x853b6eb015fc85fc32779dc1561ac002e4d36d80": {
+    "symbol": "ONE",
+    "name": "One",
+    "decimals": 18,
+    "address": "0x853b6eb015fc85fc32779dc1561ac002e4d36d80"
+  }
+}

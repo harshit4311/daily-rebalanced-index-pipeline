@@ -1,0 +1,152 @@
+{
+  "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a": {
+    "symbol": "GrowAI",
+    "name": "SocialGrowAI",
+    "decimals": 18,
+    "address": "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a"
+  },
+  "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d": {
+    "symbol": "SOSO",
+    "name": "SoSoValue",
+    "decimals": 18,
+    "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d"
+  },
+  "0x78dbe8a761ea452ddc9ee3321394f846967a96f8": {
+    "symbol": "XENAI",
+    "name": "Xenix AI",
+    "decimals": 18,
+    "address": "0x78dbe8a761ea452ddc9ee3321394f846967a96f8"
+  },
+  "0xfa1b1f13080857bf373de0de93970c96d2c29fd0": {
+    "symbol": "ONDOAI",
+    "name": "Ondo DeFAI",
+    "decimals": 18,
+    "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0"
+  },
+  "0x4d3a16dd0f64b42cd5fd947df24e17310de1c04e": {
+    "symbol": "GAI",
+    "name": "GicoAi",
+    "decimals": 18,
+    "address": "0x4d3a16dd0f64b42cd5fd947df24e17310de1c04e"
+  },
+  "0x1f81a270db7fc53bf1f21148d879daff112d0049": {
+    "symbol": "EDEN",
+    "name": "EDEN token",
+    "decimals": 18,
+    "address": "0x1f81a270db7fc53bf1f21148d879daff112d0049"
+  },
+  "0xfae444a29cd95133087385d870449cb7790c951d": {
+    "symbol": "CHIGYU",
+    "name": "Chigyu",
+    "decimals": 18,
+    "address": "0xfae444a29cd95133087385d870449cb7790c951d"
+  },
+  "0x5ab48417d141798675724fe5cf47fba2fbc88aa1": {
+    "symbol": "XPEPE",
+    "name": "X Pepe",
+    "decimals": 18,
+    "address": "0x5ab48417d141798675724fe5cf47fba2fbc88aa1"
+  },
+  "0xa1c016a0a1b192187f9cb19823544d75e68be693": {
+    "symbol": "HOMI",
+    "name": "HodlMirror",
+    "decimals": 18,
+    "address": "0xa1c016a0a1b192187f9cb19823544d75e68be693"
+  },
+  "0x2242dde5205577904fdf786c41959e9304ba762b": {
+    "symbol": "PICO",
+    "name": "PICO",
+    "decimals": 18,
+    "address": "0x2242dde5205577904fdf786c41959e9304ba762b"
+  },
+  "0x39495f7c426617836ba6fc4433d7f3a99ef6d90e": {
+    "symbol": "FWLS",
+    "name": "FlowSign",
+    "decimals": 18,
+    "address": "0x39495f7c426617836ba6fc4433d7f3a99ef6d90e"
+  },
+  "0x619622ccc35fe31f8d67a8b18a2134d1ec6b82fd": {
+    "symbol": "ANLOGPS",
+    "name": "ANLOGPS",
+    "decimals": 18,
+    "address": "0x619622ccc35fe31f8d67a8b18a2134d1ec6b82fd"
+  },
+  "0xde280f5e519346e681b6a954f62fd5fdda6a3953": {
+    "symbol": "Fart",
+    "name": "FartCoin",
+    "decimals": 18,
+    "address": "0xde280f5e519346e681b6a954f62fd5fdda6a3953"
+  },
+  "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb": {
+    "symbol": "ETHFI",
+    "name": "ether.fi governance token",
+    "decimals": 18,
+    "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb"
+  },
+  "0x3bf237fc572493a7e5a37c80ddf3c9ac98c349bb": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x3bf237fc572493a7e5a37c80ddf3c9ac98c349bb"
+  },
+  "0xda67b4284609d2d48e5d10cfac411572727dc1ed": {
+    "symbol": "USN",
+    "name": "USN",
+    "decimals": 18,
+    "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed"
+  },
+  "0xe24a3dc889621612422a64e6388927901608b91d": {
+    "symbol": "sUSN",
+    "name": "Staked USN",
+    "decimals": 18,
+    "address": "0xe24a3dc889621612422a64e6388927901608b91d"
+  },
+  "0x52a6611dda2246eea5f088867881e76c87b7f05d": {
+    "symbol": "NIN3",
+    "name": "Triple Nine",
+    "decimals": 18,
+    "address": "0x52a6611dda2246eea5f088867881e76c87b7f05d"
+  },
+  "0x813bb1e931c689fdc599e73570b996882513b81a": {
+    "symbol": "NIN",
+    "name": "Nine",
+    "decimals": 18,
+    "address": "0x813bb1e931c689fdc599e73570b996882513b81a"
+  },
+  "0x147ed29d59367d9e75669c9fa0eba7c2a9256b0f": {
+    "symbol": "SEV2",
+    "name": "Double Seven",
+    "decimals": 18,
+    "address": "0x147ed29d59367d9e75669c9fa0eba7c2a9256b0f"
+  },
+  "0xdabb92d443dcd48f79d76d6893bb32390c281aef": {
+    "symbol": "SEV",
+    "name": "Seven",
+    "decimals": 18,
+    "address": "0xdabb92d443dcd48f79d76d6893bb32390c281aef"
+  },
+  "0x1494046a40e20f1eef834dae16a01cbb9c4d372d": {
+    "symbol": "SEV3",
+    "name": "Triple Seven",
+    "decimals": 18,
+    "address": "0x1494046a40e20f1eef834dae16a01cbb9c4d372d"
+  },
+  "0x3a4412622667bc3e51d0f743af84c872d0de4ca9": {
+    "symbol": "$TRUMP",
+    "name": "GoldenTrump",
+    "decimals": 18,
+    "address": "0x3a4412622667bc3e51d0f743af84c872d0de4ca9"
+  },
+  "0x50d69af8b67740cea9a44cb07be6e5f0850272d8": {
+    "symbol": "NIN2",
+    "name": "Double Nine",
+    "decimals": 18,
+    "address": "0x50d69af8b67740cea9a44cb07be6e5f0850272d8"
+  },
+  "0x3e4ed15d12da4704f4e00cd3ce209a15fa337008": {
+    "symbol": "SKROL",
+    "name": "SKROL",
+    "decimals": 18,
+    "address": "0x3e4ed15d12da4704f4e00cd3ce209a15fa337008"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5": {
+    "symbol": "$MICRO",
+    "name": "Micro GPT",
+    "decimals": 18,
+    "address": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5"
+  },
+  "0x871401e1126ffcd6df23e42714cc5b4b033bd2f7": {
+    "symbol": "RUGPULLv1",
+    "name": "OpenRugPull (DO NOT BUY)",
+    "decimals": 8,
+    "address": "0x871401e1126ffcd6df23e42714cc5b4b033bd2f7"
+  },
+  "0xea73eadd3b83c216e57736a75b09dd3638c9e85a": {
+    "symbol": "WMAF",
+    "name": "WizMafia",
+    "decimals": 18,
+    "address": "0xea73eadd3b83c216e57736a75b09dd3638c9e85a"
+  },
+  "0x05ba3dbbafbb807f3f5e521d326eb39154948437": {
+    "symbol": "pants",
+    "name": "dog wif pants",
+    "decimals": 9,
+    "address": "0x05ba3dbbafbb807f3f5e521d326eb39154948437"
+  },
+  "0x5901e2506cc9e2ac3bd91a83281be81fbf5cd17b": {
+    "symbol": "EXCEEN",
+    "name": "Aixceen Token",
+    "decimals": 18,
+    "address": "0x5901e2506cc9e2ac3bd91a83281be81fbf5cd17b"
+  },
+  "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+    "symbol": "MATIC",
+    "name": "Matic Token",
+    "decimals": 18,
+    "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+  },
+  "0x0c773ed0d64f42317c806c11a51f7da58f98cff9": {
+    "symbol": "SPZ",
+    "name": "Spitzarius Token",
+    "decimals": 18,
+    "address": "0x0c773ed0d64f42317c806c11a51f7da58f98cff9"
+  },
+  "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea": {
+    "symbol": "DEAI",
+    "name": "Zero1 Token",
+    "decimals": 18,
+    "address": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea"
+  },
+  "0xbceb0b400c6e32e6788a50e7e28a3361bc4248e3": {
+    "symbol": "EmAxI",
+    "name": "EthMaxiAI",
+    "decimals": 18,
+    "address": "0xbceb0b400c6e32e6788a50e7e28a3361bc4248e3"
+  },
+  "0x635ade9f7c351880a95d68508ab2a3de7371e1cd": {
+    "symbol": "TROP",
+    "name": "FicaTropin",
+    "decimals": 18,
+    "address": "0x635ade9f7c351880a95d68508ab2a3de7371e1cd"
+  },
+  "0x7e17f382db614bde529f62dbe2d607f464a0af63": {
+    "symbol": "FUSD",
+    "name": "Hedge Flet USD",
+    "decimals": 18,
+    "address": "0x7e17f382db614bde529f62dbe2d607f464a0af63"
+  },
+  "0xd399e8bcb8568e4eef57f9ce2e42085306647388": {
+    "symbol": "USDH",
+    "name": "Hedge USD",
+    "decimals": 18,
+    "address": "0xd399e8bcb8568e4eef57f9ce2e42085306647388"
+  },
+  "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18": {
+    "symbol": "XCN",
+    "name": "Chain",
+    "decimals": 18,
+    "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18"
+  },
+  "0xaf0db65b7296c02ab043f5cb17300c8ee949f247": {
+    "symbol": "SHAO",
+    "name": "SHAO",
+    "decimals": 18,
+    "address": "0xaf0db65b7296c02ab043f5cb17300c8ee949f247"
+  },
+  "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1": {
+    "symbol": "TITANX",
+    "name": "TITAN X",
+    "decimals": 18,
+    "address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  }
+}

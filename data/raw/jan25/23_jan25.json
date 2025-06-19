@@ -1,0 +1,164 @@
+{
+  "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98": {
+    "symbol": "Bold",
+    "name": "Bold Stablecoin",
+    "decimals": 18,
+    "address": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98"
+  },
+  "0x4dc26fc5854e7648a064a4abd590bbe71724c277": {
+    "symbol": "ANIME",
+    "name": "Animecoin",
+    "decimals": 18,
+    "address": "0x4dc26fc5854e7648a064a4abd590bbe71724c277"
+  },
+  "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8": {
+    "symbol": "SMOL",
+    "name": "SMOL",
+    "decimals": 18,
+    "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8"
+  },
+  "0x525536d71848f21b66da0d239546c50ee4c1a358": {
+    "symbol": "CTF",
+    "name": "Crypto Task Force",
+    "decimals": 9,
+    "address": "0x525536d71848f21b66da0d239546c50ee4c1a358"
+  },
+  "0x4ed257678fc4e76df9642a416b223729fdedbefd": {
+    "symbol": "STRX",
+    "name": "StrikeX",
+    "decimals": 18,
+    "address": "0x4ed257678fc4e76df9642a416b223729fdedbefd"
+  },
+  "0x0a9c5223206e0326295157a81ec674b8084edcb6": {
+    "symbol": "CAMERON",
+    "name": "Camerons World",
+    "decimals": 18,
+    "address": "0x0a9c5223206e0326295157a81ec674b8084edcb6"
+  },
+  "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
+    "symbol": "PEAS",
+    "name": "Peapods",
+    "decimals": 18,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  },
+  "0xaef6f43d6fc60fc6d90acf884254a5298235b6b8": {
+    "symbol": "GHK",
+    "name": "GHK Utility Token",
+    "decimals": 18,
+    "address": "0xaef6f43d6fc60fc6d90acf884254a5298235b6b8"
+  },
+  "0x4eddb15a0abfa2c349e8065af9214e942d9a6d36": {
+    "symbol": "XYRO",
+    "name": "XYRO",
+    "decimals": 18,
+    "address": "0x4eddb15a0abfa2c349e8065af9214e942d9a6d36"
+  },
+  "0x99999999999999cc837c997b882957dafdcb1af9": {
+    "symbol": "WUSDN",
+    "name": "Wrapped Ultimate Synthetic Delta Neutral",
+    "decimals": 18,
+    "address": "0x99999999999999cc837c997b882957dafdcb1af9"
+  },
+  "0x46f6e9bbcce8638b20ebbc83d33a2b5bfa9b7894": {
+    "symbol": "HEX",
+    "name": "HEX from PulseChain",
+    "decimals": 8,
+    "address": "0x46f6e9bbcce8638b20ebbc83d33a2b5bfa9b7894"
+  },
+  "0x6d978e876c2263745417256af05a4bd3b72384f6": {
+    "symbol": "VNE",
+    "name": "VINE",
+    "decimals": 18,
+    "address": "0x6d978e876c2263745417256af05a4bd3b72384f6"
+  },
+  "0xb3147c9cc4c803077d5c31c42dba0a6577e38b6e": {
+    "symbol": "ETT",
+    "name": "Emergency Tasker Token",
+    "decimals": 2,
+    "address": "0xb3147c9cc4c803077d5c31c42dba0a6577e38b6e"
+  },
+  "0xaaadcebe202a4ceb6f7e98164e84733586e66eda": {
+    "symbol": "rpmm",
+    "name": "RedPandaMoniuM",
+    "decimals": 18,
+    "address": "0xaaadcebe202a4ceb6f7e98164e84733586e66eda"
+  },
+  "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296": {
+    "symbol": "WMT",
+    "name": "worldmobiletoken",
+    "decimals": 6,
+    "address": "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296"
+  },
+  "0x9813037ee2218799597d83d4a5b6f3b6778218d9": {
+    "symbol": "BONE",
+    "name": "BONE SHIBASWAP",
+    "decimals": 18,
+    "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9"
+  },
+  "0x9a78e6385f0136b797bc17dfcace04988d30fa37": {
+    "symbol": "FLAME",
+    "name": "InuFlame",
+    "decimals": 18,
+    "address": "0x9a78e6385f0136b797bc17dfcace04988d30fa37"
+  },
+  "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3": {
+    "symbol": "OMIKAMI",
+    "name": "AMATERASU OMIKAMI",
+    "decimals": 9,
+    "address": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0x3a7cb5e1984aa36b07b49d0a48886cbb145ce08d": {
+    "symbol": "GME",
+    "name": "GameStop",
+    "decimals": 18,
+    "address": "0x3a7cb5e1984aa36b07b49d0a48886cbb145ce08d"
+  },
+  "0xd8c978de79e12728e38aa952a6cb4166f891790f": {
+    "symbol": "$ROAR",
+    "name": "Roaring Kitty",
+    "decimals": 18,
+    "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f"
+  },
+  "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "decimals": 18,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+  },
+  "0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552": {
+    "symbol": "inwstETHs",
+    "name": "Inception Symbiotic Restaked wstETH",
+    "decimals": 18,
+    "address": "0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552"
+  },
+  "0x1af2b3a0e20817348544f3ebfebb28fcbd6b67e9": {
+    "symbol": "CHING",
+    "name": "The Celestial Dragon",
+    "decimals": 18,
+    "address": "0x1af2b3a0e20817348544f3ebfebb28fcbd6b67e9"
+  },
+  "0x2cc7a972ebc1865b346085655f929abfa74cd4dc": {
+    "symbol": "SHIFU",
+    "name": "Shifu",
+    "decimals": 18,
+    "address": "0x2cc7a972ebc1865b346085655f929abfa74cd4dc"
+  },
+  "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06": {
+    "symbol": "PLSB",
+    "name": "PulseBitcoin",
+    "decimals": 12,
+    "address": "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06"
+  },
+  "0xe8df8f6d75008414ed4c21715f2d4dadbdb94e6e": {
+    "symbol": "pLTC",
+    "name": "PulseLitecoin",
+    "decimals": 12,
+    "address": "0xe8df8f6d75008414ed4c21715f2d4dadbdb94e6e"
+  }
+}

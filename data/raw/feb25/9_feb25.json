@@ -1,0 +1,62 @@
+{
+  "0x60ae24aa0f1dba5d5b36096318a89cfe4bf7341d": {
+    "symbol": "Chester",
+    "name": "Chester",
+    "decimals": 18,
+    "address": "0x60ae24aa0f1dba5d5b36096318a89cfe4bf7341d"
+  },
+  "0x52f2983c8cbd0e8100e0f756999ea73576ddf389": {
+    "symbol": "BO\u039e",
+    "name": "Built on \u039ethereum",
+    "decimals": 18,
+    "address": "0x52f2983c8cbd0e8100e0f756999ea73576ddf389"
+  },
+  "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae": {
+    "symbol": "BALLS",
+    "name": "Big Balls",
+    "decimals": 9,
+    "address": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae"
+  },
+  "0xd73b338e29255e855f1a32126dda1f826d2563a4": {
+    "symbol": "FUXU",
+    "name": "Fuxu",
+    "decimals": 18,
+    "address": "0xd73b338e29255e855f1a32126dda1f826d2563a4"
+  },
+  "0x57517adc00519a6a23fe695f5663b28376c85f72": {
+    "symbol": "TEST",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0x57517adc00519a6a23fe695f5663b28376c85f72"
+  },
+  "0x5baf851db0bbb09fe96dd60b96a0779e1eef0249": {
+    "symbol": "TST",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0x5baf851db0bbb09fe96dd60b96a0779e1eef0249"
+  },
+  "0x6bf7244da9e673356ed5a9235eae92075dd1cae1": {
+    "symbol": "BAKTAT",
+    "name": "BAKTAT GERMANY",
+    "decimals": 18,
+    "address": "0x6bf7244da9e673356ed5a9235eae92075dd1cae1"
+  },
+  "0x7036f77b5241991e72e5369cff16ed597da69545": {
+    "symbol": "JTH",
+    "name": "JackTheHusky",
+    "decimals": 18,
+    "address": "0x7036f77b5241991e72e5369cff16ed597da69545"
+  },
+  "0x88605be27cccf620863b81be60c4ba947185d339": {
+    "symbol": "BIGBALLS",
+    "name": "Big Balls",
+    "decimals": 18,
+    "address": "0x88605be27cccf620863b81be60c4ba947185d339"
+  },
+  "0xd568561ed359c111e0edb0fe34bc4869cf91d693": {
+    "symbol": "TSC",
+    "name": "TestCoin",
+    "decimals": 18,
+    "address": "0xd568561ed359c111e0edb0fe34bc4869cf91d693"
+  }
+}

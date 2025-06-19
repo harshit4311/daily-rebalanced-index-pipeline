@@ -1,0 +1,44 @@
+{
+  "0x9f623a7e693fc328a0fd5660c054be9111423713": {
+    "symbol": "ROX",
+    "name": "Rox",
+    "decimals": 18,
+    "address": "0x9f623a7e693fc328a0fd5660c054be9111423713"
+  },
+  "0x3741ac19fc61c5ec571455a92a0e6cddb5dee54e": {
+    "symbol": "AsBima",
+    "name": "AsBima",
+    "decimals": 9,
+    "address": "0x3741ac19fc61c5ec571455a92a0e6cddb5dee54e"
+  },
+  "0x52bc4c279caab1c030395bb840ba32ae40013035": {
+    "symbol": "USD",
+    "name": "OpenUSD",
+    "decimals": 12,
+    "address": "0x52bc4c279caab1c030395bb840ba32ae40013035"
+  },
+  "0x615fb7debb3d7b229d884e771a9fe5e3acce1d1a": {
+    "symbol": "SSN",
+    "name": "Sam Nujoma ",
+    "decimals": 8,
+    "address": "0x615fb7debb3d7b229d884e771a9fe5e3acce1d1a"
+  },
+  "0xe4aac7d89cfa9742436a44108feca6986a76b9c0": {
+    "symbol": "rsvSTONE",
+    "name": "RedSonic Vault StakeStone Ether",
+    "decimals": 18,
+    "address": "0xe4aac7d89cfa9742436a44108feca6986a76b9c0"
+  },
+  "0x661c70333aa1850ccdbae82776bb436a0fcfeefb": {
+    "symbol": "EBTC",
+    "name": "eBTC",
+    "decimals": 18,
+    "address": "0x661c70333aa1850ccdbae82776bb436a0fcfeefb"
+  },
+  "0x2e5d4e2a2336045471bfe446caa407f0c3a2419c": {
+    "symbol": "rsvUSDT",
+    "name": "RedSonic Vault Tether USD",
+    "decimals": 6,
+    "address": "0x2e5d4e2a2336045471bfe446caa407f0c3a2419c"
+  }
+}

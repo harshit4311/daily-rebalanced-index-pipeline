@@ -1,0 +1,116 @@
+{
+  "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be": {
+    "symbol": "DRV",
+    "name": "Derive",
+    "decimals": 18,
+    "address": "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be"
+  },
+  "0x81e9e6011036f8ce5a9f693dbf3b31ab98314230": {
+    "symbol": "ERS",
+    "name": "EXTERNAL REVENUE SERVICE",
+    "decimals": 9,
+    "address": "0x81e9e6011036f8ce5a9f693dbf3b31ab98314230"
+  },
+  "0xef7f7820a001aabac5e0979b175c9ff8af3dd4ec": {
+    "symbol": "XED",
+    "name": "Exeedme",
+    "decimals": 18,
+    "address": "0xef7f7820a001aabac5e0979b175c9ff8af3dd4ec"
+  },
+  "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24": {
+    "symbol": "LAB",
+    "name": "Labda",
+    "decimals": 9,
+    "address": "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24"
+  },
+  "0x88366ba1d923ef021c2c8703cd777962d25e6358": {
+    "symbol": "DNZ",
+    "name": "DenizToken",
+    "decimals": 18,
+    "address": "0x88366ba1d923ef021c2c8703cd777962d25e6358"
+  },
+  "0x8903f999d74bce1797d3deea4a4439724c2d65ab": {
+    "symbol": "DEPRO",
+    "name": "DeFAI Protocol",
+    "decimals": 18,
+    "address": "0x8903f999d74bce1797d3deea4a4439724c2d65ab"
+  },
+  "0x8578a8716013c390b95db73065922f512783e2cf": {
+    "symbol": "VIVEK",
+    "name": "Head of D.O.G.E",
+    "decimals": 9,
+    "address": "0x8578a8716013c390b95db73065922f512783e2cf"
+  },
+  "0x1273f75f2c775001eb23a68ef0cc1b43b2841cbd": {
+    "symbol": "L1X",
+    "name": "L1X",
+    "decimals": 18,
+    "address": "0x1273f75f2c775001eb23a68ef0cc1b43b2841cbd"
+  },
+  "0x626dba2a3970dd7547b610d9eff37a8e9546bb4f": {
+    "symbol": "TRUMP",
+    "name": "Donald Trump",
+    "decimals": 18,
+    "address": "0x626dba2a3970dd7547b610d9eff37a8e9546bb4f"
+  },
+  "0xde280f5e519346e681b6a954f62fd5fdda6a3953": {
+    "symbol": "Fart",
+    "name": "FartCoin",
+    "decimals": 18,
+    "address": "0xde280f5e519346e681b6a954f62fd5fdda6a3953"
+  },
+  "0x841a3083074b1a40b644bf2ba2491a731b6da277": {
+    "symbol": "FATAL",
+    "name": "Fatalismftw",
+    "decimals": 12,
+    "address": "0x841a3083074b1a40b644bf2ba2491a731b6da277"
+  },
+  "0xf4e26d087398d8e1bf4ae18106b14c1676257058": {
+    "symbol": "PTXC",
+    "name": "PontexCoin",
+    "decimals": 6,
+    "address": "0xf4e26d087398d8e1bf4ae18106b14c1676257058"
+  },
+  "0x23a5a5ad7ac5fb8cbc71185f90ac831365698d5d": {
+    "symbol": "DOGS",
+    "name": "Caw Dogs",
+    "decimals": 18,
+    "address": "0x23a5a5ad7ac5fb8cbc71185f90ac831365698d5d"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0x68aaa0d94ea163b9bbf659dc3766defb4c0ac7be": {
+    "symbol": "ANDYMAN",
+    "name": "Andyman",
+    "decimals": 9,
+    "address": "0x68aaa0d94ea163b9bbf659dc3766defb4c0ac7be"
+  },
+  "0x36d50d5fbe543b70cfbb65e02b30327bc715d061": {
+    "symbol": "CONCHO",
+    "name": "CONCHO",
+    "decimals": 18,
+    "address": "0x36d50d5fbe543b70cfbb65e02b30327bc715d061"
+  },
+  "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed": {
+    "symbol": "TSUKA",
+    "name": "Dejitaru Tsuka",
+    "decimals": 9,
+    "address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed"
+  },
+  "0xed12920731ce0e4c61d52fa1580c0092fd5bd1fe": {
+    "symbol": "\u8ee2\u751f",
+    "name": "New Era",
+    "decimals": 18,
+    "address": "0xed12920731ce0e4c61d52fa1580c0092fd5bd1fe"
+  },
+  "0x8a09ea813fc7ac246b517345dbb429e6b2b0981b": {
+    "symbol": "MCGA",
+    "name": "MAKE CALIFORNIA GREAT AGAIN",
+    "decimals": 6,
+    "address": "0x8a09ea813fc7ac246b517345dbb429e6b2b0981b"
+  }
+}

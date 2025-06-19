@@ -1,0 +1,86 @@
+{
+  "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b": {
+    "symbol": "syrupUSDC",
+    "name": "Syrup USDC",
+    "decimals": 6,
+    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b"
+  },
+  "0xe71bdfe1df69284f00ee185cf0d95d0c7680c0d4": {
+    "symbol": "SETH",
+    "name": "Sepolia ETH",
+    "decimals": 18,
+    "address": "0xe71bdfe1df69284f00ee185cf0d95d0c7680c0d4"
+  },
+  "0xff9f92935d39dcfdf5adaae8470ce9393c876b46": {
+    "symbol": "TKN",
+    "name": "Token",
+    "decimals": 18,
+    "address": "0xff9f92935d39dcfdf5adaae8470ce9393c876b46"
+  },
+  "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb": {
+    "symbol": "ATN",
+    "name": "ATHENE NETWORK",
+    "decimals": 9,
+    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb"
+  },
+  "0xe3c4ce820c64a0a9f59c45759c7bb3d37b88ee7e": {
+    "symbol": "THANK",
+    "name": "Help me push this meme",
+    "decimals": 18,
+    "address": "0xe3c4ce820c64a0a9f59c45759c7bb3d37b88ee7e"
+  },
+  "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab": {
+    "symbol": "FAST",
+    "name": "FASTINDEMAND",
+    "decimals": 18,
+    "address": "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab"
+  },
+  "0x44db03c9b13faabecb56ec5a5d3ee98c15d08c51": {
+    "symbol": "WA",
+    "name": "wa",
+    "decimals": 18,
+    "address": "0x44db03c9b13faabecb56ec5a5d3ee98c15d08c51"
+  },
+  "0xca8711daf13d852ed2121e4be3894dae366039e4": {
+    "symbol": "liquidMoveETH",
+    "name": "Ether.Fi Liquid Move ETH",
+    "decimals": 18,
+    "address": "0xca8711daf13d852ed2121e4be3894dae366039e4"
+  },
+  "0xe8cc9045fc8f09301ffdecd5d2296db00d59dd4b": {
+    "symbol": "HI",
+    "name": "hi",
+    "decimals": 18,
+    "address": "0xe8cc9045fc8f09301ffdecd5d2296db00d59dd4b"
+  },
+  "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+  },
+  "0xf08cea7709a579e7895a5afe28aeca3562e2536b": {
+    "symbol": "WAR",
+    "name": "Wrapped Arwsaa",
+    "decimals": 18,
+    "address": "0xf08cea7709a579e7895a5afe28aeca3562e2536b"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  },
+  "0xf3861ad533660a64488c02b3ecfd30ebf6ed5a47": {
+    "symbol": "TKN",
+    "name": "Token",
+    "decimals": 18,
+    "address": "0xf3861ad533660a64488c02b3ecfd30ebf6ed5a47"
+  }
+}

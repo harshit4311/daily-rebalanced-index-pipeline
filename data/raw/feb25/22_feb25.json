@@ -1,0 +1,68 @@
+{
+  "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4": {
+    "symbol": "RISE",
+    "name": "AdRise",
+    "decimals": 18,
+    "address": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4"
+  },
+  "0x43719e0da9484442059b437572f703aa4d5d96f7": {
+    "symbol": "DEHUB",
+    "name": "Degen Hub",
+    "decimals": 18,
+    "address": "0x43719e0da9484442059b437572f703aa4d5d96f7"
+  },
+  "0xa95957b95ad7283c89e3122af54c5628ffc3abc5": {
+    "symbol": "DEHUB",
+    "name": "Degen Hub",
+    "decimals": 18,
+    "address": "0xa95957b95ad7283c89e3122af54c5628ffc3abc5"
+  },
+  "0x45f5bd656d89ee84b96ace4d161e4021126d03e5": {
+    "symbol": "BTEC",
+    "name": "BTECHAIN",
+    "decimals": 6,
+    "address": "0x45f5bd656d89ee84b96ace4d161e4021126d03e5"
+  },
+  "0xab2e396d6a8b19df92b47c07b8f81043400025ca": {
+    "symbol": "HOD",
+    "name": "HOUSE OF DOGE",
+    "decimals": 18,
+    "address": "0xab2e396d6a8b19df92b47c07b8f81043400025ca"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  },
+  "0xc19cb18c349840238bcd9502f7efa25d4b4a5079": {
+    "symbol": "AthenaAi",
+    "name": "Athena Ai",
+    "decimals": 9,
+    "address": "0xc19cb18c349840238bcd9502f7efa25d4b4a5079"
+  },
+  "0xa5cdea03b11042fc10b52af9eca48bb17a2107d2": {
+    "symbol": "mvRWA",
+    "name": "RWA Index",
+    "decimals": 18,
+    "address": "0xa5cdea03b11042fc10b52af9eca48bb17a2107d2"
+  },
+  "0xb196718fc5aa91946f4369c80425a54600f41327": {
+    "symbol": "GRINCH",
+    "name": "THE GRINCH",
+    "decimals": 9,
+    "address": "0xb196718fc5aa91946f4369c80425a54600f41327"
+  },
+  "0x4e3b170dcbe704b248df5f56d488114ace01b1c5": {
+    "symbol": "BED",
+    "name": "BTC ETH DCA Index",
+    "decimals": 18,
+    "address": "0x4e3b170dcbe704b248df5f56d488114ace01b1c5"
+  },
+  "0x200b2408966e327bb058f3bc4c207bd1c401fbc2": {
+    "symbol": "Broccoli",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0x200b2408966e327bb058f3bc4c207bd1c401fbc2"
+  }
+}

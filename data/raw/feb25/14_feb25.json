@@ -1,0 +1,98 @@
+{
+  "0xddf73eacb2218377fc38679ad14dfce51b651dd1": {
+    "symbol": "USDx",
+    "name": "USDx",
+    "decimals": 18,
+    "address": "0xddf73eacb2218377fc38679ad14dfce51b651dd1"
+  },
+  "0x6d363fbbfa904b9e880d33dd2b4b285cf4e184eb": {
+    "symbol": "CZ",
+    "name": "CZ Coin",
+    "decimals": 9,
+    "address": "0x6d363fbbfa904b9e880d33dd2b4b285cf4e184eb"
+  },
+  "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e": {
+    "symbol": "TARA",
+    "name": "Taraxa",
+    "decimals": 18,
+    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e"
+  },
+  "0xb945ab749739ab46c15f39e7409e29ab5b6afcc2": {
+    "symbol": "BROCCOLI",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0xb945ab749739ab46c15f39e7409e29ab5b6afcc2"
+  },
+  "0x6a9143639d8b70d50b031ffad55d4cc65ea55155": {
+    "symbol": "ARGN",
+    "name": "Argon",
+    "decimals": 18,
+    "address": "0x6a9143639d8b70d50b031ffad55d4cc65ea55155"
+  },
+  "0x64cbd3aa07d427e385cb55330406508718e55f01": {
+    "symbol": "ARGNOT",
+    "name": "Argonot",
+    "decimals": 18,
+    "address": "0x64cbd3aa07d427e385cb55330406508718e55f01"
+  },
+  "0x47000c9e31dbcd1e728a0f41892cb6ec79f9c838": {
+    "symbol": "MVRS",
+    "name": "MAGAVERSE",
+    "decimals": 9,
+    "address": "0x47000c9e31dbcd1e728a0f41892cb6ec79f9c838"
+  },
+  "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73": {
+    "symbol": "VIRTUAL",
+    "name": "Virtual Protocol",
+    "decimals": 18,
+    "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+  },
+  "0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6": {
+    "symbol": "SAI",
+    "name": "Sharpe AI",
+    "decimals": 18,
+    "address": "0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6"
+  },
+  "0xf285fe060b41d19044ef3975c9106bb3d5da6012": {
+    "symbol": "PUM",
+    "name": "Pumbo",
+    "decimals": 18,
+    "address": "0xf285fe060b41d19044ef3975c9106bb3d5da6012"
+  },
+  "0x0e6cc64640de0eb4d9d388c7f24a452553289e3f": {
+    "symbol": "USDF",
+    "name": "USD-FEES",
+    "decimals": 18,
+    "address": "0x0e6cc64640de0eb4d9d388c7f24a452553289e3f"
+  },
+  "0x9f7ddf609f9228f9eab560b26255e13621eb7ec6": {
+    "symbol": "WPI",
+    "name": "Walletpayin",
+    "decimals": 9,
+    "address": "0x9f7ddf609f9228f9eab560b26255e13621eb7ec6"
+  },
+  "0x4c1746a800d224393fe2470c70a35717ed4ea5f1": {
+    "symbol": "PLUME",
+    "name": "Plume",
+    "decimals": 18,
+    "address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1"
+  },
+  "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3": {
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "decimals": 18,
+    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
+  },
+  "0x507d83613f04b7ab80261ac963404f6b31389d67": {
+    "symbol": "SamHTX",
+    "name": "SamHTX",
+    "decimals": 8,
+    "address": "0x507d83613f04b7ab80261ac963404f6b31389d67"
+  },
+  "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "decimals": 18,
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+  }
+}

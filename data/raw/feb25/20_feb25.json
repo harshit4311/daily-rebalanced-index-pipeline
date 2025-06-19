@@ -1,0 +1,50 @@
+{
+  "0x4b6c808bf1546ffc7fbd396ed8c2465969591d41": {
+    "symbol": "ERC-999G",
+    "name": "Genesis)",
+    "decimals": 18,
+    "address": "0x4b6c808bf1546ffc7fbd396ed8c2465969591d41"
+  },
+  "0xf7763b3e1471e188e1c9f4a86bb4810642c2056e": {
+    "symbol": "AI",
+    "name": "AI Coin",
+    "decimals": 18,
+    "address": "0xf7763b3e1471e188e1c9f4a86bb4810642c2056e"
+  },
+  "0x84c7231e0c7a89a65bdc57049adf179edae70e64": {
+    "symbol": "MXM",
+    "name": "MEXME",
+    "decimals": 18,
+    "address": "0x84c7231e0c7a89a65bdc57049adf179edae70e64"
+  },
+  "0xb41335df1e23e7f13e8b2e43f0e35017237e5beb": {
+    "symbol": "MTG",
+    "name": "MorotoGrup",
+    "decimals": 18,
+    "address": "0xb41335df1e23e7f13e8b2e43f0e35017237e5beb"
+  },
+  "0x6b01679d4c2f8e34ffab2b822f58d0e6aeebd441": {
+    "symbol": "OGC",
+    "name": "OGCommunity Token",
+    "decimals": 18,
+    "address": "0x6b01679d4c2f8e34ffab2b822f58d0e6aeebd441"
+  },
+  "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b": {
+    "symbol": "DFX",
+    "name": "CoinDesk DeFi Select Index",
+    "decimals": 18,
+    "address": "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b"
+  },
+  "0x933a84c341b58ad6b330da230c65f5f642ec454f": {
+    "symbol": "HOTEL",
+    "name": "Hotel Pay",
+    "decimals": 18,
+    "address": "0x933a84c341b58ad6b330da230c65f5f642ec454f"
+  },
+  "0x8c9f81d1d6e4c420cf955e0b5a1bae24115c4572": {
+    "symbol": "DISK",
+    "name": "RETARD.COMPUTER",
+    "decimals": 18,
+    "address": "0x8c9f81d1d6e4c420cf955e0b5a1bae24115c4572"
+  }
+}

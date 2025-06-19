@@ -1,0 +1,104 @@
+{
+  "0x63f718c15f4500326dd5015f95ccbde770ad21af": {
+    "symbol": "EEFS",
+    "name": "Eefs",
+    "decimals": 18,
+    "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
+  },
+  "0x9d39a5de30e57443bff2a8307a4256c8797a3497": {
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+  },
+  "0x0fc036cfd300519170f90b21b92a4349d2dabbae": {
+    "symbol": "TNT",
+    "name": "Trinity Token",
+    "decimals": 18,
+    "address": "0x0fc036cfd300519170f90b21b92a4349d2dabbae"
+  },
+  "0x86c1ab939163de7bbc9b83feb93894729b73fc10": {
+    "symbol": "ALIZA",
+    "name": "Aliza AI",
+    "decimals": 18,
+    "address": "0x86c1ab939163de7bbc9b83feb93894729b73fc10"
+  },
+  "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61": {
+    "symbol": "FROGGIES",
+    "name": "Froggies",
+    "decimals": 9,
+    "address": "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61"
+  },
+  "0xe71bdbe1504d2deea34869d92933a3424b0e2f87": {
+    "symbol": "Cool",
+    "name": "COOL",
+    "decimals": 8,
+    "address": "0xe71bdbe1504d2deea34869d92933a3424b0e2f87"
+  },
+  "0x3455b0c34546772c116a96bf9760f92d68857618": {
+    "symbol": "ETHCOBAR",
+    "name": "ETHCOBAR",
+    "decimals": 18,
+    "address": "0x3455b0c34546772c116a96bf9760f92d68857618"
+  },
+  "0x5d48f293baed247a2d0189058ba37aa238bd4725": {
+    "symbol": "NCC",
+    "name": "NeuroChain Clausius",
+    "decimals": 18,
+    "address": "0x5d48f293baed247a2d0189058ba37aa238bd4725"
+  },
+  "0xb431ecefc7b15ba456ba6935d7ffddd3d562a08d": {
+    "symbol": "TESCOBAR",
+    "name": "TESCOBAR",
+    "decimals": 18,
+    "address": "0xb431ecefc7b15ba456ba6935d7ffddd3d562a08d"
+  },
+  "0x9a1741e151233a82cf69209a2f1bc7442b1fb29c": {
+    "symbol": "DGI",
+    "name": "DeFi Growth Index",
+    "decimals": 18,
+    "address": "0x9a1741e151233a82cf69209a2f1bc7442b1fb29c"
+  },
+  "0xc1f33e0cf7e40a67375007104b929e49a581bafe": {
+    "symbol": "SPOT",
+    "name": "SPOT",
+    "decimals": 9,
+    "address": "0xc1f33e0cf7e40a67375007104b929e49a581bafe"
+  },
+  "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "decimals": 9,
+    "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+  },
+  "0xe7c253ead50976caf7b0c2cbca569146a7741b50": {
+    "symbol": "SolvBTC.BERA",
+    "name": "SolvBTC Bera Vault",
+    "decimals": 18,
+    "address": "0xe7c253ead50976caf7b0c2cbca569146a7741b50"
+  },
+  "0x5c98ab66f56a6d54fa664941072ddcedb0af5c61": {
+    "symbol": "Hurricane",
+    "name": "Hurricane",
+    "decimals": 18,
+    "address": "0x5c98ab66f56a6d54fa664941072ddcedb0af5c61"
+  },
+  "0xcacd6fd266af91b8aed52accc382b4e165586e29": {
+    "symbol": "frxUSD",
+    "name": "Frax USD",
+    "decimals": 18,
+    "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29"
+  },
+  "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9": {
+    "symbol": "BITCOIN",
+    "name": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9"
+  },
+  "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab": {
+    "symbol": "FAST",
+    "name": "FASTINDEMAND",
+    "decimals": 18,
+    "address": "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab"
+  }
+}

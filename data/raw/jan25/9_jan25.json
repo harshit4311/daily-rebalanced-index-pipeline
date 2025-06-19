@@ -1,0 +1,122 @@
+{
+  "0x62e7fc24f791429a00878b791c604f1013084b7c": {
+    "symbol": "wTOR",
+    "name": "Wrapped Torus Network",
+    "decimals": 18,
+    "address": "0x62e7fc24f791429a00878b791c604f1013084b7c"
+  },
+  "0x21cd589a989615a9e901328d3c089bbca16d00b2": {
+    "symbol": "XMONEY",
+    "name": "X Money",
+    "decimals": 9,
+    "address": "0x21cd589a989615a9e901328d3c089bbca16d00b2"
+  },
+  "0x7ea7847f01ec5d7bbbac9053968bc2379bb5d17c": {
+    "symbol": "PEPE",
+    "name": "PEPE",
+    "decimals": 18,
+    "address": "0x7ea7847f01ec5d7bbbac9053968bc2379bb5d17c"
+  },
+  "0xc12f5585df4b049b156c3cdde84c92d42e40eb36": {
+    "symbol": "UBD",
+    "name": "United Blockchain Degens",
+    "decimals": 18,
+    "address": "0xc12f5585df4b049b156c3cdde84c92d42e40eb36"
+  },
+  "0xe355de6a6043b0580ff5a26b46051a4809b12793": {
+    "symbol": "4EVER",
+    "name": "4EVERLAND",
+    "decimals": 18,
+    "address": "0xe355de6a6043b0580ff5a26b46051a4809b12793"
+  },
+  "0xb44bb60e8ced2b4523eb65d927bca4f4b2252e0b": {
+    "symbol": "BABYKEKIUS",
+    "name": "Baby Kekius Maximus",
+    "decimals": 9,
+    "address": "0xb44bb60e8ced2b4523eb65d927bca4f4b2252e0b"
+  },
+  "0x0002d3bc2a575a8cc94798b0cff584cbea3a4500": {
+    "symbol": "DOJ",
+    "name": "Department of Jeets",
+    "decimals": 7,
+    "address": "0x0002d3bc2a575a8cc94798b0cff584cbea3a4500"
+  },
+  "0x97401a2f078de1cc508f4acc356a4b9e399af616": {
+    "symbol": "AMINO",
+    "name": "Amino",
+    "decimals": 18,
+    "address": "0x97401a2f078de1cc508f4acc356a4b9e399af616"
+  },
+  "0x4dfd742c6e5e28f11bcbcf6c5e51a965d15ea315": {
+    "symbol": "AMINO",
+    "name": "Amino",
+    "decimals": 18,
+    "address": "0x4dfd742c6e5e28f11bcbcf6c5e51a965d15ea315"
+  },
+  "0xd59c8dc57ee4acfd8c5812ca015d0268283d9caa": {
+    "symbol": "UBD",
+    "name": "United Blockchain Degens",
+    "decimals": 18,
+    "address": "0xd59c8dc57ee4acfd8c5812ca015d0268283d9caa"
+  },
+  "0xce695cf1c4638d1678377ba9dcf32345292048d4": {
+    "symbol": "SANAOL",
+    "name": "SANAOL",
+    "decimals": 18,
+    "address": "0xce695cf1c4638d1678377ba9dcf32345292048d4"
+  },
+  "0x21f788494d87b911f5551eb839f188f0f7d314d2": {
+    "symbol": "AGI",
+    "name": "Agently",
+    "decimals": 18,
+    "address": "0x21f788494d87b911f5551eb839f188f0f7d314d2"
+  },
+  "0x1a4e7febd24b6689704b10685857d8b30885f05e": {
+    "symbol": "BEATAI",
+    "name": "eBeat AI",
+    "decimals": 9,
+    "address": "0x1a4e7febd24b6689704b10685857d8b30885f05e"
+  },
+  "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c": {
+    "symbol": "OSAK",
+    "name": "Osaka Protocol",
+    "decimals": 18,
+    "address": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c"
+  },
+  "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": {
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+  },
+  "0x289ff00235d2b98b0145ff5d4435d3e92f9540a6": {
+    "symbol": "BOOE",
+    "name": "Book of Ethereum",
+    "decimals": 18,
+    "address": "0x289ff00235d2b98b0145ff5d4435d3e92f9540a6"
+  },
+  "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a": {
+    "symbol": "CAH",
+    "name": "Moon Tropica",
+    "decimals": 18,
+    "address": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a"
+  },
+  "0x70066e2a5abe798ab1afcabc48c84d22a610faab": {
+    "symbol": "JJPI",
+    "name": "JJ PANAMA INDUSTRIEs",
+    "decimals": 18,
+    "address": "0x70066e2a5abe798ab1afcabc48c84d22a610faab"
+  },
+  "0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e": {
+    "symbol": "BEN",
+    "name": "Ben",
+    "decimals": 18,
+    "address": "0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e"
+  },
+  "0x580da1e4876a5650a58d6e0b3c412fca6168d84c": {
+    "symbol": "XSCAP",
+    "name": "XS Capital Token",
+    "decimals": 18,
+    "address": "0x580da1e4876a5650a58d6e0b3c412fca6168d84c"
+  }
+}

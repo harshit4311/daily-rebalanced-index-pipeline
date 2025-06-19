@@ -1,0 +1,56 @@
+{
+  "0x63f718c15f4500326dd5015f95ccbde770ad21af": {
+    "symbol": "EEFS",
+    "name": "Eefs",
+    "decimals": 18,
+    "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
+  },
+  "0xbc87571ce37a63ec35f572dbe9571b1cafd63d92": {
+    "symbol": "BTC",
+    "name": "BITCHAIN",
+    "decimals": 6,
+    "address": "0xbc87571ce37a63ec35f572dbe9571b1cafd63d92"
+  },
+  "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f": {
+    "symbol": "PHPR",
+    "name": "PHPR",
+    "decimals": 6,
+    "address": "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f"
+  },
+  "0xa6a68be253a1b725eea5de74812a6bf2c2d57e68": {
+    "symbol": "GHK",
+    "name": "GenghisKoin",
+    "decimals": 18,
+    "address": "0xa6a68be253a1b725eea5de74812a6bf2c2d57e68"
+  },
+  "0x305a715ab8c01b923b6b6d5d271f72d55038d431": {
+    "symbol": "SHIBG",
+    "name": "Shiba Galaxy",
+    "decimals": 18,
+    "address": "0x305a715ab8c01b923b6b6d5d271f72d55038d431"
+  },
+  "0xfa2b947eec368f42195f24f36d2af29f7c24cec2": {
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "decimals": 18,
+    "address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+  },
+  "0x9657477ac915f56ca87c253db1320218ec2d5ddd": {
+    "symbol": "JNE",
+    "name": "Jake Newman Enterprises",
+    "decimals": 18,
+    "address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd"
+  },
+  "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab": {
+    "symbol": "FAST",
+    "name": "FASTINDEMAND",
+    "decimals": 18,
+    "address": "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab"
+  },
+  "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "decimals": 18,
+    "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+  }
+}
