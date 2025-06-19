@@ -1,5 +1,3 @@
-''' fetch all new pools created in a specific month + filter large coins/stablecoins/major coins '''
-
 import requests
 import time
 from collections import defaultdict
@@ -8,9 +6,8 @@ import os
 import json
 from collections import OrderedDict
 
-
 # Load settings
-config_path = os.path.join(os.path.dirname(__file__), "/Users/harshit/Downloads/Research-Commons-Quant/automated-memetoken-index-pipeline/config/", "settings.yaml")
+config_path = os.path.join(os.path.dirname(__file__), "..", "config", "settings.yaml")
 with open(config_path, "r") as f:
     config = yaml.safe_load(f)
 
@@ -19,7 +16,7 @@ SUBGRAPH_URL = f"https://gateway.thegraph.com/api/{API_KEY}/subgraphs/id/{config
 
 START_TS = config["fetch_pools"]["start_timestamp"]
 END_TS = config["fetch_pools"]["end_timestamp"]
-MONTH_LABEL = config["fetch_pools"]["label"]
+LABEL = config["fetch_pools"]["label"]
 
 
 def run_query(query):
@@ -34,7 +31,7 @@ def run_query(query):
         raise Exception(f"Query failed with status code {response.status_code}: {response.text}")
 
 
-def fetch_pools_created_in_month():
+def fetch_pools_created():
     pools = []
     skip = 0
     batch_size = 1000
@@ -80,7 +77,7 @@ def fetch_pools_created_in_month():
     return pools
 
 
-def extract_unique_tokens_from_pools(pools):
+def extract_tokens(pools):
     tokens = {}
     for pool in pools:
         for token_key in ["token0", "token1"]:
@@ -94,7 +91,7 @@ def extract_unique_tokens_from_pools(pools):
     return tokens
 
 
-def fetch_pool_day_data(pool_ids):
+def fetch_volumes(pool_ids):
     pool_volumes = defaultdict(float)
     batch_size = 50
 
@@ -137,71 +134,53 @@ def fetch_pool_day_data(pool_ids):
             pool_volumes[pool["token0"]["id"]] += vol / 2
             pool_volumes[pool["token1"]["id"]] += vol / 2
 
-        print(f"Processed batch {i} to {i+batch_size}, day data: {len(day_data)}")
+        print(f"Processed batch {i} to {i+batch_size}, records: {len(day_data)}")
         time.sleep(0.3)
 
     return pool_volumes
 
 
 EXCLUDE_SYMBOLS = {
-    # Stablecoins
-    "USDC", "USDT", "DAI", "FRAX", "LUSD", "TUSD", "THUSD", "GUSD", "USD0", "USD0++", "USD0++ ", "YUSD", "CRVUSD", "USD1", "USDA", "MEX", 
-    
-    # Wrapped tokens
-    "WETH", "WBTC", "WSTETH", "RETH", "MATICWETH", "ARBITRUMWETH", "cbBTC", "CBBTC", 
-
-    # Major blue-chip tokens
-    "ETH", "BTC", "WBTC", "AAVE", "CRV", "LINK", "UNI", "COMP", "MKR", "SNX", "BAL",
-
-    # LSD & restaking tokens (not meme-related)
-    "STETH", "CBETH", "SWETH", "OSMO", "JUNO", "ATOM", "FXS", "ezETH", "EZETH", "KERNEL", 
-
-    # Others to exclude
-    "MORPHO", "LDO", "ENS", "1INCH", "GRT"
+    "USDC", "USDT", "DAI", "FRAX", "WETH", "WBTC", "ETH", "STETH", "CBETH", "RETH",
+    "AAVE", "CRV", "UNI", "LINK", "MKR", "COMP", "LDO", "1INCH", "SNX", "GRT", "FXS"
 }
 
 
 def main():
-    print(f"🔍 Fetching Uniswap V3 pools created in {MONTH_LABEL}...")
-    pools = fetch_pools_created_in_month()
+    print(f"🔍 Fetching Uniswap V3 pools for {LABEL}...")
+    pools = fetch_pools_created()
     print(f"✅ Total pools fetched: {len(pools)}")
 
-    tokens = extract_unique_tokens_from_pools(pools)
-    print(f"✅ Total unique tokens found: {len(tokens)}")
+    tokens = extract_tokens(pools)
+    print(f"✅ Unique tokens extracted: {len(tokens)}")
 
-    pool_ids = [pool["id"] for pool in pools]
-    volumes = fetch_pool_day_data(pool_ids)
-    print(f"✅ Monthly volumes calculated for {len(volumes)} tokens.")
+    pool_ids = [p["id"] for p in pools]
+    volumes = fetch_volumes(pool_ids)
+    print(f"✅ Volume stats for {len(volumes)} tokens")
 
-    # Sort volumes descending (list of tuples (token_id, volume))
     sorted_tokens = sorted(volumes.items(), key=lambda x: x[1], reverse=True)
-
-    # ✅ Filter tokens by symbol
-    filtered_sorted_tokens = [
-        (token_id, vol)
-        for token_id, vol in sorted_tokens
+    filtered = [
+        (token_id, vol) for token_id, vol in sorted_tokens
         if token_id in tokens and tokens[token_id]["symbol"].upper() not in EXCLUDE_SYMBOLS
     ]
 
-    # Build an OrderedDict of tokens sorted by volume for saving
     sorted_tokens_dict = OrderedDict()
-    for token_id, _ in filtered_sorted_tokens:
+    for token_id, _ in filtered:
         sorted_tokens_dict[token_id] = tokens[token_id]
 
-    # ✅ Save sorted token data to data/raw
+    # Save
     output_dir = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
     os.makedirs(output_dir, exist_ok=True)
 
-    output_path = os.path.join(output_dir, f"{MONTH_LABEL}_fetched_tokens.json")
-    with open(output_path, "w") as f:
+    out_path = os.path.join(output_dir, f"{LABEL}_fetched_tokens.json")
+    with open(out_path, "w") as f:
         json.dump(sorted_tokens_dict, f, indent=2)
 
-    print(f"\n💾 Saved {len(sorted_tokens_dict)} tokens to {output_path}")
+    print(f"\n💾 Saved {len(sorted_tokens_dict)} tokens → {out_path}")
+    print(f"\n📊 Top 10 tokens for {LABEL}:")
+    for token_id, vol in filtered[:10]:
+        print(f"{tokens[token_id]['symbol']} ({token_id}): ${vol:,.2f}")
 
-    print(f"\n📊 Top 20 tokens by volume in {MONTH_LABEL}:")
-    for token_id, vol in filtered_sorted_tokens[:20]:
-        symbol = tokens[token_id]["symbol"]
-        print(f"{symbol} ({token_id}): ${vol:,.2f}")
 
 if __name__ == "__main__":
     main()
