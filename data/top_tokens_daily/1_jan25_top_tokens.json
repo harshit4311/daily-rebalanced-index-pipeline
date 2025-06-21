@@ -1,0 +1,32 @@
+{
+  "0x24dcae02e9ef94ccf7d6041f83ccddf4f172b59d": {
+    "symbol": "PEPE Ultra",
+    "name": "PEPE Ultra",
+    "decimals": 18,
+    "address": "0x24dcae02e9ef94ccf7d6041f83ccddf4f172b59d"
+  },
+  "0x47000a7b27a75d44ffadfe9d0b97fa04d569b323": {
+    "symbol": "TRUMPIUS",
+    "name": "Trumpius Maximus",
+    "decimals": 9,
+    "address": "0x47000a7b27a75d44ffadfe9d0b97fa04d569b323"
+  },
+  "0xbbbb2d4d765c1e455e4896a64ba3883e914abbbb": {
+    "symbol": "BMP",
+    "name": "BitmapPunks",
+    "decimals": 18,
+    "address": "0xbbbb2d4d765c1e455e4896a64ba3883e914abbbb"
+  },
+  "0x347c2d9d034a7e5856e5b4acec1fc0d0718d5481": {
+    "symbol": "AMOG ",
+    "name": "AMOG Santa",
+    "decimals": 18,
+    "address": "0x347c2d9d034a7e5856e5b4acec1fc0d0718d5481"
+  },
+  "0xb18ecc2e4abf9a04488d0e424495109d4d25e734": {
+    "symbol": "Gamer",
+    "name": "cyb3rgam3r420",
+    "decimals": 9,
+    "address": "0xb18ecc2e4abf9a04488d0e424495109d4d25e734"
+  }
+}

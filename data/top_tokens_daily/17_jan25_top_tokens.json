@@ -1,0 +1,32 @@
+{
+  "0xaf04f0912e793620824f4442b03f4d984af29853": {
+    "symbol": "HYDRA",
+    "name": "HydraDAO",
+    "decimals": 18,
+    "address": "0xaf04f0912e793620824f4442b03f4d984af29853"
+  },
+  "0x64766392ad32a6c94b965b5bf655e07371c23a1d": {
+    "symbol": "Yilongma",
+    "name": "Chinese Elon Musk",
+    "decimals": 9,
+    "address": "0x64766392ad32a6c94b965b5bf655e07371c23a1d"
+  },
+  "0x786a6743efe9500011c92c7d8540608a62382b6f": {
+    "symbol": "ALU",
+    "name": "Altura",
+    "decimals": 18,
+    "address": "0x786a6743efe9500011c92c7d8540608a62382b6f"
+  },
+  "0x6629b22bd7b8b82eaea6aaafab9d76611a93ad8c": {
+    "symbol": "SPACE",
+    "name": "Spacewar!",
+    "decimals": 18,
+    "address": "0x6629b22bd7b8b82eaea6aaafab9d76611a93ad8c"
+  },
+  "0x98ed411b8cf8536657c660db8aa55d9d4baaf820": {
+    "symbol": "MS2",
+    "name": "Station This",
+    "decimals": 6,
+    "address": "0x98ed411b8cf8536657c660db8aa55d9d4baaf820"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e": {
+    "symbol": "SWFTC",
+    "name": "SwftCoin",
+    "decimals": 8,
+    "address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+  },
+  "0xb33d999469a7e6b9ebc25a3a05248287b855ed46": {
+    "symbol": "FLOCK",
+    "name": "Flockerz",
+    "decimals": 18,
+    "address": "0xb33d999469a7e6b9ebc25a3a05248287b855ed46"
+  },
+  "0xf0610eb7d8ee12d59412da32625d5e273e78ff0b": {
+    "symbol": "MDEX",
+    "name": "MasterDEX Token",
+    "decimals": 18,
+    "address": "0xf0610eb7d8ee12d59412da32625d5e273e78ff0b"
+  },
+  "0xaec613188b1e178d42a05d352044d54854c3196a": {
+    "symbol": "DESCI",
+    "name": "SUI Desci Agents",
+    "decimals": 18,
+    "address": "0xaec613188b1e178d42a05d352044d54854c3196a"
+  },
+  "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3": {
+    "symbol": "SUIAI",
+    "name": "SUI Agents",
+    "decimals": 18,
+    "address": "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3"
+  }
+}

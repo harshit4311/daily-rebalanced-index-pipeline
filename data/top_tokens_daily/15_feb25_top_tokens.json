@@ -1,0 +1,32 @@
+{
+  "0xecc5dbdd7a8a1efa199a16ab4c91ad9373acd711": {
+    "symbol": "Niglio",
+    "name": "Niglio",
+    "decimals": 18,
+    "address": "0xecc5dbdd7a8a1efa199a16ab4c91ad9373acd711"
+  },
+  "0x598daa64a2f054782fe1d1b3dd349063a88772dc": {
+    "symbol": "CZDA",
+    "name": "CZ Doge Ai",
+    "decimals": 18,
+    "address": "0x598daa64a2f054782fe1d1b3dd349063a88772dc"
+  },
+  "0xedb4f56dc1a57b5ac92e88626ef2479628153bf2": {
+    "symbol": "EXT",
+    "name": "ExclusiveToken",
+    "decimals": 18,
+    "address": "0xedb4f56dc1a57b5ac92e88626ef2479628153bf2"
+  },
+  "0xa537b1adbeb88cf5e4db392a2010fed6da6e59a0": {
+    "symbol": "DRS",
+    "name": "Deep Research",
+    "decimals": 18,
+    "address": "0xa537b1adbeb88cf5e4db392a2010fed6da6e59a0"
+  },
+  "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb": {
+    "symbol": "MORPH",
+    "name": "Morpheus",
+    "decimals": 18,
+    "address": "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb"
+  }
+}

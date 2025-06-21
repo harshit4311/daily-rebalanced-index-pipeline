@@ -1,0 +1,32 @@
+{
+  "0x73728b344499598e96842c2a9094a5c960888888": {
+    "symbol": "AQL",
+    "name": "Aqualis Token",
+    "decimals": 18,
+    "address": "0x73728b344499598e96842c2a9094a5c960888888"
+  },
+  "0x9eeb66921663e0f54a794c2a9f95e06905095c0d": {
+    "symbol": "DeepSeek2.0",
+    "name": "DeepSeek2.0 Token",
+    "decimals": 18,
+    "address": "0x9eeb66921663e0f54a794c2a9f95e06905095c0d"
+  },
+  "0x1106bb36fa455bd9b2b8832788197a593582dada": {
+    "symbol": "VATAN",
+    "name": "Vatan",
+    "decimals": 18,
+    "address": "0x1106bb36fa455bd9b2b8832788197a593582dada"
+  },
+  "0x0f86d6f46615ccbc34c2e8451ca9fe16cabef9a0": {
+    "symbol": "PEPE Ultra",
+    "name": "PEPE Ultra",
+    "decimals": 18,
+    "address": "0x0f86d6f46615ccbc34c2e8451ca9fe16cabef9a0"
+  },
+  "0x07a7dc47d675c2a907c926bbc5f59bb3bd144796": {
+    "symbol": "wCPH",
+    "name": "CypheriumCommunityDrivenWrappedCPH",
+    "decimals": 18,
+    "address": "0x07a7dc47d675c2a907c926bbc5f59bb3bd144796"
+  }
+}

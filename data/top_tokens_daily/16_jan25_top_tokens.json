@@ -1,0 +1,32 @@
+{
+  "0x9d39a5de30e57443bff2a8307a4256c8797a3497": {
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+  },
+  "0x8c41455aaa8d6aba3150058d4964349294bf78a3": {
+    "symbol": "BULL",
+    "name": "ETH BULL",
+    "decimals": 9,
+    "address": "0x8c41455aaa8d6aba3150058d4964349294bf78a3"
+  },
+  "0xf0263a425dd8eb47958e7cd73bcaf76bcc39fd84": {
+    "symbol": "YuSMP",
+    "name": "YuSMP Coin",
+    "decimals": 18,
+    "address": "0xf0263a425dd8eb47958e7cd73bcaf76bcc39fd84"
+  },
+  "0x8a09ea813fc7ac246b517345dbb429e6b2b0981b": {
+    "symbol": "MCGA",
+    "name": "MAKE CALIFORNIA GREAT AGAIN",
+    "decimals": 6,
+    "address": "0x8a09ea813fc7ac246b517345dbb429e6b2b0981b"
+  },
+  "0x18c2e3499dd869d49e9c4bacf15c72b961840220": {
+    "symbol": "RABIT",
+    "name": "R.A.B.I.T",
+    "decimals": 18,
+    "address": "0x18c2e3499dd869d49e9c4bacf15c72b961840220"
+  }
+}

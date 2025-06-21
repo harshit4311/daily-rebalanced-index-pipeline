@@ -1,0 +1,32 @@
+{
+  "0x60ae24aa0f1dba5d5b36096318a89cfe4bf7341d": {
+    "symbol": "Chester",
+    "name": "Chester",
+    "decimals": 18,
+    "address": "0x60ae24aa0f1dba5d5b36096318a89cfe4bf7341d"
+  },
+  "0x52f2983c8cbd0e8100e0f756999ea73576ddf389": {
+    "symbol": "BO\u039e",
+    "name": "Built on \u039ethereum",
+    "decimals": 18,
+    "address": "0x52f2983c8cbd0e8100e0f756999ea73576ddf389"
+  },
+  "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae": {
+    "symbol": "BALLS",
+    "name": "Big Balls",
+    "decimals": 9,
+    "address": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae"
+  },
+  "0xd73b338e29255e855f1a32126dda1f826d2563a4": {
+    "symbol": "FUXU",
+    "name": "Fuxu",
+    "decimals": 18,
+    "address": "0xd73b338e29255e855f1a32126dda1f826d2563a4"
+  },
+  "0x57517adc00519a6a23fe695f5663b28376c85f72": {
+    "symbol": "TEST",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0x57517adc00519a6a23fe695f5663b28376c85f72"
+  }
+}

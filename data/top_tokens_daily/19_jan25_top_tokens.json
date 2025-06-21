@@ -1,0 +1,32 @@
+{
+  "0x64794a642f36a2bf00ef2963a6aa9e6c84f65a3a": {
+    "symbol": "VITALADY",
+    "name": "Vitalady 404",
+    "decimals": 18,
+    "address": "0x64794a642f36a2bf00ef2963a6aa9e6c84f65a3a"
+  },
+  "0xe5de552be44cea4d477e2d651f9d9329c2d80e5d": {
+    "symbol": "\u0186U\u2143T",
+    "name": "Remillio",
+    "decimals": 18,
+    "address": "0xe5de552be44cea4d477e2d651f9d9329c2d80e5d"
+  },
+  "0xea5b7b0e425789ee97360326685a5a4738f8e6ee": {
+    "symbol": "YUNGOG",
+    "name": "Yung Kong Khan",
+    "decimals": 18,
+    "address": "0xea5b7b0e425789ee97360326685a5a4738f8e6ee"
+  },
+  "0x05a44929667a9578f2d0dd335a2c2f05061b26f5": {
+    "symbol": "ALLN",
+    "name": "ALLN COINS",
+    "decimals": 18,
+    "address": "0x05a44929667a9578f2d0dd335a2c2f05061b26f5"
+  },
+  "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
+    "symbol": "SHIB",
+    "name": "SHIBA INU",
+    "decimals": 18,
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+  }
+}

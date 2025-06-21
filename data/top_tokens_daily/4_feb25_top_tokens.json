@@ -1,0 +1,32 @@
+{
+  "0x4182f8653c7ef20ae029ad90209153cc342cffb3": {
+    "symbol": "BITSHIT",
+    "name": "BITSHIT",
+    "decimals": 18,
+    "address": "0x4182f8653c7ef20ae029ad90209153cc342cffb3"
+  },
+  "0x4fa29fe6afdd8142258bcb59917c90649ea68b29": {
+    "symbol": "JJB",
+    "name": "Jonald J. Brump",
+    "decimals": 8,
+    "address": "0x4fa29fe6afdd8142258bcb59917c90649ea68b29"
+  },
+  "0x2d61fae3f87c6a585f257f75fd7816a8c7b02245": {
+    "symbol": "PTXC",
+    "name": "PontexCoin",
+    "decimals": 6,
+    "address": "0x2d61fae3f87c6a585f257f75fd7816a8c7b02245"
+  },
+  "0x8f9db7c6a6cb343bbba0aed0d3e9a7583b1ea768": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x8f9db7c6a6cb343bbba0aed0d3e9a7583b1ea768"
+  },
+  "0xa2120b9e674d3fc3875f415a7df52e382f141225": {
+    "symbol": "ATA",
+    "name": "Automata",
+    "decimals": 18,
+    "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225"
+  }
+}

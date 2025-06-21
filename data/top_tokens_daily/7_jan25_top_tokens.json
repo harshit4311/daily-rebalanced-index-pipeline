@@ -1,0 +1,32 @@
+{
+  "0x9f24818c84b357ee05cfb2f2c1537c73c7cb1502": {
+    "symbol": "LEIA",
+    "name": "Leia Games",
+    "decimals": 18,
+    "address": "0x9f24818c84b357ee05cfb2f2c1537c73c7cb1502"
+  },
+  "0x048ee215878ea316890c041a2722b9416d3b24e4": {
+    "symbol": "FOOM",
+    "name": "FOOM",
+    "decimals": 9,
+    "address": "0x048ee215878ea316890c041a2722b9416d3b24e4"
+  },
+  "0x78a3020a5b33920457d16c2c612a8edef22b62af": {
+    "symbol": "MEGA",
+    "name": "Make Ethereum Great Again",
+    "decimals": 18,
+    "address": "0x78a3020a5b33920457d16c2c612a8edef22b62af"
+  },
+  "0x1a9fdabcd5b679aa98e3ace8e9331fe4dcba29ba": {
+    "symbol": "GOP",
+    "name": "Group Of People",
+    "decimals": 18,
+    "address": "0x1a9fdabcd5b679aa98e3ace8e9331fe4dcba29ba"
+  },
+  "0x6ef69ba2d051761afd38f218f0a3cf517d64a760": {
+    "symbol": "CPAI",
+    "name": "Moontax",
+    "decimals": 18,
+    "address": "0x6ef69ba2d051761afd38f218f0a3cf517d64a760"
+  }
+}

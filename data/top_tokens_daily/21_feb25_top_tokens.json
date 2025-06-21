@@ -1,0 +1,32 @@
+{
+  "0x63f718c15f4500326dd5015f95ccbde770ad21af": {
+    "symbol": "EEFS",
+    "name": "Eefs",
+    "decimals": 18,
+    "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
+  },
+  "0xbc87571ce37a63ec35f572dbe9571b1cafd63d92": {
+    "symbol": "BTC",
+    "name": "BITCHAIN",
+    "decimals": 6,
+    "address": "0xbc87571ce37a63ec35f572dbe9571b1cafd63d92"
+  },
+  "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f": {
+    "symbol": "PHPR",
+    "name": "PHPR",
+    "decimals": 6,
+    "address": "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f"
+  },
+  "0xa6a68be253a1b725eea5de74812a6bf2c2d57e68": {
+    "symbol": "GHK",
+    "name": "GenghisKoin",
+    "decimals": 18,
+    "address": "0xa6a68be253a1b725eea5de74812a6bf2c2d57e68"
+  },
+  "0x305a715ab8c01b923b6b6d5d271f72d55038d431": {
+    "symbol": "SHIBG",
+    "name": "Shiba Galaxy",
+    "decimals": 18,
+    "address": "0x305a715ab8c01b923b6b6d5d271f72d55038d431"
+  }
+}

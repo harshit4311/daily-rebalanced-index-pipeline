@@ -1,0 +1,32 @@
+{
+  "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be": {
+    "symbol": "DRV",
+    "name": "Derive",
+    "decimals": 18,
+    "address": "0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be"
+  },
+  "0x81e9e6011036f8ce5a9f693dbf3b31ab98314230": {
+    "symbol": "ERS",
+    "name": "EXTERNAL REVENUE SERVICE",
+    "decimals": 9,
+    "address": "0x81e9e6011036f8ce5a9f693dbf3b31ab98314230"
+  },
+  "0xef7f7820a001aabac5e0979b175c9ff8af3dd4ec": {
+    "symbol": "XED",
+    "name": "Exeedme",
+    "decimals": 18,
+    "address": "0xef7f7820a001aabac5e0979b175c9ff8af3dd4ec"
+  },
+  "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24": {
+    "symbol": "LAB",
+    "name": "Labda",
+    "decimals": 9,
+    "address": "0x5f973ffd42499224b0a7a16dffb3abc25f04ef24"
+  },
+  "0x88366ba1d923ef021c2c8703cd777962d25e6358": {
+    "symbol": "DNZ",
+    "name": "DenizToken",
+    "decimals": 18,
+    "address": "0x88366ba1d923ef021c2c8703cd777962d25e6358"
+  }
+}

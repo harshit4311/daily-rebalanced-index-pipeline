@@ -1,0 +1,32 @@
+{
+  "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5": {
+    "symbol": "$MICRO",
+    "name": "Micro GPT",
+    "decimals": 18,
+    "address": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5"
+  },
+  "0x871401e1126ffcd6df23e42714cc5b4b033bd2f7": {
+    "symbol": "RUGPULLv1",
+    "name": "OpenRugPull (DO NOT BUY)",
+    "decimals": 8,
+    "address": "0x871401e1126ffcd6df23e42714cc5b4b033bd2f7"
+  },
+  "0xea73eadd3b83c216e57736a75b09dd3638c9e85a": {
+    "symbol": "WMAF",
+    "name": "WizMafia",
+    "decimals": 18,
+    "address": "0xea73eadd3b83c216e57736a75b09dd3638c9e85a"
+  },
+  "0x05ba3dbbafbb807f3f5e521d326eb39154948437": {
+    "symbol": "pants",
+    "name": "dog wif pants",
+    "decimals": 9,
+    "address": "0x05ba3dbbafbb807f3f5e521d326eb39154948437"
+  },
+  "0x5901e2506cc9e2ac3bd91a83281be81fbf5cd17b": {
+    "symbol": "EXCEEN",
+    "name": "Aixceen Token",
+    "decimals": 18,
+    "address": "0x5901e2506cc9e2ac3bd91a83281be81fbf5cd17b"
+  }
+}

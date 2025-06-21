@@ -1,0 +1,32 @@
+{
+  "0xd1538a9d69801e57c937f3c64d8c4f57d2967257": {
+    "symbol": "pfWETH-2",
+    "name": "Peapods Interest Bearing WETH - 2",
+    "decimals": 18,
+    "address": "0xd1538a9d69801e57c937f3c64d8c4f57d2967257"
+  },
+  "0x06b5c84c6fb16b9c043ccbb5399ac267f38e9e19": {
+    "symbol": "DFV",
+    "name": "DeepFuckinValue",
+    "decimals": 18,
+    "address": "0x06b5c84c6fb16b9c043ccbb5399ac267f38e9e19"
+  },
+  "0x49d761e8e29008f0cdfb9c73a61093670257e132": {
+    "symbol": "Mickey",
+    "name": "Mickey Mouse",
+    "decimals": 18,
+    "address": "0x49d761e8e29008f0cdfb9c73a61093670257e132"
+  },
+  "0x655bca39f907fa391612af4e5980ce0b173976aa": {
+    "symbol": "WAA",
+    "name": "Wrapped Arthera",
+    "decimals": 18,
+    "address": "0x655bca39f907fa391612af4e5980ce0b173976aa"
+  },
+  "0x0cd736409cf6b333ef379662866a6a5d83f3be3b": {
+    "symbol": "LILX",
+    "name": "LIL X",
+    "decimals": 18,
+    "address": "0x0cd736409cf6b333ef379662866a6a5d83f3be3b"
+  }
+}

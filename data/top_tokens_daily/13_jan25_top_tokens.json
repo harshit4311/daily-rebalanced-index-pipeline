@@ -1,0 +1,32 @@
+{
+  "0x4ec1b60b96193a64acae44778e51f7bff2007831": {
+    "symbol": "EDGE",
+    "name": "Edge",
+    "decimals": 18,
+    "address": "0x4ec1b60b96193a64acae44778e51f7bff2007831"
+  },
+  "0xc76d496182b8b01570a6b96cc119bd9d32a336bf": {
+    "symbol": "CFC",
+    "name": "CrazyyFrogCoin",
+    "decimals": 18,
+    "address": "0xc76d496182b8b01570a6b96cc119bd9d32a336bf"
+  },
+  "0x5c2d8b2c6c0289aa514f42e0b5423f20b99177ac": {
+    "symbol": "Mega",
+    "name": "MegaOnEth",
+    "decimals": 18,
+    "address": "0x5c2d8b2c6c0289aa514f42e0b5423f20b99177ac"
+  },
+  "0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f": {
+    "symbol": "GORA",
+    "name": "GoraToken",
+    "decimals": 18,
+    "address": "0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f"
+  },
+  "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49": {
+    "symbol": "PAS",
+    "name": "Passive",
+    "decimals": 18,
+    "address": "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49"
+  }
+}

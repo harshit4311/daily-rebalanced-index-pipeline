@@ -1,0 +1,32 @@
+{
+  "0xf08cea7709a579e7895a5afe28aeca3562e2536b": {
+    "symbol": "WAR",
+    "name": "Wrapped Arwsaa",
+    "decimals": 18,
+    "address": "0xf08cea7709a579e7895a5afe28aeca3562e2536b"
+  },
+  "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf": {
+    "symbol": "PAL",
+    "name": "Paladin Token",
+    "decimals": 18,
+    "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf"
+  },
+  "0x7aee8ade020def44a531cd91b0850fbad9c68c00": {
+    "symbol": "minutes",
+    "name": "Life",
+    "decimals": 18,
+    "address": "0x7aee8ade020def44a531cd91b0850fbad9c68c00"
+  },
+  "0xa02120696c7b8fe16c09c749e4598819b2b0e915": {
+    "symbol": "WXT",
+    "name": "Wirex Token",
+    "decimals": 18,
+    "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915"
+  },
+  "0x35385e9b35537338c4ab586048fd34d085b138b8": {
+    "symbol": "CGC",
+    "name": "CashGo",
+    "decimals": 18,
+    "address": "0x35385e9b35537338c4ab586048fd34d085b138b8"
+  }
+}

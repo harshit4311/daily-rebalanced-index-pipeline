@@ -1,0 +1,32 @@
+{
+  "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5": {
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "decimals": 18,
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+  },
+  "0x4cffdb91e04d698470930f71da4b6021f420b642": {
+    "symbol": "HMN",
+    "name": "Human",
+    "decimals": 18,
+    "address": "0x4cffdb91e04d698470930f71da4b6021f420b642"
+  },
+  "0x21cd589a989615a9e901328d3c089bbca16d00b2": {
+    "symbol": "XMONEY",
+    "name": "X Money",
+    "decimals": 9,
+    "address": "0x21cd589a989615a9e901328d3c089bbca16d00b2"
+  },
+  "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045": {
+    "symbol": "PSM",
+    "name": "Possum",
+    "decimals": 18,
+    "address": "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045"
+  },
+  "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "decimals": 9,
+    "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+  }
+}

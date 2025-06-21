@@ -1,0 +1,32 @@
+{
+  "0x63f718c15f4500326dd5015f95ccbde770ad21af": {
+    "symbol": "EEFS",
+    "name": "Eefs",
+    "decimals": 18,
+    "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
+  },
+  "0x9d39a5de30e57443bff2a8307a4256c8797a3497": {
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+  },
+  "0x0fc036cfd300519170f90b21b92a4349d2dabbae": {
+    "symbol": "TNT",
+    "name": "Trinity Token",
+    "decimals": 18,
+    "address": "0x0fc036cfd300519170f90b21b92a4349d2dabbae"
+  },
+  "0x86c1ab939163de7bbc9b83feb93894729b73fc10": {
+    "symbol": "ALIZA",
+    "name": "Aliza AI",
+    "decimals": 18,
+    "address": "0x86c1ab939163de7bbc9b83feb93894729b73fc10"
+  },
+  "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61": {
+    "symbol": "FROGGIES",
+    "name": "Froggies",
+    "decimals": 9,
+    "address": "0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61"
+  }
+}

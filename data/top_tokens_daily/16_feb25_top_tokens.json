@@ -1,0 +1,32 @@
+{
+  "0xb0a6e9abab8ef40d477498a9225becacb03dec9c": {
+    "symbol": "ERC-317",
+    "name": "Cross-Chain Fee Settlement Token",
+    "decimals": 18,
+    "address": "0xb0a6e9abab8ef40d477498a9225becacb03dec9c"
+  },
+  "0xf828ba501b108fbc6c88ebdff81c401bb6b94848": {
+    "symbol": "CO",
+    "name": "coordinape.com",
+    "decimals": 18,
+    "address": "0xf828ba501b108fbc6c88ebdff81c401bb6b94848"
+  },
+  "0xd23582be9da75210e63211852fb7e0356ae85372": {
+    "symbol": "CCFST",
+    "name": "ERC-317",
+    "decimals": 18,
+    "address": "0xd23582be9da75210e63211852fb7e0356ae85372"
+  },
+  "0xe9a72e215136941f2a91093f215654ec3169e844": {
+    "symbol": "Broccoli",
+    "name": "CZ'S DOG",
+    "decimals": 18,
+    "address": "0xe9a72e215136941f2a91093f215654ec3169e844"
+  },
+  "0x7915d56614b071f4600350e029c4b95697ee8b8d": {
+    "symbol": "PAIN",
+    "name": "Hide the Pain Harold",
+    "decimals": 18,
+    "address": "0x7915d56614b071f4600350e029c4b95697ee8b8d"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "0x62e7fc24f791429a00878b791c604f1013084b7c": {
+    "symbol": "wTOR",
+    "name": "Wrapped Torus Network",
+    "decimals": 18,
+    "address": "0x62e7fc24f791429a00878b791c604f1013084b7c"
+  },
+  "0x21cd589a989615a9e901328d3c089bbca16d00b2": {
+    "symbol": "XMONEY",
+    "name": "X Money",
+    "decimals": 9,
+    "address": "0x21cd589a989615a9e901328d3c089bbca16d00b2"
+  },
+  "0x7ea7847f01ec5d7bbbac9053968bc2379bb5d17c": {
+    "symbol": "PEPE",
+    "name": "PEPE",
+    "decimals": 18,
+    "address": "0x7ea7847f01ec5d7bbbac9053968bc2379bb5d17c"
+  },
+  "0xc12f5585df4b049b156c3cdde84c92d42e40eb36": {
+    "symbol": "UBD",
+    "name": "United Blockchain Degens",
+    "decimals": 18,
+    "address": "0xc12f5585df4b049b156c3cdde84c92d42e40eb36"
+  },
+  "0xe355de6a6043b0580ff5a26b46051a4809b12793": {
+    "symbol": "4EVER",
+    "name": "4EVERLAND",
+    "decimals": 18,
+    "address": "0xe355de6a6043b0580ff5a26b46051a4809b12793"
+  }
+}

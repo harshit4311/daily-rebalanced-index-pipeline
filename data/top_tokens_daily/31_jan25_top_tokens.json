@@ -1,0 +1,32 @@
+{
+  "0x93b4d7cdbabb1c68696c7c2e7ba5cf6a5c90baaf": {
+    "symbol": "V4DOG",
+    "name": "UniSwap V4 DOG",
+    "decimals": 18,
+    "address": "0x93b4d7cdbabb1c68696c7c2e7ba5cf6a5c90baaf"
+  },
+  "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b": {
+    "symbol": "VDO",
+    "name": "Validao",
+    "decimals": 18,
+    "address": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b"
+  },
+  "0x9dbf71762198d6f5e41903028589153f0d0d54c3": {
+    "symbol": "Roselle",
+    "name": "Roselle",
+    "decimals": 18,
+    "address": "0x9dbf71762198d6f5e41903028589153f0d0d54c3"
+  },
+  "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131": {
+    "symbol": "DEFI",
+    "name": "DeFi",
+    "decimals": 18,
+    "address": "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131"
+  },
+  "0xf301115465e11c23a91436805c7ff9de9da6466f": {
+    "symbol": "JRE",
+    "name": "Joe Rogan Experience",
+    "decimals": 9,
+    "address": "0xf301115465e11c23a91436805c7ff9de9da6466f"
+  }
+}

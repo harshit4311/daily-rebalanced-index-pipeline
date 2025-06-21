@@ -1,0 +1,32 @@
+{
+  "0xf34960d9d60be18cc1d5afc1a6f012a723a28811": {
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "decimals": 6,
+    "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
+  },
+  "0x2322ead14ebaf23ea88f73d51f01a9bf58d78346": {
+    "symbol": "OVEIT",
+    "name": "Oveit",
+    "decimals": 18,
+    "address": "0x2322ead14ebaf23ea88f73d51f01a9bf58d78346"
+  },
+  "0x99999999999999cc837c997b882957dafdcb1af9": {
+    "symbol": "WUSDN",
+    "name": "Wrapped Ultimate Synthetic Delta Neutral",
+    "decimals": 18,
+    "address": "0x99999999999999cc837c997b882957dafdcb1af9"
+  },
+  "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5": {
+    "symbol": "$MICRO",
+    "name": "Micro GPT",
+    "decimals": 18,
+    "address": "0x8cedb0680531d26e62abdbd0f4c5428b7fdc26d5"
+  },
+  "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6": {
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "decimals": 18,
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+  }
+}

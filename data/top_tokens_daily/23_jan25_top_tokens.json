@@ -1,0 +1,32 @@
+{
+  "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98": {
+    "symbol": "Bold",
+    "name": "Bold Stablecoin",
+    "decimals": 18,
+    "address": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98"
+  },
+  "0x4dc26fc5854e7648a064a4abd590bbe71724c277": {
+    "symbol": "ANIME",
+    "name": "Animecoin",
+    "decimals": 18,
+    "address": "0x4dc26fc5854e7648a064a4abd590bbe71724c277"
+  },
+  "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8": {
+    "symbol": "SMOL",
+    "name": "SMOL",
+    "decimals": 18,
+    "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8"
+  },
+  "0x525536d71848f21b66da0d239546c50ee4c1a358": {
+    "symbol": "CTF",
+    "name": "Crypto Task Force",
+    "decimals": 9,
+    "address": "0x525536d71848f21b66da0d239546c50ee4c1a358"
+  },
+  "0x4ed257678fc4e76df9642a416b223729fdedbefd": {
+    "symbol": "STRX",
+    "name": "StrikeX",
+    "decimals": 18,
+    "address": "0x4ed257678fc4e76df9642a416b223729fdedbefd"
+  }
+}

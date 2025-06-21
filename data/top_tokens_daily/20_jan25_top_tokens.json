@@ -1,0 +1,32 @@
+{
+  "0xfdc9d2a3cae56e484a85de3c2e812784a8184d0d": {
+    "symbol": "YUGE",
+    "name": "ErectusDAO",
+    "decimals": 18,
+    "address": "0xfdc9d2a3cae56e484a85de3c2e812784a8184d0d"
+  },
+  "0x2c78d3f4a3fe69771fa129b81c82afa266ea7a39": {
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 18,
+    "address": "0x2c78d3f4a3fe69771fa129b81c82afa266ea7a39"
+  },
+  "0x73a05f8b258619335572a4538af10dd0c7598c91": {
+    "symbol": "FCKT",
+    "name": "Fuck Trump Token",
+    "decimals": 18,
+    "address": "0x73a05f8b258619335572a4538af10dd0c7598c91"
+  },
+  "0xadb109a9fbb8e038a615a65fb70bea8b59a6624e": {
+    "symbol": "ETRUMP",
+    "name": "EricTrump",
+    "decimals": 18,
+    "address": "0xadb109a9fbb8e038a615a65fb70bea8b59a6624e"
+  },
+  "0xff7133a16d9250c3b6ce843a259ab14f8aaea20b": {
+    "symbol": "BARON",
+    "name": "Baron Trump",
+    "decimals": 9,
+    "address": "0xff7133a16d9250c3b6ce843a259ab14f8aaea20b"
+  }
+}

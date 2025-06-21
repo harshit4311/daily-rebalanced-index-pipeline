@@ -1,0 +1,32 @@
+{
+  "0xcb1592591996765ec0efc1f92599a19767ee5ffa": {
+    "symbol": "BIO",
+    "name": "BIO",
+    "decimals": 18,
+    "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+  },
+  "0xcf078da6e85389de507ceede0e3d217e457b9d49": {
+    "symbol": "SKAI",
+    "name": "SkaiToken",
+    "decimals": 18,
+    "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49"
+  },
+  "0x18e22b697270ed32a6509b54911decea7780023d": {
+    "symbol": "ACORN",
+    "name": "Squirrel",
+    "decimals": 18,
+    "address": "0x18e22b697270ed32a6509b54911decea7780023d"
+  },
+  "0xe41150472cdbdca8069a74c160f856d048f580f9": {
+    "symbol": "DOODLES",
+    "name": "Doodles",
+    "decimals": 18,
+    "address": "0xe41150472cdbdca8069a74c160f856d048f580f9"
+  },
+  "0xb10cb07ca2cdac77fbb5707f6690301f9d036f45": {
+    "symbol": "WIN",
+    "name": "Win",
+    "decimals": 8,
+    "address": "0xb10cb07ca2cdac77fbb5707f6690301f9d036f45"
+  }
+}

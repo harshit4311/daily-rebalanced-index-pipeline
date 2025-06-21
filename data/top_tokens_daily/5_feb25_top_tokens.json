@@ -1,0 +1,32 @@
+{
+  "0x70a304c1776db52417420722cbac4b3902ca6aea": {
+    "symbol": "\ud83d\udd35",
+    "name": "\u200b",
+    "decimals": 18,
+    "address": "0x70a304c1776db52417420722cbac4b3902ca6aea"
+  },
+  "0x954b5b3bf1aeaccb351e0f6413404c2fdfd2b82d": {
+    "symbol": "BERA",
+    "name": "Berachain",
+    "decimals": 18,
+    "address": "0x954b5b3bf1aeaccb351e0f6413404c2fdfd2b82d"
+  },
+  "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4": {
+    "symbol": "RISE",
+    "name": "AdRise",
+    "decimals": 18,
+    "address": "0x89ca762f778c82120c13c79a9bfbdf6e8e663ab4"
+  },
+  "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16": {
+    "symbol": "SOIL",
+    "name": "Soil",
+    "decimals": 18,
+    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16"
+  },
+  "0xb4d3af116b3ea9e797e16af6d52f0b67f57d5dc6": {
+    "symbol": "AIF",
+    "name": "AI Fundation",
+    "decimals": 18,
+    "address": "0xb4d3af116b3ea9e797e16af6d52f0b67f57d5dc6"
+  }
+}

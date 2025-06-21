@@ -1,0 +1,32 @@
+{
+  "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c": {
+    "symbol": "Anon",
+    "name": "HeyAnon",
+    "decimals": 18,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+  },
+  "0x3426aad591a218e645af33e779617857d62709f8": {
+    "symbol": "JET-AI",
+    "name": "generateToken",
+    "decimals": 18,
+    "address": "0x3426aad591a218e645af33e779617857d62709f8"
+  },
+  "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb": {
+    "symbol": "MTC",
+    "name": "MetaTrustCoin",
+    "decimals": 18,
+    "address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb"
+  },
+  "0x3c358168631bcdc6da9c8e3a95f76182109f3545": {
+    "symbol": "Neural",
+    "name": "Neuralnet",
+    "decimals": 18,
+    "address": "0x3c358168631bcdc6da9c8e3a95f76182109f3545"
+  },
+  "0xb599ece013bc3786859df63efa7d86fb6ba0cfd2": {
+    "symbol": "E2",
+    "name": "Etheric Double",
+    "decimals": 18,
+    "address": "0xb599ece013bc3786859df63efa7d86fb6ba0cfd2"
+  }
+}

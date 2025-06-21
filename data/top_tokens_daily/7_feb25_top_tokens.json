@@ -1,0 +1,32 @@
+{
+  "0xb7bd89bee3308c754a5c96aad682cb89d4836c42": {
+    "symbol": "FLX",
+    "name": "FelixTheCat",
+    "decimals": 18,
+    "address": "0xb7bd89bee3308c754a5c96aad682cb89d4836c42"
+  },
+  "0xeb7ff8281ed74b791e32dba9f100f50638f9f558": {
+    "symbol": "BIGBALLS",
+    "name": "Edward Coristine",
+    "decimals": 18,
+    "address": "0xeb7ff8281ed74b791e32dba9f100f50638f9f558"
+  },
+  "0x907ce7893faf71c29cdaba14ade05a7fec0bfca5": {
+    "symbol": "FREEPUFF",
+    "name": "FREEPUFF",
+    "decimals": 18,
+    "address": "0x907ce7893faf71c29cdaba14ade05a7fec0bfca5"
+  },
+  "0x4b2b28cf16a78af035bad2d4017e7ed409b756f5": {
+    "symbol": "MUNCHI",
+    "name": "Munchi the Munchkin Cat",
+    "decimals": 18,
+    "address": "0x4b2b28cf16a78af035bad2d4017e7ed409b756f5"
+  },
+  "0x01616656a8503bb2611dd468df80d5616029b10d": {
+    "symbol": "HLGP",
+    "name": "Haulage Partner ",
+    "decimals": 4,
+    "address": "0x01616656a8503bb2611dd468df80d5616029b10d"
+  }
+}

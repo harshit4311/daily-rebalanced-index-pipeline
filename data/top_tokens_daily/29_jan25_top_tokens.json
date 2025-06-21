@@ -1,0 +1,32 @@
+{
+  "0xbdbfdad500bcf0079c2dd8a63b0f7f2af1de3c3a": {
+    "symbol": "MEGA",
+    "name": "Make Ethereum Great Again",
+    "decimals": 18,
+    "address": "0xbdbfdad500bcf0079c2dd8a63b0f7f2af1de3c3a"
+  },
+  "0x4b1d0b9f081468d780ca1d5d79132b64301085d1": {
+    "symbol": "LMR",
+    "name": "Lumerin",
+    "decimals": 8,
+    "address": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1"
+  },
+  "0xc970ca511bebf34dd0796f58ee3ded194f847f97": {
+    "symbol": "BOYCO",
+    "name": "Berachain Verification Portal",
+    "decimals": 18,
+    "address": "0xc970ca511bebf34dd0796f58ee3ded194f847f97"
+  },
+  "0xcb60f93b6bcd3ae76bf4c7cfdcd8c58d03f0c032": {
+    "symbol": "BOYCO",
+    "name": "Berachain Verification Portal",
+    "decimals": 18,
+    "address": "0xcb60f93b6bcd3ae76bf4c7cfdcd8c58d03f0c032"
+  },
+  "0x69b635cc31ca9289f832cbedac442cef3a99ea28": {
+    "symbol": "SANDBOX",
+    "name": "The Sandbox",
+    "decimals": 18,
+    "address": "0x69b635cc31ca9289f832cbedac442cef3a99ea28"
+  }
+}

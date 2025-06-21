@@ -1,0 +1,32 @@
+{
+  "0xf2c88757f8d03634671208935974b60a2a28bdb3": {
+    "symbol": "SHELL",
+    "name": "MyShell Token",
+    "decimals": 18,
+    "address": "0xf2c88757f8d03634671208935974b60a2a28bdb3"
+  },
+  "0x7ccd14a7909d963b94fd800cce47a683bbe94e34": {
+    "symbol": "EthreumGOOD",
+    "name": "Please lead this meme Vitalik",
+    "decimals": 18,
+    "address": "0x7ccd14a7909d963b94fd800cce47a683bbe94e34"
+  },
+  "0x3073f7aaa4db83f95e9fff17424f71d4751a3073": {
+    "symbol": "MOVE",
+    "name": "Movement",
+    "decimals": 8,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073"
+  },
+  "0x4f4e65339ae6ec09fb3441bbf765728cfd660244": {
+    "symbol": "EXEX",
+    "name": "Exponential Meal",
+    "decimals": 18,
+    "address": "0x4f4e65339ae6ec09fb3441bbf765728cfd660244"
+  },
+  "0x94accadeffbbccd8e261e82df3084ec50d5ea806": {
+    "symbol": "ELSV",
+    "name": "SALVACOIN",
+    "decimals": 18,
+    "address": "0x94accadeffbbccd8e261e82df3084ec50d5ea806"
+  }
+}

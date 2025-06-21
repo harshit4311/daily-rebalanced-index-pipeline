@@ -1,0 +1,32 @@
+{
+  "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0": {
+    "symbol": "USD0++",
+    "name": "USD0 Liquid Bond",
+    "decimals": 18,
+    "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
+  },
+  "0xddbcdd8637d5cedd15eeee398108fca05a71b32b": {
+    "symbol": "CRAI",
+    "name": "Cryptify AI",
+    "decimals": 18,
+    "address": "0xddbcdd8637d5cedd15eeee398108fca05a71b32b"
+  },
+  "0x07c8b9deae988726fd443ea8c3c1367f98a31f9c": {
+    "symbol": "BIOHACK",
+    "name": "BiohackerDAO",
+    "decimals": 18,
+    "address": "0x07c8b9deae988726fd443ea8c3c1367f98a31f9c"
+  },
+  "0x76887cb94cf29ec539b3219ba62104be04f26a5c": {
+    "symbol": "NITRO",
+    "name": "Nitro",
+    "decimals": 18,
+    "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c"
+  },
+  "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4": {
+    "symbol": "TREAT",
+    "name": "Shiba Inu Treat",
+    "decimals": 18,
+    "address": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4"
+  }
+}

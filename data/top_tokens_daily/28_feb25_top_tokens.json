@@ -1,0 +1,32 @@
+{
+  "0x5be6e0e0bbe7711dd118b9dc3c68ccf9bb9754ea": {
+    "symbol": "$VLN",
+    "name": "MUTANT ALIENS VILLAIN",
+    "decimals": 18,
+    "address": "0x5be6e0e0bbe7711dd118b9dc3c68ccf9bb9754ea"
+  },
+  "0x51ea52a6a885dd34f30494768cf1d9dc9f004185": {
+    "symbol": "SEA",
+    "name": "OpenSea",
+    "decimals": 18,
+    "address": "0x51ea52a6a885dd34f30494768cf1d9dc9f004185"
+  },
+  "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f": {
+    "symbol": "FORM",
+    "name": "Form",
+    "decimals": 18,
+    "address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f"
+  },
+  "0x77033decb1d3bf00384473e34b07958044a72ad3": {
+    "symbol": "TUPL",
+    "name": "Tuptalk",
+    "decimals": 18,
+    "address": "0x77033decb1d3bf00384473e34b07958044a72ad3"
+  },
+  "0xc63fffe835df068d76d1f3cadbb642068ca06fff": {
+    "symbol": "DA",
+    "name": "DRAGON ASIA",
+    "decimals": 18,
+    "address": "0xc63fffe835df068d76d1f3cadbb642068ca06fff"
+  }
+}

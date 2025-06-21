@@ -1,0 +1,32 @@
+{
+  "0x66db09b90104a046f8525af9773b5567363f1485": {
+    "symbol": "DONALD",
+    "name": "Donald Pump",
+    "decimals": 18,
+    "address": "0x66db09b90104a046f8525af9773b5567363f1485"
+  },
+  "0xe7f166903f58ed0786a5f10d064e977d8b7817e1": {
+    "symbol": "TRUMP",
+    "name": "Official Trump",
+    "decimals": 18,
+    "address": "0xe7f166903f58ed0786a5f10d064e977d8b7817e1"
+  },
+  "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde": {
+    "symbol": "QBIO",
+    "name": "Quantum Biology DAO Token",
+    "decimals": 18,
+    "address": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde"
+  },
+  "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b": {
+    "symbol": "TRUMP",
+    "name": "MAGA",
+    "decimals": 9,
+    "address": "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b"
+  },
+  "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7": {
+    "symbol": "cvxCRV",
+    "name": "Convex CRV",
+    "decimals": 18,
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7"
+  }
+}

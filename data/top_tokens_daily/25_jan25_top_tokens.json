@@ -1,0 +1,32 @@
+{
+  "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a": {
+    "symbol": "GrowAI",
+    "name": "SocialGrowAI",
+    "decimals": 18,
+    "address": "0x1c9b158e71bc274ea5519ca57a73e337cac72b3a"
+  },
+  "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d": {
+    "symbol": "SOSO",
+    "name": "SoSoValue",
+    "decimals": 18,
+    "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d"
+  },
+  "0x78dbe8a761ea452ddc9ee3321394f846967a96f8": {
+    "symbol": "XENAI",
+    "name": "Xenix AI",
+    "decimals": 18,
+    "address": "0x78dbe8a761ea452ddc9ee3321394f846967a96f8"
+  },
+  "0xfa1b1f13080857bf373de0de93970c96d2c29fd0": {
+    "symbol": "ONDOAI",
+    "name": "Ondo DeFAI",
+    "decimals": 18,
+    "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0"
+  },
+  "0x4d3a16dd0f64b42cd5fd947df24e17310de1c04e": {
+    "symbol": "GAI",
+    "name": "GicoAi",
+    "decimals": 18,
+    "address": "0x4d3a16dd0f64b42cd5fd947df24e17310de1c04e"
+  }
+}

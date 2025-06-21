@@ -1,0 +1,32 @@
+{
+  "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10": {
+    "symbol": "WEPE",
+    "name": "Wall Street Pepe",
+    "decimals": 18,
+    "address": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10"
+  },
+  "0xc24d52e3d3a36e9481af0715180e530cbe4667ca": {
+    "symbol": "HULEZHI",
+    "name": "HU LE ZHI",
+    "decimals": 9,
+    "address": "0xc24d52e3d3a36e9481af0715180e530cbe4667ca"
+  },
+  "0x8292bb45bf1ee4d140127049757c2e0ff06317ed": {
+    "symbol": "RLUSD",
+    "name": "RLUSD",
+    "decimals": 18,
+    "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed"
+  },
+  "0x9c9293f0ad42ae8f6f53c812f274ef91f7941026": {
+    "symbol": "GROK3",
+    "name": "GROK 3",
+    "decimals": 9,
+    "address": "0x9c9293f0ad42ae8f6f53c812f274ef91f7941026"
+  },
+  "0x1f367099d769ad1694b75357e607ae1b1d06dbc6": {
+    "symbol": "MEGA",
+    "name": "Please Lead This Meme",
+    "decimals": 18,
+    "address": "0x1f367099d769ad1694b75357e607ae1b1d06dbc6"
+  }
+}

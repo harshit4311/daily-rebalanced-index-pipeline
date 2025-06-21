@@ -1,0 +1,32 @@
+{
+  "0xf765a907e09a1063a18080b99228acc0537e0434": {
+    "symbol": "REFEREUM",
+    "name": "Refereum",
+    "decimals": 18,
+    "address": "0xf765a907e09a1063a18080b99228acc0537e0434"
+  },
+  "0xa7489c678ac04eaf41306d225377ffdcbce2c8ad": {
+    "symbol": "FOUND",
+    "name": "DeFAI Foundation",
+    "decimals": 18,
+    "address": "0xa7489c678ac04eaf41306d225377ffdcbce2c8ad"
+  },
+  "0xfaf266b4878fb3be1d81fe31d59ed54fe5a91faa": {
+    "symbol": "COSA",
+    "name": "CosaNostra",
+    "decimals": 18,
+    "address": "0xfaf266b4878fb3be1d81fe31d59ed54fe5a91faa"
+  },
+  "0xf59a3b78c594e1aaa44c16d82a7b8ac2fce0ad28": {
+    "symbol": "PTN",
+    "name": "PUTIN",
+    "decimals": 18,
+    "address": "0xf59a3b78c594e1aaa44c16d82a7b8ac2fce0ad28"
+  },
+  "0xec0fb86d6302e8b9e61a47b51e7495aa1fbe0170": {
+    "symbol": "ERIC",
+    "name": "Official Eric Trump",
+    "decimals": 18,
+    "address": "0xec0fb86d6302e8b9e61a47b51e7495aa1fbe0170"
+  }
+}

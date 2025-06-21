@@ -1,0 +1,32 @@
+{
+  "0x4c1746a800d224393fe2470c70a35717ed4ea5f1": {
+    "symbol": "PLUME",
+    "name": "Plume",
+    "decimals": 18,
+    "address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1"
+  },
+  "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5": {
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "decimals": 18,
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+  },
+  "0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058": {
+    "symbol": "SHIRO",
+    "name": "Shiro Neko",
+    "decimals": 18,
+    "address": "0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058"
+  },
+  "0x3143912c13f7cc2d9a22d409fdeca54c88cbbb94": {
+    "symbol": "BioCat",
+    "name": "BioCat",
+    "decimals": 18,
+    "address": "0x3143912c13f7cc2d9a22d409fdeca54c88cbbb94"
+  },
+  "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2": {
+    "symbol": "wWLFI",
+    "name": "Wrapped World Liberty Financial",
+    "decimals": 18,
+    "address": "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2"
+  }
+}

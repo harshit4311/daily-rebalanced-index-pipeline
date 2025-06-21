@@ -1,0 +1,32 @@
+{
+  "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948": {
+    "symbol": "GOD",
+    "name": "Godcoin",
+    "decimals": 18,
+    "address": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948"
+  },
+  "0xfa1b1f13080857bf373de0de93970c96d2c29fd0": {
+    "symbol": "ONDOAI",
+    "name": "Ondo DeFAI",
+    "decimals": 18,
+    "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0"
+  },
+  "0x665e9fbbb394d3aaae3948fd8a6b655b0544ffb1": {
+    "symbol": "PXT",
+    "name": "Pixel Trump",
+    "decimals": 18,
+    "address": "0x665e9fbbb394d3aaae3948fd8a6b655b0544ffb1"
+  },
+  "0x88171e4fd82c2e83efa13c031056884360aecf96": {
+    "symbol": "Doge2014",
+    "name": "Doge2014",
+    "decimals": 18,
+    "address": "0x88171e4fd82c2e83efa13c031056884360aecf96"
+  },
+  "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
+    "symbol": "PEAS",
+    "name": "Peapods",
+    "decimals": 18,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  }
+}

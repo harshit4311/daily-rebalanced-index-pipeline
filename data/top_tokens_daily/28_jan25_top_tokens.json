@@ -1,0 +1,32 @@
+{
+  "0x0e26013cbd346476789fedfdc2975118a91f5e4b": {
+    "symbol": "SHYN",
+    "name": "SHYN",
+    "decimals": 5,
+    "address": "0x0e26013cbd346476789fedfdc2975118a91f5e4b"
+  },
+  "0x39df6e163f0aeb541835984acb3427e8ae4070fb": {
+    "symbol": "DSwarms",
+    "name": "Deepseek swarms",
+    "decimals": 18,
+    "address": "0x39df6e163f0aeb541835984acb3427e8ae4070fb"
+  },
+  "0x02e358f2afd00d5751a742c213c80b19e6f46554": {
+    "symbol": "AHL",
+    "name": "Hyperloop",
+    "decimals": 18,
+    "address": "0x02e358f2afd00d5751a742c213c80b19e6f46554"
+  },
+  "0xd1de603884e6424241caf53efa846e7c6163755c": {
+    "symbol": "ENERGY",
+    "name": "Energy Credit",
+    "decimals": 18,
+    "address": "0xd1de603884e6424241caf53efa846e7c6163755c"
+  },
+  "0x9aad83797a97dfbf02b7e3908cdaf99bec6559d2": {
+    "symbol": "RHC",
+    "name": "RaceHorseCoins",
+    "decimals": 18,
+    "address": "0x9aad83797a97dfbf02b7e3908cdaf99bec6559d2"
+  }
+}

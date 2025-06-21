@@ -1,0 +1,32 @@
+{
+  "0xd1d2eb1b1e90b638588728b4130137d262c87cae": {
+    "symbol": "GALA",
+    "name": "Gala",
+    "decimals": 8,
+    "address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae"
+  },
+  "0x62e2cc1b42202b789ef19cf08fadd7bb907b7f4f": {
+    "symbol": "ETHN",
+    "name": "Ethernova",
+    "decimals": 18,
+    "address": "0x62e2cc1b42202b789ef19cf08fadd7bb907b7f4f"
+  },
+  "0x1f57da732a77636d913c9a75d685b26cc85dcc3a": {
+    "symbol": "OL",
+    "name": "OPENLOOT",
+    "decimals": 18,
+    "address": "0x1f57da732a77636d913c9a75d685b26cc85dcc3a"
+  },
+  "0x15cdf971fb7b5074b497add287185ab64cc0c375": {
+    "symbol": "HOODRAT",
+    "name": "Hoodrat",
+    "decimals": 9,
+    "address": "0x15cdf971fb7b5074b497add287185ab64cc0c375"
+  },
+  "0x4f7ee54df0be9a5619f7e85e42f3525b65d5539c": {
+    "symbol": "Jimmy",
+    "name": "Jimmy",
+    "decimals": 18,
+    "address": "0x4f7ee54df0be9a5619f7e85e42f3525b65d5539c"
+  }
+}

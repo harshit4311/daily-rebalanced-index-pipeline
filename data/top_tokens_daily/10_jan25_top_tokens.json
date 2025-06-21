@@ -1,0 +1,32 @@
+{
+  "0x429f0d8233e517f9acf6f0c8293bf35804063a83": {
+    "symbol": "POWER",
+    "name": "Powerloom Token",
+    "decimals": 18,
+    "address": "0x429f0d8233e517f9acf6f0c8293bf35804063a83"
+  },
+  "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6": {
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "decimals": 18,
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+  },
+  "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+    "symbol": "MATIC",
+    "name": "Matic Token",
+    "decimals": 18,
+    "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+  },
+  "0xf3fcb171624aad107117a439b8a4fb0febe3dec5": {
+    "symbol": "CASHNA",
+    "name": "Cashna",
+    "decimals": 18,
+    "address": "0xf3fcb171624aad107117a439b8a4fb0febe3dec5"
+  },
+  "0xcad7b2a5aed4ddd0c5ab34a1116fc046aeffc460": {
+    "symbol": "CRIMS",
+    "name": "TheCrims",
+    "decimals": 18,
+    "address": "0xcad7b2a5aed4ddd0c5ab34a1116fc046aeffc460"
+  }
+}

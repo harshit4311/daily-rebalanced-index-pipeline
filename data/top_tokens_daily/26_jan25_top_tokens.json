@@ -1,0 +1,32 @@
+{
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+  },
+  "0x90e3532cf06d567ef7e6385be532311f10c30096": {
+    "symbol": "RSP",
+    "name": "Reality Spiral",
+    "decimals": 18,
+    "address": "0x90e3532cf06d567ef7e6385be532311f10c30096"
+  },
+  "0x32462ba310e447ef34ff0d15bce8613aa8c4a244": {
+    "symbol": "DHN",
+    "name": "Dohrnii",
+    "decimals": 18,
+    "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244"
+  },
+  "0xf30a2a19eea1684ed0d86ad1af3e756298e89ab6": {
+    "symbol": "ASTROLAM",
+    "name": "AstroLam",
+    "decimals": 18,
+    "address": "0xf30a2a19eea1684ed0d86ad1af3e756298e89ab6"
+  },
+  "0x56cfc19d8cbf7d417d370844249be9cb2d2e19a1": {
+    "symbol": "DOGECAUCUS",
+    "name": "Doge Caucus",
+    "decimals": 9,
+    "address": "0x56cfc19d8cbf7d417d370844249be9cb2d2e19a1"
+  }
+}

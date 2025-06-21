@@ -1,0 +1,32 @@
+{
+  "0x7e184e30f311745286c21406123cf5760fd38fc4": {
+    "symbol": "ALMO",
+    "name": "AlamoToken",
+    "decimals": 4,
+    "address": "0x7e184e30f311745286c21406123cf5760fd38fc4"
+  },
+  "0x1331053a90d1f71871fcfd382163df5d66b61f23": {
+    "symbol": "LAYER",
+    "name": "Solayer",
+    "decimals": 18,
+    "address": "0x1331053a90d1f71871fcfd382163df5d66b61f23"
+  },
+  "0xefadde8956f3968578528398022c416072c71f9d": {
+    "symbol": "ERC-317",
+    "name": "Cross-Chain Fee Settlement Token",
+    "decimals": 18,
+    "address": "0xefadde8956f3968578528398022c416072c71f9d"
+  },
+  "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae": {
+    "symbol": "BALLS",
+    "name": "Big Balls",
+    "decimals": 9,
+    "address": "0x9ea59db651a3c79a8d52a394a49da8e9a214d6ae"
+  },
+  "0x36afd0efa05e0f50eadce42298261462a1440cf4": {
+    "symbol": "SCOOL",
+    "name": "SC TEST 000",
+    "decimals": 18,
+    "address": "0x36afd0efa05e0f50eadce42298261462a1440cf4"
+  }
+}

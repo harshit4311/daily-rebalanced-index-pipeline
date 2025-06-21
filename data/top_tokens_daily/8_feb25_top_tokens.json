@@ -1,0 +1,32 @@
+{
+  "0xc01833089381cf4c936fa6a60bbdfd191e7f14fa": {
+    "symbol": "FARTBABY",
+    "name": "FARTBABY",
+    "decimals": 18,
+    "address": "0xc01833089381cf4c936fa6a60bbdfd191e7f14fa"
+  },
+  "0x7a5fe51002bf04f9ac406fe085eaa9b7ace34d13": {
+    "symbol": "RETAIL",
+    "name": "RETAIL",
+    "decimals": 18,
+    "address": "0x7a5fe51002bf04f9ac406fe085eaa9b7ace34d13"
+  },
+  "0xb8c77482e45f1f44de1745f52c74426c631bdd52": {
+    "symbol": "BNB",
+    "name": "BNB",
+    "decimals": 18,
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+  },
+  "0x2a3bff78b79a009976eea096a51a948a3dc00e34": {
+    "symbol": "WILD",
+    "name": "Wilder",
+    "decimals": 18,
+    "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34"
+  },
+  "0xaa0b8f9ac1d1f5c2ce85b78b3da5e5141d84d8e0": {
+    "symbol": "FARTDOG",
+    "name": "Walter the Farting Dog ",
+    "decimals": 18,
+    "address": "0xaa0b8f9ac1d1f5c2ce85b78b3da5e5141d84d8e0"
+  }
+}

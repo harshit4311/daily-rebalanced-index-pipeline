@@ -1,0 +1,32 @@
+{
+  "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b": {
+    "symbol": "syrupUSDC",
+    "name": "Syrup USDC",
+    "decimals": 6,
+    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b"
+  },
+  "0xe71bdfe1df69284f00ee185cf0d95d0c7680c0d4": {
+    "symbol": "SETH",
+    "name": "Sepolia ETH",
+    "decimals": 18,
+    "address": "0xe71bdfe1df69284f00ee185cf0d95d0c7680c0d4"
+  },
+  "0xff9f92935d39dcfdf5adaae8470ce9393c876b46": {
+    "symbol": "TKN",
+    "name": "Token",
+    "decimals": 18,
+    "address": "0xff9f92935d39dcfdf5adaae8470ce9393c876b46"
+  },
+  "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb": {
+    "symbol": "ATN",
+    "name": "ATHENE NETWORK",
+    "decimals": 9,
+    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb"
+  },
+  "0xe3c4ce820c64a0a9f59c45759c7bb3d37b88ee7e": {
+    "symbol": "THANK",
+    "name": "Help me push this meme",
+    "decimals": 18,
+    "address": "0xe3c4ce820c64a0a9f59c45759c7bb3d37b88ee7e"
+  }
+}

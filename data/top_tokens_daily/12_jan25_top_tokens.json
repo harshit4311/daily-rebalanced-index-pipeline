@@ -1,0 +1,32 @@
+{
+  "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c": {
+    "symbol": "Anon",
+    "name": "HeyAnon",
+    "decimals": 18,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c"
+  },
+  "0x58d97b57bb95320f9a05dc918aef65434969c2b2": {
+    "symbol": "MORPHO",
+    "name": "Morpho Token",
+    "decimals": 18,
+    "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2"
+  },
+  "0x39be7e439929899d1b639ebc119eacd3ceabd0f8": {
+    "symbol": "TRMPTN",
+    "name": "TrumpNation Token",
+    "decimals": 18,
+    "address": "0x39be7e439929899d1b639ebc119eacd3ceabd0f8"
+  },
+  "0x575cfde1222d07e87c839f606db2ec0e87b4b55d": {
+    "symbol": "TRMPLGC",
+    "name": "TrumpLegacy Token",
+    "decimals": 18,
+    "address": "0x575cfde1222d07e87c839f606db2ec0e87b4b55d"
+  },
+  "0x79655bfb7f24c6e4d30e551aac90a391ca2a2b70": {
+    "symbol": "MEGA",
+    "name": "Make Europe Great Again",
+    "decimals": 9,
+    "address": "0x79655bfb7f24c6e4d30e551aac90a391ca2a2b70"
+  }
+}

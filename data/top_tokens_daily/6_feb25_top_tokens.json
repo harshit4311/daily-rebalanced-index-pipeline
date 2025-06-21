@@ -1,0 +1,32 @@
+{
+  "0x3908b45ce7395dba8a76bfbc16ee99e85b9e88a3": {
+    "symbol": "DFV",
+    "name": "DeepFuckinValue",
+    "decimals": 18,
+    "address": "0x3908b45ce7395dba8a76bfbc16ee99e85b9e88a3"
+  },
+  "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf": {
+    "symbol": "SFI",
+    "name": "Singularity Finance",
+    "decimals": 18,
+    "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf"
+  },
+  "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf": {
+    "symbol": "DFDX",
+    "name": "DFDX",
+    "decimals": 18,
+    "address": "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf"
+  },
+  "0xd7c959f08adff7ae906013da09641289db4c281f": {
+    "symbol": "CWORLD",
+    "name": "Camerons World",
+    "decimals": 18,
+    "address": "0xd7c959f08adff7ae906013da09641289db4c281f"
+  },
+  "0x9dc37e4a901b1e21bd05e75c3b9a633a17001a39": {
+    "symbol": "ctUSDe",
+    "name": "Concrete-USDe-Vault",
+    "decimals": 27,
+    "address": "0x9dc37e4a901b1e21bd05e75c3b9a633a17001a39"
+  }
+}

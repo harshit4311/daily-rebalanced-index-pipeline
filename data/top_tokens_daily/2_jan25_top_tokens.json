@@ -1,0 +1,32 @@
+{
+  "0x0d1f4be2f03aa373d8d72fe29fd1a54eafacd571": {
+    "symbol": "HODL",
+    "name": "HODLytics",
+    "decimals": 18,
+    "address": "0x0d1f4be2f03aa373d8d72fe29fd1a54eafacd571"
+  },
+  "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a": {
+    "symbol": "wKalis",
+    "name": "wKalis",
+    "decimals": 18,
+    "address": "0x9802296cc5b76ff2fc6dd6de372f47f96bc0347a"
+  },
+  "0xc57d533c50bc22247d49a368880fb49a1caa39f7": {
+    "symbol": "PTF",
+    "name": "PowerTrade Fuel Token",
+    "decimals": 18,
+    "address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7"
+  },
+  "0xcb1592591996765ec0efc1f92599a19767ee5ffa": {
+    "symbol": "BIO",
+    "name": "BIO",
+    "decimals": 18,
+    "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+  },
+  "0xc7dcfc85011ece6bf923b1c5731704e6cc7e40d0": {
+    "symbol": "BIO",
+    "name": "BIO Protocol",
+    "decimals": 18,
+    "address": "0xc7dcfc85011ece6bf923b1c5731704e6cc7e40d0"
+  }
+}

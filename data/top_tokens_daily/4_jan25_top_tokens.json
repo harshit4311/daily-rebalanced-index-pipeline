@@ -1,0 +1,32 @@
+{
+  "0x4448726b23483927c492f09c1dbfdffd3967b452": {
+    "symbol": "PERCY",
+    "name": "Percy Verence",
+    "decimals": 9,
+    "address": "0x4448726b23483927c492f09c1dbfdffd3967b452"
+  },
+  "0x1fa442f79b49f2461f3f0d7b6c10f6ad920c3c10": {
+    "symbol": "DEFAI",
+    "name": "DeFAI",
+    "decimals": 18,
+    "address": "0x1fa442f79b49f2461f3f0d7b6c10f6ad920c3c10"
+  },
+  "0xa1a40f79b52761ea069349778ae2a761a05ee388": {
+    "symbol": "WOJAK",
+    "name": "Wojak",
+    "decimals": 18,
+    "address": "0xa1a40f79b52761ea069349778ae2a761a05ee388"
+  },
+  "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc": {
+    "symbol": "CHAMP",
+    "name": "Super Champs",
+    "decimals": 18,
+    "address": "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc"
+  },
+  "0x2035e4c52275e85658d98b2bd774cd879a3179d2": {
+    "symbol": "MOGIUS",
+    "name": "Mogius Maximus",
+    "decimals": 9,
+    "address": "0x2035e4c52275e85658d98b2bd774cd879a3179d2"
+  }
+}
