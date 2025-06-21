@@ -28,5 +28,83 @@
     "name": "PI Network",
     "decimals": 18,
     "address": "0xbc185ada2914c1dbf7b09127b7a3081b0638a8e1"
+  },
+  "0x5b870c965b6a7e8d3e3c8706b1b3d1a0a698927f": {
+    "symbol": "Hzzzz",
+    "name": "Hzzzz",
+    "decimals": 18,
+    "address": "0x5b870c965b6a7e8d3e3c8706b1b3d1a0a698927f"
+  },
+  "0x7763eca3b82f493ca1c5d6ac1aadfff010855af3": {
+    "symbol": "AIENQ",
+    "name": "AIENQ",
+    "decimals": 18,
+    "address": "0x7763eca3b82f493ca1c5d6ac1aadfff010855af3"
+  },
+  "0x14fb326c51abc84f98a3d7c9c4f207c07a9b4700": {
+    "symbol": "TRUMPV3",
+    "name": "TRUMPV3",
+    "decimals": 18,
+    "address": "0x14fb326c51abc84f98a3d7c9c4f207c07a9b4700"
+  },
+  "0xa5af81f49916119aa8ef353dc23f35d19170f1ab": {
+    "symbol": "PEPEPEI",
+    "name": "PEPEPEI",
+    "decimals": 18,
+    "address": "0xa5af81f49916119aa8ef353dc23f35d19170f1ab"
+  },
+  "0xa851a9cb7312c4a2d09d73428fb8d4cf89077968": {
+    "symbol": "AIENQ.X",
+    "name": "AI Global Fraud Detector",
+    "decimals": 18,
+    "address": "0xa851a9cb7312c4a2d09d73428fb8d4cf89077968"
+  },
+  "0xaecbfa07c0b208b84a575a17209249e74f2745a1": {
+    "symbol": "broccoli Ai",
+    "name": "broccoli Ai",
+    "decimals": 18,
+    "address": "0xaecbfa07c0b208b84a575a17209249e74f2745a1"
+  },
+  "0xc6d2bea05f146de48089c97024c2d529fe5795fd": {
+    "symbol": "AIENQ.X",
+    "name": "AI Global Fraud Detector.X",
+    "decimals": 18,
+    "address": "0xc6d2bea05f146de48089c97024c2d529fe5795fd"
+  },
+  "0xaf532410a3ad8ceed809f24a6003057dcdb890f1": {
+    "symbol": "PEKUN",
+    "name": "PEKUN",
+    "decimals": 18,
+    "address": "0xaf532410a3ad8ceed809f24a6003057dcdb890f1"
+  },
+  "0xd536e7a9543cf9867a580b45cec7f748a1fe11ec": {
+    "symbol": "ORX",
+    "name": "Ouroboros",
+    "decimals": 18,
+    "address": "0xd536e7a9543cf9867a580b45cec7f748a1fe11ec"
+  },
+  "0xddf73eacb2218377fc38679ad14dfce51b651dd1": {
+    "symbol": "USDx",
+    "name": "USDx",
+    "decimals": 18,
+    "address": "0xddf73eacb2218377fc38679ad14dfce51b651dd1"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  "0x4956b52ae2ff65d74ca2d61207523288e4528f96": {
+    "symbol": "RLP",
+    "name": "Resolv Liquidity Provider Token",
+    "decimals": 18,
+    "address": "0x4956b52ae2ff65d74ca2d61207523288e4528f96"
+  },
+  "0x53c6034120280c1472b296d3fe3b6459f1691fda": {
+    "symbol": "AIENQ.X",
+    "name": "AI Global Fraud Detector X",
+    "decimals": 18,
+    "address": "0x53c6034120280c1472b296d3fe3b6459f1691fda"
   }
 }

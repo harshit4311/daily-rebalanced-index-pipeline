@@ -28,5 +28,95 @@
     "name": "Doge Caucus",
     "decimals": 9,
     "address": "0x56cfc19d8cbf7d417d370844249be9cb2d2e19a1"
+  },
+  "0x4f8a010b87f657914ca98da7e7fdabe1208b0732": {
+    "symbol": "GAI",
+    "name": "GO Ai",
+    "decimals": 18,
+    "address": "0x4f8a010b87f657914ca98da7e7fdabe1208b0732"
+  },
+  "0x6988a804c74fd04f37da1ea4781cea68c9c00f86": {
+    "symbol": "TRIBL",
+    "name": "Tribal Token",
+    "decimals": 18,
+    "address": "0x6988a804c74fd04f37da1ea4781cea68c9c00f86"
+  },
+  "0x3fc2b37d6d8bf55cbd2a87dadb35ba742ca94427": {
+    "symbol": "XIUS",
+    "name": "Xius Maximus",
+    "decimals": 18,
+    "address": "0x3fc2b37d6d8bf55cbd2a87dadb35ba742ca94427"
+  },
+  "0x6985f4bedc0789a17f00638c1c0eb37e76d6350e": {
+    "symbol": "MLYRA",
+    "name": "Malvan Lyra",
+    "decimals": 6,
+    "address": "0x6985f4bedc0789a17f00638c1c0eb37e76d6350e"
+  },
+  "0xabab3b0db38f2303acbcab672905e41a18e396d8": {
+    "symbol": "APEMAN",
+    "name": "Ape Man",
+    "decimals": 9,
+    "address": "0xabab3b0db38f2303acbcab672905e41a18e396d8"
+  },
+  "0x22a459beefb9795d74c10fcf37806197895fd835": {
+    "symbol": "MUSK",
+    "name": "Musk Coin",
+    "decimals": 18,
+    "address": "0x22a459beefb9795d74c10fcf37806197895fd835"
+  },
+  "0xed5f224c00335ef657f29ca004545da26867d952": {
+    "symbol": "Retard",
+    "name": "RetardCoin",
+    "decimals": 18,
+    "address": "0xed5f224c00335ef657f29ca004545da26867d952"
+  },
+  "0xafb74f536b8a7bb3d9b96bab164f11074fd0aba1": {
+    "symbol": "GWAI",
+    "name": "GOW Ai",
+    "decimals": 18,
+    "address": "0xafb74f536b8a7bb3d9b96bab164f11074fd0aba1"
+  },
+  "0xd5f7caaeabf404c88a96b930e775cc482a279dea": {
+    "symbol": "WLFI",
+    "name": "WLFI",
+    "decimals": 18,
+    "address": "0xd5f7caaeabf404c88a96b930e775cc482a279dea"
+  },
+  "0x0b74d14460913de6bddd7505b052ee5a20d0850b": {
+    "symbol": "GTR",
+    "name": "GTR",
+    "decimals": 18,
+    "address": "0x0b74d14460913de6bddd7505b052ee5a20d0850b"
+  },
+  "0x49dcd92f701db0fef57c068b31daa4470b051f35": {
+    "symbol": "JKC",
+    "name": "JokesterCoin",
+    "decimals": 18,
+    "address": "0x49dcd92f701db0fef57c068b31daa4470b051f35"
+  },
+  "0x7294d3ccd12e54a73cb8c35453a66202a5b4192c": {
+    "symbol": "NICHEMAN",
+    "name": "Nicheman",
+    "decimals": 18,
+    "address": "0x7294d3ccd12e54a73cb8c35453a66202a5b4192c"
+  },
+  "0x0943d06a5ff3b25ddc51642717680c105ad63c01": {
+    "symbol": "Ascend",
+    "name": "Ascendant.win",
+    "decimals": 18,
+    "address": "0x0943d06a5ff3b25ddc51642717680c105ad63c01"
+  },
+  "0x96a5399d07896f757bd4c6ef56461f58db951862": {
+    "symbol": "DRAGONX",
+    "name": "DragonX",
+    "decimals": 18,
+    "address": "0x96a5399d07896f757bd4c6ef56461f58db951862"
+  },
+  "0x468c03ff7bcfd111ac03cdb7adf254e7f49fd566": {
+    "symbol": "ASE",
+    "name": "All-Seeing Eye",
+    "decimals": 18,
+    "address": "0x468c03ff7bcfd111ac03cdb7adf254e7f49fd566"
   }
 }

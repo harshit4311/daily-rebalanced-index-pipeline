@@ -28,5 +28,41 @@
     "name": "Make Europe Great Again",
     "decimals": 9,
     "address": "0x79655bfb7f24c6e4d30e551aac90a391ca2a2b70"
+  },
+  "0x2a1edb847a66290fa0bc152d4c3c7c2699e17a2d": {
+    "symbol": "WebrV1",
+    "name": "Web3BrotherV1",
+    "decimals": 18,
+    "address": "0x2a1edb847a66290fa0bc152d4c3c7c2699e17a2d"
+  },
+  "0x979918527407c9ade875750e0719b45fd701e593": {
+    "symbol": "CVCE",
+    "name": "CoveNice",
+    "decimals": 18,
+    "address": "0x979918527407c9ade875750e0719b45fd701e593"
+  },
+  "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf": {
+    "symbol": "PAL",
+    "name": "Paladin Token",
+    "decimals": 18,
+    "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf"
+  },
+  "0xcb7096cab8470b6c3a14bd13cc071d915af12025": {
+    "symbol": "2025",
+    "name": "2025",
+    "decimals": 9,
+    "address": "0xcb7096cab8470b6c3a14bd13cc071d915af12025"
+  },
+  "0x6b8dd760130e1e84fd857369683fa386af90bbc3": {
+    "symbol": "TRMP45",
+    "name": "Trump45 Token",
+    "decimals": 18,
+    "address": "0x6b8dd760130e1e84fd857369683fa386af90bbc3"
+  },
+  "0x9be89d2a4cd102d8fecc6bf9da793be995c22541": {
+    "symbol": "BBTC",
+    "name": "Binance Wrapped BTC",
+    "decimals": 8,
+    "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541"
   }
 }

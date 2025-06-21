@@ -28,5 +28,113 @@
     "name": "Peapods",
     "decimals": 18,
     "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  },
+  "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc": {
+    "symbol": "GFX",
+    "name": "GamyFi",
+    "decimals": 18,
+    "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc"
+  },
+  "0xeb6151d0bec6ef55c471ce767ef009ba9d11a96e": {
+    "symbol": "CAMERON",
+    "name": "Camerons World",
+    "decimals": 18,
+    "address": "0xeb6151d0bec6ef55c471ce767ef009ba9d11a96e"
+  },
+  "0x856c8985c5b3f7d6f4a9e21d9457829ca7b8bd1e": {
+    "symbol": "SAIBO",
+    "name": "Scooterlui AI Boost",
+    "decimals": 18,
+    "address": "0x856c8985c5b3f7d6f4a9e21d9457829ca7b8bd1e"
+  },
+  "0xe9732d4b1e7d3789004ff029f032ba3034db059c": {
+    "symbol": "PATRIOT",
+    "name": "Patriot",
+    "decimals": 18,
+    "address": "0xe9732d4b1e7d3789004ff029f032ba3034db059c"
+  },
+  "0xee7527841a932d2912224e20a405e1a1ff747084": {
+    "symbol": "SHX",
+    "name": "Stronghold SHx",
+    "decimals": 7,
+    "address": "0xee7527841a932d2912224e20a405e1a1ff747084"
+  },
+  "0x984239261b4aff295d004d7ca2af039ad898d1d9": {
+    "symbol": "NEON",
+    "name": "Neon Alchemy",
+    "decimals": 18,
+    "address": "0x984239261b4aff295d004d7ca2af039ad898d1d9"
+  },
+  "0xddd7f56e41647c91d5ae562da7d2eed27d501891": {
+    "symbol": "VMM",
+    "name": "VMM Token",
+    "decimals": 18,
+    "address": "0xddd7f56e41647c91d5ae562da7d2eed27d501891"
+  },
+  "0x88eac23c8673a2049cbbbc0a417afbd9d4e438bf": {
+    "symbol": "CWT",
+    "name": "Crypto World",
+    "decimals": 18,
+    "address": "0x88eac23c8673a2049cbbbc0a417afbd9d4e438bf"
+  },
+  "0x1fd4c6b448fbfe74f65027067896de8e1c1bb894": {
+    "symbol": "VMM",
+    "name": "VMM Token",
+    "decimals": 18,
+    "address": "0x1fd4c6b448fbfe74f65027067896de8e1c1bb894"
+  },
+  "0x3b50805453023a91a8bf641e279401a0b23fa6f9": {
+    "symbol": "REZ",
+    "name": "Renzo",
+    "decimals": 18,
+    "address": "0x3b50805453023a91a8bf641e279401a0b23fa6f9"
+  },
+  "0x77b1183e730275f6a8024ce53d54bcc12b368f60": {
+    "symbol": "ezREZ",
+    "name": "Restaked REZ",
+    "decimals": 18,
+    "address": "0x77b1183e730275f6a8024ce53d54bcc12b368f60"
+  },
+  "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd": {
+    "symbol": "$XTC",
+    "name": "Xitcoin",
+    "decimals": 8,
+    "address": "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd"
+  },
+  "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3": {
+    "symbol": "ELON",
+    "name": "Dogelon",
+    "decimals": 18,
+    "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3"
+  },
+  "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d": {
+    "symbol": "SOSO",
+    "name": "SoSoValue",
+    "decimals": 18,
+    "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d"
+  },
+  "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea": {
+    "symbol": "DEAI",
+    "name": "Zero1 Token",
+    "decimals": 18,
+    "address": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea"
+  },
+  "0x5804c7ab41217af61deda7ff29b962faa7c2b7d1": {
+    "symbol": "AITRUMP",
+    "name": "TrumpsAI",
+    "decimals": 18,
+    "address": "0x5804c7ab41217af61deda7ff29b962faa7c2b7d1"
+  },
+  "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0": {
+    "symbol": "rDAI",
+    "name": "Redeemable DAI",
+    "decimals": 18,
+    "address": "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0"
+  },
+  "0x83f20f44975d03b1b09e64809b757c47f942beea": {
+    "symbol": "sDAI",
+    "name": "Savings Dai",
+    "decimals": 18,
+    "address": "0x83f20f44975d03b1b09e64809b757c47f942beea"
   }
 }

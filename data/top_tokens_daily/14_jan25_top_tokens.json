@@ -28,5 +28,113 @@
     "name": "Shiba Inu Treat",
     "decimals": 18,
     "address": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4"
+  },
+  "0xfc574c657a0bf53291ea7794b772ee00b5f97bef": {
+    "symbol": "MASK",
+    "name": "Mask",
+    "decimals": 18,
+    "address": "0xfc574c657a0bf53291ea7794b772ee00b5f97bef"
+  },
+  "0xde280f5e519346e681b6a954f62fd5fdda6a3953": {
+    "symbol": "Fart",
+    "name": "FartCoin",
+    "decimals": 18,
+    "address": "0xde280f5e519346e681b6a954f62fd5fdda6a3953"
+  },
+  "0xc6b0725250310a71859887d9c8aa65cc541d59fe": {
+    "symbol": "JESUSPEPE",
+    "name": "JESUSPEPE",
+    "decimals": 18,
+    "address": "0xc6b0725250310a71859887d9c8aa65cc541d59fe"
+  },
+  "0xac8a154eb109d05b40cecf10f14205db87e1e1c4": {
+    "symbol": "fella",
+    "name": "fella",
+    "decimals": 6,
+    "address": "0xac8a154eb109d05b40cecf10f14205db87e1e1c4"
+  },
+  "0xf71fd75ac4ef89885ea4e5a792a2420a5e94e227": {
+    "symbol": "EMME",
+    "name": "EmeraldMegabyte v2",
+    "decimals": 18,
+    "address": "0xf71fd75ac4ef89885ea4e5a792a2420a5e94e227"
+  },
+  "0x8e8c0e1fd6f3ce447207be903f83c05bd83d8cf1": {
+    "symbol": "KekOp6",
+    "name": "Kek Operations 6",
+    "decimals": 18,
+    "address": "0x8e8c0e1fd6f3ce447207be903f83c05bd83d8cf1"
+  },
+  "0xa48dfb138313e8d0a9807bdfae888a184b5d5f9d": {
+    "symbol": "SMA",
+    "name": "Suck My Ass",
+    "decimals": 6,
+    "address": "0xa48dfb138313e8d0a9807bdfae888a184b5d5f9d"
+  },
+  "0xc4abeddacfa65e25d6c942861fb3bdc9c00eeb13": {
+    "symbol": "SAFEMONEY",
+    "name": "SAFE MONEY",
+    "decimals": 6,
+    "address": "0xc4abeddacfa65e25d6c942861fb3bdc9c00eeb13"
+  },
+  "0x16c165815b97c1a9453c589ad74ad03639057d2c": {
+    "symbol": "MASK",
+    "name": "Mask",
+    "decimals": 18,
+    "address": "0x16c165815b97c1a9453c589ad74ad03639057d2c"
+  },
+  "0xa1a3f720dd304f921e760bdbaf310050777d3689": {
+    "symbol": "LeBunny",
+    "name": "LeBunny Time",
+    "decimals": 18,
+    "address": "0xa1a3f720dd304f921e760bdbaf310050777d3689"
+  },
+  "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49": {
+    "symbol": "PAS",
+    "name": "Passive",
+    "decimals": 18,
+    "address": "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49"
+  },
+  "0x800cef0079ca5d936180d5eac2cfa483ccec8d28": {
+    "symbol": "BAIDEN",
+    "name": "omgbaiden",
+    "decimals": 9,
+    "address": "0x800cef0079ca5d936180d5eac2cfa483ccec8d28"
+  },
+  "0x5e4fab30c5af206beb7a316c34080a77891b1bb3": {
+    "symbol": "NYE",
+    "name": "NYE Party",
+    "decimals": 18,
+    "address": "0x5e4fab30c5af206beb7a316c34080a77891b1bb3"
+  },
+  "0xdef52fa198fca10831098a93e262bfdfc69dcfc2": {
+    "symbol": "GRUMP",
+    "name": "Grumpy Gold Cat",
+    "decimals": 18,
+    "address": "0xdef52fa198fca10831098a93e262bfdfc69dcfc2"
+  },
+  "0x1d5ae334d760032417691bb1e33601b08e251aee": {
+    "symbol": "WCAW",
+    "name": "Wrapped CAW",
+    "decimals": 18,
+    "address": "0x1d5ae334d760032417691bb1e33601b08e251aee"
+  },
+  "0xf3b9569f82b18aef890de263b84189bd33ebe452": {
+    "symbol": "CAW",
+    "name": "A Hunters Dream",
+    "decimals": 18,
+    "address": "0xf3b9569f82b18aef890de263b84189bd33ebe452"
+  },
+  "0xf536c5235c568c54957875ab67d7c99f9de74366": {
+    "symbol": "aizuki",
+    "name": "AIzuki",
+    "decimals": 18,
+    "address": "0xf536c5235c568c54957875ab67d7c99f9de74366"
+  },
+  "0xc3cc94409b54e146e06a5d96fdc35859f78f6c99": {
+    "symbol": "FOX",
+    "name": "Foxverse",
+    "decimals": 18,
+    "address": "0xc3cc94409b54e146e06a5d96fdc35859f78f6c99"
   }
 }

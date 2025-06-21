@@ -28,5 +28,89 @@
     "name": "TheCrims",
     "decimals": 18,
     "address": "0xcad7b2a5aed4ddd0c5ab34a1116fc046aeffc460"
+  },
+  "0x23d7d7c8a1bd41cfce44889d5347c5b523325460": {
+    "symbol": "RAGEDOG",
+    "name": "Rage Dog",
+    "decimals": 18,
+    "address": "0x23d7d7c8a1bd41cfce44889d5347c5b523325460"
+  },
+  "0x8236a87084f8b84306f72007f36f2618a5634494": {
+    "symbol": "LBTC",
+    "name": "Lombard Staked Bitcoin",
+    "decimals": 8,
+    "address": "0x8236a87084f8b84306f72007f36f2618a5634494"
+  },
+  "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087": {
+    "symbol": "GLUE",
+    "name": "GLUE",
+    "decimals": 18,
+    "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087"
+  },
+  "0xfb3f149d70697372143c3bc0cabf2571d45c8318": {
+    "symbol": " USSR",
+    "name": "soviet",
+    "decimals": 18,
+    "address": "0xfb3f149d70697372143c3bc0cabf2571d45c8318"
+  },
+  "0x175b744e1a6b57817e2ca707504cce90a3c403cd": {
+    "symbol": "PZ",
+    "name": "Pizza",
+    "decimals": 18,
+    "address": "0x175b744e1a6b57817e2ca707504cce90a3c403cd"
+  },
+  "0xa74ee74152dca467dbaa3915445164496f361744": {
+    "symbol": "NLC",
+    "name": "NoLimitCoin",
+    "decimals": 18,
+    "address": "0xa74ee74152dca467dbaa3915445164496f361744"
+  },
+  "0xd534096d60af01b85e297b5b365698e3e6382889": {
+    "symbol": "HP",
+    "name": "HarryPotter",
+    "decimals": 18,
+    "address": "0xd534096d60af01b85e297b5b365698e3e6382889"
+  },
+  "0x6c8984bc7dbbedaf4f6b2fd766f16ebb7d10aab4": {
+    "symbol": "stUSR",
+    "name": "Staked USR",
+    "decimals": 18,
+    "address": "0x6c8984bc7dbbedaf4f6b2fd766f16ebb7d10aab4"
+  },
+  "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055": {
+    "symbol": "wstUSR",
+    "name": "Wrapped stUSR",
+    "decimals": 18,
+    "address": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"
+  },
+  "0x283d480dfd6921055e9c335fc177bf8cb9c94184": {
+    "symbol": "VIX",
+    "name": "VIX777",
+    "decimals": 8,
+    "address": "0x283d480dfd6921055e9c335fc177bf8cb9c94184"
+  },
+  "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "decimals": 8,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+  },
+  "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
+    "symbol": "wUSDM",
+    "name": "Wrapped Mountain Protocol USD",
+    "decimals": 18,
+    "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812"
+  },
+  "0x8bb97a618211695f5a6a889fac3546d1a573ea77": {
+    "symbol": "NBTC",
+    "name": "NexusBTC",
+    "decimals": 8,
+    "address": "0x8bb97a618211695f5a6a889fac3546d1a573ea77"
+  },
+  "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "decimals": 8,
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
   }
 }

@@ -28,5 +28,29 @@
     "name": "DRAGON ASIA",
     "decimals": 18,
     "address": "0xc63fffe835df068d76d1f3cadbb642068ca06fff"
+  },
+  "0x2f806950298edb7b6b939b552bdef26d3ea4ff17": {
+    "symbol": "SEA2",
+    "name": "OpenSea2",
+    "decimals": 18,
+    "address": "0x2f806950298edb7b6b939b552bdef26d3ea4ff17"
+  },
+  "0x2073cf5aa113c75a5ccf4d014064ee3ad98b03b4": {
+    "symbol": "SEA3",
+    "name": "OpenSea3",
+    "decimals": 18,
+    "address": "0x2073cf5aa113c75a5ccf4d014064ee3ad98b03b4"
+  },
+  "0x6968676661ac9851c38907bdfcc22d5dd77b564d": {
+    "symbol": "BOYSCLUB",
+    "name": "Boy's club",
+    "decimals": 18,
+    "address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d"
+  },
+  "0x706987611c5d2052541d64ef8f036916807c916a": {
+    "symbol": "BOYS",
+    "name": "Boys Club",
+    "decimals": 18,
+    "address": "0x706987611c5d2052541d64ef8f036916807c916a"
   }
 }

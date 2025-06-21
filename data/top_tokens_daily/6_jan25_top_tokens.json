@@ -28,5 +28,47 @@
     "name": "Jimmy",
     "decimals": 18,
     "address": "0x4f7ee54df0be9a5619f7e85e42f3525b65d5539c"
+  },
+  "0xd2dc8ecd7d57c862d8b27361a444bf37c350ac3a": {
+    "symbol": "VICKY",
+    "name": "Daughter of Shiba Inu",
+    "decimals": 9,
+    "address": "0xd2dc8ecd7d57c862d8b27361a444bf37c350ac3a"
+  },
+  "0x1f3a30b41a086c7843ed1414a75d262b57c2fdc7": {
+    "symbol": "VGPU",
+    "name": "Virtual GPU",
+    "decimals": 18,
+    "address": "0x1f3a30b41a086c7843ed1414a75d262b57c2fdc7"
+  },
+  "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73": {
+    "symbol": "VIRTUAL",
+    "name": "Virtual Protocol",
+    "decimals": 18,
+    "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+  },
+  "0xc620cb64c6c504f417da517048ae2dab7cca75fa": {
+    "symbol": "beraSBTC",
+    "name": "Berachain StakeStone Bitcoin",
+    "decimals": 18,
+    "address": "0xc620cb64c6c504f417da517048ae2dab7cca75fa"
+  },
+  "0x0268f15f6ebc2abd842e73c269713673fb73a21b": {
+    "symbol": "DPC",
+    "name": "DeepCore",
+    "decimals": 18,
+    "address": "0x0268f15f6ebc2abd842e73c269713673fb73a21b"
+  },
+  "0xf8906bf9e86283e5b734af46ce3d8aed063e49a5": {
+    "symbol": "QTM",
+    "name": "QuantumMind",
+    "decimals": 18,
+    "address": "0xf8906bf9e86283e5b734af46ce3d8aed063e49a5"
+  },
+  "0x75eb865c2441f0762e0b2e6991983159b312691e": {
+    "symbol": "INTC",
+    "name": "IntelliChain",
+    "decimals": 18,
+    "address": "0x75eb865c2441f0762e0b2e6991983159b312691e"
   }
 }

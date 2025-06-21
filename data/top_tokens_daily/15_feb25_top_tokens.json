@@ -28,5 +28,35 @@
     "name": "Morpheus",
     "decimals": 18,
     "address": "0x4687f007da484efe20d7a17e5b1d105cdbfca0eb"
+  },
+  "0xe39dfe9006e501360c30b1f772afaae80c17c669": {
+    "symbol": "IPv6",
+    "name": "IPv6 Token",
+    "decimals": 6,
+    "address": "0xe39dfe9006e501360c30b1f772afaae80c17c669"
+  },
+  "0xc24e0375b5d08762bb447002d3f54f035409533f": {
+    "symbol": "Broccoli",
+    "name": "CZ'S DOG",
+    "decimals": 18,
+    "address": "0xc24e0375b5d08762bb447002d3f54f035409533f"
+  },
+  "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b": {
+    "symbol": "DOPE",
+    "name": "DogePepe",
+    "decimals": 8,
+    "address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b"
+  },
+  "0x94f82266c8f64e4c7108406f84e38498141c8211": {
+    "symbol": "NT",
+    "name": "Nahmii Network",
+    "decimals": 18,
+    "address": "0x94f82266c8f64e4c7108406f84e38498141c8211"
+  },
+  "0xc596bd09d652827b0106292d3e378d5938df4b12": {
+    "symbol": "TPT",
+    "name": "Teleport",
+    "decimals": 18,
+    "address": "0xc596bd09d652827b0106292d3e378d5938df4b12"
   }
 }

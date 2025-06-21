@@ -28,5 +28,101 @@
     "name": "LIL X",
     "decimals": 18,
     "address": "0x0cd736409cf6b333ef379662866a6a5d83f3be3b"
+  },
+  "0x000000000000012def132e61759048be5b5c6033": {
+    "symbol": "CX",
+    "name": "Cortex",
+    "decimals": 18,
+    "address": "0x000000000000012def132e61759048be5b5c6033"
+  },
+  "0x8074836637eb9cc73a01a65d5700907fc639c4e9": {
+    "symbol": "DNOW",
+    "name": "DuelNow",
+    "decimals": 18,
+    "address": "0x8074836637eb9cc73a01a65d5700907fc639c4e9"
+  },
+  "0x9ce84f6a69986a83d92c324df10bc8e64771030f": {
+    "symbol": "CHEX",
+    "name": "Chintai Exchange Token",
+    "decimals": 18,
+    "address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f"
+  },
+  "0xf8f173e20e15f3b6cb686fb64724d370689de083": {
+    "symbol": "HEI",
+    "name": "Heima",
+    "decimals": 18,
+    "address": "0xf8f173e20e15f3b6cb686fb64724d370689de083"
+  },
+  "0x0a3bb540c58b1cad09c3ad70c01107e5cf898340": {
+    "symbol": "Secret",
+    "name": "Secret AI",
+    "decimals": 18,
+    "address": "0x0a3bb540c58b1cad09c3ad70c01107e5cf898340"
+  },
+  "0x6c9d885b37b131aa68794ee1549ffb80be381fa9": {
+    "symbol": "beQI",
+    "name": "Beefy QI",
+    "decimals": 18,
+    "address": "0x6c9d885b37b131aa68794ee1549ffb80be381fa9"
+  },
+  "0x1a45c7986abd3c1626619177e5f01c972aba039f": {
+    "symbol": "LILX",
+    "name": "LIL X",
+    "decimals": 18,
+    "address": "0x1a45c7986abd3c1626619177e5f01c972aba039f"
+  },
+  "0x510ad5eb390cc95aad966e628d29298f3096a147": {
+    "symbol": "POD",
+    "name": "Pod Save America",
+    "decimals": 18,
+    "address": "0x510ad5eb390cc95aad966e628d29298f3096a147"
+  },
+  "0x198c0d06923f41f850290fd25dcc0746480bda67": {
+    "symbol": "Pi ",
+    "name": "Pi Network ",
+    "decimals": 18,
+    "address": "0x198c0d06923f41f850290fd25dcc0746480bda67"
+  },
+  "0x614ce6b8dc431638833a74f8c855e3f4ace92e30": {
+    "symbol": "CPID",
+    "name": "CPI Down",
+    "decimals": 18,
+    "address": "0x614ce6b8dc431638833a74f8c855e3f4ace92e30"
+  },
+  "0x6c5146e923ce3854ed3cf73aafee10fda770e92b": {
+    "symbol": "Neuralink",
+    "name": "Neuralink",
+    "decimals": 18,
+    "address": "0x6c5146e923ce3854ed3cf73aafee10fda770e92b"
+  },
+  "0x32c6f1c1731ff8f98ee2ede8954f696446307846": {
+    "symbol": "BEARDY",
+    "name": "Bearded Dragon",
+    "decimals": 18,
+    "address": "0x32c6f1c1731ff8f98ee2ede8954f696446307846"
+  },
+  "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f": {
+    "symbol": "O",
+    "name": "Childhoods End",
+    "decimals": 18,
+    "address": "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f"
+  },
+  "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+  },
+  "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be": {
+    "symbol": "dsETH",
+    "name": "Diversified Staked ETH Index (dsETH)",
+    "decimals": 18,
+    "address": "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be"
+  },
+  "0x57e114b691db790c35207b2e685d4a43181e6061": {
+    "symbol": "ENA",
+    "name": "ENA",
+    "decimals": 18,
+    "address": "0x57e114b691db790c35207b2e685d4a43181e6061"
   }
 }

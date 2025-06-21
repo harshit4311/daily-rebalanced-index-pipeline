@@ -28,5 +28,17 @@
     "name": "RedSonic Vault StakeStone Ether",
     "decimals": 18,
     "address": "0xe4aac7d89cfa9742436a44108feca6986a76b9c0"
+  },
+  "0x661c70333aa1850ccdbae82776bb436a0fcfeefb": {
+    "symbol": "EBTC",
+    "name": "eBTC",
+    "decimals": 18,
+    "address": "0x661c70333aa1850ccdbae82776bb436a0fcfeefb"
+  },
+  "0x2e5d4e2a2336045471bfe446caa407f0c3a2419c": {
+    "symbol": "rsvUSDT",
+    "name": "RedSonic Vault Tether USD",
+    "decimals": 6,
+    "address": "0x2e5d4e2a2336045471bfe446caa407f0c3a2419c"
   }
 }

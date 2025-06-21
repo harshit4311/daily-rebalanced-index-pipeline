@@ -28,5 +28,35 @@
     "name": "Joe Rogan Experience",
     "decimals": 9,
     "address": "0xf301115465e11c23a91436805c7ff9de9da6466f"
+  },
+  "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380": {
+    "symbol": "SOPH",
+    "name": "SOPH AI Token",
+    "decimals": 18,
+    "address": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380"
+  },
+  "0xea05a1a54b0fe29afe59483a7e2cad374ffef0b6": {
+    "symbol": "BIB",
+    "name": "babilon",
+    "decimals": 18,
+    "address": "0xea05a1a54b0fe29afe59483a7e2cad374ffef0b6"
+  },
+  "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a": {
+    "symbol": "YUSD",
+    "name": "YUSD",
+    "decimals": 18,
+    "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a"
+  },
+  "0x1106bb36fa455bd9b2b8832788197a593582dada": {
+    "symbol": "VATAN",
+    "name": "Vatan",
+    "decimals": 18,
+    "address": "0x1106bb36fa455bd9b2b8832788197a593582dada"
+  },
+  "0xa1f410f13b6007fca76833ee7eb58478d47bc5ef": {
+    "symbol": "RJV",
+    "name": "Rejuve Token",
+    "decimals": 6,
+    "address": "0xa1f410f13b6007fca76833ee7eb58478d47bc5ef"
   }
 }

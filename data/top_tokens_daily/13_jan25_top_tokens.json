@@ -28,5 +28,47 @@
     "name": "Passive",
     "decimals": 18,
     "address": "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49"
+  },
+  "0x9ecee0eb40ea3270a6de1e5fd2941ee5e38bdfb9": {
+    "symbol": "JAMIE",
+    "name": "Jamie Dimon Coin",
+    "decimals": 9,
+    "address": "0x9ecee0eb40ea3270a6de1e5fd2941ee5e38bdfb9"
+  },
+  "0xca530408c3e552b020a2300debc7bd18820fb42f": {
+    "symbol": "RYU",
+    "name": "RyuJin",
+    "decimals": 18,
+    "address": "0xca530408c3e552b020a2300debc7bd18820fb42f"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0x00000000e6f46442b287ed48e4db9d5c7c652dae": {
+    "symbol": "fpLP",
+    "name": "fpLilPudgys",
+    "decimals": 18,
+    "address": "0x00000000e6f46442b287ed48e4db9d5c7c652dae"
+  },
+  "0x2cc7a972ebc1865b346085655f929abfa74cd4dc": {
+    "symbol": "SHIFU",
+    "name": "Shifu",
+    "decimals": 18,
+    "address": "0x2cc7a972ebc1865b346085655f929abfa74cd4dc"
+  },
+  "0xb60fdf036f2ad584f79525b5da76c5c531283a1b": {
+    "symbol": "NEMO",
+    "name": "Nemo Sum",
+    "decimals": 9,
+    "address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b"
+  },
+  "0xa71d0588eaf47f12b13cf8ec750430d21df04974": {
+    "symbol": "QOM",
+    "name": "Shiba Predator",
+    "decimals": 18,
+    "address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974"
   }
 }

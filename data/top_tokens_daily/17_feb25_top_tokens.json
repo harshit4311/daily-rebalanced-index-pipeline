@@ -28,5 +28,41 @@
     "name": "Please Lead This Meme",
     "decimals": 18,
     "address": "0x1f367099d769ad1694b75357e607ae1b1d06dbc6"
+  },
+  "0xa174f799e0bf6f00d71b6d727a50232b370969ca": {
+    "symbol": "HULEZHI",
+    "name": "Boy Plunger",
+    "decimals": 18,
+    "address": "0xa174f799e0bf6f00d71b6d727a50232b370969ca"
+  },
+  "0x0498999dac119844aee8e919b0ec28fdd0cb64c9": {
+    "symbol": "RIPSOL",
+    "name": "RIPSOL",
+    "decimals": 18,
+    "address": "0x0498999dac119844aee8e919b0ec28fdd0cb64c9"
+  },
+  "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab": {
+    "symbol": "FAST",
+    "name": "FASTINDEMAND",
+    "decimals": 18,
+    "address": "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab"
+  },
+  "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3": {
+    "symbol": "DYP",
+    "name": "Dypius",
+    "decimals": 18,
+    "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3"
+  },
+  "0xbd018098dac367ab30a49771c495e663a07cbe1a": {
+    "symbol": "AIENQ",
+    "name": "AIENQ",
+    "decimals": 18,
+    "address": "0xbd018098dac367ab30a49771c495e663a07cbe1a"
+  },
+  "0x90685e300a4c4532efcefe91202dfe1dfd572f47": {
+    "symbol": "CTA",
+    "name": "Cross The Ages",
+    "decimals": 18,
+    "address": "0x90685e300a4c4532efcefe91202dfe1dfd572f47"
   }
 }

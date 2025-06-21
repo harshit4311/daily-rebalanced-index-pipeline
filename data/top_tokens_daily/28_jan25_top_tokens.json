@@ -28,5 +28,95 @@
     "name": "RaceHorseCoins",
     "decimals": 18,
     "address": "0x9aad83797a97dfbf02b7e3908cdaf99bec6559d2"
+  },
+  "0xe410d33fed4593aa075974bc4a351ae7215e0c63": {
+    "symbol": "HASHS",
+    "name": "HASHSAGA",
+    "decimals": 18,
+    "address": "0xe410d33fed4593aa075974bc4a351ae7215e0c63"
+  },
+  "0x443af37aeb1ccb2faeb3c0476ae5944d9cd19d88": {
+    "symbol": "DeepSeek",
+    "name": "DeepSeekAI",
+    "decimals": 18,
+    "address": "0x443af37aeb1ccb2faeb3c0476ae5944d9cd19d88"
+  },
+  "0xace2ae339eb123693862ae92bf69bbf6576e6766": {
+    "symbol": "PVN",
+    "name": "Simontifically Proven",
+    "decimals": 18,
+    "address": "0xace2ae339eb123693862ae92bf69bbf6576e6766"
+  },
+  "0xd1188505c76c942ae9e1a17b3fbb950e7874e79f": {
+    "symbol": "CT",
+    "name": "Crypto Token",
+    "decimals": 18,
+    "address": "0xd1188505c76c942ae9e1a17b3fbb950e7874e79f"
+  },
+  "0x13d074303c95a34d304f29928dc8a16dec797e9e": {
+    "symbol": "LAK3",
+    "name": "LAKE",
+    "decimals": 18,
+    "address": "0x13d074303c95a34d304f29928dc8a16dec797e9e"
+  },
+  "0xc36ab9c45dd6dcb9c20fcf27ccd63addd7cf14f3": {
+    "symbol": "\u20a4IRA",
+    "name": "\u20a4ira",
+    "decimals": 18,
+    "address": "0xc36ab9c45dd6dcb9c20fcf27ccd63addd7cf14f3"
+  },
+  "0x4f4e65339ae6ec09fb3441bbf765728cfd660244": {
+    "symbol": "EXEX",
+    "name": "Exponential Meal",
+    "decimals": 18,
+    "address": "0x4f4e65339ae6ec09fb3441bbf765728cfd660244"
+  },
+  "0xebb66a88cedd12bfe3a289df6dfee377f2963f12": {
+    "symbol": "OSCAR",
+    "name": "Oscar",
+    "decimals": 9,
+    "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0x6fc13eace26590b80cccab1ba5d51890577d83b2": {
+    "symbol": "UMB",
+    "name": "Umbrella",
+    "decimals": 18,
+    "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2"
+  },
+  "0x967da4048cd07ab37855c090aaf366e4ce1b9f48": {
+    "symbol": "OCEAN",
+    "name": "Ocean Token",
+    "decimals": 18,
+    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+  },
+  "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85": {
+    "symbol": "FET",
+    "name": "Fetch",
+    "decimals": 18,
+    "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85"
+  },
+  "0xd9d2b8e19b36722f4c219ad0641a56588e8219d3": {
+    "symbol": "DPK",
+    "name": "Deepseek",
+    "decimals": 18,
+    "address": "0xd9d2b8e19b36722f4c219ad0641a56588e8219d3"
+  },
+  "0xe77076518a813616315eaaba6ca8e595e845eee9": {
+    "symbol": "eEIGEN",
+    "name": "ether.fi EIGEN",
+    "decimals": 18,
+    "address": "0xe77076518a813616315eaaba6ca8e595e845eee9"
+  },
+  "0x86b5780b606940eb59a062aa85a07959518c0161": {
+    "symbol": "sETHFI",
+    "name": "Staked ETHFI",
+    "decimals": 18,
+    "address": "0x86b5780b606940eb59a062aa85a07959518c0161"
   }
 }

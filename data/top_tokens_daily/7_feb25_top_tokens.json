@@ -28,5 +28,65 @@
     "name": "Haulage Partner ",
     "decimals": 4,
     "address": "0x01616656a8503bb2611dd468df80d5616029b10d"
+  },
+  "0xb5ba70481f910fac0b8311c40054e38b45235a19": {
+    "symbol": "YE ",
+    "name": "Kanye West",
+    "decimals": 18,
+    "address": "0xb5ba70481f910fac0b8311c40054e38b45235a19"
+  },
+  "0x787687e04b9d071aa8ae454f8fa82b5d28f4f346": {
+    "symbol": "USAIDs",
+    "name": "USAID: Funding Atrocities Against Civilians",
+    "decimals": 8,
+    "address": "0x787687e04b9d071aa8ae454f8fa82b5d28f4f346"
+  },
+  "0x08f8509b406fb4e7a8b1a6e0f291957d06e2e8ef": {
+    "symbol": "AIDs",
+    "name": "USAIDs: Funding Atrocities Against Civilians",
+    "decimals": 8,
+    "address": "0x08f8509b406fb4e7a8b1a6e0f291957d06e2e8ef"
+  },
+  "0x5b18ff8a9bff4e9d830267ac96e88fdd1d692591": {
+    "symbol": "POCX",
+    "name": "POCX",
+    "decimals": 18,
+    "address": "0x5b18ff8a9bff4e9d830267ac96e88fdd1d692591"
+  },
+  "0x18c0e76805a8e44a9ad427a71fae2c26ae4194f0": {
+    "symbol": "  \ud83d\udd25BURNY",
+    "name": "BURNY",
+    "decimals": 9,
+    "address": "0x18c0e76805a8e44a9ad427a71fae2c26ae4194f0"
+  },
+  "0xa493d3efbdab67e0efd77371746404ef2f41e745": {
+    "symbol": "hershyspizza",
+    "name": "Hershy's Pizza ",
+    "decimals": 18,
+    "address": "0xa493d3efbdab67e0efd77371746404ef2f41e745"
+  },
+  "0xaa46c18a0c1a00546a06ab07e7cc7c3996645436": {
+    "symbol": "Naughtius Maximus",
+    "name": "Naughtius Maximus",
+    "decimals": 18,
+    "address": "0xaa46c18a0c1a00546a06ab07e7cc7c3996645436"
+  },
+  "0x2fb652314c3d850e9049057bbe9813f1eee882d3": {
+    "symbol": "RVF",
+    "name": "RocketX Exchange V2",
+    "decimals": 18,
+    "address": "0x2fb652314c3d850e9049057bbe9813f1eee882d3"
+  },
+  "0xf80c6636f9597d6a7fc1e5182b168b71e98fd1cb": {
+    "symbol": "ctsUSDe",
+    "name": "Concrete-sUSDe-Vault",
+    "decimals": 27,
+    "address": "0xf80c6636f9597d6a7fc1e5182b168b71e98fd1cb"
+  },
+  "0x9f235d23354857efe6c541db92a9ef1877689bcb": {
+    "symbol": "BOLT",
+    "name": "Bolt Token",
+    "decimals": 18,
+    "address": "0x9f235d23354857efe6c541db92a9ef1877689bcb"
   }
 }

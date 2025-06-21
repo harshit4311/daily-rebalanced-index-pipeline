@@ -28,5 +28,29 @@
     "name": "SC TEST 000",
     "decimals": 18,
     "address": "0x36afd0efa05e0f50eadce42298261462a1440cf4"
+  },
+  "0x22a1404e93206776479abd50a4cbe362fb76c85c": {
+    "symbol": "TST",
+    "name": "TEST",
+    "decimals": 18,
+    "address": "0x22a1404e93206776479abd50a4cbe362fb76c85c"
+  },
+  "0x93a8c14021182837c72957ae45ff4acd138b265e": {
+    "symbol": "CODE AIAGENT",
+    "name": "CODE AIAGENT",
+    "decimals": 8,
+    "address": "0x93a8c14021182837c72957ae45ff4acd138b265e"
+  },
+  "0x1121acc14c63f3c872bfca497d10926a6098aac5": {
+    "symbol": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "decimals": 18,
+    "address": "0x1121acc14c63f3c872bfca497d10926a6098aac5"
+  },
+  "0x94ca976e927eac4f447b29a40744f1bafff4191c": {
+    "symbol": "EVRDOG",
+    "name": "Everdog",
+    "decimals": 18,
+    "address": "0x94ca976e927eac4f447b29a40744f1bafff4191c"
   }
 }

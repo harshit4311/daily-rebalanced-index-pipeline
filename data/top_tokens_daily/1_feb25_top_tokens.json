@@ -28,5 +28,23 @@
     "name": "Bunni",
     "decimals": 18,
     "address": "0x000000c396558ffbab5ea628f39658bdf61345b3"
+  },
+  "0xefba4d966e28af8f2a49d2ee5a93ea21f98791b5": {
+    "symbol": "NKT",
+    "name": "NikitaKaraitianaToken",
+    "decimals": 18,
+    "address": "0xefba4d966e28af8f2a49d2ee5a93ea21f98791b5"
+  },
+  "0x0bc37bea9068a86c221b8bd71ea6228260dad5a2": {
+    "symbol": "SPARKLET",
+    "name": "Upland",
+    "decimals": 18,
+    "address": "0x0bc37bea9068a86c221b8bd71ea6228260dad5a2"
+  },
+  "0x55296f69f40ea6d20e478533c15a6b08b654e758": {
+    "symbol": "XYO",
+    "name": "XY Oracle",
+    "decimals": 18,
+    "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
   }
 }

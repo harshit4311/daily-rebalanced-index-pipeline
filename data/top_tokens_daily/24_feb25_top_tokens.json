@@ -28,5 +28,59 @@
     "name": "Etheric Double",
     "decimals": 18,
     "address": "0xb599ece013bc3786859df63efa7d86fb6ba0cfd2"
+  },
+  "0x96706e64a06675828e8706ee9a803d732008751f": {
+    "symbol": "MUTM",
+    "name": "Mutuum Finance",
+    "decimals": 18,
+    "address": "0x96706e64a06675828e8706ee9a803d732008751f"
+  },
+  "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948": {
+    "symbol": "GOD",
+    "name": "Godcoin",
+    "decimals": 18,
+    "address": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948"
+  },
+  "0x000000c396558ffbab5ea628f39658bdf61345b3": {
+    "symbol": "BUNNI",
+    "name": "Bunni",
+    "decimals": 18,
+    "address": "0x000000c396558ffbab5ea628f39658bdf61345b3"
+  },
+  "0xfd0205066521550d7d7ab19da8f72bb004b4c341": {
+    "symbol": "LIT",
+    "name": "Liquidity Incentive Token",
+    "decimals": 18,
+    "address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341"
+  },
+  "0xc555d625828c4527d477e595ff1dd5801b4a600e": {
+    "symbol": "MON",
+    "name": "MON",
+    "decimals": 18,
+    "address": "0xc555d625828c4527d477e595ff1dd5801b4a600e"
+  },
+  "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3": {
+    "symbol": "TOPIA",
+    "name": "TOPIA",
+    "decimals": 18,
+    "address": "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3"
+  },
+  "0x3c3a81e81dc49a522a592e7622a7e711c06bf354": {
+    "symbol": "MNT",
+    "name": "Mantle",
+    "decimals": 18,
+    "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+  },
+  "0x4c9edd5852cd905f086c759e8383e09bff1e68b3": {
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+  },
+  "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a": {
+    "symbol": "BLOCK",
+    "name": "BlockGames",
+    "decimals": 18,
+    "address": "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a"
   }
 }

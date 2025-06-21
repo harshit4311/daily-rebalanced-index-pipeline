@@ -28,5 +28,65 @@
     "name": "R.A.B.I.T",
     "decimals": 18,
     "address": "0x18c2e3499dd869d49e9c4bacf15c72b961840220"
+  },
+  "0x6bcc5579568385fa785699cab3637fd78af0a175": {
+    "symbol": "EIG",
+    "name": "Eight",
+    "decimals": 18,
+    "address": "0x6bcc5579568385fa785699cab3637fd78af0a175"
+  },
+  "0xdabb92d443dcd48f79d76d6893bb32390c281aef": {
+    "symbol": "SEV",
+    "name": "Seven",
+    "decimals": 18,
+    "address": "0xdabb92d443dcd48f79d76d6893bb32390c281aef"
+  },
+  "0x6a091a3406e0073c3cd6340122143009adac0eda": {
+    "symbol": "SLP",
+    "name": "SushiSwap LP Token",
+    "decimals": 18,
+    "address": "0x6a091a3406e0073c3cd6340122143009adac0eda"
+  },
+  "0xb5d48f8599a0eafbdbb557250aadc658ef889dd4": {
+    "symbol": "EIG2",
+    "name": "Double Eight",
+    "decimals": 18,
+    "address": "0xb5d48f8599a0eafbdbb557250aadc658ef889dd4"
+  },
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+  },
+  "0x853b6eb015fc85fc32779dc1561ac002e4d36d80": {
+    "symbol": "ONE",
+    "name": "One",
+    "decimals": 18,
+    "address": "0x853b6eb015fc85fc32779dc1561ac002e4d36d80"
+  },
+  "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": {
+    "symbol": "OHM",
+    "name": "Olympus",
+    "decimals": 9,
+    "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5"
+  },
+  "0x64766392ad32a6c94b965b5bf655e07371c23a1d": {
+    "symbol": "Yilongma",
+    "name": "Chinese Elon Musk",
+    "decimals": 9,
+    "address": "0x64766392ad32a6c94b965b5bf655e07371c23a1d"
+  },
+  "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4": {
+    "symbol": "TREAT",
+    "name": "Shiba Inu Treat",
+    "decimals": 18,
+    "address": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
   }
 }

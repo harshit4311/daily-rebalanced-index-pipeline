@@ -28,5 +28,65 @@
     "name": "cyb3rgam3r420",
     "decimals": 9,
     "address": "0xb18ecc2e4abf9a04488d0e424495109d4d25e734"
+  },
+  "0xe8df8f6d75008414ed4c21715f2d4dadbdb94e6e": {
+    "symbol": "pLTC",
+    "name": "PulseLitecoin",
+    "decimals": 12,
+    "address": "0xe8df8f6d75008414ed4c21715f2d4dadbdb94e6e"
+  },
+  "0xc434f607812208ce590c2b5eb3a7690af33b2ffe": {
+    "symbol": "BITL",
+    "name": "BITLASTRO",
+    "decimals": 18,
+    "address": "0xc434f607812208ce590c2b5eb3a7690af33b2ffe"
+  },
+  "0x45389f48fe69b4eb720f946977537f84702d16f4": {
+    "symbol": "NIGGA",
+    "name": "Nigger Coin",
+    "decimals": 18,
+    "address": "0x45389f48fe69b4eb720f946977537f84702d16f4"
+  },
+  "0x9785207abde82300b3c228cc8be7d436e453f683": {
+    "symbol": "podo#2",
+    "name": "podo edition number 2",
+    "decimals": 18,
+    "address": "0x9785207abde82300b3c228cc8be7d436e453f683"
+  },
+  "0xbf2e353f5db1a01e4e7f051222c666afc81b2574": {
+    "symbol": "DOGEFATHER",
+    "name": "The DogeFather",
+    "decimals": 9,
+    "address": "0xbf2e353f5db1a01e4e7f051222c666afc81b2574"
+  },
+  "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9": {
+    "symbol": "KEKIUS",
+    "name": "Kekius Maximus",
+    "decimals": 9,
+    "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9"
+  },
+  "0x80822a450d57c548fef04d44f03f770712715551": {
+    "symbol": "SHIB Ultra",
+    "name": "SHIB Ultra",
+    "decimals": 18,
+    "address": "0x80822a450d57c548fef04d44f03f770712715551"
+  },
+  "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9": {
+    "symbol": "BITCOIN",
+    "name": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9"
+  },
+  "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa": {
+    "symbol": "mETH",
+    "name": "mETH",
+    "decimals": 18,
+    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa"
+  },
+  "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "decimals": 8,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
   }
 }

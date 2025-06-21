@@ -28,5 +28,23 @@
     "name": "CashGo",
     "decimals": 18,
     "address": "0x35385e9b35537338c4ab586048fd34d085b138b8"
+  },
+  "0x8cea2b2de3768ab295093f46c6a5de76aae529f7": {
+    "symbol": "CASH",
+    "name": "CashCoin",
+    "decimals": 18,
+    "address": "0x8cea2b2de3768ab295093f46c6a5de76aae529f7"
+  },
+  "0x45f5bd656d89ee84b96ace4d161e4021126d03e5": {
+    "symbol": "BTEC",
+    "name": "BTECHAIN",
+    "decimals": 6,
+    "address": "0x45f5bd656d89ee84b96ace4d161e4021126d03e5"
+  },
+  "0x57e114b691db790c35207b2e685d4a43181e6061": {
+    "symbol": "ENA",
+    "name": "ENA",
+    "decimals": 18,
+    "address": "0x57e114b691db790c35207b2e685d4a43181e6061"
   }
 }

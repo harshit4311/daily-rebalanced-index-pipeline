@@ -28,5 +28,23 @@
     "name": "Baron Trump",
     "decimals": 9,
     "address": "0xff7133a16d9250c3b6ce843a259ab14f8aaea20b"
+  },
+  "0xb6c10b092acf393c9beab16177f6ff7309012a56": {
+    "symbol": "PXL",
+    "name": "Pixel",
+    "decimals": 0,
+    "address": "0xb6c10b092acf393c9beab16177f6ff7309012a56"
+  },
+  "0x615987d46003cc37387dbe544ff4f16fa1200077": {
+    "symbol": "NASDAQ420",
+    "name": "Nasdaq420",
+    "decimals": 9,
+    "address": "0x615987d46003cc37387dbe544ff4f16fa1200077"
+  },
+  "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "decimals": 8,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
   }
 }

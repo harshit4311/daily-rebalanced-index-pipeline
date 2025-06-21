@@ -28,5 +28,77 @@
     "name": "Hide the Pain Harold",
     "decimals": 18,
     "address": "0x7915d56614b071f4600350e029c4b95697ee8b8d"
+  },
+  "0xa4318a735978d802483ab36358491c60555940c4": {
+    "symbol": "ORP2",
+    "name": "OpenRugPull V2 (COME PULL THE RUG!!!)",
+    "decimals": 8,
+    "address": "0xa4318a735978d802483ab36358491c60555940c4"
+  },
+  "0x73aaca46814d70d324862a22845133f372f70a1f": {
+    "symbol": "RIHANNA",
+    "name": "RIHANNA",
+    "decimals": 18,
+    "address": "0x73aaca46814d70d324862a22845133f372f70a1f"
+  },
+  "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc": {
+    "symbol": "LAI",
+    "name": "LayerAI Token",
+    "decimals": 18,
+    "address": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc"
+  },
+  "0x71eef978f67cbb047289033b7757d532bd25d603": {
+    "symbol": "Safumoon",
+    "name": "SafuMoon",
+    "decimals": 18,
+    "address": "0x71eef978f67cbb047289033b7757d532bd25d603"
+  },
+  "0x8574f0318e60b205371c696a76b5881c98336d70": {
+    "symbol": "QVOD",
+    "name": "Qvod Player",
+    "decimals": 9,
+    "address": "0x8574f0318e60b205371c696a76b5881c98336d70"
+  },
+  "0x32c6f1c1731ff8f98ee2ede8954f696446307846": {
+    "symbol": "BEARDY",
+    "name": "Bearded Dragon",
+    "decimals": 18,
+    "address": "0x32c6f1c1731ff8f98ee2ede8954f696446307846"
+  },
+  "0xf3b9569f82b18aef890de263b84189bd33ebe452": {
+    "symbol": "CAW",
+    "name": "A Hunters Dream",
+    "decimals": 18,
+    "address": "0xf3b9569f82b18aef890de263b84189bd33ebe452"
+  },
+  "0xe1df432267e2a5b03665a3d201aa36f8d6885222": {
+    "symbol": "VPAY",
+    "name": "VortexPay",
+    "decimals": 18,
+    "address": "0xe1df432267e2a5b03665a3d201aa36f8d6885222"
+  },
+  "0xf433089366899d83a9f26a773d59ec7ecf30355e": {
+    "symbol": "MTL",
+    "name": "Metal",
+    "decimals": 8,
+    "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+  },
+  "0xd3923d8404a1a71d49a4310b915941c490f8adf1": {
+    "symbol": "CIT",
+    "name": "SEATONE",
+    "decimals": 18,
+    "address": "0xd3923d8404a1a71d49a4310b915941c490f8adf1"
+  },
+  "0xbc767ed2e9b853efd781c65401a0dd2face1bd8a": {
+    "symbol": "GEEKZ",
+    "name": "GEEKZ",
+    "decimals": 18,
+    "address": "0xbc767ed2e9b853efd781c65401a0dd2face1bd8a"
+  },
+  "0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c": {
+    "symbol": "NOTHING",
+    "name": "NOTHING",
+    "decimals": 18,
+    "address": "0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c"
   }
 }

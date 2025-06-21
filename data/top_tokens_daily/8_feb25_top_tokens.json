@@ -28,5 +28,71 @@
     "name": "Walter the Farting Dog ",
     "decimals": 18,
     "address": "0xaa0b8f9ac1d1f5c2ce85b78b3da5e5141d84d8e0"
+  },
+  "0x4ceac88020c3d5100e522e6606433e7b21d44460": {
+    "symbol": "CFPB RIP",
+    "name": "CFPB RIP",
+    "decimals": 18,
+    "address": "0x4ceac88020c3d5100e522e6606433e7b21d44460"
+  },
+  "0x2e10d606571bc291cc92c520c0d4d9717525f1af": {
+    "symbol": "TNSL",
+    "name": "TheNeuralShapeLedger",
+    "decimals": 18,
+    "address": "0x2e10d606571bc291cc92c520c0d4d9717525f1af"
+  },
+  "0x71247e80f9f093ae72351302a6f5965ff884bdd6": {
+    "symbol": "FBTC",
+    "name": "FlashBTC",
+    "decimals": 9,
+    "address": "0x71247e80f9f093ae72351302a6f5965ff884bdd6"
+  },
+  "0x4d07ac2a91d540c9cbb31e8e134a66fa00b767d1": {
+    "symbol": "KanaLabs",
+    "name": "Kana Labs",
+    "decimals": 18,
+    "address": "0x4d07ac2a91d540c9cbb31e8e134a66fa00b767d1"
+  },
+  "0xa8216ea1a39199619188451b75b2074dc9c02b98": {
+    "symbol": "LAYER",
+    "name": "SOLAYER",
+    "decimals": 18,
+    "address": "0xa8216ea1a39199619188451b75b2074dc9c02b98"
+  },
+  "0x46f6e9bbcce8638b20ebbc83d33a2b5bfa9b7894": {
+    "symbol": "HEX",
+    "name": "HEX from PulseChain",
+    "decimals": 8,
+    "address": "0x46f6e9bbcce8638b20ebbc83d33a2b5bfa9b7894"
+  },
+  "0xabc36a3bd7d477bf74b7b984ddc0293fc41431dc": {
+    "symbol": "\ud83c\udf7f",
+    "name": "PulseChain Drama from PulseChain",
+    "decimals": 18,
+    "address": "0xabc36a3bd7d477bf74b7b984ddc0293fc41431dc"
+  },
+  "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
+    "symbol": "PEAS",
+    "name": "Peapods",
+    "decimals": 18,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  },
+  "0x5a3fbc343516cf9afa35f2753259496de5eeeb45": {
+    "symbol": "pPEAS",
+    "name": "Peapods PEAS LVF Pod",
+    "decimals": 18,
+    "address": "0x5a3fbc343516cf9afa35f2753259496de5eeeb45"
+  },
+  "0x1106bb36fa455bd9b2b8832788197a593582dada": {
+    "symbol": "VATAN",
+    "name": "Vatan",
+    "decimals": 18,
+    "address": "0x1106bb36fa455bd9b2b8832788197a593582dada"
+  },
+  "0xeb16f3244c70f6229cc78a6467a558556a916033": {
+    "symbol": "Ecobraz",
+    "name": "Ecobraz Carbon",
+    "decimals": 18,
+    "address": "0xeb16f3244c70f6229cc78a6467a558556a916033"
   }
 }

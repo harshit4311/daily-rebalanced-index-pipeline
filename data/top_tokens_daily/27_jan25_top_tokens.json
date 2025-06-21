@@ -28,5 +28,35 @@
     "name": "SUI Agents",
     "decimals": 18,
     "address": "0xd19b72e027cd66bde41d8f60a13740a26c4be8f3"
+  },
+  "0xb897e33ff32fb7a3262ddb75c506a232b25839a9": {
+    "symbol": "OSIRIS",
+    "name": "OSIRIS",
+    "decimals": 18,
+    "address": "0xb897e33ff32fb7a3262ddb75c506a232b25839a9"
+  },
+  "0xe6f06f85f57236b58419d6077c0b3f8f5d10ebda": {
+    "symbol": "SECA",
+    "name": "SECA",
+    "decimals": 6,
+    "address": "0xe6f06f85f57236b58419d6077c0b3f8f5d10ebda"
+  },
+  "0x99fd63e2fc3792b4b0a38f40d5048b3b21dc28ac": {
+    "symbol": "FTM",
+    "name": "FrontMan",
+    "decimals": 18,
+    "address": "0x99fd63e2fc3792b4b0a38f40d5048b3b21dc28ac"
+  },
+  "0x60ef10edff6d600cd91caeca04caed2a2e605fe5": {
+    "symbol": "MOCHI",
+    "name": "Mochi Inu",
+    "decimals": 18,
+    "address": "0x60ef10edff6d600cd91caeca04caed2a2e605fe5"
+  },
+  "0x0c773ed0d64f42317c806c11a51f7da58f98cff9": {
+    "symbol": "SPZ",
+    "name": "Spitzarius Token",
+    "decimals": 18,
+    "address": "0x0c773ed0d64f42317c806c11a51f7da58f98cff9"
   }
 }

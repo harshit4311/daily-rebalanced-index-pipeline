@@ -28,5 +28,95 @@
     "name": "Wrapped World Liberty Financial",
     "decimals": 18,
     "address": "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2"
+  },
+  "0x26251bd7c6be83a13b593907803efc758b400d74": {
+    "symbol": "GSRM",
+    "name": "GitSwarm Token",
+    "decimals": 18,
+    "address": "0x26251bd7c6be83a13b593907803efc758b400d74"
+  },
+  "0x8536434c2a323aba93d31d87044381f9dfac67e9": {
+    "symbol": "TIKTOK",
+    "name": "OFFICIAL TIKTOK",
+    "decimals": 18,
+    "address": "0x8536434c2a323aba93d31d87044381f9dfac67e9"
+  },
+  "0x11a03f4c290469ae952e795c6b4d2d1674ad013d": {
+    "symbol": "BARR",
+    "name": "Barracuda Coin",
+    "decimals": 18,
+    "address": "0x11a03f4c290469ae952e795c6b4d2d1674ad013d"
+  },
+  "0x65c46c9fa2fb658bd25c1a973d25db2cd388d8ea": {
+    "symbol": "BARRON",
+    "name": "Official Barron Meme",
+    "decimals": 8,
+    "address": "0x65c46c9fa2fb658bd25c1a973d25db2cd388d8ea"
+  },
+  "0x7b3774247d70d5a68581130feb796591ba4f2366": {
+    "symbol": "L1X",
+    "name": "L1X",
+    "decimals": 18,
+    "address": "0x7b3774247d70d5a68581130feb796591ba4f2366"
+  },
+  "0x2c78d3f4a3fe69771fa129b81c82afa266ea7a39": {
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 18,
+    "address": "0x2c78d3f4a3fe69771fa129b81c82afa266ea7a39"
+  },
+  "0x83b90d327343a36a985e40684bf5ee99e5004ed0": {
+    "symbol": "DINOCOIN",
+    "name": "DINOCOIN",
+    "decimals": 18,
+    "address": "0x83b90d327343a36a985e40684bf5ee99e5004ed0"
+  },
+  "0xe196467ed5326e00b343a3b932543f59fa30b533": {
+    "symbol": "TACOPEPE",
+    "name": "TACOPEPE",
+    "decimals": 18,
+    "address": "0xe196467ed5326e00b343a3b932543f59fa30b533"
+  },
+  "0x18aa14f13ba29bf6278aea84e8734f5d6015886d": {
+    "symbol": "CHNK",
+    "name": "ChonkCoin",
+    "decimals": 18,
+    "address": "0x18aa14f13ba29bf6278aea84e8734f5d6015886d"
+  },
+  "0x5c47902c8c80779cb99235e42c354e53f38c3b0d": {
+    "symbol": "X28",
+    "name": "X28",
+    "decimals": 18,
+    "address": "0x5c47902c8c80779cb99235e42c354e53f38c3b0d"
+  },
+  "0x65c55f33f9493e8702feea89b4fa357283ed3841": {
+    "symbol": "BFX",
+    "name": "BonFire",
+    "decimals": 18,
+    "address": "0x65c55f33f9493e8702feea89b4fa357283ed3841"
+  },
+  "0x45cbdf200357539e08782472818e0b1e3c0d61a3": {
+    "symbol": "SHI",
+    "name": "SHI",
+    "decimals": 18,
+    "address": "0x45cbdf200357539e08782472818e0b1e3c0d61a3"
+  },
+  "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4": {
+    "symbol": "TREAT",
+    "name": "Shiba Inu Treat",
+    "decimals": 18,
+    "address": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4"
+  },
+  "0x3722359be0bfebb541bc98adfe1250cd901a706c": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x3722359be0bfebb541bc98adfe1250cd901a706c"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
   }
 }

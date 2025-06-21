@@ -28,5 +28,95 @@
     "name": "Finally Finale",
     "decimals": 18,
     "address": "0xfa04cdc6d0a502222ea069676581654b79daa5fb"
+  },
+  "0xd759d716778ccaed90534c69250c3b010ef7e003": {
+    "symbol": "RBC",
+    "name": "Robotcoin",
+    "decimals": 18,
+    "address": "0xd759d716778ccaed90534c69250c3b010ef7e003"
+  },
+  "0x708cbd0e42b17102aa6ff52bcae169de9ea03a2b": {
+    "symbol": "PAM",
+    "name": "PerfectArtMatch",
+    "decimals": 18,
+    "address": "0x708cbd0e42b17102aa6ff52bcae169de9ea03a2b"
+  },
+  "0x5959e94661e1203e0c8ef84095a7846bacc6a94f": {
+    "symbol": "ZKAI",
+    "name": "ZKCrypt AI",
+    "decimals": 18,
+    "address": "0x5959e94661e1203e0c8ef84095a7846bacc6a94f"
+  },
+  "0x990f8dd84e7c1d91a0fdca8ee75e01a46b8acd84": {
+    "symbol": "MAGA",
+    "name": "Dejen J. Trump",
+    "decimals": 18,
+    "address": "0x990f8dd84e7c1d91a0fdca8ee75e01a46b8acd84"
+  },
+  "0x742e5ba07ca49a4b8505a0252ab6c6c3d52a8efe": {
+    "symbol": "TRMPSMMT",
+    "name": "TrumpSummit Token",
+    "decimals": 18,
+    "address": "0x742e5ba07ca49a4b8505a0252ab6c6c3d52a8efe"
+  },
+  "0xf6ee4839c52346243d2d9c255c5f5634388a289c": {
+    "symbol": "TRMPFWD",
+    "name": "TrumpForward Token",
+    "decimals": 18,
+    "address": "0xf6ee4839c52346243d2d9c255c5f5634388a289c"
+  },
+  "0x946fb08103b400d1c79e07acccdef5cfd26cd374": {
+    "symbol": "KIP",
+    "name": "KIP Protocol",
+    "decimals": 18,
+    "address": "0x946fb08103b400d1c79e07acccdef5cfd26cd374"
+  },
+  "0xc5bcfd7b0cfab94023f764713fde158bb5c490ce": {
+    "symbol": "MAI",
+    "name": "MetaAI",
+    "decimals": 18,
+    "address": "0xc5bcfd7b0cfab94023f764713fde158bb5c490ce"
+  },
+  "0x6c4a8973e6633da2da7187669479c27830c7b1c4": {
+    "symbol": "BLOOM",
+    "name": "BLOOM",
+    "decimals": 18,
+    "address": "0x6c4a8973e6633da2da7187669479c27830c7b1c4"
+  },
+  "0x749c09b4ead7345283ea2796d4f24b54773f7bda": {
+    "symbol": "GLB",
+    "name": "Gloobee",
+    "decimals": 18,
+    "address": "0x749c09b4ead7345283ea2796d4f24b54773f7bda"
+  },
+  "0xb5d534b379dd0325101e61f862b55e548205ff26": {
+    "symbol": "USDTs",
+    "name": "Wrapped USDT SOLP2P",
+    "decimals": 18,
+    "address": "0xb5d534b379dd0325101e61f862b55e548205ff26"
+  },
+  "0xc1f33e0cf7e40a67375007104b929e49a581bafe": {
+    "symbol": "SPOT",
+    "name": "SPOT",
+    "decimals": 9,
+    "address": "0xc1f33e0cf7e40a67375007104b929e49a581bafe"
+  },
+  "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "decimals": 9,
+    "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+  },
+  "0xe7c6bf469e97eeb0bfb74c8dbff5bd47d4c1c98a": {
+    "symbol": "HSK",
+    "name": "HashKey Platform Token",
+    "decimals": 18,
+    "address": "0xe7c6bf469e97eeb0bfb74c8dbff5bd47d4c1c98a"
+  },
+  "0x3d763250efc935d58414440ec4f90845070b00ff": {
+    "symbol": "SMART",
+    "name": "Smart AI",
+    "decimals": 18,
+    "address": "0x3d763250efc935d58414440ec4f90845070b00ff"
   }
 }

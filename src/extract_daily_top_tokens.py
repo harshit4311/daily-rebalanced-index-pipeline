@@ -2,12 +2,12 @@ import os
 import json
 
 # Set paths
-RAW_BASE_DIR = "data/raw"  # relative to your project root
+RAW_BASE_DIR = "data/raw"  
 OUT_DIR = "data/top_tokens_daily"
-TOP_N = 5
+TOP_N = 50
 
 
-def extract_top_tokens_from_day(json_path, top_n=5):
+def extract_top_tokens_from_day(json_path, top_n=50):
     with open(json_path, "r") as f:
         data = json.load(f)
 

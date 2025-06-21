@@ -28,5 +28,23 @@
     "name": "OGCommunity Token",
     "decimals": 18,
     "address": "0x6b01679d4c2f8e34ffab2b822f58d0e6aeebd441"
+  },
+  "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b": {
+    "symbol": "DFX",
+    "name": "CoinDesk DeFi Select Index",
+    "decimals": 18,
+    "address": "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b"
+  },
+  "0x933a84c341b58ad6b330da230c65f5f642ec454f": {
+    "symbol": "HOTEL",
+    "name": "Hotel Pay",
+    "decimals": 18,
+    "address": "0x933a84c341b58ad6b330da230c65f5f642ec454f"
+  },
+  "0x8c9f81d1d6e4c420cf955e0b5a1bae24115c4572": {
+    "symbol": "DISK",
+    "name": "RETARD.COMPUTER",
+    "decimals": 18,
+    "address": "0x8c9f81d1d6e4c420cf955e0b5a1bae24115c4572"
   }
 }

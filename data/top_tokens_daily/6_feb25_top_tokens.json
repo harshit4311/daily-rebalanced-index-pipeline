@@ -28,5 +28,101 @@
     "name": "Concrete-USDe-Vault",
     "decimals": 27,
     "address": "0x9dc37e4a901b1e21bd05e75c3b9a633a17001a39"
+  },
+  "0x9252af2e702eef816874487a83e53aabd673a490": {
+    "symbol": "PFI",
+    "name": "Purple Finance",
+    "decimals": 18,
+    "address": "0x9252af2e702eef816874487a83e53aabd673a490"
+  },
+  "0xf7f89747458c630cb403978d0ff35b6e23a7a13c": {
+    "symbol": "Bro",
+    "name": "Bro",
+    "decimals": 18,
+    "address": "0xf7f89747458c630cb403978d0ff35b6e23a7a13c"
+  },
+  "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568": {
+    "symbol": "uniBTC",
+    "name": "uniBTC",
+    "decimals": 8,
+    "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568"
+  },
+  "0x4f85f23de0decd73e1524ce9850f28dbb6b6b9fc": {
+    "symbol": "IF",
+    "name": "Info Finance",
+    "decimals": 18,
+    "address": "0x4f85f23de0decd73e1524ce9850f28dbb6b6b9fc"
+  },
+  "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "decimals": 8,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+  },
+  "0x4f4e65339ae6ec09fb3441bbf765728cfd660244": {
+    "symbol": "EXEX",
+    "name": "Exponential Meal",
+    "decimals": 18,
+    "address": "0x4f4e65339ae6ec09fb3441bbf765728cfd660244"
+  },
+  "0xf95280c2ab133ffdcd8827e9680447080074d45f": {
+    "symbol": "PFI",
+    "name": "Glass Finance",
+    "decimals": 18,
+    "address": "0xf95280c2ab133ffdcd8827e9680447080074d45f"
+  },
+  "0xabcbc1b4706c8680abf20988a48a43d43f899355": {
+    "symbol": "AkitaRising",
+    "name": "Akita Rising",
+    "decimals": 9,
+    "address": "0xabcbc1b4706c8680abf20988a48a43d43f899355"
+  },
+  "0x37f30c64cb4e4fc36c739823424b6c1da62730cc": {
+    "symbol": "NIL",
+    "name": "Nillion Network ",
+    "decimals": 18,
+    "address": "0x37f30c64cb4e4fc36c739823424b6c1da62730cc"
+  },
+  "0x5b1ab21fd5f7b9e6f72f878356cbd65f71f47055": {
+    "symbol": "AkitaRising",
+    "name": "Akita Rising",
+    "decimals": 9,
+    "address": "0x5b1ab21fd5f7b9e6f72f878356cbd65f71f47055"
+  },
+  "0x27202156f20446fe7e312b679aa7e445a9d548e0": {
+    "symbol": "AkitaRising",
+    "name": "AkitaRising",
+    "decimals": 9,
+    "address": "0x27202156f20446fe7e312b679aa7e445a9d548e0"
+  },
+  "0x5f98805a4e8be255a32880fdec7f6728c6568ba0": {
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18,
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+  },
+  "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98": {
+    "symbol": "Bold",
+    "name": "Bold Stablecoin",
+    "decimals": 18,
+    "address": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98"
+  },
+  "0xf4445049080ae2fde75aaf0c6e603fb55875f02c": {
+    "symbol": "DGK",
+    "name": "DGKToken",
+    "decimals": 18,
+    "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c"
+  },
+  "0x96a5399d07896f757bd4c6ef56461f58db951862": {
+    "symbol": "DRAGONX",
+    "name": "DragonX",
+    "decimals": 18,
+    "address": "0x96a5399d07896f757bd4c6ef56461f58db951862"
+  },
+  "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42": {
+    "symbol": "EVOLVE",
+    "name": "Evolve Network",
+    "decimals": 18,
+    "address": "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42"
   }
 }

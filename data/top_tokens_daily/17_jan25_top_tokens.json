@@ -28,5 +28,41 @@
     "name": "Station This",
     "decimals": 6,
     "address": "0x98ed411b8cf8536657c660db8aa55d9d4baaf820"
+  },
+  "0x1223334444a7466fbf985b14e1f4edaf3883bca6": {
+    "symbol": "GROW",
+    "name": "Grow",
+    "decimals": 18,
+    "address": "0x1223334444a7466fbf985b14e1f4edaf3883bca6"
+  },
+  "0x430475b17516acdbaa01e7035ac78c8fd58e67bf": {
+    "symbol": "TRIAD",
+    "name": "SHIB RYOSHI TRIAD",
+    "decimals": 18,
+    "address": "0x430475b17516acdbaa01e7035ac78c8fd58e67bf"
+  },
+  "0x6bcc5579568385fa785699cab3637fd78af0a175": {
+    "symbol": "EIG",
+    "name": "Eight",
+    "decimals": 18,
+    "address": "0x6bcc5579568385fa785699cab3637fd78af0a175"
+  },
+  "0x9fff2c944450640e60c9a750411603aadbefc70b": {
+    "symbol": "EIG3",
+    "name": "Triple Eight",
+    "decimals": 18,
+    "address": "0x9fff2c944450640e60c9a750411603aadbefc70b"
+  },
+  "0x037c992a764e3f9aa9ab8c5e9d74c652669c3fb3": {
+    "symbol": "TESTO",
+    "name": "TestO!",
+    "decimals": 18,
+    "address": "0x037c992a764e3f9aa9ab8c5e9d74c652669c3fb3"
+  },
+  "0x09def5abc67e967d54e8233a4b5ebbc1b3fbe34b": {
+    "symbol": "waBTC",
+    "name": "Wrapped aBTC",
+    "decimals": 18,
+    "address": "0x09def5abc67e967d54e8233a4b5ebbc1b3fbe34b"
   }
 }

@@ -28,5 +28,17 @@
     "name": "Telcoin",
     "decimals": 2,
     "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f"
+  },
+  "0x4d224452801aced8b2f0aebe155379bb5d594381": {
+    "symbol": "APE",
+    "name": "ApeCoin",
+    "decimals": 18,
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+  },
+  "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb": {
+    "symbol": "MTC",
+    "name": "MetaTrustCoin",
+    "decimals": 18,
+    "address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb"
   }
 }

@@ -28,5 +28,23 @@
     "name": "Ampleforth",
     "decimals": 9,
     "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+  },
+  "0xedb171c18ce90b633db442f2a6f72874093b49ef": {
+    "symbol": "WAMPL",
+    "name": "Wrapped Ampleforth",
+    "decimals": 18,
+    "address": "0xedb171c18ce90b633db442f2a6f72874093b49ef"
+  },
+  "0xfac3a72b54a0cd3875ae355be566c0119b14734f": {
+    "symbol": "KUMA",
+    "name": "Kuma",
+    "decimals": 18,
+    "address": "0xfac3a72b54a0cd3875ae355be566c0119b14734f"
+  },
+  "0xb3b78a5094bfba3d590e596594c87544e83225bd": {
+    "symbol": "$TBET",
+    "name": "TerabetToken",
+    "decimals": 18,
+    "address": "0xb3b78a5094bfba3d590e596594c87544e83225bd"
   }
 }

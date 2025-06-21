@@ -28,5 +28,113 @@
     "name": "Moontax",
     "decimals": 18,
     "address": "0x6ef69ba2d051761afd38f218f0a3cf517d64a760"
+  },
+  "0xb1373733e161e7aa0eed3c9ca0549e200a977fa4": {
+    "symbol": "OMNIB",
+    "name": "OmniTensor Brain",
+    "decimals": 18,
+    "address": "0xb1373733e161e7aa0eed3c9ca0549e200a977fa4"
+  },
+  "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc": {
+    "symbol": "XTP",
+    "name": "Tap",
+    "decimals": 18,
+    "address": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc"
+  },
+  "0x74d17a1eaeb269efdbd6ab2254621f8358d4641b": {
+    "symbol": "FKN",
+    "name": "FakeNey",
+    "decimals": 18,
+    "address": "0x74d17a1eaeb269efdbd6ab2254621f8358d4641b"
+  },
+  "0x1a5b2dd947671ffa99909f6f9bf7c74ee9b7388b": {
+    "symbol": "BYTE",
+    "name": "Byte",
+    "decimals": 18,
+    "address": "0x1a5b2dd947671ffa99909f6f9bf7c74ee9b7388b"
+  },
+  "0x40c0dd369fe44447a03680868ffb2d97b6767b11": {
+    "symbol": "VIGPU",
+    "name": "VIGPU",
+    "decimals": 18,
+    "address": "0x40c0dd369fe44447a03680868ffb2d97b6767b11"
+  },
+  "0x9cdf242ef7975d8c68d5c1f5b6905801699b1940": {
+    "symbol": "WHITE",
+    "name": "WhiteRock",
+    "decimals": 18,
+    "address": "0x9cdf242ef7975d8c68d5c1f5b6905801699b1940"
+  },
+  "0x112eba094e03dfac405f3afd2d3ec8db883762a6": {
+    "symbol": "MEMES",
+    "name": "Memes Token",
+    "decimals": 18,
+    "address": "0x112eba094e03dfac405f3afd2d3ec8db883762a6"
+  },
+  "0x1a58ccf9c8687d615fd49df9f7c12260ab7cd861": {
+    "symbol": "UP",
+    "name": "UP",
+    "decimals": 8,
+    "address": "0x1a58ccf9c8687d615fd49df9f7c12260ab7cd861"
+  },
+  "0x3106a0a076bedae847652f42ef07fd58589e001f": {
+    "symbol": "$ADS",
+    "name": "Alkimi Exchange",
+    "decimals": 18,
+    "address": "0x3106a0a076bedae847652f42ef07fd58589e001f"
+  },
+  "0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154": {
+    "symbol": "TFC",
+    "name": "Treasure Financial Coin",
+    "decimals": 5,
+    "address": "0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154"
+  },
+  "0xe32e3851e0a4216581342defac353d1efdfb36d9": {
+    "symbol": "SMFC",
+    "name": "Social Media Finance Coin",
+    "decimals": 18,
+    "address": "0xe32e3851e0a4216581342defac353d1efdfb36d9"
+  },
+  "0xad8ad4c34d1b1395445cc7e26e94ef5f67cef198": {
+    "symbol": "NIKKEI",
+    "name": "NI1337",
+    "decimals": 9,
+    "address": "0xad8ad4c34d1b1395445cc7e26e94ef5f67cef198"
+  },
+  "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "decimals": 8,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+  },
+  "0x164ee13cd2e7c76b957e5734d5089280f199bca2": {
+    "symbol": "LINKAI",
+    "name": "LINKAI",
+    "decimals": 18,
+    "address": "0x164ee13cd2e7c76b957e5734d5089280f199bca2"
+  },
+  "0x4cf488387f035ff08c371515562cba712f9015d4": {
+    "symbol": "WPR",
+    "name": "WePower Token",
+    "decimals": 18,
+    "address": "0x4cf488387f035ff08c371515562cba712f9015d4"
+  },
+  "0x02e7f808990638e9e67e1f00313037ede2362361": {
+    "symbol": "KIBSHI",
+    "name": "KiboShib",
+    "decimals": 18,
+    "address": "0x02e7f808990638e9e67e1f00313037ede2362361"
+  },
+  "0x657e8c867d8b37dcc18fa4caead9c45eb088c642": {
+    "symbol": "eBTC",
+    "name": "ether.fi BTC",
+    "decimals": 8,
+    "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642"
+  },
+  "0x8236a87084f8b84306f72007f36f2618a5634494": {
+    "symbol": "LBTC",
+    "name": "Lombard Staked Bitcoin",
+    "decimals": 8,
+    "address": "0x8236a87084f8b84306f72007f36f2618a5634494"
   }
 }

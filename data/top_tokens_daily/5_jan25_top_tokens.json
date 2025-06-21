@@ -28,5 +28,101 @@
     "name": "Dogecast",
     "decimals": 9,
     "address": "0x4955f6641bf9c8c163604c321f4b36e988698f75"
+  },
+  "0x7a885f074643642cf402318e6488410ff7b7a458": {
+    "symbol": "NBTX",
+    "name": "NetbitX",
+    "decimals": 18,
+    "address": "0x7a885f074643642cf402318e6488410ff7b7a458"
+  },
+  "0x746ba71c33856d2189587930933a73344cf4bd89": {
+    "symbol": "KIKI",
+    "name": "KIKICat",
+    "decimals": 9,
+    "address": "0x746ba71c33856d2189587930933a73344cf4bd89"
+  },
+  "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824": {
+    "symbol": "WICKED",
+    "name": "Wicked",
+    "decimals": 18,
+    "address": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824"
+  },
+  "0x6068b2c3e9a9a30d417854482861f28118a5e12d": {
+    "symbol": "TOM3",
+    "name": "TOM3",
+    "decimals": 18,
+    "address": "0x6068b2c3e9a9a30d417854482861f28118a5e12d"
+  },
+  "0xc9089c58c380d3e9ce812ddb878aae9828de8436": {
+    "symbol": "ADRIAN",
+    "name": "Adrian Dittmann",
+    "decimals": 9,
+    "address": "0xc9089c58c380d3e9ce812ddb878aae9828de8436"
+  },
+  "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0": {
+    "symbol": "rDAI",
+    "name": "Redeemable DAI",
+    "decimals": 18,
+    "address": "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0"
+  },
+  "0x3c4bc6af04aa092cda5c7b239ee3efc729a5b9c8": {
+    "symbol": "VTAE",
+    "name": "Vitae",
+    "decimals": 18,
+    "address": "0x3c4bc6af04aa092cda5c7b239ee3efc729a5b9c8"
+  },
+  "0xb36cf340a35f9860d0bb59afb0355580f0000dad": {
+    "symbol": "PADRE",
+    "name": "Padre",
+    "decimals": 18,
+    "address": "0xb36cf340a35f9860d0bb59afb0355580f0000dad"
+  },
+  "0x50327c6c5a14dcade707abad2e27eb517df87ab5": {
+    "symbol": "TRX",
+    "name": "TRON",
+    "decimals": 6,
+    "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+  },
+  "0x75231f58b43240c9718dd58b4967c5114342a86c": {
+    "symbol": "OKB",
+    "name": "OKB",
+    "decimals": 18,
+    "address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+  },
+  "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+  },
+  "0x54166f26bd08af3ba6b83c13c51e9a403d92d5ed": {
+    "symbol": "EQEX",
+    "name": "DUPREZ Victor Token",
+    "decimals": 4,
+    "address": "0x54166f26bd08af3ba6b83c13c51e9a403d92d5ed"
+  },
+  "0x54d2252757e1672eead234d27b1270728ff90581": {
+    "symbol": "BGB",
+    "name": "BitgetToken",
+    "decimals": 18,
+    "address": "0x54d2252757e1672eead234d27b1270728ff90581"
+  },
+  "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069": {
+    "symbol": "$0xGas",
+    "name": "0xGasless",
+    "decimals": 18,
+    "address": "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069"
+  },
+  "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
+    "symbol": "CRO",
+    "name": "CRO",
+    "decimals": 8,
+    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+  },
+  "0x78db79e4594e835542eb514404ae374f6f50236c": {
+    "symbol": "ai16z",
+    "name": "ai16z",
+    "decimals": 9,
+    "address": "0x78db79e4594e835542eb514404ae374f6f50236c"
   }
 }

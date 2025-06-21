@@ -28,5 +28,11 @@
     "name": "BIO Protocol",
     "decimals": 18,
     "address": "0xc7dcfc85011ece6bf923b1c5731704e6cc7e40d0"
+  },
+  "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8": {
+    "symbol": "INFRA",
+    "name": "infraX",
+    "decimals": 9,
+    "address": "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8"
   }
 }

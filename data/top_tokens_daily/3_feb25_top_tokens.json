@@ -28,5 +28,11 @@
     "name": "Polygon Ecosystem Token",
     "decimals": 18,
     "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+  },
+  "0x65c4c0517025ec0843c9146af266a2c5a2d148a2": {
+    "symbol": "ETH2X",
+    "name": "Index Coop Ethereum 2x Index",
+    "decimals": 18,
+    "address": "0x65c4c0517025ec0843c9146af266a2c5a2d148a2"
   }
 }

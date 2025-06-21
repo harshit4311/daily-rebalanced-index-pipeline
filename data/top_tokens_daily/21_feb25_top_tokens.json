@@ -28,5 +28,29 @@
     "name": "Shiba Galaxy",
     "decimals": 18,
     "address": "0x305a715ab8c01b923b6b6d5d271f72d55038d431"
+  },
+  "0xfa2b947eec368f42195f24f36d2af29f7c24cec2": {
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "decimals": 18,
+    "address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+  },
+  "0x9657477ac915f56ca87c253db1320218ec2d5ddd": {
+    "symbol": "JNE",
+    "name": "Jake Newman Enterprises",
+    "decimals": 18,
+    "address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd"
+  },
+  "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab": {
+    "symbol": "FAST",
+    "name": "FASTINDEMAND",
+    "decimals": 18,
+    "address": "0xa74d272e0fd6e0c460a76c72e70f82bc712b8cab"
+  },
+  "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "decimals": 18,
+    "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
   }
 }

@@ -28,5 +28,119 @@
     "name": "Convex CRV",
     "decimals": 18,
     "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7"
+  },
+  "0x9796c7c183ad3766e788105775d207bcd08de72b": {
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 18,
+    "address": "0x9796c7c183ad3766e788105775d207bcd08de72b"
+  },
+  "0x18f798191f32b306ed1e4cabc2967d4983a3a1bf": {
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 18,
+    "address": "0x18f798191f32b306ed1e4cabc2967d4983a3a1bf"
+  },
+  "0x0411b4652f6087d02f633119043e6199841e37eb": {
+    "symbol": "KRWT",
+    "name": "Korean Won",
+    "decimals": 18,
+    "address": "0x0411b4652f6087d02f633119043e6199841e37eb"
+  },
+  "0x78dbe8a761ea452ddc9ee3321394f846967a96f8": {
+    "symbol": "XENAI",
+    "name": "Xenix AI",
+    "decimals": 18,
+    "address": "0x78dbe8a761ea452ddc9ee3321394f846967a96f8"
+  },
+  "0xd54d1bd3d09763eb49296b224182c0e92cefb48a": {
+    "symbol": "GLXYC",
+    "name": "Galaxy City Coin",
+    "decimals": 18,
+    "address": "0xd54d1bd3d09763eb49296b224182c0e92cefb48a"
+  },
+  "0xadc9c900b05f39f48bb6f402a1bae60929f4f9a8": {
+    "symbol": "pumpBTC.bera",
+    "name": "pumpBTC.bera",
+    "decimals": 8,
+    "address": "0xadc9c900b05f39f48bb6f402a1bae60929f4f9a8"
+  },
+  "0xc96de26018a54d51c097160568752c4e3bd6c364": {
+    "symbol": "FBTC",
+    "name": "Fire Bitcoin",
+    "decimals": 8,
+    "address": "0xc96de26018a54d51c097160568752c4e3bd6c364"
+  },
+  "0x6068b2c3e9a9a30d417854482861f28118a5e12d": {
+    "symbol": "TOM3",
+    "name": "TOM3",
+    "decimals": 18,
+    "address": "0x6068b2c3e9a9a30d417854482861f28118a5e12d"
+  },
+  "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3": {
+    "symbol": "ELON",
+    "name": "Dogelon",
+    "decimals": 18,
+    "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3"
+  },
+  "0x26b17fc034b82a20563dbb02ec9e78b1d65d7a58": {
+    "symbol": "PENGU",
+    "name": "Pengu",
+    "decimals": 18,
+    "address": "0x26b17fc034b82a20563dbb02ec9e78b1d65d7a58"
+  },
+  "0x11eef04c884e24d9b7b4760e7476d06ddf797f36": {
+    "symbol": "MX",
+    "name": "MX Token",
+    "decimals": 18,
+    "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+  },
+  "0x21d6ec8fc14caacc55afa23cba66798dab3a0ec0": {
+    "symbol": "vPHA",
+    "name": "Phala Vault",
+    "decimals": 18,
+    "address": "0x21d6ec8fc14caacc55afa23cba66798dab3a0ec0"
+  },
+  "0x6c5ba91642f10282b576d91922ae6448c9d52f4e": {
+    "symbol": "PHA",
+    "name": "Phala",
+    "decimals": 18,
+    "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
+  },
+  "0x16e4377e511acd8efb72cedf7dd834b331e7d9fb": {
+    "symbol": "STACKY",
+    "name": "StackyWacky",
+    "decimals": 18,
+    "address": "0x16e4377e511acd8efb72cedf7dd834b331e7d9fb"
+  },
+  "0x7da4e7fcaf1eaf8fa59c3175b83809a25e3a8225": {
+    "symbol": "NTHNG",
+    "name": "NothingCoin",
+    "decimals": 18,
+    "address": "0x7da4e7fcaf1eaf8fa59c3175b83809a25e3a8225"
+  },
+  "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0": {
+    "symbol": "USD0++",
+    "name": "USD0 Liquid Bond",
+    "decimals": 18,
+    "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
+  },
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+  },
+  "0x1121acc14c63f3c872bfca497d10926a6098aac5": {
+    "symbol": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "decimals": 18,
+    "address": "0x1121acc14c63f3c872bfca497d10926a6098aac5"
+  },
+  "0x70001d8306850a0416095482886c9fc7f6eb6f78": {
+    "symbol": "MEGA",
+    "name": "Make Europe Great Again",
+    "decimals": 9,
+    "address": "0x70001d8306850a0416095482886c9fc7f6eb6f78"
   }
 }

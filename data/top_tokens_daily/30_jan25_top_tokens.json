@@ -28,5 +28,41 @@
     "name": "CypheriumCommunityDrivenWrappedCPH",
     "decimals": 18,
     "address": "0x07a7dc47d675c2a907c926bbc5f59bb3bd144796"
+  },
+  "0x3e88e65b32ed8205202933d4909f6c5501698bdb": {
+    "symbol": "CHIEFSRULES",
+    "name": "CHIEFSRULES",
+    "decimals": 18,
+    "address": "0x3e88e65b32ed8205202933d4909f6c5501698bdb"
+  },
+  "0xa8dd5f7752b72cd9831009374c6f41a4c16e8592": {
+    "symbol": " ",
+    "name": " ",
+    "decimals": 18,
+    "address": "0xa8dd5f7752b72cd9831009374c6f41a4c16e8592"
+  },
+  "0xef2d629fcc6889fa58860d18b808852e59ad989b": {
+    "symbol": "CHIEFSRULES",
+    "name": "CHIEFSRULES",
+    "decimals": 18,
+    "address": "0xef2d629fcc6889fa58860d18b808852e59ad989b"
+  },
+  "0x9f04c2bd696a6191246144ba762456a24c457520": {
+    "symbol": "AITAX",
+    "name": "AITaxBot",
+    "decimals": 18,
+    "address": "0x9f04c2bd696a6191246144ba762456a24c457520"
+  },
+  "0x3deb91850410d16821e4a9a7f854cd7942357715": {
+    "symbol": "ECH",
+    "name": "EdgeChain",
+    "decimals": 18,
+    "address": "0x3deb91850410d16821e4a9a7f854cd7942357715"
+  },
+  "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "decimals": 8,
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
   }
 }
