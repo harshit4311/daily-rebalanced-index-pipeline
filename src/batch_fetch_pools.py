@@ -1,3 +1,5 @@
+'''fetch all pools in a given month, day-by-day using this batch-fetch script '''
+
 import os
 from datetime import datetime, timedelta
 import importlib.util
