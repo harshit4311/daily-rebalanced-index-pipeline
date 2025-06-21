@@ -9,6 +9,7 @@ MORALIS_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjM0MDlmY2Yy
 HEADERS = {"X-API-Key": MORALIS_API_KEY}
 DEX_API = "https://api.dexscreener.com/tokens/v1/ethereum"
 
+
 def get_pair_addresses(token_address):
     url = f"{DEX_API}/{token_address}"
     resp = requests.get(url, timeout=10)
@@ -17,11 +18,12 @@ def get_pair_addresses(token_address):
     data = resp.json()
     return [pool["pairAddress"] for pool in data]
 
+
 def fetch_ohlcv(pair_address, from_date, to_date):
     url = f"https://deep-index.moralis.io/api/v2.2/pairs/{pair_address}/ohlcv"
     params = {
         "chain": "eth",
-        "timeframe": "1d",
+        "timeframe": "10min",
         "currency": "usd",
         "fromDate": from_date,
         "toDate": to_date,
@@ -31,6 +33,7 @@ def fetch_ohlcv(pair_address, from_date, to_date):
     if resp.status_code != 200:
         raise Exception(f"Moralis error: {resp.status_code} - {resp.text}")
     return resp.json().get("result", [])
+
 
 def process_and_save(df, symbol, out_dir, file_label):
     if df.empty:
