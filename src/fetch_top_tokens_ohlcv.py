@@ -86,4 +86,4 @@ def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=20):
             
 
 if __name__ == "__main__":
-    fetch_and_save_daily_ohlcv("feb25", top_n=5)
+    fetch_and_save_daily_ohlcv("feb25", top_n=5) # change feb25 to jan25 for fetching data for a diff month
