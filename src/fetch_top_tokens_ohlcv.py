@@ -15,7 +15,7 @@ def load_tokens_from_file(file_path):
         return json.load(f)
 
 
-def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=40):
+def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=40): # keep {buffer > top_n} incase we dont find data for top-5
     files = sorted([
         f for f in os.listdir(TOP_TOKENS_DIR)
         if f.endswith("_top_tokens.json") and f.split("_")[1] == month_label
