@@ -27,7 +27,7 @@ def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=40): # keep {buffer 
 
     for file in files:
         file_path = os.path.join(TOP_TOKENS_DIR, file)
-        file_label = file.replace("_top_tokens.json", "")  # e.g. 1_feb25
+        file_label = file.replace("_top_tokens.json", "")  # eg. 1_feb25
         print(f"\n📅 Processing {file_label}...")
 
         try:
@@ -86,4 +86,4 @@ def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=40): # keep {buffer 
             
 
 if __name__ == "__main__":
-    fetch_and_save_daily_ohlcv("feb25", top_n=5) # change feb25 to jan25 for fetching data for a diff month
+    fetch_and_save_daily_ohlcv("jan25", top_n=5) # change feb25 to jan25 for fetching data for a diff month
