@@ -39,7 +39,7 @@ if __name__ == "__main__":
     run_batch(
         start_day=1,
         end_day=31,
-        month=3,
+        month=6,
         year=2025,
-        save_subdir="mar25"
+        save_subdir="jun25"
     )

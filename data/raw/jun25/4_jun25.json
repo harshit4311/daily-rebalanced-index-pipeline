@@ -1,0 +1,110 @@
+{
+  "0xff64b7072fad63688bce95e537a82481258e58ef": {
+    "symbol": "BOOK",
+    "name": "BOOK",
+    "decimals": 9,
+    "address": "0xff64b7072fad63688bce95e537a82481258e58ef"
+  },
+  "0x41c43b1ede8d6473a5aa848cd45641d26f2144a0": {
+    "symbol": "MUTANT",
+    "name": "Dr.Mutant",
+    "decimals": 18,
+    "address": "0x41c43b1ede8d6473a5aa848cd45641d26f2144a0"
+  },
+  "0x55031709b094a2bc84c79669fd65cfe8edfb6044": {
+    "symbol": "CAPX",
+    "name": "Capital Shares",
+    "decimals": 18,
+    "address": "0x55031709b094a2bc84c79669fd65cfe8edfb6044"
+  },
+  "0x34190f79a4051e603d43451a6b21dfc55bbe0b1d": {
+    "symbol": "WOLFIE",
+    "name": "Wolfie By Matt Furie",
+    "decimals": 9,
+    "address": "0x34190f79a4051e603d43451a6b21dfc55bbe0b1d"
+  },
+  "0xd27da0ed3107f003c56180b463bae8d8ae072e26": {
+    "symbol": "SPAY",
+    "name": "SatosPay",
+    "decimals": 18,
+    "address": "0xd27da0ed3107f003c56180b463bae8d8ae072e26"
+  },
+  "0x8e82c4c472b3b3f38c6c2458f16fecddf50c6fd7": {
+    "symbol": "WALLET",
+    "name": "TrumpWallet",
+    "decimals": 18,
+    "address": "0x8e82c4c472b3b3f38c6c2458f16fecddf50c6fd7"
+  },
+  "0xe533c2480983e46664b15717d6fc02c0a1dad537": {
+    "symbol": "TAIKI",
+    "name": "TAIKI INU",
+    "decimals": 18,
+    "address": "0xe533c2480983e46664b15717d6fc02c0a1dad537"
+  },
+  "0x404d3295c8b1c61662068db584125a7ebcc0d651": {
+    "symbol": "MAMBO",
+    "name": "Mambo",
+    "decimals": 18,
+    "address": "0x404d3295c8b1c61662068db584125a7ebcc0d651"
+  },
+  "0x7599bef07972f549e491e907c3a14d168aaf86c0": {
+    "symbol": "ETHAI",
+    "name": "ETHERnication",
+    "decimals": 3,
+    "address": "0x7599bef07972f549e491e907c3a14d168aaf86c0"
+  },
+  "0xa7320588e832c78e90973ddc44fbf97430fa1258": {
+    "symbol": "Bitcop",
+    "name": "Bitcopper",
+    "decimals": 18,
+    "address": "0xa7320588e832c78e90973ddc44fbf97430fa1258"
+  },
+  "0xf70357603e10a71007b1f8c8dd998447d671fd08": {
+    "symbol": "COW AI",
+    "name": "Polar cow",
+    "decimals": 3,
+    "address": "0xf70357603e10a71007b1f8c8dd998447d671fd08"
+  },
+  "0x4fbb2c015530f70254fe88658ed5756014212bd5": {
+    "symbol": "TKA",
+    "name": "Terraka",
+    "decimals": 18,
+    "address": "0x4fbb2c015530f70254fe88658ed5756014212bd5"
+  },
+  "0xd75d5d5d132622702fc7b67a7266ecb7425d212b": {
+    "symbol": "TT",
+    "name": "Test Token",
+    "decimals": 16,
+    "address": "0xd75d5d5d132622702fc7b67a7266ecb7425d212b"
+  },
+  "0x1521418a15239ce3a0a3e791c46c00612c4d3d92": {
+    "symbol": "WLFI",
+    "name": "WLFI Parody",
+    "decimals": 18,
+    "address": "0x1521418a15239ce3a0a3e791c46c00612c4d3d92"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0x0089ca25d1cce9b4e41aea2c245427d63fc1169a": {
+    "symbol": "DPSK",
+    "name": "DEEPSEEK ",
+    "decimals": 18,
+    "address": "0x0089ca25d1cce9b4e41aea2c245427d63fc1169a"
+  },
+  "0x8fea9cdc023752f95910fb0ab872b09ac2d2f56a": {
+    "symbol": "47",
+    "name": "47 USD1",
+    "decimals": 18,
+    "address": "0x8fea9cdc023752f95910fb0ab872b09ac2d2f56a"
+  },
+  "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958": {
+    "symbol": "wXTM",
+    "name": "WrappedXTM",
+    "decimals": 18,
+    "address": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958"
+  }
+}

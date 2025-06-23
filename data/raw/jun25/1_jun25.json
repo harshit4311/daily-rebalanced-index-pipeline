@@ -1,0 +1,116 @@
+{
+  "0x7cfd34ca2dceca6c835adc7e61409a089cfff14a": {
+    "symbol": "DAWAE",
+    "name": "DaWae",
+    "decimals": 18,
+    "address": "0x7cfd34ca2dceca6c835adc7e61409a089cfff14a"
+  },
+  "0x0c9ba2aaf88fc676e451a17a2a207b9822be3c99": {
+    "symbol": "STORM",
+    "name": "THE STORM IS HERE",
+    "decimals": 18,
+    "address": "0x0c9ba2aaf88fc676e451a17a2a207b9822be3c99"
+  },
+  "0x90001c5f2c6ffd4b90a801afddefcbf31965c667": {
+    "symbol": "OMALLEY",
+    "name": "O'Malley",
+    "decimals": 18,
+    "address": "0x90001c5f2c6ffd4b90a801afddefcbf31965c667"
+  },
+  "0xc69411205caa00e25c7e6845cf8144b0f1817dd5": {
+    "symbol": "NUPEPE",
+    "name": "NuPepe",
+    "decimals": 18,
+    "address": "0xc69411205caa00e25c7e6845cf8144b0f1817dd5"
+  },
+  "0x9affdbdcb5f9efe13c3c8ef31565245a1915bed7": {
+    "symbol": "D.O.G.E.",
+    "name": "D.O.G.E.",
+    "decimals": 9,
+    "address": "0x9affdbdcb5f9efe13c3c8ef31565245a1915bed7"
+  },
+  "0xe4beea93dd9f1991a4318e9ffaa60282175ab20b": {
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "decimals": 18,
+    "address": "0xe4beea93dd9f1991a4318e9ffaa60282175ab20b"
+  },
+  "0xb39c90d3ef7a4c85b7c10cbfcee6eedea91e3086": {
+    "symbol": "SHIK",
+    "name": "SHIKOKU INU",
+    "decimals": 18,
+    "address": "0xb39c90d3ef7a4c85b7c10cbfcee6eedea91e3086"
+  },
+  "0x2276951b458f9e435efcb4530c7597ad72877969": {
+    "symbol": "UXLINK",
+    "name": "UXLINK",
+    "decimals": 18,
+    "address": "0x2276951b458f9e435efcb4530c7597ad72877969"
+  },
+  "0x4f4e65339ae6ec09fb3441bbf765728cfd660244": {
+    "symbol": "EXEX",
+    "name": "Exponential Meal",
+    "decimals": 18,
+    "address": "0x4f4e65339ae6ec09fb3441bbf765728cfd660244"
+  },
+  "0x5539c14df0f4790778642c66884b8c93f4e85a7f": {
+    "symbol": "OP ",
+    "name": "Optimism",
+    "decimals": 18,
+    "address": "0x5539c14df0f4790778642c66884b8c93f4e85a7f"
+  },
+  "0x59c05e4e027b3fea12735eb12419ddcdb02e1e6c": {
+    "symbol": "MASK",
+    "name": "catwifmask",
+    "decimals": 18,
+    "address": "0x59c05e4e027b3fea12735eb12419ddcdb02e1e6c"
+  },
+  "0x9b4f92bdaceda73edaad4ccfc0ab3c8ac6b27344": {
+    "symbol": "ACA",
+    "name": "Acala",
+    "decimals": 18,
+    "address": "0x9b4f92bdaceda73edaad4ccfc0ab3c8ac6b27344"
+  },
+  "0x13cb4b6f05067615cd6c5f71df4005eedb97374e": {
+    "symbol": "NATIX",
+    "name": "NATIX Network",
+    "decimals": 18,
+    "address": "0x13cb4b6f05067615cd6c5f71df4005eedb97374e"
+  },
+  "0x16f57caa70d1af502f7ea9854b6ffe4fdeee9979": {
+    "symbol": "DEGEN",
+    "name": "Degen",
+    "decimals": 18,
+    "address": "0x16f57caa70d1af502f7ea9854b6ffe4fdeee9979"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4": {
+    "symbol": "NEAR",
+    "name": "NEAR",
+    "decimals": 24,
+    "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4"
+  },
+  "0xa815a864e9776f3f3315cdc99e71378be4de3ea2": {
+    "symbol": "TSDG",
+    "name": "TETHER GOLD",
+    "decimals": 18,
+    "address": "0xa815a864e9776f3f3315cdc99e71378be4de3ea2"
+  },
+  "0xcfd8d330cea169a3273cf36561dd64b5da14b3eb": {
+    "symbol": "TOND",
+    "name": "Treasury Bond",
+    "decimals": 18,
+    "address": "0xcfd8d330cea169a3273cf36561dd64b5da14b3eb"
+  },
+  "0x9fec6113b460068c78c745c660a722ce5d02e29a": {
+    "symbol": "test dont buy",
+    "name": "test dont buy",
+    "decimals": 18,
+    "address": "0x9fec6113b460068c78c745c660a722ce5d02e29a"
+  }
+}

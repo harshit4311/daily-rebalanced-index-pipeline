@@ -1,0 +1,92 @@
+{
+  "0xa39f2e18b13145152b15fea27e7151b40214f936": {
+    "symbol": "forOne",
+    "name": "forOne",
+    "decimals": 18,
+    "address": "0xa39f2e18b13145152b15fea27e7151b40214f936"
+  },
+  "0xf444da703bdf417d872798970dd6ef5997788df2": {
+    "symbol": "TZZ",
+    "name": "TOO",
+    "decimals": 18,
+    "address": "0xf444da703bdf417d872798970dd6ef5997788df2"
+  },
+  "0x296e54bf03cfde09dcb075116cb44750e319464c": {
+    "symbol": "BFT",
+    "name": "BlackFish",
+    "decimals": 18,
+    "address": "0x296e54bf03cfde09dcb075116cb44750e319464c"
+  },
+  "0xc7663aba81f2caafdf17c76a4bc6a86c1faa6996": {
+    "symbol": "MFX",
+    "name": "MFX6900",
+    "decimals": 18,
+    "address": "0xc7663aba81f2caafdf17c76a4bc6a86c1faa6996"
+  },
+  "0xbb315eebeeacdad2ac0f9a7211c7ddef9926aa90": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0xbb315eebeeacdad2ac0f9a7211c7ddef9926aa90"
+  },
+  "0xf9054f02e562ab734696356e17b8deacead02e0d": {
+    "symbol": "R1 ",
+    "name": "Ratio1",
+    "decimals": 18,
+    "address": "0xf9054f02e562ab734696356e17b8deacead02e0d"
+  },
+  "0xed6f8be0ec3f1d28fb362d70a4091196ee507636": {
+    "symbol": "AXL",
+    "name": "Axelar",
+    "decimals": 18,
+    "address": "0xed6f8be0ec3f1d28fb362d70a4091196ee507636"
+  },
+  "0x6c55047991137bca1b5931f4bb0fa6f443cd4a5b": {
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "decimals": 18,
+    "address": "0x6c55047991137bca1b5931f4bb0fa6f443cd4a5b"
+  },
+  "0x448edcc3d22e98cf8a06433a61c44320ec93e610": {
+    "symbol": " BULLA",
+    "name": "Bulla On Base",
+    "decimals": 18,
+    "address": "0x448edcc3d22e98cf8a06433a61c44320ec93e610"
+  },
+  "0x81c86a9af738e8d345f11bedb18a577353e3be07": {
+    "symbol": "XMR",
+    "name": "Monero",
+    "decimals": 18,
+    "address": "0x81c86a9af738e8d345f11bedb18a577353e3be07"
+  },
+  "0x48e029c8bf675230fd5840e8b82123fbecd417bc": {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 18,
+    "address": "0x48e029c8bf675230fd5840e8b82123fbecd417bc"
+  },
+  "0x4c9edd5852cd905f086c759e8383e09bff1e68b3": {
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+  },
+  "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
+    "decimals": 18,
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+  },
+  "0xf5aa0127d8f4c34b2394d2c20dc45489225308a6": {
+    "symbol": "TEST",
+    "name": "THIS IS A TEST DO NOT BUY",
+    "decimals": 18,
+    "address": "0xf5aa0127d8f4c34b2394d2c20dc45489225308a6"
+  },
+  "0x028e614d903f80dd8c9a74b6c3970a71e93b553b": {
+    "symbol": "TEST",
+    "name": "THIS IS A TEST DO NOT BUY",
+    "decimals": 18,
+    "address": "0x028e614d903f80dd8c9a74b6c3970a71e93b553b"
+  }
+}

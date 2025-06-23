@@ -1,0 +1,104 @@
+{
+  "0x7f1988924668259d3952e7d8db4d5e87e9c5e53b": {
+    "symbol": "BIGCOIN",
+    "name": "Bigcoin",
+    "decimals": 9,
+    "address": "0x7f1988924668259d3952e7d8db4d5e87e9c5e53b"
+  },
+  "0xcd4bf2dde27fbfcc0d8ba8b4478c4607094f46a5": {
+    "symbol": "SET",
+    "name": "SET",
+    "decimals": 18,
+    "address": "0xcd4bf2dde27fbfcc0d8ba8b4478c4607094f46a5"
+  },
+  "0x465e07d6028830124be2e4aa551fbe12805db0f5": {
+    "symbol": "WXMR",
+    "name": "Wrapped Monero",
+    "decimals": 18,
+    "address": "0x465e07d6028830124be2e4aa551fbe12805db0f5"
+  },
+  "0xd3b4520c6eba271eaaf1dd9b1554384c7943925f": {
+    "symbol": "BIAO",
+    "name": "BIAO",
+    "decimals": 18,
+    "address": "0xd3b4520c6eba271eaaf1dd9b1554384c7943925f"
+  },
+  "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045": {
+    "symbol": "PSM",
+    "name": "Possum",
+    "decimals": 18,
+    "address": "0xcb69b067d9d8d6dd1209fe4557c43586e54f9045"
+  },
+  "0x2efc6a8b128d6d909742479544f3242f6b331f61": {
+    "symbol": "SHYGUY",
+    "name": "Shy Guy",
+    "decimals": 18,
+    "address": "0x2efc6a8b128d6d909742479544f3242f6b331f61"
+  },
+  "0x92e358b9445e4102d13f6bf694984cee8372456f": {
+    "symbol": "DRIPZ",
+    "name": "DRIPZ",
+    "decimals": 18,
+    "address": "0x92e358b9445e4102d13f6bf694984cee8372456f"
+  },
+  "0xcea2f0210e1546ce5f82a34e1c2715086506c152": {
+    "symbol": "AERO",
+    "name": "Aerodrome Finance",
+    "decimals": 18,
+    "address": "0xcea2f0210e1546ce5f82a34e1c2715086506c152"
+  },
+  "0x4b4e5fccf1e413595e55dfed47bd8a6d3556bbc8": {
+    "symbol": "LABUBU",
+    "name": "LABUBU",
+    "decimals": 18,
+    "address": "0x4b4e5fccf1e413595e55dfed47bd8a6d3556bbc8"
+  },
+  "0xcdcc8d0458497db7c80a1a7f377762dd9ee6f753": {
+    "symbol": "LGNS",
+    "name": "Longinus",
+    "decimals": 18,
+    "address": "0xcdcc8d0458497db7c80a1a7f377762dd9ee6f753"
+  },
+  "0x2d81b316ed5bcfa0c707a4bc49a7d891cf30631b": {
+    "symbol": "R1 ",
+    "name": "Ratio1",
+    "decimals": 18,
+    "address": "0x2d81b316ed5bcfa0c707a4bc49a7d891cf30631b"
+  },
+  "0x16e701ceb1e871ab58b98115599541ca67d6d4f8": {
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "address": "0x16e701ceb1e871ab58b98115599541ca67d6d4f8"
+  },
+  "0x59a726398d5d9e55a8b4e7e14613348e9da85e06": {
+    "symbol": "MNDE",
+    "name": "Marinade",
+    "decimals": 18,
+    "address": "0x59a726398d5d9e55a8b4e7e14613348e9da85e06"
+  },
+  "0xd4b1cb9161432d4192b42ba8a7de29f13036ee1c": {
+    "symbol": "BDOGE",
+    "name": "Based Doge",
+    "decimals": 18,
+    "address": "0xd4b1cb9161432d4192b42ba8a7de29f13036ee1c"
+  },
+  "0x93df7a742573d98c6c8aa97e0d7a7188695cf543": {
+    "symbol": "STBL",
+    "name": "stbl",
+    "decimals": 18,
+    "address": "0x93df7a742573d98c6c8aa97e0d7a7188695cf543"
+  },
+  "0xffffff8833ea33f115c228c13178e32ec910947a": {
+    "symbol": "Fug",
+    "name": "Fugazi",
+    "decimals": 18,
+    "address": "0xffffff8833ea33f115c228c13178e32ec910947a"
+  },
+  "0xee554dcbd95af1bd9e2bb4b1e7779b3e6365b45e": {
+    "symbol": "YTC",
+    "name": "youtubecoin",
+    "decimals": 18,
+    "address": "0xee554dcbd95af1bd9e2bb4b1e7779b3e6365b45e"
+  }
+}

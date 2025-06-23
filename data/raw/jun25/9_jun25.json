@@ -1,0 +1,92 @@
+{
+  "0x61dbbbb552dc893ab3aad09f289f811e67cef285": {
+    "symbol": "SKATE",
+    "name": "Skate",
+    "decimals": 18,
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285"
+  },
+  "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0": {
+    "symbol": "KRL",
+    "name": "Kryll",
+    "decimals": 18,
+    "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
+  },
+  "0x32f8497fd74e40e776eece36543ffd6055b09bd4": {
+    "symbol": "YOKA",
+    "name": "YokaDogStaffPointerInu",
+    "decimals": 18,
+    "address": "0x32f8497fd74e40e776eece36543ffd6055b09bd4"
+  },
+  "0x09a4efdd9d4700188405e5eb3bceb24c9515a117": {
+    "symbol": "TAG",
+    "name": "TAGGER",
+    "decimals": 18,
+    "address": "0x09a4efdd9d4700188405e5eb3bceb24c9515a117"
+  },
+  "0xa6969e20cb57d26d815d20aab3ab94146aae86dc": {
+    "symbol": "SPT",
+    "name": "ShibaPepeTrump",
+    "decimals": 18,
+    "address": "0xa6969e20cb57d26d815d20aab3ab94146aae86dc"
+  },
+  "0x72e228cdfdc77a36048a7ef62485be11b6d3b25e": {
+    "symbol": "MANYU",
+    "name": "Manyu the Shiba Inu",
+    "decimals": 9,
+    "address": "0x72e228cdfdc77a36048a7ef62485be11b6d3b25e"
+  },
+  "0x87ab576a04177633d8ec20a3f81622381b47fccf": {
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "decimals": 18,
+    "address": "0x87ab576a04177633d8ec20a3f81622381b47fccf"
+  },
+  "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3": {
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "decimals": 18,
+    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
+  },
+  "0x95d0202712e544e60ebd27c8abe8e8f16ac37d7f": {
+    "symbol": "TIG",
+    "name": "The Innovation Game",
+    "decimals": 18,
+    "address": "0x95d0202712e544e60ebd27c8abe8e8f16ac37d7f"
+  },
+  "0x5920bff6c3dc18ddf70ae9c98fc6ca0ec8afbc40": {
+    "symbol": "KENZ",
+    "name": "KENZA",
+    "decimals": 18,
+    "address": "0x5920bff6c3dc18ddf70ae9c98fc6ca0ec8afbc40"
+  },
+  "0x5e1a3de1ac3c30a42acca301a729bfa7f7837bbc": {
+    "symbol": "mogsr",
+    "name": "mortgagefi-strategic-round-token",
+    "decimals": 18,
+    "address": "0x5e1a3de1ac3c30a42acca301a729bfa7f7837bbc"
+  },
+  "0xfaa32314785068cdae9569b4eebbdb4aad0ae2bf": {
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "decimals": 18,
+    "address": "0xfaa32314785068cdae9569b4eebbdb4aad0ae2bf"
+  },
+  "0xc2271becdfcab42bcfe7abf18612c6cdecedf915": {
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "decimals": 18,
+    "address": "0xc2271becdfcab42bcfe7abf18612c6cdecedf915"
+  },
+  "0x8c41455aaa8d6aba3150058d4964349294bf78a3": {
+    "symbol": "BULL",
+    "name": "ETH BULL",
+    "decimals": 9,
+    "address": "0x8c41455aaa8d6aba3150058d4964349294bf78a3"
+  },
+  "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+    "symbol": "K\u016aKA",
+    "name": "K\u016aKA",
+    "decimals": 18,
+    "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
+  }
+}

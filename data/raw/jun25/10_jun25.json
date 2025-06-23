@@ -1,0 +1,98 @@
+{
+  "0x259338656198ec7a76c729514d3cb45dfbf768a1": {
+    "symbol": "RESOLV",
+    "name": "Resolv",
+    "decimals": 18,
+    "address": "0x259338656198ec7a76c729514d3cb45dfbf768a1"
+  },
+  "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95": {
+    "symbol": "ETHCHAN",
+    "name": "ETH Chan",
+    "decimals": 9,
+    "address": "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95"
+  },
+  "0x6d3d1f98d093bbbc00ddb309fe1ed54da0524db8": {
+    "symbol": "FIRE",
+    "name": "Firebeam",
+    "decimals": 18,
+    "address": "0x6d3d1f98d093bbbc00ddb309fe1ed54da0524db8"
+  },
+  "0x12600ab808ff1d020d8d9319fee2721bcc7fa8b5": {
+    "symbol": "AVO",
+    "name": "Avocado",
+    "decimals": 18,
+    "address": "0x12600ab808ff1d020d8d9319fee2721bcc7fa8b5"
+  },
+  "0x893af3c8db1eca29f3c62a42c7d37699cdf06b61": {
+    "symbol": "HNK",
+    "name": "Hangry Monkey",
+    "decimals": 9,
+    "address": "0x893af3c8db1eca29f3c62a42c7d37699cdf06b61"
+  },
+  "0xc3ee4a7554fa1ed89640d8b78a268d0fdfef69b7": {
+    "symbol": "EGG",
+    "name": "EGG",
+    "decimals": 18,
+    "address": "0xc3ee4a7554fa1ed89640d8b78a268d0fdfef69b7"
+  },
+  "0x319f09d5689de847a8fa93f3bde049634f2bb268": {
+    "symbol": "HOME",
+    "name": "Defi app",
+    "decimals": 18,
+    "address": "0x319f09d5689de847a8fa93f3bde049634f2bb268"
+  },
+  "0x62fa6e67e9b9e95e82e7bdab170681668706d1cb": {
+    "symbol": "STBL",
+    "name": "Stabiliti",
+    "decimals": 6,
+    "address": "0x62fa6e67e9b9e95e82e7bdab170681668706d1cb"
+  },
+  "0x8f91f27941f3d0659a559261d84b35691b5a9b76": {
+    "symbol": "USDE",
+    "name": "USDE",
+    "decimals": 18,
+    "address": "0x8f91f27941f3d0659a559261d84b35691b5a9b76"
+  },
+  "0x6815e1f383e670d2537a3f9975adc4427dd91474": {
+    "symbol": "USDETH",
+    "name": "USDETH",
+    "decimals": 18,
+    "address": "0x6815e1f383e670d2537a3f9975adc4427dd91474"
+  },
+  "0x980018eec0bf3a396e484bdc0d81324f1ef629f7": {
+    "symbol": "AXL",
+    "name": "Axelar",
+    "decimals": 18,
+    "address": "0x980018eec0bf3a396e484bdc0d81324f1ef629f7"
+  },
+  "0xbd1d591e4e5193ce9518735a28273d42f3f80629": {
+    "symbol": "VADER",
+    "name": "VaderAI by Virtuals",
+    "decimals": 18,
+    "address": "0xbd1d591e4e5193ce9518735a28273d42f3f80629"
+  },
+  "0x4ee0b59f4a8f7cb163dc373ae87b0a9d404d8347": {
+    "symbol": "Verse",
+    "name": "Verse World",
+    "decimals": 18,
+    "address": "0x4ee0b59f4a8f7cb163dc373ae87b0a9d404d8347"
+  },
+  "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110": {
+    "symbol": "USR",
+    "name": "Resolv USD",
+    "decimals": 18,
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110"
+  },
+  "0x01c3e72f825bd5e5f236152ad978d97489cf60fb": {
+    "symbol": "ARMAG",
+    "name": "Armageddon",
+    "decimals": 18,
+    "address": "0x01c3e72f825bd5e5f236152ad978d97489cf60fb"
+  },
+  "0x2e3bfaf27533eaf45420f6cc4c99e45203b6a625": {
+    "symbol": "WOLFIE",
+    "name": "WOLFIE by Matt Furie",
+    "decimals": 18,
+    "address": "0x2e3bfaf27533eaf45420f6cc4c99e45203b6a625"
+  }
+}

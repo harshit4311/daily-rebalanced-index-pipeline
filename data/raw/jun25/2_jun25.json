@@ -1,0 +1,80 @@
+{
+  "0xaa9806c938836627ed1a41ae871c7e1889ae02ca": {
+    "symbol": "EDGEN",
+    "name": "LayerEdge",
+    "decimals": 18,
+    "address": "0xaa9806c938836627ed1a41ae871c7e1889ae02ca"
+  },
+  "0xe96fe44e348826d7d3738de934fa4820b127c19c": {
+    "symbol": "GAYCOIN",
+    "name": "GAYCOIN",
+    "decimals": 18,
+    "address": "0xe96fe44e348826d7d3738de934fa4820b127c19c"
+  },
+  "0x781484ae64fef9d1cd04686bc8add7f24fb34f4f": {
+    "symbol": "WIF",
+    "name": "dogwifhat",
+    "decimals": 18,
+    "address": "0x781484ae64fef9d1cd04686bc8add7f24fb34f4f"
+  },
+  "0x23c5021c249cd9d99a1ec30b2b717f91de69bbb3": {
+    "symbol": "SNORT",
+    "name": "Snorter Token",
+    "decimals": 18,
+    "address": "0x23c5021c249cd9d99a1ec30b2b717f91de69bbb3"
+  },
+  "0xfa6657b6f77c052d3d04aa698197fab5961a64f1": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xfa6657b6f77c052d3d04aa698197fab5961a64f1"
+  },
+  "0xa41c9e7a68ce532980ad1c367c18a4f30558e2a9": {
+    "symbol": "DRMN",
+    "name": "DaniRakhman",
+    "decimals": 3,
+    "address": "0xa41c9e7a68ce532980ad1c367c18a4f30558e2a9"
+  },
+  "0x1582a4065c6568b284b3e4714146b8ed63a65b20": {
+    "symbol": "ETH2",
+    "name": "ETHw2.0GRtypeQR",
+    "decimals": 3,
+    "address": "0x1582a4065c6568b284b3e4714146b8ed63a65b20"
+  },
+  "0x52f983a7fbb37a400c1ae019488c75fd4d66b96f": {
+    "symbol": "WEMIX",
+    "name": "WEMIX",
+    "decimals": 18,
+    "address": "0x52f983a7fbb37a400c1ae019488c75fd4d66b96f"
+  },
+  "0x52901f39b2bca6c5ff6e2159e094ed2db21e577a": {
+    "symbol": "FLOCK",
+    "name": "FLOCK",
+    "decimals": 18,
+    "address": "0x52901f39b2bca6c5ff6e2159e094ed2db21e577a"
+  },
+  "0xfe87c05828bffbaacb29349fe7dfb89f51620941": {
+    "symbol": "XTER",
+    "name": "Xterio",
+    "decimals": 18,
+    "address": "0xfe87c05828bffbaacb29349fe7dfb89f51620941"
+  },
+  "0x834b6776e8cf414e72b6b123cc6f3e7dabfb0544": {
+    "symbol": "BEER2",
+    "name": "Beercoin 2",
+    "decimals": 18,
+    "address": "0x834b6776e8cf414e72b6b123cc6f3e7dabfb0544"
+  },
+  "0xd780ae2bf04cd96e577d3d014762f831d97129d0": {
+    "symbol": "EVN",
+    "name": "Envion",
+    "decimals": 18,
+    "address": "0xd780ae2bf04cd96e577d3d014762f831d97129d0"
+  },
+  "0x292fcdd1b104de5a00250febba9bc6a5092a0076": {
+    "symbol": "HashAI",
+    "name": "HashAI",
+    "decimals": 18,
+    "address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076"
+  }
+}

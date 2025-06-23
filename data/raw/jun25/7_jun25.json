@@ -1,0 +1,230 @@
+{
+  "0x79d464248516bc6977ca2069ba15d8d1044479d8": {
+    "symbol": "GPU",
+    "name": "GPUnet",
+    "decimals": 18,
+    "address": "0x79d464248516bc6977ca2069ba15d8d1044479d8"
+  },
+  "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9": {
+    "symbol": "TAP",
+    "name": "The America Party",
+    "decimals": 9,
+    "address": "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9"
+  },
+  "0x13f4e75323adf26bef4889accf309f87ae5a44b6": {
+    "symbol": "MAVRK",
+    "name": "Mavrk",
+    "decimals": 18,
+    "address": "0x13f4e75323adf26bef4889accf309f87ae5a44b6"
+  },
+  "0x2943ba693c286e3af2cff6041465e3d5cfbe4ff8": {
+    "symbol": "SPK",
+    "name": "spike",
+    "decimals": 18,
+    "address": "0x2943ba693c286e3af2cff6041465e3d5cfbe4ff8"
+  },
+  "0xc305d102d03a2567e7a457ff89f273cf227c6a9c": {
+    "symbol": "IGGY",
+    "name": "Iggy The Iguana",
+    "decimals": 18,
+    "address": "0xc305d102d03a2567e7a457ff89f273cf227c6a9c"
+  },
+  "0xfa645464e2d9e0325ad6c55c4e7effc828dafe04": {
+    "symbol": "RNC",
+    "name": "Red Notice Coin",
+    "decimals": 18,
+    "address": "0xfa645464e2d9e0325ad6c55c4e7effc828dafe04"
+  },
+  "0x0c3ecf6a4abe0712031c7579fa52ca6a39f6e08d": {
+    "symbol": "v",
+    "name": "v",
+    "decimals": 18,
+    "address": "0x0c3ecf6a4abe0712031c7579fa52ca6a39f6e08d"
+  },
+  "0xd2bcacae49d9ef2c67c7e2e6534268c9070d4e0e": {
+    "symbol": "MSB",
+    "name": "MiniSab",
+    "decimals": 18,
+    "address": "0xd2bcacae49d9ef2c67c7e2e6534268c9070d4e0e"
+  },
+  "0xff63e24eabc9fa76e0489bb18edd6586d2b23151": {
+    "symbol": "AAA",
+    "name": "Arcadia",
+    "decimals": 18,
+    "address": "0xff63e24eabc9fa76e0489bb18edd6586d2b23151"
+  },
+  "0x46c871b94ed662a3daadb057cd6f73b9d425eeda": {
+    "symbol": "DRUG",
+    "name": "MemETHedron",
+    "decimals": 3,
+    "address": "0x46c871b94ed662a3daadb057cd6f73b9d425eeda"
+  },
+  "0xe47b33298a0b4f913ab0bdcab6be83439071610c": {
+    "symbol": "AMERICA",
+    "name": "AMERICA",
+    "decimals": 18,
+    "address": "0xe47b33298a0b4f913ab0bdcab6be83439071610c"
+  },
+  "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30": {
+    "symbol": "VIDYA",
+    "name": "Vidya",
+    "decimals": 18,
+    "address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+  },
+  "0xf475ab8eb3e98b89c12c9a4d9207315d57e98135": {
+    "symbol": "CLANKFUN",
+    "name": "clank.fun",
+    "decimals": 18,
+    "address": "0xf475ab8eb3e98b89c12c9a4d9207315d57e98135"
+  },
+  "0x394b4601cf6ce1feaf0262f26c175692a5f9404a": {
+    "symbol": "XRP",
+    "name": "XRP",
+    "decimals": 18,
+    "address": "0x394b4601cf6ce1feaf0262f26c175692a5f9404a"
+  },
+  "0xc8cf6d7991f15525488b2a83df53468d682ba4b0": {
+    "symbol": "sUSDf",
+    "name": "Staked Falcon USD",
+    "decimals": 18,
+    "address": "0xc8cf6d7991f15525488b2a83df53468d682ba4b0"
+  },
+  "0xfcf40832e6d7775640f99c751b0982bb3caf0472": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xfcf40832e6d7775640f99c751b0982bb3caf0472"
+  },
+  "0xce9a5874effadb6b1caeb43f7c62dca64a6fecfd": {
+    "symbol": "VED",
+    "name": "VedoraAI",
+    "decimals": 18,
+    "address": "0xce9a5874effadb6b1caeb43f7c62dca64a6fecfd"
+  },
+  "0x0bd2da349e53fb90cb2ae6dbdd0e5a54513fab9d": {
+    "symbol": "CLANKFUN",
+    "name": "clank.fun",
+    "decimals": 18,
+    "address": "0x0bd2da349e53fb90cb2ae6dbdd0e5a54513fab9d"
+  },
+  "0x10dc28e0458e824c8ccc9baa3880aaff7704ebc6": {
+    "symbol": "truth",
+    "name": "truth social",
+    "decimals": 9,
+    "address": "0x10dc28e0458e824c8ccc9baa3880aaff7704ebc6"
+  },
+  "0xffffff8833ea33f115c228c13178e32ec910947a": {
+    "symbol": "Fug",
+    "name": "Fugazi",
+    "decimals": 18,
+    "address": "0xffffff8833ea33f115c228c13178e32ec910947a"
+  },
+  "0x666666777c3f80c70cf4ae0542165376ce2e55ed": {
+    "symbol": "SIX",
+    "name": "SIX",
+    "decimals": 18,
+    "address": "0x666666777c3f80c70cf4ae0542165376ce2e55ed"
+  },
+  "0x04fde26f58e1666792e70d09e655368f8903181c": {
+    "symbol": "\ud83d\udc36NeiroAI",
+    "name": "NeiroAI",
+    "decimals": 9,
+    "address": "0x04fde26f58e1666792e70d09e655368f8903181c"
+  },
+  "0x511a9fe5ac0cc68287d19cb41118d034e1af3321": {
+    "symbol": "IronMan",
+    "name": "IronMan",
+    "decimals": 18,
+    "address": "0x511a9fe5ac0cc68287d19cb41118d034e1af3321"
+  },
+  "0x1452b4f32f8145393e80502c763d20ef2abe11fe": {
+    "symbol": "TINKLE",
+    "name": "Tinkle",
+    "decimals": 8,
+    "address": "0x1452b4f32f8145393e80502c763d20ef2abe11fe"
+  },
+  "0x1b79fd64d56428fd1f148fb3123f36f457cea738": {
+    "symbol": "SYNERGY",
+    "name": "Synergy AI",
+    "decimals": 9,
+    "address": "0x1b79fd64d56428fd1f148fb3123f36f457cea738"
+  },
+  "0x135638ad5434ad2adc235af440c6ba7a0c7e41a6": {
+    "symbol": "WW3",
+    "name": "world war 3",
+    "decimals": 18,
+    "address": "0x135638ad5434ad2adc235af440c6ba7a0c7e41a6"
+  },
+  "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad": {
+    "symbol": "MOODENG",
+    "name": "MOO DENG",
+    "decimals": 9,
+    "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0xf018bf3ec00780bba668ee6f68bc59da4ecd8906": {
+    "symbol": "BabyDoge",
+    "name": "BabyDoge",
+    "decimals": 9,
+    "address": "0xf018bf3ec00780bba668ee6f68bc59da4ecd8906"
+  },
+  "0xcbee4a88980420adacd1a118dda7ca4736bc2bae": {
+    "symbol": "SHIRO",
+    "name": "SHIRO NEKO",
+    "decimals": 18,
+    "address": "0xcbee4a88980420adacd1a118dda7ca4736bc2bae"
+  },
+  "0x8e4bbedb8d5a22888c36be7bce86181965979f80": {
+    "symbol": "OCTANE",
+    "name": "OCTANE",
+    "decimals": 18,
+    "address": "0x8e4bbedb8d5a22888c36be7bce86181965979f80"
+  },
+  "0x3842e732edcdbc0d9b8eb6537c21901377caa78a": {
+    "symbol": "HIPPO",
+    "name": "sudeng",
+    "decimals": 8,
+    "address": "0x3842e732edcdbc0d9b8eb6537c21901377caa78a"
+  },
+  "0x4d40330380f309c904413a7b5f8b6a8d31fcf4ba": {
+    "symbol": "EESEE",
+    "name": "eesee.io",
+    "decimals": 9,
+    "address": "0x4d40330380f309c904413a7b5f8b6a8d31fcf4ba"
+  },
+  "0xf6f059f3db96b74837875a9cf0a2a780b836ab45": {
+    "symbol": "BOTIFY AI",
+    "name": "Botify AI",
+    "decimals": 18,
+    "address": "0xf6f059f3db96b74837875a9cf0a2a780b836ab45"
+  },
+  "0x3c301bdfb96af02edb6b7a86b2d7d31be23fc95c": {
+    "symbol": "XYZ",
+    "name": "XYZ",
+    "decimals": 18,
+    "address": "0x3c301bdfb96af02edb6b7a86b2d7d31be23fc95c"
+  },
+  "0xc69cd090bdb0b3d78d6d0538c51fefee57091449": {
+    "symbol": "UPER",
+    "name": "UPER",
+    "decimals": 18,
+    "address": "0xc69cd090bdb0b3d78d6d0538c51fefee57091449"
+  },
+  "0x37932ebe6ab53b056d1c470d2f20bc28f457d0e2": {
+    "symbol": "BUG3",
+    "name": "BUG3",
+    "decimals": 8,
+    "address": "0x37932ebe6ab53b056d1c470d2f20bc28f457d0e2"
+  },
+  "0xdebfe51a5af24214925d19d95a936b029e55383b": {
+    "symbol": "10n8",
+    "name": "Little Dragons",
+    "decimals": 9,
+    "address": "0xdebfe51a5af24214925d19d95a936b029e55383b"
+  }
+}

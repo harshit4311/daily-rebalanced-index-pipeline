@@ -1,0 +1,206 @@
+{
+  "0xc20059e0317de91738d13af027dfc4a50781b066": {
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "address": "0xc20059e0317de91738d13af027dfc4a50781b066"
+  },
+  "0x4b3fd4b3b2d523c1253520db9ba4b86eb501d1f7": {
+    "symbol": "FWG",
+    "name": "Fwog",
+    "decimals": 18,
+    "address": "0x4b3fd4b3b2d523c1253520db9ba4b86eb501d1f7"
+  },
+  "0x392d702ffff43b92979c324b49e7309f0dcc2a5a": {
+    "symbol": "ZEX",
+    "name": "Zeta",
+    "decimals": 18,
+    "address": "0x392d702ffff43b92979c324b49e7309f0dcc2a5a"
+  },
+  "0x2147af0e54aba47e39b4a78aa696c80076c7a45c": {
+    "symbol": "MS",
+    "name": "Monkey Smile",
+    "decimals": 18,
+    "address": "0x2147af0e54aba47e39b4a78aa696c80076c7a45c"
+  },
+  "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4": {
+    "symbol": "BLOCX",
+    "name": "BLOCX. (Bridge)",
+    "decimals": 18,
+    "address": "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4"
+  },
+  "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409": {
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "decimals": 18,
+    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
+  },
+  "0x71e5f82e2dff1afa777c9f96106d18da5f09945e": {
+    "symbol": "NVP",
+    "name": "Novaporta",
+    "decimals": 18,
+    "address": "0x71e5f82e2dff1afa777c9f96106d18da5f09945e"
+  },
+  "0x73bc112c69e4b48d9f38aa62edaaa2ccdfef0f6e": {
+    "symbol": "BOMB",
+    "name": "Bombie",
+    "decimals": 18,
+    "address": "0x73bc112c69e4b48d9f38aa62edaaa2ccdfef0f6e"
+  },
+  "0x0f00d953bb69942590a2d95fd68a33b111e1d5e5": {
+    "symbol": "TRUMPS i",
+    "name": "Trumps Iran",
+    "decimals": 18,
+    "address": "0x0f00d953bb69942590a2d95fd68a33b111e1d5e5"
+  },
+  "0x38d036ff4d1d650e9a2ce06f89831f6cb4b48300": {
+    "symbol": "ZENAI",
+    "name": "Zen AI",
+    "decimals": 18,
+    "address": "0x38d036ff4d1d650e9a2ce06f89831f6cb4b48300"
+  },
+  "0xb04efa9b8b161fd14461efe56966ef46600ea37f": {
+    "symbol": "ASMR",
+    "name": "ASMR V\u0130DEO ",
+    "decimals": 18,
+    "address": "0xb04efa9b8b161fd14461efe56966ef46600ea37f"
+  },
+  "0x2c21f38ea7ce684fca8b7760677a434f9b8b206f": {
+    "symbol": "POLYX",
+    "name": "Polymath",
+    "decimals": 18,
+    "address": "0x2c21f38ea7ce684fca8b7760677a434f9b8b206f"
+  },
+  "0x37c92a022d1b970394e189c64d66b24be4ce349e": {
+    "symbol": "LL",
+    "name": "Happy Llama",
+    "decimals": 18,
+    "address": "0x37c92a022d1b970394e189c64d66b24be4ce349e"
+  },
+  "0xfca68668d4ed07d1637342d5092ec1411d96505f": {
+    "symbol": "BEE",
+    "name": "DAOBase",
+    "decimals": 18,
+    "address": "0xfca68668d4ed07d1637342d5092ec1411d96505f"
+  },
+  "0x4dbe09a59b7774c5bd3ec610f6dfd2b36d3616b1": {
+    "symbol": "NAM",
+    "name": "Namada",
+    "decimals": 18,
+    "address": "0x4dbe09a59b7774c5bd3ec610f6dfd2b36d3616b1"
+  },
+  "0xc30a9538ca90cddf218b41e0de783039553bc562": {
+    "symbol": "HDC",
+    "name": "Harmony and Development Coin",
+    "decimals": 18,
+    "address": "0xc30a9538ca90cddf218b41e0de783039553bc562"
+  },
+  "0x5310d5c42a9a53ade8213aa50f677a55c6cf1bbf": {
+    "symbol": "ZKJ",
+    "name": "Polyhedra Network",
+    "decimals": 18,
+    "address": "0x5310d5c42a9a53ade8213aa50f677a55c6cf1bbf"
+  },
+  "0x7dd7d9cfd0bb4822fe042072d215c39042cb0fdf": {
+    "symbol": "SERAPH",
+    "name": "SERAPH",
+    "decimals": 18,
+    "address": "0x7dd7d9cfd0bb4822fe042072d215c39042cb0fdf"
+  },
+  "0x1010fb300be953bdc329b4d196378fed203b01fb": {
+    "symbol": "WIF",
+    "name": "dogwifhat",
+    "decimals": 18,
+    "address": "0x1010fb300be953bdc329b4d196378fed203b01fb"
+  },
+  "0xb873aea797b1c12925c2cc0ca4988d22fe8b39e8": {
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "decimals": 18,
+    "address": "0xb873aea797b1c12925c2cc0ca4988d22fe8b39e8"
+  },
+  "0xe471b2215f4768373f484cf22f99c3dffdf0d6e6": {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "decimals": 18,
+    "address": "0xe471b2215f4768373f484cf22f99c3dffdf0d6e6"
+  },
+  "0x9792a8db300915c7d2d3b43add09bd513e5a612f": {
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "address": "0x9792a8db300915c7d2d3b43add09bd513e5a612f"
+  },
+  "0xc733898b6e5053579026b284b79d7a3db66092b3": {
+    "symbol": "EBT",
+    "name": "ENTERBEAT",
+    "decimals": 18,
+    "address": "0xc733898b6e5053579026b284b79d7a3db66092b3"
+  },
+  "0x73f809bc1d0a834a738a891bacad123fcc4bd82c": {
+    "symbol": "BRAIN",
+    "name": "Gigabrain",
+    "decimals": 18,
+    "address": "0x73f809bc1d0a834a738a891bacad123fcc4bd82c"
+  },
+  "0x55e3d547eee76e62273ecea5cfc4a6984518c4f8": {
+    "symbol": "SPK",
+    "name": "Spark",
+    "decimals": 18,
+    "address": "0x55e3d547eee76e62273ecea5cfc4a6984518c4f8"
+  },
+  "0x2856443685d58e7734580d5e480696ac7f118812": {
+    "symbol": "QUAI",
+    "name": "Quai Network",
+    "decimals": 18,
+    "address": "0x2856443685d58e7734580d5e480696ac7f118812"
+  },
+  "0x5a9a835a394e96d1ce83a431f804a39d85670cb1": {
+    "symbol": "XAVIER",
+    "name": "avier: Renegade Angel",
+    "decimals": 18,
+    "address": "0x5a9a835a394e96d1ce83a431f804a39d85670cb1"
+  },
+  "0x9460253ebaa45f8094f6084e32ee071123267e7d": {
+    "symbol": "EGL1",
+    "name": "EGL1",
+    "decimals": 18,
+    "address": "0x9460253ebaa45f8094f6084e32ee071123267e7d"
+  },
+  "0x0e7d8bd0c171d9b8e225a30e4aa25a64ae87baa6": {
+    "symbol": "SKITTEN",
+    "name": "SKITTEN",
+    "decimals": 18,
+    "address": "0x0e7d8bd0c171d9b8e225a30e4aa25a64ae87baa6"
+  },
+  "0x0fd68efb6cc6fe0d4fece1f1f25919cae762fcb8": {
+    "symbol": "HANA",
+    "name": "Hana by Virtuals",
+    "decimals": 18,
+    "address": "0x0fd68efb6cc6fe0d4fece1f1f25919cae762fcb8"
+  },
+  "0xfe23edfbd70a85d75e09db6f5aefcfd944b388bd": {
+    "symbol": "OWO",
+    "name": "Owo",
+    "decimals": 18,
+    "address": "0xfe23edfbd70a85d75e09db6f5aefcfd944b388bd"
+  },
+  "0x969ce55826bb4b3a572ed4f17c795a3ebcb0079f": {
+    "symbol": "SQUIGG",
+    "name": "Humpy Squigg",
+    "decimals": 18,
+    "address": "0x969ce55826bb4b3a572ed4f17c795a3ebcb0079f"
+  },
+  "0x56cfbf26c4b658b4fd3f3fbe01ba9ad1be790895": {
+    "symbol": "SBTC",
+    "name": "Scac By The Sea 3rd Drop ",
+    "decimals": 18,
+    "address": "0x56cfbf26c4b658b4fd3f3fbe01ba9ad1be790895"
+  },
+  "0xdfc01a7956c0d151ae197274b974fa7527ebafb9": {
+    "symbol": "JTO",
+    "name": "JITO",
+    "decimals": 8,
+    "address": "0xdfc01a7956c0d151ae197274b974fa7527ebafb9"
+  }
+}
