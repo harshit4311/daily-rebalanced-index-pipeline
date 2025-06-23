@@ -1,0 +1,158 @@
+{
+  "0xebf231271b99f9f7f0738dae8ffdb2c245e2f3dc": {
+    "symbol": "WOLFIE",
+    "name": "The Wolf of Crypto",
+    "decimals": 18,
+    "address": "0xebf231271b99f9f7f0738dae8ffdb2c245e2f3dc"
+  },
+  "0xeefe78fda84d714748dbbbb64a653e4282b2455b": {
+    "symbol": "forOne",
+    "name": "forOne",
+    "decimals": 18,
+    "address": "0xeefe78fda84d714748dbbbb64a653e4282b2455b"
+  },
+  "0x0d574d0a19f3abfe16c1a34f3544575a9c908c0e": {
+    "symbol": "forOne",
+    "name": "forOne",
+    "decimals": 18,
+    "address": "0x0d574d0a19f3abfe16c1a34f3544575a9c908c0e"
+  },
+  "0x8e2557f09af4a44779499bf7559720464febdde4": {
+    "symbol": "USUD",
+    "name": "USUD",
+    "decimals": 6,
+    "address": "0x8e2557f09af4a44779499bf7559720464febdde4"
+  },
+  "0x70bfbbc660e73551fab37587dc4db223d50db0b0": {
+    "symbol": "GMC",
+    "name": "GREEN MEME COIN",
+    "decimals": 18,
+    "address": "0x70bfbbc660e73551fab37587dc4db223d50db0b0"
+  },
+  "0x883c78a2c05fcd833e513499cb2a260562273ee4": {
+    "symbol": "MLEG",
+    "name": "MemeLegacy",
+    "decimals": 18,
+    "address": "0x883c78a2c05fcd833e513499cb2a260562273ee4"
+  },
+  "0xb4c8f3dd5a6935f29a57134e26bf6ba42f95bd26": {
+    "symbol": "IRIS",
+    "name": "I.R.I.S",
+    "decimals": 18,
+    "address": "0xb4c8f3dd5a6935f29a57134e26bf6ba42f95bd26"
+  },
+  "0xd516434e76067f44315f5c7151afbe372f11248b": {
+    "symbol": "RICO",
+    "name": "Rico",
+    "decimals": 18,
+    "address": "0xd516434e76067f44315f5c7151afbe372f11248b"
+  },
+  "0x6c16de723fc0e9b7150d7569bf38a61f68ec470c": {
+    "symbol": "S  ",
+    "name": "Sonic",
+    "decimals": 18,
+    "address": "0x6c16de723fc0e9b7150d7569bf38a61f68ec470c"
+  },
+  "0xf7efa09c30c12efbd31751763d72309413dfc023": {
+    "symbol": "AERO",
+    "name": "Aerodrome Finance",
+    "decimals": 18,
+    "address": "0xf7efa09c30c12efbd31751763d72309413dfc023"
+  },
+  "0xef6077735623e2cb86f11e2b73eb762a290e1f1f": {
+    "symbol": "CTF",
+    "name": "Crypto Trading Fund",
+    "decimals": 18,
+    "address": "0xef6077735623e2cb86f11e2b73eb762a290e1f1f"
+  },
+  "0xc505a6e888fc4190d73a30d1e6a6a355458993bf": {
+    "symbol": "S  ",
+    "name": "Sonic",
+    "decimals": 18,
+    "address": "0xc505a6e888fc4190d73a30d1e6a6a355458993bf"
+  },
+  "0xcde22a582edf10bc257b1490633ed39c71ca62b0": {
+    "symbol": "IRIS",
+    "name": "I.R.I.S by Virtuals",
+    "decimals": 18,
+    "address": "0xcde22a582edf10bc257b1490633ed39c71ca62b0"
+  },
+  "0x8f08ba5b1ea90a4aa124055b8099b79cc381b0a8": {
+    "symbol": "VENOM",
+    "name": "Venom",
+    "decimals": 18,
+    "address": "0x8f08ba5b1ea90a4aa124055b8099b79cc381b0a8"
+  },
+  "0x60ba498a8a273490f61186c02e4d9e064417c8e7": {
+    "symbol": "EBT",
+    "name": "ENTERBEAT",
+    "decimals": 18,
+    "address": "0x60ba498a8a273490f61186c02e4d9e064417c8e7"
+  },
+  "0xcee60e9d2dff55cb3f0509593694c9e215ee7942": {
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "decimals": 18,
+    "address": "0xcee60e9d2dff55cb3f0509593694c9e215ee7942"
+  },
+  "0xeb7c0aa0334d2434b6e63827b439b725962c459b": {
+    "symbol": "USELESS",
+    "name": "Useless Coin",
+    "decimals": 18,
+    "address": "0xeb7c0aa0334d2434b6e63827b439b725962c459b"
+  },
+  "0x83827c404dc9cc91c46c8a94eeff5d9c2b5a6341": {
+    "symbol": "IRIS",
+    "name": "I.R.I.S",
+    "decimals": 18,
+    "address": "0x83827c404dc9cc91c46c8a94eeff5d9c2b5a6341"
+  },
+  "0xc8affd092073ce6ece3a911fd86bd469de9359b4": {
+    "symbol": "SC ",
+    "name": "Shark Cat",
+    "decimals": 18,
+    "address": "0xc8affd092073ce6ece3a911fd86bd469de9359b4"
+  },
+  "0x7ba2d320aed8c5a6f8a28af00cfbb4b27ad370a3": {
+    "symbol": "NOMNOM",
+    "name": "nomnom",
+    "decimals": 18,
+    "address": "0x7ba2d320aed8c5a6f8a28af00cfbb4b27ad370a3"
+  },
+  "0xebdf8621cb3bb370ea15d0d938441fd27cbf50a3": {
+    "symbol": "NOT",
+    "name": "Notcoin",
+    "decimals": 18,
+    "address": "0xebdf8621cb3bb370ea15d0d938441fd27cbf50a3"
+  },
+  "0x9be5665860cf82883f242f45c04d7c60d7ee3a92": {
+    "symbol": "APPLE",
+    "name": "dog with apple in mouth",
+    "decimals": 18,
+    "address": "0x9be5665860cf82883f242f45c04d7c60d7ee3a92"
+  },
+  "0xe0fa0e6d1ff727b03cd0fb9539e111610fa6b64e": {
+    "symbol": "DJUSDT",
+    "name": "DJUSDT",
+    "decimals": 6,
+    "address": "0xe0fa0e6d1ff727b03cd0fb9539e111610fa6b64e"
+  },
+  "0xd780ae2bf04cd96e577d3d014762f831d97129d0": {
+    "symbol": "EVN",
+    "name": "Envion",
+    "decimals": 18,
+    "address": "0xd780ae2bf04cd96e577d3d014762f831d97129d0"
+  },
+  "0x1a24c5b1e52ec66eac4c1db6c44e71ce97c1aa34": {
+    "symbol": "beta",
+    "name": "beta",
+    "decimals": 18,
+    "address": "0x1a24c5b1e52ec66eac4c1db6c44e71ce97c1aa34"
+  },
+  "0x399ef659fdead53b3e7f97e9491e727925667945": {
+    "symbol": "L1X",
+    "name": "L1X",
+    "decimals": 18,
+    "address": "0x399ef659fdead53b3e7f97e9491e727925667945"
+  }
+}

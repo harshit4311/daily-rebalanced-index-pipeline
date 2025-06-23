@@ -1,0 +1,176 @@
+{
+  "0xea87148a703adc0de89db2ac2b6b381093ae8ee0": {
+    "symbol": "IRIS",
+    "name": "I.R.I.S by Virtuals",
+    "decimals": 18,
+    "address": "0xea87148a703adc0de89db2ac2b6b381093ae8ee0"
+  },
+  "0x420658a1d8b8f5c36ddaf1bb828f347ba9011969": {
+    "symbol": "DEGEN",
+    "name": "Degen Arena",
+    "decimals": 18,
+    "address": "0x420658a1d8b8f5c36ddaf1bb828f347ba9011969"
+  },
+  "0x734eec7930bc84ec5732022b9eb949a81fb89abe": {
+    "symbol": "ETH0",
+    "name": "Usual ETH",
+    "decimals": 18,
+    "address": "0x734eec7930bc84ec5732022b9eb949a81fb89abe"
+  },
+  "0xca2bd76e1c03aab3d08ae188b5ee8040276914d9": {
+    "symbol": "RICO",
+    "name": "RICO",
+    "decimals": 9,
+    "address": "0xca2bd76e1c03aab3d08ae188b5ee8040276914d9"
+  },
+  "0x6feb83cdf426e972e94c0f36573df09a055dfc31": {
+    "symbol": "SBAI",
+    "name": "Smart Block AI",
+    "decimals": 18,
+    "address": "0x6feb83cdf426e972e94c0f36573df09a055dfc31"
+  },
+  "0xcb4983490d27d538a6846919d4211cc225a0f841": {
+    "symbol": "RUNE",
+    "name": "RUNE on ETH",
+    "decimals": 3,
+    "address": "0xcb4983490d27d538a6846919d4211cc225a0f841"
+  },
+  "0x5e12c42788370de6c82bbd85dfcc79f801ab3aa9": {
+    "symbol": "EGL1",
+    "name": "EAGLE ONE",
+    "decimals": 6,
+    "address": "0x5e12c42788370de6c82bbd85dfcc79f801ab3aa9"
+  },
+  "0x79150fdba0af0879e190d14923651e697b1329e8": {
+    "symbol": "GOLEX",
+    "name": "GolexCoin",
+    "decimals": 18,
+    "address": "0x79150fdba0af0879e190d14923651e697b1329e8"
+  },
+  "0x883c78a2c05fcd833e513499cb2a260562273ee4": {
+    "symbol": "MLEG",
+    "name": "MemeLegacy",
+    "decimals": 18,
+    "address": "0x883c78a2c05fcd833e513499cb2a260562273ee4"
+  },
+  "0x6eb5e2520379624d158cba7879442ef79ef63cb7": {
+    "symbol": "DIP",
+    "name": "Dipcoin",
+    "decimals": 18,
+    "address": "0x6eb5e2520379624d158cba7879442ef79ef63cb7"
+  },
+  "0x8cced58394cb6a3239c0e6baa78e9c819cdbb116": {
+    "symbol": "HOME",
+    "name": "HOME",
+    "decimals": 18,
+    "address": "0x8cced58394cb6a3239c0e6baa78e9c819cdbb116"
+  },
+  "0xf6217b6861dae48227f8ea58e8cfb06e18ba3ece": {
+    "symbol": "CONVO",
+    "name": "CONVO",
+    "decimals": 18,
+    "address": "0xf6217b6861dae48227f8ea58e8cfb06e18ba3ece"
+  },
+  "0x1085abc287c13633a0e10eddfaf9d99c92d2a738": {
+    "symbol": "LAMBO",
+    "name": "LAMBO",
+    "decimals": 18,
+    "address": "0x1085abc287c13633a0e10eddfaf9d99c92d2a738"
+  },
+  "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73": {
+    "symbol": "VIRTUAL",
+    "name": "Virtual Protocol",
+    "decimals": 18,
+    "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+  },
+  "0x817c2e130dc9bec51cd06e91f19f9e74ea467818": {
+    "symbol": "MTK",
+    "name": "MyToken",
+    "decimals": 18,
+    "address": "0x817c2e130dc9bec51cd06e91f19f9e74ea467818"
+  },
+  "0xa250cc729bb3323e7933022a67b52200fe354767": {
+    "symbol": "fwWETH",
+    "name": "Few Wrapped Wrapped Ether",
+    "decimals": 18,
+    "address": "0xa250cc729bb3323e7933022a67b52200fe354767"
+  },
+  "0xef87f4608e601e8564800265aee1c1ffadf73283": {
+    "symbol": "fwUSDT",
+    "name": "Few Wrapped Tether USD",
+    "decimals": 6,
+    "address": "0xef87f4608e601e8564800265aee1c1ffadf73283"
+  },
+  "0xeddcdecb35bf255c23a1f932ced5c05436c4903f": {
+    "symbol": "I.R.I.S",
+    "name": "IRIS",
+    "decimals": 9,
+    "address": "0xeddcdecb35bf255c23a1f932ced5c05436c4903f"
+  },
+  "0x76e222b07c53d28b89b0bac18602810fc22b49a8": {
+    "symbol": "JOE",
+    "name": "Joe Coin",
+    "decimals": 18,
+    "address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8"
+  },
+  "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
+    "decimals": 18,
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+  },
+  "0xe7d5027106d60f3419bea006e538a516fdcd2008": {
+    "symbol": "HTGX",
+    "name": "Haitian Gourde Exchange",
+    "decimals": 18,
+    "address": "0xe7d5027106d60f3419bea006e538a516fdcd2008"
+  },
+  "0xed500ef5e2cdf642ce715675a67a31bde09a7a97": {
+    "symbol": "TIERX",
+    "name": "Tier",
+    "decimals": 18,
+    "address": "0xed500ef5e2cdf642ce715675a67a31bde09a7a97"
+  },
+  "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9": {
+    "symbol": "KEKIUS",
+    "name": "Kekius Maximus",
+    "decimals": 9,
+    "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9"
+  },
+  "0x968dc061290f76f90b3b939cc9380d47d79a54c5": {
+    "symbol": "MOONKIN",
+    "name": "Moonkin",
+    "decimals": 9,
+    "address": "0x968dc061290f76f90b3b939cc9380d47d79a54c5"
+  },
+  "0x2e3bfaf27533eaf45420f6cc4c99e45203b6a625": {
+    "symbol": "WOLFIE",
+    "name": "WOLFIE by Matt Furie",
+    "decimals": 18,
+    "address": "0x2e3bfaf27533eaf45420f6cc4c99e45203b6a625"
+  },
+  "0xfb7b4564402e5500db5bb6d63ae671302777c75a": {
+    "symbol": "DEXT",
+    "name": "DEXTools",
+    "decimals": 18,
+    "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+  },
+  "0x2593be561124d26dc45723d8d9d5f99875953429": {
+    "symbol": "MTK",
+    "name": "MyToken",
+    "decimals": 18,
+    "address": "0x2593be561124d26dc45723d8d9d5f99875953429"
+  },
+  "0xeab003297789930bb4bd6d4c6084a635d97b5026": {
+    "symbol": "RICO",
+    "name": "Rico the Porcupine",
+    "decimals": 18,
+    "address": "0xeab003297789930bb4bd6d4c6084a635d97b5026"
+  },
+  "0x65b1b82c6812ac985bfdc9ead00b2440b692d9d7": {
+    "symbol": "TEST",
+    "name": "Test",
+    "decimals": 9,
+    "address": "0x65b1b82c6812ac985bfdc9ead00b2440b692d9d7"
+  }
+}

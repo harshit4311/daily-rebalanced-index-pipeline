@@ -1,0 +1,134 @@
+{
+  "0x4fbd7b5ea5edb5f735f06608b463a20390d4ca17": {
+    "symbol": "DSDDD",
+    "name": "DSDDD",
+    "decimals": 18,
+    "address": "0x4fbd7b5ea5edb5f735f06608b463a20390d4ca17"
+  },
+  "0x40381a647434f4696cd101af15e3390651fea4e9": {
+    "symbol": "SOLX",
+    "name": "Solaxy",
+    "decimals": 18,
+    "address": "0x40381a647434f4696cd101af15e3390651fea4e9"
+  },
+  "0xab21c285529b867a1c037c5e0fdd5ae5cfc66dfb": {
+    "symbol": "DON",
+    "name": "Dorna",
+    "decimals": 8,
+    "address": "0xab21c285529b867a1c037c5e0fdd5ae5cfc66dfb"
+  },
+  "0x1590408f217db4aafb91d4d6f82101e2734732fd": {
+    "symbol": "ELONGATE",
+    "name": "Elongate",
+    "decimals": 18,
+    "address": "0x1590408f217db4aafb91d4d6f82101e2734732fd"
+  },
+  "0x6426b6c2a9108fa815bccca3a3232301e1895742": {
+    "symbol": "HTB",
+    "name": "Happy Trump Birthday",
+    "decimals": 18,
+    "address": "0x6426b6c2a9108fa815bccca3a3232301e1895742"
+  },
+  "0x566d4fd4760716808093dfed5c2aad30b7f3cc87": {
+    "symbol": "BEST",
+    "name": "Best Wallet Token",
+    "decimals": 18,
+    "address": "0x566d4fd4760716808093dfed5c2aad30b7f3cc87"
+  },
+  "0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8": {
+    "symbol": "ZEUS",
+    "name": "Pepes Dog",
+    "decimals": 9,
+    "address": "0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8"
+  },
+  "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467": {
+    "symbol": "LA",
+    "name": "Lagrange",
+    "decimals": 18,
+    "address": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467"
+  },
+  "0xc1039fb01b56b6e1f1b817ed6bb6ef4e0af78318": {
+    "symbol": "PAAL",
+    "name": "PAAL",
+    "decimals": 18,
+    "address": "0xc1039fb01b56b6e1f1b817ed6bb6ef4e0af78318"
+  },
+  "0xf2b7b71f8bb96c67b16ae022312431bea90dfa19": {
+    "symbol": "PEEPOO",
+    "name": "PeePoo",
+    "decimals": 18,
+    "address": "0xf2b7b71f8bb96c67b16ae022312431bea90dfa19"
+  },
+  "0xdc889d597ffe0580c694b755d893725acc6ce89c": {
+    "symbol": "KAGUYA",
+    "name": "KAGUYA",
+    "decimals": 18,
+    "address": "0xdc889d597ffe0580c694b755d893725acc6ce89c"
+  },
+  "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": {
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+  },
+  "0x22dfcbf3ab50ada6fa4a4994f1ee225eb4b04a8d": {
+    "symbol": "GPU",
+    "name": "GPUnet",
+    "decimals": 18,
+    "address": "0x22dfcbf3ab50ada6fa4a4994f1ee225eb4b04a8d"
+  },
+  "0x96daeb2c398ed322dd20d5b44465ca9443dcb587": {
+    "symbol": "MIXIE",
+    "name": "Mixie",
+    "decimals": 18,
+    "address": "0x96daeb2c398ed322dd20d5b44465ca9443dcb587"
+  },
+  "0xe35b61864e706d32a5c84fa599bc1cbe51ec6e80": {
+    "symbol": "FTC",
+    "name": "Fidelity Test Coin",
+    "decimals": 3,
+    "address": "0xe35b61864e706d32a5c84fa599bc1cbe51ec6e80"
+  },
+  "0xff5cc1c8c7412f9426ff6bdb69a69525a288b8bd": {
+    "symbol": "ScRooGe",
+    "name": "ScRooGe on ETH",
+    "decimals": 3,
+    "address": "0xff5cc1c8c7412f9426ff6bdb69a69525a288b8bd"
+  },
+  "0xcacd6fd266af91b8aed52accc382b4e165586e29": {
+    "symbol": "frxUSD",
+    "name": "Frax USD",
+    "decimals": 18,
+    "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29"
+  },
+  "0x43597d4f2e9377ee68eabbca34a1b5bbe1194df2": {
+    "symbol": "bWREATH",
+    "name": "Wreath T-Bonds",
+    "decimals": 18,
+    "address": "0x43597d4f2e9377ee68eabbca34a1b5bbe1194df2"
+  },
+  "0x06450dee7fd2fb8e39061434babcfc05599a6fb8": {
+    "symbol": "XEN",
+    "name": "XEN Crypto",
+    "decimals": 18,
+    "address": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8"
+  },
+  "0x10c0f5d2969d0c0f3ad963ae29c8ae9070b43452": {
+    "symbol": "ENJY",
+    "name": "ENJOY",
+    "decimals": 18,
+    "address": "0x10c0f5d2969d0c0f3ad963ae29c8ae9070b43452"
+  },
+  "0x953e67089ee43bfcd0524d78a7f6754ed5b4df28": {
+    "symbol": "bPENDLE",
+    "name": "Pendle Bonds",
+    "decimals": 18,
+    "address": "0x953e67089ee43bfcd0524d78a7f6754ed5b4df28"
+  },
+  "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb": {
+    "symbol": "USI",
+    "name": "USIC Token",
+    "decimals": 18,
+    "address": "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb"
+  }
+}

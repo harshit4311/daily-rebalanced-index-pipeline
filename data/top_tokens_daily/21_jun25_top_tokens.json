@@ -1,0 +1,302 @@
+{
+  "0x95dfcb6d2bd95bf11ef8a6c47965d37a765ba78a": {
+    "symbol": "DODO",
+    "name": "DODO",
+    "decimals": 18,
+    "address": "0x95dfcb6d2bd95bf11ef8a6c47965d37a765ba78a"
+  },
+  "0x93ac725cce896cc24b6db826b446b8dfb374c2fc": {
+    "symbol": "Malcolm",
+    "name": "MalcolmTheAkita",
+    "decimals": 18,
+    "address": "0x93ac725cce896cc24b6db826b446b8dfb374c2fc"
+  },
+  "0x0deaefc348eea9e29cfd13b04aa6ea474774a96b": {
+    "symbol": "DONK",
+    "name": "First pepe cult",
+    "decimals": 18,
+    "address": "0x0deaefc348eea9e29cfd13b04aa6ea474774a96b"
+  },
+  "0xed816d17a551bfcfc0114f9ff84a3d8f46950124": {
+    "symbol": "DBZ",
+    "name": "Diamond Boyz Coin",
+    "decimals": 18,
+    "address": "0xed816d17a551bfcfc0114f9ff84a3d8f46950124"
+  },
+  "0x5a8bf15581e39417891826edc034587448e57416": {
+    "symbol": "#CARP",
+    "name": "Carp Cult",
+    "decimals": 18,
+    "address": "0x5a8bf15581e39417891826edc034587448e57416"
+  },
+  "0xdf0539fe3da95b3b61cab3fe8732e54ef2b75f2a": {
+    "symbol": "ETC",
+    "name": "Ethereum Trash Coin",
+    "decimals": 18,
+    "address": "0xdf0539fe3da95b3b61cab3fe8732e54ef2b75f2a"
+  },
+  "0x5b8f4c7c50989f10741052a63682d9e882520768": {
+    "symbol": "GOR",
+    "name": "Gorbagana",
+    "decimals": 18,
+    "address": "0x5b8f4c7c50989f10741052a63682d9e882520768"
+  },
+  "0xce927726b341780b41511bc5b3042b75dce24a6d": {
+    "symbol": "MOOF",
+    "name": "Dogcow",
+    "decimals": 18,
+    "address": "0xce927726b341780b41511bc5b3042b75dce24a6d"
+  },
+  "0xaee45ce66c655252dacbee6072525c9eb33a6a54": {
+    "symbol": "WOKE",
+    "name": "RIP WOKE",
+    "decimals": 18,
+    "address": "0xaee45ce66c655252dacbee6072525c9eb33a6a54"
+  },
+  "0xa92e132f720cccd5364b1d4d408486548cd80499": {
+    "symbol": "GROK420",
+    "name": "Grok 4.20",
+    "decimals": 18,
+    "address": "0xa92e132f720cccd5364b1d4d408486548cd80499"
+  },
+  "0xb44d72b7fba9432ccd02dfc5a5b4d020f243d54b": {
+    "symbol": "GRUK",
+    "name": "DUMB AI",
+    "decimals": 18,
+    "address": "0xb44d72b7fba9432ccd02dfc5a5b4d020f243d54b"
+  },
+  "0x7c3157bfba920e42a7bccce19ae256f94a974e94": {
+    "symbol": "GLAMSTERDAM",
+    "name": "Glamsterdam ",
+    "decimals": 18,
+    "address": "0x7c3157bfba920e42a7bccce19ae256f94a974e94"
+  },
+  "0xf69c4f52bc8b98f1916caa39bf2dde51e15351b7": {
+    "symbol": "LADDIE",
+    "name": "Laddie Boy",
+    "decimals": 18,
+    "address": "0xf69c4f52bc8b98f1916caa39bf2dde51e15351b7"
+  },
+  "0x93e359bae40a85ac2b5434f98aeaf801acf479ed": {
+    "symbol": "COLON",
+    "name": "Colon",
+    "decimals": 18,
+    "address": "0x93e359bae40a85ac2b5434f98aeaf801acf479ed"
+  },
+  "0xcfc41998f06d6423657b0ad7d6f5052e59a091a8": {
+    "symbol": "Malcolm",
+    "name": "MalcolmTheAkita",
+    "decimals": 18,
+    "address": "0xcfc41998f06d6423657b0ad7d6f5052e59a091a8"
+  },
+  "0x19f105566885f526abbf89926ac77b6282feebd0": {
+    "symbol": "$Woke",
+    "name": "Woke",
+    "decimals": 18,
+    "address": "0x19f105566885f526abbf89926ac77b6282feebd0"
+  },
+  "0x3c15c09e14835371b84bc5035a4942d921d42f5c": {
+    "symbol": "DEDE",
+    "name": "Dede",
+    "decimals": 18,
+    "address": "0x3c15c09e14835371b84bc5035a4942d921d42f5c"
+  },
+  "0x1f08e4d2ea1296c481aeec7746d4984d7c64eb31": {
+    "symbol": "DB2",
+    "name": "dontbuy",
+    "decimals": 18,
+    "address": "0x1f08e4d2ea1296c481aeec7746d4984d7c64eb31"
+  },
+  "0x157885f13f5ced496c2b5f2e03d1751ec05a87bd": {
+    "symbol": "DBUY",
+    "name": "DONTBUY",
+    "decimals": 18,
+    "address": "0x157885f13f5ced496c2b5f2e03d1751ec05a87bd"
+  },
+  "0x5f4c340cd1a7a76f9d0771c6cda2a0236329aad9": {
+    "symbol": "db87",
+    "name": "db3",
+    "decimals": 18,
+    "address": "0x5f4c340cd1a7a76f9d0771c6cda2a0236329aad9"
+  },
+  "0x6b865afb9b0ca968df934bcae4005d2b108a57fa": {
+    "symbol": "GRUK",
+    "name": "DUMB AI",
+    "decimals": 18,
+    "address": "0x6b865afb9b0ca968df934bcae4005d2b108a57fa"
+  },
+  "0x18e7c8d37106f04a02133177f6f4bbb031e91218": {
+    "symbol": "PEW",
+    "name": "pepe in a memes world",
+    "decimals": 18,
+    "address": "0x18e7c8d37106f04a02133177f6f4bbb031e91218"
+  },
+  "0x7c593edc97080759627a1fecf412dfd817dc80a0": {
+    "symbol": "CARP",
+    "name": "CARP",
+    "decimals": 18,
+    "address": "0x7c593edc97080759627a1fecf412dfd817dc80a0"
+  },
+  "0xb826ea458bdc592a8a7330e2c473d2f9bc515282": {
+    "symbol": "JUSTKLIK",
+    "name": "JUST KLIK ON BUY",
+    "decimals": 18,
+    "address": "0xb826ea458bdc592a8a7330e2c473d2f9bc515282"
+  },
+  "0xa1684098e6d32e4a02b9aac58db74d96dcb56ac5": {
+    "symbol": "FISHEUM",
+    "name": "FISHEUM",
+    "decimals": 18,
+    "address": "0xa1684098e6d32e4a02b9aac58db74d96dcb56ac5"
+  },
+  "0x507e84f35802fc2d21677f43b7cd03772855a64b": {
+    "symbol": "ROBOTAXI6900",
+    "name": "Robotaxi 6900",
+    "decimals": 18,
+    "address": "0x507e84f35802fc2d21677f43b7cd03772855a64b"
+  },
+  "0x9e064973a1ea3cb93801e83da63bb8b1255536be": {
+    "symbol": "$TAKO",
+    "name": "First Shiba Inu Recorded",
+    "decimals": 18,
+    "address": "0x9e064973a1ea3cb93801e83da63bb8b1255536be"
+  },
+  "0x784f2e7cf08cef481d091cf1d1eb401c732d9d48": {
+    "symbol": "DEDE",
+    "name": "Dede The Pepe Killer's",
+    "decimals": 18,
+    "address": "0x784f2e7cf08cef481d091cf1d1eb401c732d9d48"
+  },
+  "0x3242555de381f77760680bd7aa049fc1ff2eea0d": {
+    "symbol": "CRCL",
+    "name": "Circle Internet Group",
+    "decimals": 18,
+    "address": "0x3242555de381f77760680bd7aa049fc1ff2eea0d"
+  },
+  "0x3f1a31cf81ea285cf687935f203132fecf845dbf": {
+    "symbol": "DOW",
+    "name": "Destroyer of woke",
+    "decimals": 18,
+    "address": "0x3f1a31cf81ea285cf687935f203132fecf845dbf"
+  },
+  "0x64f1d5ec12dd81ebe9dd773f8d4eee7cc8ea3b8b": {
+    "symbol": "OPT",
+    "name": "OPTIMUS",
+    "decimals": 18,
+    "address": "0x64f1d5ec12dd81ebe9dd773f8d4eee7cc8ea3b8b"
+  },
+  "0x3fca46afb05b1d15096e8f0519b85be092ae28f4": {
+    "symbol": "FLIP",
+    "name": "First animated frog",
+    "decimals": 18,
+    "address": "0x3fca46afb05b1d15096e8f0519b85be092ae28f4"
+  },
+  "0x4ba944ed37b2ae648cda23e55cecbc998fc9732f": {
+    "symbol": "HETH",
+    "name": "HOLY ETHEREUM",
+    "decimals": 18,
+    "address": "0x4ba944ed37b2ae648cda23e55cecbc998fc9732f"
+  },
+  "0x5d52f6888d1b5226dbf470b9a198f0acd2490833": {
+    "symbol": "GROK3.5",
+    "name": "GROK 3.5",
+    "decimals": 18,
+    "address": "0x5d52f6888d1b5226dbf470b9a198f0acd2490833"
+  },
+  "0xdf69882685d5571a093526fec6f7b4365a2849e8": {
+    "symbol": "TI",
+    "name": "Trench Island",
+    "decimals": 18,
+    "address": "0xdf69882685d5571a093526fec6f7b4365a2849e8"
+  },
+  "0xb596da8c2b3d45c63d6e601721e7c78c55075787": {
+    "symbol": "tst",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0xb596da8c2b3d45c63d6e601721e7c78c55075787"
+  },
+  "0x6c234e6aedf18cf35a82b0aded62d05e6727dc4d": {
+    "symbol": "MOOBULL",
+    "name": "Moobull",
+    "decimals": 18,
+    "address": "0x6c234e6aedf18cf35a82b0aded62d05e6727dc4d"
+  },
+  "0xd59d1c862bbfb6b0b25fb703f4ba91f0d91d546a": {
+    "symbol": "DACC",
+    "name": "d/acc",
+    "decimals": 18,
+    "address": "0xd59d1c862bbfb6b0b25fb703f4ba91f0d91d546a"
+  },
+  "0x27899c2c3feb140997d347761ff2a3513285928b": {
+    "symbol": "MOOBULL2",
+    "name": "MOOBULL2",
+    "decimals": 18,
+    "address": "0x27899c2c3feb140997d347761ff2a3513285928b"
+  },
+  "0x624beb750e9587dd1eb9c99d941395d967ceaa34": {
+    "symbol": "STONKS",
+    "name": "Lets Stonks",
+    "decimals": 18,
+    "address": "0x624beb750e9587dd1eb9c99d941395d967ceaa34"
+  },
+  "0x588fb5f5c735c0c7e670b90e762480128e16e8fe": {
+    "symbol": "kek",
+    "name": "tdddt",
+    "decimals": 18,
+    "address": "0x588fb5f5c735c0c7e670b90e762480128e16e8fe"
+  },
+  "0xc664912af49f60bafe4370ec1f0d0632beb1bccd": {
+    "symbol": "KOL",
+    "name": "KlikObamaLitcoin",
+    "decimals": 18,
+    "address": "0xc664912af49f60bafe4370ec1f0d0632beb1bccd"
+  },
+  "0x3482322e77516bdf48ef721a5612359313b795e0": {
+    "symbol": "FREEDOM",
+    "name": "Cabal Breaker",
+    "decimals": 18,
+    "address": "0x3482322e77516bdf48ef721a5612359313b795e0"
+  },
+  "0x49d4f5492f31ddd536a2e59573c13f5ba2fe7530": {
+    "symbol": "WPC",
+    "name": "World Peace Coin",
+    "decimals": 18,
+    "address": "0x49d4f5492f31ddd536a2e59573c13f5ba2fe7530"
+  },
+  "0xf2d7c380f4db097f66c2cdc6d9ce1e1ca3ecee35": {
+    "symbol": "tokidoki",
+    "name": "tokidoki unicorno",
+    "decimals": 18,
+    "address": "0xf2d7c380f4db097f66c2cdc6d9ce1e1ca3ecee35"
+  },
+  "0x0cc4ef87b1d9811ce31eac8cf05e28c00d830916": {
+    "symbol": "NACO",
+    "name": "NakaTaikIshious Cocoronius",
+    "decimals": 18,
+    "address": "0x0cc4ef87b1d9811ce31eac8cf05e28c00d830916"
+  },
+  "0x1f3166e07db1042d1841a0f57c7eccfb264e973f": {
+    "symbol": "LINGANG",
+    "name": "LIN GANG MELON",
+    "decimals": 18,
+    "address": "0x1f3166e07db1042d1841a0f57c7eccfb264e973f"
+  },
+  "0x0430f1e833cac2d292d8882ecb4b4000bb47049f": {
+    "symbol": "AET",
+    "name": "AETHEREUM",
+    "decimals": 18,
+    "address": "0x0430f1e833cac2d292d8882ecb4b4000bb47049f"
+  },
+  "0x0e6f691668133ae6ce8941ec04d10c43284aea13": {
+    "symbol": "irpepe",
+    "name": "iranian pepe",
+    "decimals": 18,
+    "address": "0x0e6f691668133ae6ce8941ec04d10c43284aea13"
+  },
+  "0x2845af854dc8d98eccbe094a6b0cf57c31b18472": {
+    "symbol": "Britain",
+    "name": "Britain",
+    "decimals": 18,
+    "address": "0x2845af854dc8d98eccbe094a6b0cf57c31b18472"
+  }
+}

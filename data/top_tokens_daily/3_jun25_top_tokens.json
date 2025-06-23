@@ -1,0 +1,188 @@
+{
+  "0xefc814a4c676a7314a13954e283de6cef597e6b2": {
+    "symbol": "MIND",
+    "name": "Mind of Pepe",
+    "decimals": 18,
+    "address": "0xefc814a4c676a7314a13954e283de6cef597e6b2"
+  },
+  "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f": {
+    "symbol": "GHO",
+    "name": "Gho Token",
+    "decimals": 18,
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+  },
+  "0xa91d704b6eda6e207413bb888bd1b00e3037dd24": {
+    "symbol": "QQQAI",
+    "name": "QQQAI Token",
+    "decimals": 18,
+    "address": "0xa91d704b6eda6e207413bb888bd1b00e3037dd24"
+  },
+  "0x79b68410911b8a751821e14ea34cacd6699d4676": {
+    "symbol": "GreezAi",
+    "name": "GREEZ AI",
+    "decimals": 18,
+    "address": "0x79b68410911b8a751821e14ea34cacd6699d4676"
+  },
+  "0xd07ea8776e52c1b67dca6ffbc3f659fc9fbe4113": {
+    "symbol": "MITY",
+    "name": "IP Tokens of IPNFT #108246717199802830449916199897226478163176946134490555322418727943986180682745",
+    "decimals": 18,
+    "address": "0xd07ea8776e52c1b67dca6ffbc3f659fc9fbe4113"
+  },
+  "0xbdbdbdd0c22888e63cb9098ad6d68439197cb091": {
+    "symbol": "BDXN",
+    "name": "Bondex Token",
+    "decimals": 18,
+    "address": "0xbdbdbdd0c22888e63cb9098ad6d68439197cb091"
+  },
+  "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95": {
+    "symbol": "ETHCHAN",
+    "name": "ETH Chan",
+    "decimals": 9,
+    "address": "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95"
+  },
+  "0x10f030aa17b3bf19522c04fcf0b20b93d1bbc1ff": {
+    "symbol": "LARP",
+    "name": "Larpius Maximus",
+    "decimals": 18,
+    "address": "0x10f030aa17b3bf19522c04fcf0b20b93d1bbc1ff"
+  },
+  "0x5170c36e46944b4fe49906bddb870a51a8341c0a": {
+    "symbol": "TRUMP2028",
+    "name": "TRUMP2028",
+    "decimals": 9,
+    "address": "0x5170c36e46944b4fe49906bddb870a51a8341c0a"
+  },
+  "0x56521224bd80add2725ddae0df521e630185234e": {
+    "symbol": "VIRTUALCAM",
+    "name": "Vitalik's AI Project",
+    "decimals": 9,
+    "address": "0x56521224bd80add2725ddae0df521e630185234e"
+  },
+  "0x6aea2753578e8c9f6f30bd9b1539ff29ae3f3595": {
+    "symbol": "WLFICARD",
+    "name": "WLFI HOLD CARD",
+    "decimals": 18,
+    "address": "0x6aea2753578e8c9f6f30bd9b1539ff29ae3f3595"
+  },
+  "0x21fd89f531bb6388b76e21f8cdd41b42c78efde0": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x21fd89f531bb6388b76e21f8cdd41b42c78efde0"
+  },
+  "0x9e99e46057c8272dce7c432db04ad7daf795bef3": {
+    "symbol": "PEPPE",
+    "name": "Peppe",
+    "decimals": 18,
+    "address": "0x9e99e46057c8272dce7c432db04ad7daf795bef3"
+  },
+  "0x1c842cfe00c1d43ede5895be3cbf31b0b2914716": {
+    "symbol": "STARWARS",
+    "name": "STARWARS",
+    "decimals": 18,
+    "address": "0x1c842cfe00c1d43ede5895be3cbf31b0b2914716"
+  },
+  "0x71eb0707c42533532d9e9efdeeb7ef0b7b6595a2": {
+    "symbol": "BABY",
+    "name": "Boss Baby",
+    "decimals": 18,
+    "address": "0x71eb0707c42533532d9e9efdeeb7ef0b7b6595a2"
+  },
+  "0x672b27fe256d3a4db7f1218201e2663fd484540d": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x672b27fe256d3a4db7f1218201e2663fd484540d"
+  },
+  "0x67ac34ccef9b89bd0700fb1682e7d4329d2fc93d": {
+    "symbol": "Eggciting",
+    "name": "Eggciting",
+    "decimals": 18,
+    "address": "0x67ac34ccef9b89bd0700fb1682e7d4329d2fc93d"
+  },
+  "0x63018a127a7bb647641a90095b9ce07bb1c51032": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x63018a127a7bb647641a90095b9ce07bb1c51032"
+  },
+  "0x349ca35dec65b4044d0e2ab71fa5aebba6259b62": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x349ca35dec65b4044d0e2ab71fa5aebba6259b62"
+  },
+  "0x06b93b3056bf2aeaf47d72972cc5e8e689fa8aa3": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x06b93b3056bf2aeaf47d72972cc5e8e689fa8aa3"
+  },
+  "0x70a437c83c727199884735118a085590294ba162": {
+    "symbol": "YAN",
+    "name": "YAN",
+    "decimals": 18,
+    "address": "0x70a437c83c727199884735118a085590294ba162"
+  },
+  "0xfe1a12341d58609896928b7a77f73973e97f7b42": {
+    "symbol": "METH",
+    "name": "The minnow on ETH",
+    "decimals": 3,
+    "address": "0xfe1a12341d58609896928b7a77f73973e97f7b42"
+  },
+  "0x398a6f51981ea89a0d2fd6673cfb6b0a494d4785": {
+    "symbol": "CETH",
+    "name": "Challenge on ETH",
+    "decimals": 3,
+    "address": "0x398a6f51981ea89a0d2fd6673cfb6b0a494d4785"
+  },
+  "0xf816507e690f5aa4e29d164885eb5fa7a5627860": {
+    "symbol": "RATO",
+    "name": "Rato The Rat",
+    "decimals": 9,
+    "address": "0xf816507e690f5aa4e29d164885eb5fa7a5627860"
+  },
+  "0x2712ccb37be4a718cebd44defe5cd0ae5fb0346e": {
+    "symbol": "Cortex Vortex",
+    "name": "Matt Furie's New Book",
+    "decimals": 9,
+    "address": "0x2712ccb37be4a718cebd44defe5cd0ae5fb0346e"
+  },
+  "0xb42ca49be55ba779802be0adc324d2284deb904c": {
+    "symbol": "BDXN",
+    "name": "Bondex",
+    "decimals": 18,
+    "address": "0xb42ca49be55ba779802be0adc324d2284deb904c"
+  },
+  "0x761e37197c0b9a9bcca50daafab640a0e04a0c9d": {
+    "symbol": "WLFICARD",
+    "name": "WLFI HOLD CARD",
+    "decimals": 18,
+    "address": "0x761e37197c0b9a9bcca50daafab640a0e04a0c9d"
+  },
+  "0x807e7ec53fec3f210192a9a5d248161f85c7d3a5": {
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "decimals": 18,
+    "address": "0x807e7ec53fec3f210192a9a5d248161f85c7d3a5"
+  },
+  "0x30ae1ba99043259664bd9600137d341ed157dcf6": {
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "decimals": 18,
+    "address": "0x30ae1ba99043259664bd9600137d341ed157dcf6"
+  },
+  "0x21e133e07b6cb3ff846b5a32fa9869a1e5040da1": {
+    "symbol": "TOR",
+    "name": "Syntor AI",
+    "decimals": 18,
+    "address": "0x21e133e07b6cb3ff846b5a32fa9869a1e5040da1"
+  },
+  "0x2a9db31f0f0329b03ddd7a8a4b5297815bba0124": {
+    "symbol": "SNIBBU",
+    "name": "Snibbu",
+    "decimals": 9,
+    "address": "0x2a9db31f0f0329b03ddd7a8a4b5297815bba0124"
+  }
+}

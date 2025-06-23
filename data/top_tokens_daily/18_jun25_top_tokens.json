@@ -1,0 +1,188 @@
+{
+  "0x6967b9a8c0b14849cfe8f9e5732b401433fd2898": {
+    "symbol": "NAKA",
+    "name": "Naka Go",
+    "decimals": 18,
+    "address": "0x6967b9a8c0b14849cfe8f9e5732b401433fd2898"
+  },
+  "0x9f277edfc463ebaa3d2a6274b01177697e910391": {
+    "symbol": "WOOLLY",
+    "name": "Miniature Woolly Mammoth",
+    "decimals": 18,
+    "address": "0x9f277edfc463ebaa3d2a6274b01177697e910391"
+  },
+  "0xc948a332ec528c1e86ddbd5c4e38c92fe6bc45a0": {
+    "symbol": "JPMD",
+    "name": "JPMD",
+    "decimals": 18,
+    "address": "0xc948a332ec528c1e86ddbd5c4e38c92fe6bc45a0"
+  },
+  "0xdad68778f0a0732e232f27dc296e3602e12d108a": {
+    "symbol": "IOB",
+    "name": "io Beats",
+    "decimals": 18,
+    "address": "0xdad68778f0a0732e232f27dc296e3602e12d108a"
+  },
+  "0xefec5a5c6077614432527d9696f6d5e8980ec992": {
+    "symbol": "Hera",
+    "name": "Zeus Wife",
+    "decimals": 18,
+    "address": "0xefec5a5c6077614432527d9696f6d5e8980ec992"
+  },
+  "0x037ef073bba534a421bdfd6e5b5d2b6a0699f6ef": {
+    "symbol": "BASEDD",
+    "name": "BASEDD House",
+    "decimals": 18,
+    "address": "0x037ef073bba534a421bdfd6e5b5d2b6a0699f6ef"
+  },
+  "0xb9fc5d7936e2e5441ecc929154c3659dd2c2d10c": {
+    "symbol": "Garbo",
+    "name": "Garbo Coin",
+    "decimals": 18,
+    "address": "0xb9fc5d7936e2e5441ecc929154c3659dd2c2d10c"
+  },
+  "0x924383a5909111c8bd38f273680ab045b4e7b550": {
+    "symbol": "POST",
+    "name": "POST",
+    "decimals": 18,
+    "address": "0x924383a5909111c8bd38f273680ab045b4e7b550"
+  },
+  "0x7d7ba71f30528c9f50da8ac08ab47a98ab10857c": {
+    "symbol": "EVNT",
+    "name": "Evntual Token",
+    "decimals": 18,
+    "address": "0x7d7ba71f30528c9f50da8ac08ab47a98ab10857c"
+  },
+  "0x679d02b49009561c4dab262e2c39c0714b954a9e": {
+    "symbol": "MYX",
+    "name": "MYX Finance",
+    "decimals": 18,
+    "address": "0x679d02b49009561c4dab262e2c39c0714b954a9e"
+  },
+  "0x59ef6e240559ac1950260620680c0c5d672c0bef": {
+    "symbol": "GIB",
+    "name": "gib",
+    "decimals": 18,
+    "address": "0x59ef6e240559ac1950260620680c0c5d672c0bef"
+  },
+  "0xc87016c913e22d487395723ccc28d947e0b53140": {
+    "symbol": "LEGACY",
+    "name": "LegacyChain Token",
+    "decimals": 18,
+    "address": "0xc87016c913e22d487395723ccc28d947e0b53140"
+  },
+  "0x3bfdc43325aabcbdcd30b80d42c76abefaef8532": {
+    "symbol": "EGL1",
+    "name": "EGL1",
+    "decimals": 18,
+    "address": "0x3bfdc43325aabcbdcd30b80d42c76abefaef8532"
+  },
+  "0xd7922712cf5b402399e3432597957696b73efa39": {
+    "symbol": "PRSM",
+    "name": "PRSM",
+    "decimals": 18,
+    "address": "0xd7922712cf5b402399e3432597957696b73efa39"
+  },
+  "0x20e11714d8300260f5c72f85f9f5dabf79af69d2": {
+    "symbol": "COIN",
+    "name": "Solaxy",
+    "decimals": 18,
+    "address": "0x20e11714d8300260f5c72f85f9f5dabf79af69d2"
+  },
+  "0x5e02f884508a312729220d51eeac33962e901fab": {
+    "symbol": "PEACEGUY",
+    "name": "Just a peace guy",
+    "decimals": 18,
+    "address": "0x5e02f884508a312729220d51eeac33962e901fab"
+  },
+  "0x28820ad763aea39cd90e93116e45a9ddf6bdc744": {
+    "symbol": "PI ",
+    "name": "Palantir Inu",
+    "decimals": 18,
+    "address": "0x28820ad763aea39cd90e93116e45a9ddf6bdc744"
+  },
+  "0xbf92a97a65c2d661ee0cb707cbc04dbf19436e46": {
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "decimals": 18,
+    "address": "0xbf92a97a65c2d661ee0cb707cbc04dbf19436e46"
+  },
+  "0x1cb01ffaec12253c2583d9d827df778c98bf55eb": {
+    "symbol": "AERO",
+    "name": "Aerodrome Finance",
+    "decimals": 18,
+    "address": "0x1cb01ffaec12253c2583d9d827df778c98bf55eb"
+  },
+  "0x459c18566d69bb0b4de610f54ff5a6e543082561": {
+    "symbol": "AXR",
+    "name": "Axelrod",
+    "decimals": 18,
+    "address": "0x459c18566d69bb0b4de610f54ff5a6e543082561"
+  },
+  "0x98895390ac3bec8f9830b18e59582b7b976e59d4": {
+    "symbol": "USDP",
+    "name": "United States Dominant ",
+    "decimals": 18,
+    "address": "0x98895390ac3bec8f9830b18e59582b7b976e59d4"
+  },
+  "0x33464bdcf890acdd1c7a32fbb5371e5d2ff82809": {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "decimals": 18,
+    "address": "0x33464bdcf890acdd1c7a32fbb5371e5d2ff82809"
+  },
+  "0x6510f428f7dd494fd64debf3e2a3927ade7ab4ee": {
+    "symbol": "SAROS",
+    "name": "Saros",
+    "decimals": 18,
+    "address": "0x6510f428f7dd494fd64debf3e2a3927ade7ab4ee"
+  },
+  "0x214538a61fed1a303ea41ccfaf7ec3eca86db031": {
+    "symbol": "SLAP",
+    "name": "Slap",
+    "decimals": 18,
+    "address": "0x214538a61fed1a303ea41ccfaf7ec3eca86db031"
+  },
+  "0x0159c6045ae8c287b857ca550fe4fd9f7de06327": {
+    "symbol": "BR ",
+    "name": "Bedrock",
+    "decimals": 18,
+    "address": "0x0159c6045ae8c287b857ca550fe4fd9f7de06327"
+  },
+  "0x73af18bb097c749380ad795e146704bda904aa7a": {
+    "symbol": "USD1",
+    "name": "USD1",
+    "decimals": 18,
+    "address": "0x73af18bb097c749380ad795e146704bda904aa7a"
+  },
+  "0xa00f40cd0b7f43b4dfecc0a1a10fa6d53fda02a6": {
+    "symbol": "WFCA",
+    "name": "World Friendship Cash",
+    "decimals": 18,
+    "address": "0xa00f40cd0b7f43b4dfecc0a1a10fa6d53fda02a6"
+  },
+  "0x1716971c24d607413aad7f922e3876e8e39101a5": {
+    "symbol": "PEACEGUY",
+    "name": "Peace Guy",
+    "decimals": 18,
+    "address": "0x1716971c24d607413aad7f922e3876e8e39101a5"
+  },
+  "0xd216a240a8fac9e09cceef8060db1e65b019b3ef": {
+    "symbol": "Khaleesi",
+    "name": "Khaleesi",
+    "decimals": 18,
+    "address": "0xd216a240a8fac9e09cceef8060db1e65b019b3ef"
+  },
+  "0xfca394423dd3bea905b0da0dd8533a1ce7cff15a": {
+    "symbol": "DKT",
+    "name": "Dark Token",
+    "decimals": 18,
+    "address": "0xfca394423dd3bea905b0da0dd8533a1ce7cff15a"
+  },
+  "0x8d7fc791fdd240556eb17a5d485a4c75b4b315ac": {
+    "symbol": "MEME",
+    "name": "MEME",
+    "decimals": 18,
+    "address": "0x8d7fc791fdd240556eb17a5d485a4c75b4b315ac"
+  }
+}

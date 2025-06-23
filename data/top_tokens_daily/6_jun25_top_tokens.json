@@ -1,0 +1,146 @@
+{
+  "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0": {
+    "symbol": "VANA",
+    "name": "Vana",
+    "decimals": 18,
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0"
+  },
+  "0x19288a19f4bfa8317a3922c05407dbc655c2e02e": {
+    "symbol": "ELON",
+    "name": "OFFICIAL ELON",
+    "decimals": 18,
+    "address": "0x19288a19f4bfa8317a3922c05407dbc655c2e02e"
+  },
+  "0x003231a90e0d8b214eb7bd0a0eee55ee0425c1c5": {
+    "symbol": "BIGDOG",
+    "name": "BIG DOG",
+    "decimals": 18,
+    "address": "0x003231a90e0d8b214eb7bd0a0eee55ee0425c1c5"
+  },
+  "0x50a755c8b6c8e1db66582418f48da7c7f2af5c99": {
+    "symbol": "DVE",
+    "name": "DonaldTrump VS ElonMusk",
+    "decimals": 9,
+    "address": "0x50a755c8b6c8e1db66582418f48da7c7f2af5c99"
+  },
+  "0x807f275d73e9c5001f4d393b1a3356dae707e200": {
+    "symbol": "DOGE",
+    "name": "Doge Party",
+    "decimals": 9,
+    "address": "0x807f275d73e9c5001f4d393b1a3356dae707e200"
+  },
+  "0x763a988f5b605e250da469626ac9cd9c77717fe3": {
+    "symbol": "GORKLON",
+    "name": "gorklon rust",
+    "decimals": 9,
+    "address": "0x763a988f5b605e250da469626ac9cd9c77717fe3"
+  },
+  "0xa5f17ecf14581284485b4d5044e6420b3fca4720": {
+    "symbol": "PAWPAL",
+    "name": "Toe Bean Token ",
+    "decimals": 18,
+    "address": "0xa5f17ecf14581284485b4d5044e6420b3fca4720"
+  },
+  "0x5801e2f40c4c162892358daedad52d864f29695b": {
+    "symbol": "DDFG",
+    "name": "DSF",
+    "decimals": 18,
+    "address": "0x5801e2f40c4c162892358daedad52d864f29695b"
+  },
+  "0x12cd7c586c9d0dcdeeec93a349e21e73922723a5": {
+    "symbol": "TTOST",
+    "name": "Tyostt",
+    "decimals": 18,
+    "address": "0x12cd7c586c9d0dcdeeec93a349e21e73922723a5"
+  },
+  "0x65f898e76ec1c60985ee552ab684bb1b2e5ee7b7": {
+    "symbol": "POTUS",
+    "name": "PEDO OF THE UNITED STATES",
+    "decimals": 18,
+    "address": "0x65f898e76ec1c60985ee552ab684bb1b2e5ee7b7"
+  },
+  "0x060e0fb53f5b31d8acd088eab2c8175a59c9a534": {
+    "symbol": "DOGDRAGON",
+    "name": "DOGDRAGON By Matt Furie",
+    "decimals": 9,
+    "address": "0x060e0fb53f5b31d8acd088eab2c8175a59c9a534"
+  },
+  "0x50fc3ed9c13dfcde48336da260aa51ebc629bc8f": {
+    "symbol": "JWC",
+    "name": "James Wynn Coin",
+    "decimals": 3,
+    "address": "0x50fc3ed9c13dfcde48336da260aa51ebc629bc8f"
+  },
+  "0xb40a815d36949776c90f65807e4f69dc1c10d98d": {
+    "symbol": "TFSST",
+    "name": "Tfstt",
+    "decimals": 18,
+    "address": "0xb40a815d36949776c90f65807e4f69dc1c10d98d"
+  },
+  "0x72c245f537a27113fb0f5ae6985fbb432cebb7f2": {
+    "symbol": "TRSTT",
+    "name": "Trest",
+    "decimals": 18,
+    "address": "0x72c245f537a27113fb0f5ae6985fbb432cebb7f2"
+  },
+  "0x73fd501c3018924cdc0db2ae37ae516f84558ab4": {
+    "symbol": "TYST",
+    "name": "Tyestt",
+    "decimals": 18,
+    "address": "0x73fd501c3018924cdc0db2ae37ae516f84558ab4"
+  },
+  "0x4769ea5987544c689a1d834ed097fcb9f0b34574": {
+    "symbol": "TTPST",
+    "name": "Tpest",
+    "decimals": 18,
+    "address": "0x4769ea5987544c689a1d834ed097fcb9f0b34574"
+  },
+  "0xa8333f6c7a7f6532c7c84c455719a17467c59e0e": {
+    "symbol": "WFI",
+    "name": "WeFi",
+    "decimals": 18,
+    "address": "0xa8333f6c7a7f6532c7c84c455719a17467c59e0e"
+  },
+  "0x28ceb8e10e0e9a00967e9bce743fd8234e9ff1b4": {
+    "symbol": "ETN",
+    "name": "Electroneum",
+    "decimals": 18,
+    "address": "0x28ceb8e10e0e9a00967e9bce743fd8234e9ff1b4"
+  },
+  "0x2ceb4f922def6c4d1b70385a4c7457d93ed9f92c": {
+    "symbol": "pvOHM",
+    "name": "Peapods Metavault for Olympus",
+    "decimals": 9,
+    "address": "0x2ceb4f922def6c4d1b70385a4c7457d93ed9f92c"
+  },
+  "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": {
+    "symbol": "OHM",
+    "name": "Olympus",
+    "decimals": 9,
+    "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5"
+  },
+  "0x1487bd704fa05a222b0adb50dc420f001f003045": {
+    "symbol": "CCDAO",
+    "name": "Cross-Chain DAO",
+    "decimals": 18,
+    "address": "0x1487bd704fa05a222b0adb50dc420f001f003045"
+  },
+  "0x6c5ba91642f10282b576d91922ae6448c9d52f4e": {
+    "symbol": "PHA",
+    "name": "Phala",
+    "decimals": 18,
+    "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
+  },
+  "0xa4556586b755993a40fec497233bad3339dfcb47": {
+    "symbol": "TSTP",
+    "name": "Testop",
+    "decimals": 18,
+    "address": "0xa4556586b755993a40fec497233bad3339dfcb47"
+  },
+  "0xce3d6964ca9159e7d3ce838c2e68e2a54b55d2d3": {
+    "symbol": "TTTTR",
+    "name": "Tresstt",
+    "decimals": 18,
+    "address": "0xce3d6964ca9159e7d3ce838c2e68e2a54b55d2d3"
+  }
+}

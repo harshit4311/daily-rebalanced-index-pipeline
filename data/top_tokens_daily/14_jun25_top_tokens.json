@@ -1,0 +1,122 @@
+{
+  "0xa5a032b16e15359237138c8fec876ed4bd257ccc": {
+    "symbol": "NOKINGS",
+    "name": "No Kings",
+    "decimals": 18,
+    "address": "0xa5a032b16e15359237138c8fec876ed4bd257ccc"
+  },
+  "0x34f9eb88d8c6f6757dbedec4fad261ed21e9e47f": {
+    "symbol": "CORE AI",
+    "name": "CORE",
+    "decimals": 6,
+    "address": "0x34f9eb88d8c6f6757dbedec4fad261ed21e9e47f"
+  },
+  "0x943ee7939942fe910d64f8560767d2675a31e79c": {
+    "symbol": "ELAND",
+    "name": "ETHER LAND",
+    "decimals": 6,
+    "address": "0x943ee7939942fe910d64f8560767d2675a31e79c"
+  },
+  "0x4e52c0d783c6084b51785d8f6a1d62e34bce750b": {
+    "symbol": "COFFEE",
+    "name": "HOT",
+    "decimals": 6,
+    "address": "0x4e52c0d783c6084b51785d8f6a1d62e34bce750b"
+  },
+  "0x4942e24dff9493d9e02fede8ae565a3317d2f441": {
+    "symbol": "MVP",
+    "name": "MEXC Vote Point",
+    "decimals": 6,
+    "address": "0x4942e24dff9493d9e02fede8ae565a3317d2f441"
+  },
+  "0x96ed23c30f8e2971cfd01f8054a22c30e75aeb06": {
+    "symbol": "BOK",
+    "name": "Bonk Monk",
+    "decimals": 18,
+    "address": "0x96ed23c30f8e2971cfd01f8054a22c30e75aeb06"
+  },
+  "0xee4fcd19b3b212ccec1bcb1e4311ceae439f5095": {
+    "symbol": "MPE",
+    "name": "Master Pepe",
+    "decimals": 18,
+    "address": "0xee4fcd19b3b212ccec1bcb1e4311ceae439f5095"
+  },
+  "0x1dee95ed408e699d4fe0d60bfe005f7d97c7365f": {
+    "symbol": "BUBU",
+    "name": "BUBU",
+    "decimals": 18,
+    "address": "0x1dee95ed408e699d4fe0d60bfe005f7d97c7365f"
+  },
+  "0xd450e6291d7d1450c1f5da172ea000d176455b20": {
+    "symbol": "LGNS",
+    "name": "Origin LGNS",
+    "decimals": 18,
+    "address": "0xd450e6291d7d1450c1f5da172ea000d176455b20"
+  },
+  "0xb2a5fda33fd3c25ea1d4573a975e45288d465af4": {
+    "symbol": "MIND",
+    "name": "Mind of Pepe",
+    "decimals": 18,
+    "address": "0xb2a5fda33fd3c25ea1d4573a975e45288d465af4"
+  },
+  "0x996d0bbfb96fc3d6490ccc21c07ba83f43554ff0": {
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "decimals": 18,
+    "address": "0x996d0bbfb96fc3d6490ccc21c07ba83f43554ff0"
+  },
+  "0xe3af78ea43d7ee88a91333c0e68809afac287d42": {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "decimals": 18,
+    "address": "0xe3af78ea43d7ee88a91333c0e68809afac287d42"
+  },
+  "0xb44a2f28fe5f6098e7473653fe189aaaf924dcb2": {
+    "symbol": "BAIBY",
+    "name": "bAIbysitter",
+    "decimals": 18,
+    "address": "0xb44a2f28fe5f6098e7473653fe189aaaf924dcb2"
+  },
+  "0xbb889df886061b3ba64211a4a4db56184615bc10": {
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "decimals": 18,
+    "address": "0xbb889df886061b3ba64211a4a4db56184615bc10"
+  },
+  "0x06e89ab27c81e442328f0b9144b5bfe9a94a708b": {
+    "symbol": "DRV",
+    "name": "Derive",
+    "decimals": 18,
+    "address": "0x06e89ab27c81e442328f0b9144b5bfe9a94a708b"
+  },
+  "0x04d3b79ab43302e91ba3b8c2dbb1df1bbc29ec56": {
+    "symbol": "FAIR3",
+    "name": "Fair and Free",
+    "decimals": 18,
+    "address": "0x04d3b79ab43302e91ba3b8c2dbb1df1bbc29ec56"
+  },
+  "0x6e88afb2453714d76ec82f08bb546292b19da431": {
+    "symbol": "ZORT",
+    "name": "Zortcoin",
+    "decimals": 18,
+    "address": "0x6e88afb2453714d76ec82f08bb546292b19da431"
+  },
+  "0x2315a1555bab1f4076ae1ed1da356690d47747b9": {
+    "symbol": "TOP",
+    "name": "Topcoin",
+    "decimals": 18,
+    "address": "0x2315a1555bab1f4076ae1ed1da356690d47747b9"
+  },
+  "0x6d5502260b9673c372fcd1285eedf73596f878a8": {
+    "symbol": "RICH",
+    "name": "Richcoin",
+    "decimals": 18,
+    "address": "0x6d5502260b9673c372fcd1285eedf73596f878a8"
+  },
+  "0x25cc01c14956a4331936bf3947b4d23000762c1e": {
+    "symbol": "BIG",
+    "name": "Bigcoin",
+    "decimals": 18,
+    "address": "0x25cc01c14956a4331936bf3947b4d23000762c1e"
+  }
+}
