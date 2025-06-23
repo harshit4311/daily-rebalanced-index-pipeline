@@ -1,0 +1,98 @@
+{
+  "0x2e2cccd0f4c1c78d5d9397a008f822dda596344c": {
+    "symbol": "CORGI",
+    "name": "Corgi Binance",
+    "decimals": 9,
+    "address": "0x2e2cccd0f4c1c78d5d9397a008f822dda596344c"
+  },
+  "0xd04cf60cf39f45276585eec02b478ba9556790d7": {
+    "symbol": "CHEESE",
+    "name": "CHEESE",
+    "decimals": 9,
+    "address": "0xd04cf60cf39f45276585eec02b478ba9556790d7"
+  },
+  "0xad2ffb150b35e77ac212c1d27bc3a5a373b1c1bf": {
+    "symbol": "THE REAL TEST",
+    "name": "testing!!!",
+    "decimals": 18,
+    "address": "0xad2ffb150b35e77ac212c1d27bc3a5a373b1c1bf"
+  },
+  "0x8236a87084f8b84306f72007f36f2618a5634494": {
+    "symbol": "LBTC",
+    "name": "Lombard Staked Bitcoin",
+    "decimals": 8,
+    "address": "0x8236a87084f8b84306f72007f36f2618a5634494"
+  },
+  "0xec5d9895626a6dca6a29dc115cebb04f1a569968": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0xec5d9895626a6dca6a29dc115cebb04f1a569968"
+  },
+  "0x7c74e84955891dfbdaf465be3d809f9605f93436": {
+    "symbol": "CIFO",
+    "name": "CIFO Group Token",
+    "decimals": 18,
+    "address": "0x7c74e84955891dfbdaf465be3d809f9605f93436"
+  },
+  "0x19038d30a8e8aed7293990001a23fa8e10d67d4d": {
+    "symbol": "GYFI",
+    "name": "Gyroscope",
+    "decimals": 18,
+    "address": "0x19038d30a8e8aed7293990001a23fa8e10d67d4d"
+  },
+  "0xf5e84cf2152be57fac4e78f4e81fb565b67b5ee0": {
+    "symbol": "XIN",
+    "name": "Xi Network",
+    "decimals": 18,
+    "address": "0xf5e84cf2152be57fac4e78f4e81fb565b67b5ee0"
+  },
+  "0x96099b0d2dede3103658ca4eff6962f63eb26aed": {
+    "symbol": "S&P",
+    "name": "SolidPower",
+    "decimals": 18,
+    "address": "0x96099b0d2dede3103658ca4eff6962f63eb26aed"
+  },
+  "0x2a939b2d24d5b8315d08b98fb4bc973c5a7da236": {
+    "symbol": "SAFE",
+    "name": "Safe Coin",
+    "decimals": 18,
+    "address": "0x2a939b2d24d5b8315d08b98fb4bc973c5a7da236"
+  },
+  "0x072befc022a8c33dc0ac0fd2d856970b9a51b044": {
+    "symbol": "TESTRED",
+    "name": "Test Red Storm",
+    "decimals": 18,
+    "address": "0x072befc022a8c33dc0ac0fd2d856970b9a51b044"
+  },
+  "0xa922f39ea45d84940a9d1fb2c908602a1bc3a145": {
+    "symbol": "Crew10",
+    "name": "NASA\u2019s SpaceX Crew10",
+    "decimals": 18,
+    "address": "0xa922f39ea45d84940a9d1fb2c908602a1bc3a145"
+  },
+  "0xa23ea6be61ad1f75b7b700f3e2f624fc0fdd990d": {
+    "symbol": "TESTBUBB",
+    "name": "Test Bubble",
+    "decimals": 18,
+    "address": "0xa23ea6be61ad1f75b7b700f3e2f624fc0fdd990d"
+  },
+  "0xeb2cab54b8538b50eb5400f068202dcb795e24dc": {
+    "symbol": "MAX7",
+    "name": "MAX7 COIN",
+    "decimals": 18,
+    "address": "0xeb2cab54b8538b50eb5400f068202dcb795e24dc"
+  },
+  "0xb240f8cc134e55c383ee03f2cab42f1abbf1f480": {
+    "symbol": "APT",
+    "name": "AnotherPoolToken",
+    "decimals": 18,
+    "address": "0xb240f8cc134e55c383ee03f2cab42f1abbf1f480"
+  },
+  "0xf4337b4730441c9eee0e8a24e50be75e8102a5f3": {
+    "symbol": "SPT",
+    "name": "StablePoolToken",
+    "decimals": 18,
+    "address": "0xf4337b4730441c9eee0e8a24e50be75e8102a5f3"
+  }
+}

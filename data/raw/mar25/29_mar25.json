@@ -1,0 +1,68 @@
+{
+  "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202": {
+    "symbol": "KNC",
+    "name": "Kyber Network Crystal v2",
+    "decimals": 18,
+    "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+  },
+  "0x47afd7dd490866ae4c06e351905b5f548cc459d7": {
+    "symbol": "SPECTER",
+    "name": "SPECTER AI",
+    "decimals": 18,
+    "address": "0x47afd7dd490866ae4c06e351905b5f548cc459d7"
+  },
+  "0xc9ee4417692fdf0648ce7b250736a70256a6211e": {
+    "symbol": "USDTv2",
+    "name": "USDTv2",
+    "decimals": 6,
+    "address": "0xc9ee4417692fdf0648ce7b250736a70256a6211e"
+  },
+  "0xec9a85e46f50ec5434cc072deefef23156b12488": {
+    "symbol": "EOTW",
+    "name": "Elites of the World",
+    "decimals": 18,
+    "address": "0xec9a85e46f50ec5434cc072deefef23156b12488"
+  },
+  "0xa75e29e9ec9b5b5cc86f62f34abad8c2bfa36f5e": {
+    "symbol": "Etherium",
+    "name": "Etherium",
+    "decimals": 18,
+    "address": "0xa75e29e9ec9b5b5cc86f62f34abad8c2bfa36f5e"
+  },
+  "0xe7e33485a5854b27dc19dc58865a95c83a468765": {
+    "symbol": "Giggle",
+    "name": "Giggle cz ",
+    "decimals": 18,
+    "address": "0xe7e33485a5854b27dc19dc58865a95c83a468765"
+  },
+  "0xdf35e1e76c85d04f98ad0d6d29a27a7d98639da2": {
+    "symbol": "KEYCAT",
+    "name": "Keyboard Cat",
+    "decimals": 18,
+    "address": "0xdf35e1e76c85d04f98ad0d6d29a27a7d98639da2"
+  },
+  "0x51a865fd321e7ccd6aef56bd9f8046b7e224f225": {
+    "symbol": "VINE",
+    "name": "Vine",
+    "decimals": 18,
+    "address": "0x51a865fd321e7ccd6aef56bd9f8046b7e224f225"
+  },
+  "0x01e6329cf5822b29df05ff166c97c3f551770f1e": {
+    "symbol": "CL\u0130ZA",
+    "name": "cliza",
+    "decimals": 18,
+    "address": "0x01e6329cf5822b29df05ff166c97c3f551770f1e"
+  },
+  "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a": {
+    "symbol": "WPLS",
+    "name": "Wrapped Pulse from PulseChain",
+    "decimals": 18,
+    "address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a"
+  },
+  "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6": {
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "decimals": 18,
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+  }
+}

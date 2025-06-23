@@ -1,0 +1,92 @@
+{
+  "0x0aff507ac29b8cea2fb10d2ad14408c2d79a35ad": {
+    "symbol": "TALK",
+    "name": "CrypTalk",
+    "decimals": 18,
+    "address": "0x0aff507ac29b8cea2fb10d2ad14408c2d79a35ad"
+  },
+  "0xce22ed319b3363853a1f29abd289d9510adba6ff": {
+    "symbol": "BULGE",
+    "name": "BULGE",
+    "decimals": 18,
+    "address": "0xce22ed319b3363853a1f29abd289d9510adba6ff"
+  },
+  "0x06ce3a7563849221bbef6df0b3be09e2052abeed": {
+    "symbol": "BabyPump",
+    "name": "Baby Pump",
+    "decimals": 18,
+    "address": "0x06ce3a7563849221bbef6df0b3be09e2052abeed"
+  },
+  "0x819ad7dc1041bf8bf59fe54087eee30fb08de9bb": {
+    "symbol": "APLC",
+    "name": "APPLECOIN",
+    "decimals": 18,
+    "address": "0x819ad7dc1041bf8bf59fe54087eee30fb08de9bb"
+  },
+  "0x6c6a33cbe347f9764c416c645ddfda9599f2ee03": {
+    "symbol": "BRNTRUMP",
+    "name": "BarronTrump",
+    "decimals": 18,
+    "address": "0x6c6a33cbe347f9764c416c645ddfda9599f2ee03"
+  },
+  "0xff20d97dea45eac7db740517729f4c82a2b48c6e": {
+    "symbol": "CORN",
+    "name": "CORN",
+    "decimals": 18,
+    "address": "0xff20d97dea45eac7db740517729f4c82a2b48c6e"
+  },
+  "0x388184933dddb5e458d7b9cbdd15b7fe5b036def": {
+    "symbol": "MAVIA",
+    "name": "Heroes of Mavia",
+    "decimals": 18,
+    "address": "0x388184933dddb5e458d7b9cbdd15b7fe5b036def"
+  },
+  "0x81003502743df347ea39638db1badf0027096d0d": {
+    "symbol": "PWEASE",
+    "name": "PWEASE",
+    "decimals": 18,
+    "address": "0x81003502743df347ea39638db1badf0027096d0d"
+  },
+  "0x81edbd1f89c1d8f125eb95629c0fba05b75ecd0e": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x81edbd1f89c1d8f125eb95629c0fba05b75ecd0e"
+  },
+  "0xc18ad65b25541a7f8534551e13f5ea45d11c265c": {
+    "symbol": "SKI",
+    "name": "SKI MASK DOG ",
+    "decimals": 18,
+    "address": "0xc18ad65b25541a7f8534551e13f5ea45d11c265c"
+  },
+  "0xd2cfbb33c1c90e0e2e8fadfe28bf9a0a0f2ee8e9": {
+    "symbol": "LWFI",
+    "name": "Liberty world financial",
+    "decimals": 18,
+    "address": "0xd2cfbb33c1c90e0e2e8fadfe28bf9a0a0f2ee8e9"
+  },
+  "0x43c5034469bce262d32f64c5e7f9f359f5b1495f": {
+    "symbol": "DOPE",
+    "name": "Department Of Propaganda Everywhere",
+    "decimals": 9,
+    "address": "0x43c5034469bce262d32f64c5e7f9f359f5b1495f"
+  },
+  "0x5167987abb1cc1aa2f73d4fbbfbcd293040eccf6": {
+    "symbol": "XAI",
+    "name": "GrokAI",
+    "decimals": 18,
+    "address": "0x5167987abb1cc1aa2f73d4fbbfbcd293040eccf6"
+  },
+  "0x0d57436f2d39c0664c6f0f2e349229483f87ea38": {
+    "symbol": "wA7A5",
+    "name": "Wrapped A7A5 1.0",
+    "decimals": 6,
+    "address": "0x0d57436f2d39c0664c6f0f2e349229483f87ea38"
+  },
+  "0xc3d21f79c3120a4ffda7a535f8005a7c297799bf": {
+    "symbol": "TERM",
+    "name": "Term Finance",
+    "decimals": 18,
+    "address": "0xc3d21f79c3120a4ffda7a535f8005a7c297799bf"
+  }
+}

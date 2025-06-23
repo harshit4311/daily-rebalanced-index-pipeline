@@ -1,0 +1,104 @@
+{
+  "0x0e1a4d20f8447d0c688245db3ff7f5629e9d964a": {
+    "symbol": "CRTRO",
+    "name": "Crypto Troia Token",
+    "decimals": 18,
+    "address": "0x0e1a4d20f8447d0c688245db3ff7f5629e9d964a"
+  },
+  "0x7ab555ce41a567d45ff8949ee26c58af2c565ec2": {
+    "symbol": "\u20bf",
+    "name": "Bitcoin On Chain",
+    "decimals": 18,
+    "address": "0x7ab555ce41a567d45ff8949ee26c58af2c565ec2"
+  },
+  "0x6e7f11641c1ec71591828e531334192d622703f7": {
+    "symbol": "OIK",
+    "name": "Space Nation Oikos",
+    "decimals": 18,
+    "address": "0x6e7f11641c1ec71591828e531334192d622703f7"
+  },
+  "0x957c7fa189a408e78543113412f6ae1a9b4022c4": {
+    "symbol": "LF",
+    "name": "LF",
+    "decimals": 18,
+    "address": "0x957c7fa189a408e78543113412f6ae1a9b4022c4"
+  },
+  "0x7c90bf594ad51dc9c52d117971fec6a5515b8004": {
+    "symbol": "RXS",
+    "name": "Rexas Finance",
+    "decimals": 18,
+    "address": "0x7c90bf594ad51dc9c52d117971fec6a5515b8004"
+  },
+  "0xe96abc4af205b28634b53da17d3829a1cd466e6a": {
+    "symbol": "STOCK",
+    "name": "Stock Capital",
+    "decimals": 18,
+    "address": "0xe96abc4af205b28634b53da17d3829a1cd466e6a"
+  },
+  "0xf66cd2f8755a21d3c8683a10269f795c0532dd58": {
+    "symbol": "CoreDAO",
+    "name": "CORE DAO",
+    "decimals": 18,
+    "address": "0xf66cd2f8755a21d3c8683a10269f795c0532dd58"
+  },
+  "0xb6f1b83a3050a7933f0c9ab456a381c73bead08a": {
+    "symbol": "USTT",
+    "name": "TEDR",
+    "decimals": 6,
+    "address": "0xb6f1b83a3050a7933f0c9ab456a381c73bead08a"
+  },
+  "0x042c8c684e10ec580e5d30d4df9fe518f03de6be": {
+    "symbol": "SUP",
+    "name": "Supreme Token",
+    "decimals": 18,
+    "address": "0x042c8c684e10ec580e5d30d4df9fe518f03de6be"
+  },
+  "0xb50e03b5f07e0409823b1c489ff4c1c47e21b59d": {
+    "symbol": "CFD",
+    "name": "CATS FOR DEMOCRACY",
+    "decimals": 18,
+    "address": "0xb50e03b5f07e0409823b1c489ff4c1c47e21b59d"
+  },
+  "0x426103dfc6be397b05017973c06e34f2a5befe48": {
+    "symbol": "TWO",
+    "name": "AllTwoGenders",
+    "decimals": 18,
+    "address": "0x426103dfc6be397b05017973c06e34f2a5befe48"
+  },
+  "0x4604151d4c98d1eea200b0d6bffb79a2613182aa": {
+    "symbol": "UNO",
+    "name": "Uno",
+    "decimals": 9,
+    "address": "0x4604151d4c98d1eea200b0d6bffb79a2613182aa"
+  },
+  "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c": {
+    "symbol": "EUROC",
+    "name": "Euro Coin",
+    "decimals": 6,
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+  },
+  "0x39b8b6385416f4ca36a20319f70d28621895279d": {
+    "symbol": "EURe",
+    "name": "Monerium EURe",
+    "decimals": 18,
+    "address": "0x39b8b6385416f4ca36a20319f70d28621895279d"
+  },
+  "0x1278b112943abc025a0df081ee42369414c3a834": {
+    "symbol": "SIR",
+    "name": "Synthetics Implemented Right",
+    "decimals": 12,
+    "address": "0x1278b112943abc025a0df081ee42369414c3a834"
+  },
+  "0x820802fa8a99901f52e39acd21177b0be6ee2974": {
+    "symbol": "EUROe",
+    "name": "EUROe Stablecoin",
+    "decimals": 6,
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974"
+  },
+  "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18": {
+    "symbol": "XCN",
+    "name": "Chain",
+    "decimals": 18,
+    "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18"
+  }
+}

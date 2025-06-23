@@ -1,0 +1,74 @@
+{
+  "0xd152e68e055021fac32818c68601e437eb4105a6": {
+    "symbol": "BEAN",
+    "name": "BloomBeans",
+    "decimals": 18,
+    "address": "0xd152e68e055021fac32818c68601e437eb4105a6"
+  },
+  "0xaa84fd70704ab5ef38e628f3d35f8e3d7bbd1a2d": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0xaa84fd70704ab5ef38e628f3d35f8e3d7bbd1a2d"
+  },
+  "0x7be1f596f8acea7a1669d5aa7ae68f01064d55e3": {
+    "symbol": "DMQ",
+    "name": "Dynamiq",
+    "decimals": 18,
+    "address": "0x7be1f596f8acea7a1669d5aa7ae68f01064d55e3"
+  },
+  "0x9c97f8379ded61092e16437df1b872f994b206be": {
+    "symbol": "PMW",
+    "name": "pepes meme world",
+    "decimals": 18,
+    "address": "0x9c97f8379ded61092e16437df1b872f994b206be"
+  },
+  "0xcfcc4b0aa831f1c767e0cc6eaed203409ed5de1d": {
+    "symbol": "MOONKIN",
+    "name": "Moonkin",
+    "decimals": 18,
+    "address": "0xcfcc4b0aa831f1c767e0cc6eaed203409ed5de1d"
+  },
+  "0xc5c5cbfe4c538fdfb1a9f0097dd6c4f8baab9ab9": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0xc5c5cbfe4c538fdfb1a9f0097dd6c4f8baab9ab9"
+  },
+  "0x8fb86a44eb056a5959148e110db6bb98f1fbb040": {
+    "symbol": "Broccoli",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0x8fb86a44eb056a5959148e110db6bb98f1fbb040"
+  },
+  "0x0a48213f7f82ccb140b04d94b6d43d469a7f7283": {
+    "symbol": "ZEN",
+    "name": "ZEN",
+    "decimals": 18,
+    "address": "0x0a48213f7f82ccb140b04d94b6d43d469a7f7283"
+  },
+  "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e": {
+    "symbol": "IDO",
+    "name": "Idexo Token",
+    "decimals": 18,
+    "address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e"
+  },
+  "0xb8c77482e45f1f44de1745f52c74426c631bdd52": {
+    "symbol": "BNB",
+    "name": "BNB",
+    "decimals": 18,
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+  },
+  "0x56072c95faa701256059aa122697b133aded9279": {
+    "symbol": "SKY",
+    "name": "SKY Governance Token",
+    "decimals": 18,
+    "address": "0x56072c95faa701256059aa122697b133aded9279"
+  },
+  "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
+    "decimals": 18,
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+  }
+}

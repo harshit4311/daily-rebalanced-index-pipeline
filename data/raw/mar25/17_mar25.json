@@ -1,0 +1,56 @@
+{
+  "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e": {
+    "symbol": "USUAL",
+    "name": "USUAL",
+    "decimals": 18,
+    "address": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e"
+  },
+  "0xa489c1527d0b6d051bf3af9dbc4480c9fa776c52": {
+    "symbol": "MELAN\u0130A",
+    "name": "Melania Meme",
+    "decimals": 18,
+    "address": "0xa489c1527d0b6d051bf3af9dbc4480c9fa776c52"
+  },
+  "0x08cb116e8e8ec3f24b045f6be867954e6b9ae870": {
+    "symbol": "PtGold ",
+    "name": "I.A. OFFICIAL BANK",
+    "decimals": 18,
+    "address": "0x08cb116e8e8ec3f24b045f6be867954e6b9ae870"
+  },
+  "0x9df59dcb893038982b43b5f481dbc129ce48162e": {
+    "symbol": "DDST",
+    "name": "DADASTARNEX",
+    "decimals": 4,
+    "address": "0x9df59dcb893038982b43b5f481dbc129ce48162e"
+  },
+  "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6": {
+    "symbol": "ELT",
+    "name": "Edenloop Token",
+    "decimals": 18,
+    "address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6"
+  },
+  "0x0d1648405aae76f127e7a287580d58aba40c9a3a": {
+    "symbol": "dasdasd",
+    "name": "dasd",
+    "decimals": 18,
+    "address": "0x0d1648405aae76f127e7a287580d58aba40c9a3a"
+  },
+  "0x1a3922d64b78858cfc3e4ea2ff264854d5da149e": {
+    "symbol": "nast",
+    "name": "nast",
+    "decimals": 18,
+    "address": "0x1a3922d64b78858cfc3e4ea2ff264854d5da149e"
+  },
+  "0x90d1964873ddd741f49ed3ca9c47ceb470313a09": {
+    "symbol": "HENLO",
+    "name": "Henlo",
+    "decimals": 18,
+    "address": "0x90d1964873ddd741f49ed3ca9c47ceb470313a09"
+  },
+  "0x6df0e641fc9847c0c6fde39be6253045440c14d3": {
+    "symbol": "DINERO",
+    "name": "Dinero Governance Token",
+    "decimals": 18,
+    "address": "0x6df0e641fc9847c0c6fde39be6253045440c14d3"
+  }
+}

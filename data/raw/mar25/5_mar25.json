@@ -1,0 +1,92 @@
+{
+  "0xe3f3ea6ef97e89dd2ec6faf6c1a7a10744c81b67": {
+    "symbol": "ETHEREUM",
+    "name": "The Internet You Can Own",
+    "decimals": 18,
+    "address": "0xe3f3ea6ef97e89dd2ec6faf6c1a7a10744c81b67"
+  },
+  "0xe88d87f910e428813da08f75614d7233a6a3475a": {
+    "symbol": "LMTdc",
+    "name": "LIMITLESS COIN",
+    "decimals": 18,
+    "address": "0xe88d87f910e428813da08f75614d7233a6a3475a"
+  },
+  "0x5ae627798538d51c4e762c2b0707b62acdc5e5c3": {
+    "symbol": "LOADOUT",
+    "name": "LOADOUT GAMING",
+    "decimals": 18,
+    "address": "0x5ae627798538d51c4e762c2b0707b62acdc5e5c3"
+  },
+  "0xae9625c061b34c6d983f23956be9af20791f58c3": {
+    "symbol": "Blue Ghost",
+    "name": "Meme on the Moon",
+    "decimals": 18,
+    "address": "0xae9625c061b34c6d983f23956be9af20791f58c3"
+  },
+  "0xe96abc4af205b28634b53da17d3829a1cd466e6a": {
+    "symbol": "STOCK",
+    "name": "Stock Capital",
+    "decimals": 18,
+    "address": "0xe96abc4af205b28634b53da17d3829a1cd466e6a"
+  },
+  "0xd0fd3faea74eed261b5ade7d56e59e041da3499e": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0xd0fd3faea74eed261b5ade7d56e59e041da3499e"
+  },
+  "0x083a96c390c942def68b6343d1c651eeae604b50": {
+    "symbol": "PASG",
+    "name": "Passive Gold",
+    "decimals": 18,
+    "address": "0x083a96c390c942def68b6343d1c651eeae604b50"
+  },
+  "0xb9501d5389ef1eecb57c7d25e064165b6662d2eb": {
+    "symbol": "BBE",
+    "name": "Baby Elon",
+    "decimals": 18,
+    "address": "0xb9501d5389ef1eecb57c7d25e064165b6662d2eb"
+  },
+  "0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1": {
+    "symbol": "INDI",
+    "name": "Indicoin",
+    "decimals": 18,
+    "address": "0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1"
+  },
+  "0xdb48451ab980a2b530999c3cc883b33390f5e8a7": {
+    "symbol": "$WLFI",
+    "name": "$WLFI",
+    "decimals": 18,
+    "address": "0xdb48451ab980a2b530999c3cc883b33390f5e8a7"
+  },
+  "0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30": {
+    "symbol": "RCG",
+    "name": "Recharge",
+    "decimals": 18,
+    "address": "0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30"
+  },
+  "0x06e6442e063ba536787bf54926ff30fc30b23c18": {
+    "symbol": "SHIZ",
+    "name": "Shiza Inu",
+    "decimals": 18,
+    "address": "0x06e6442e063ba536787bf54926ff30fc30b23c18"
+  },
+  "0xca530408c3e552b020a2300debc7bd18820fb42f": {
+    "symbol": "RYU",
+    "name": "RyuJin",
+    "decimals": 18,
+    "address": "0xca530408c3e552b020a2300debc7bd18820fb42f"
+  },
+  "0xae883cd481499b9e6b7ea62c0f5372263a83c797": {
+    "symbol": "TKN2",
+    "name": "TKN2",
+    "decimals": 18,
+    "address": "0xae883cd481499b9e6b7ea62c0f5372263a83c797"
+  },
+  "0x1ecb8933ed57bb51a612f0ce2c8b519badc10bd1": {
+    "symbol": "AUR",
+    "name": "Aureum",
+    "decimals": 18,
+    "address": "0x1ecb8933ed57bb51a612f0ce2c8b519badc10bd1"
+  }
+}

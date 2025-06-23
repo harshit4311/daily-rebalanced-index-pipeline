@@ -1,0 +1,62 @@
+{
+  "0xbad6c59d72d44512616f25b3d160c79db5a69ddf": {
+    "symbol": "VATAN",
+    "name": "Vatan",
+    "decimals": 18,
+    "address": "0xbad6c59d72d44512616f25b3d160c79db5a69ddf"
+  },
+  "0x13ce3b072e58bc49db03cd8627d8900fdd917f03": {
+    "symbol": "DUMB",
+    "name": "BeLessDumb",
+    "decimals": 9,
+    "address": "0x13ce3b072e58bc49db03cd8627d8900fdd917f03"
+  },
+  "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a": {
+    "symbol": "YUSD",
+    "name": "YUSD",
+    "decimals": 18,
+    "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a"
+  },
+  "0xafc472082b762299285dd945015c72339d143e97": {
+    "symbol": "ICHIGO",
+    "name": "ICHIGO CHAN - COCORO REAL NAME",
+    "decimals": 9,
+    "address": "0xafc472082b762299285dd945015c72339d143e97"
+  },
+  "0xf90ae0427a933bee7229a2ebe26e6e84ae7c574e": {
+    "symbol": "XAVIER",
+    "name": "Xavieruncle",
+    "decimals": 18,
+    "address": "0xf90ae0427a933bee7229a2ebe26e6e84ae7c574e"
+  },
+  "0x64006857e810dc7466cd4c14efecd2fc05705642": {
+    "symbol": "AKG",
+    "name": "AKG",
+    "decimals": 18,
+    "address": "0x64006857e810dc7466cd4c14efecd2fc05705642"
+  },
+  "0x6e0fc31ca3714eb4832164829a59c0f0ced1aa8b": {
+    "symbol": "dasdasd",
+    "name": "dasd",
+    "decimals": 18,
+    "address": "0x6e0fc31ca3714eb4832164829a59c0f0ced1aa8b"
+  },
+  "0x3b58c52c03ca5eb619eba171091c86c34d603e5f": {
+    "symbol": "MCI",
+    "name": "MCI Coin",
+    "decimals": 9,
+    "address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f"
+  },
+  "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf": {
+    "symbol": "DFDX",
+    "name": "DFDX",
+    "decimals": 18,
+    "address": "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf"
+  },
+  "0x0d3ef5bbe5c198f146d87ed3b3b840bf357ffc3e": {
+    "symbol": "dasdasd",
+    "name": "dasd",
+    "decimals": 18,
+    "address": "0x0d3ef5bbe5c198f146d87ed3b3b840bf357ffc3e"
+  }
+}

@@ -38,8 +38,8 @@ if __name__ == "__main__":
     # Edit this section to change the batch month/year
     run_batch(
         start_day=1,
-        end_day=29,
-        month=2,
+        end_day=31,
+        month=3,
         year=2025,
-        save_subdir="feb25"
+        save_subdir="mar25"
     )

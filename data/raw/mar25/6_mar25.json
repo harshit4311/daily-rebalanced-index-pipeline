@@ -1,0 +1,116 @@
+{
+  "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de": {
+    "symbol": "RED",
+    "name": "Redstone",
+    "decimals": 18,
+    "address": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de"
+  },
+  "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef": {
+    "symbol": "PUNDIAI",
+    "name": "Pundi AI",
+    "decimals": 18,
+    "address": "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef"
+  },
+  "0x817162975186d4d53dbf5a7377dd45376e2d2fc5": {
+    "symbol": "REACT",
+    "name": "Wrapped REACT",
+    "decimals": 18,
+    "address": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5"
+  },
+  "0xa4985a0d6585e84fe974203f47125eaec1188dfa": {
+    "symbol": "MANUS",
+    "name": "ManusAI",
+    "decimals": 18,
+    "address": "0xa4985a0d6585e84fe974203f47125eaec1188dfa"
+  },
+  "0x43985fc6ab1a4c05a6de30eb7b8145447bff5623": {
+    "symbol": "GAL",
+    "name": "Gal Token",
+    "decimals": 18,
+    "address": "0x43985fc6ab1a4c05a6de30eb7b8145447bff5623"
+  },
+  "0x3722359be0bfebb541bc98adfe1250cd901a706c": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x3722359be0bfebb541bc98adfe1250cd901a706c"
+  },
+  "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9": {
+    "symbol": "VINU",
+    "name": "Vita Inu",
+    "decimals": 18,
+    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9"
+  },
+  "0xdac070102b0cfde1493026454c9c608924f6db71": {
+    "symbol": "POPG",
+    "name": "POPG",
+    "decimals": 18,
+    "address": "0xdac070102b0cfde1493026454c9c608924f6db71"
+  },
+  "0x396ec402b42066864c406d1ac3bc86b575003ed8": {
+    "symbol": "WBUY",
+    "name": "Wrapped BUY Token",
+    "decimals": 2,
+    "address": "0x396ec402b42066864c406d1ac3bc86b575003ed8"
+  },
+  "0xd5d645d9e4455546043ceb827a7d285055c41ff5": {
+    "symbol": "CTB",
+    "name": "Colect Token B",
+    "decimals": 18,
+    "address": "0xd5d645d9e4455546043ceb827a7d285055c41ff5"
+  },
+  "0xe88d87f910e428813da08f75614d7233a6a3475a": {
+    "symbol": "LMTdc",
+    "name": "LIMITLESS COIN",
+    "decimals": 18,
+    "address": "0xe88d87f910e428813da08f75614d7233a6a3475a"
+  },
+  "0x06aac5e9c582df5fd70275ad4fea6805206cceab": {
+    "symbol": "ARMCP",
+    "name": "Armenian Crypto Project",
+    "decimals": 18,
+    "address": "0x06aac5e9c582df5fd70275ad4fea6805206cceab"
+  },
+  "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": {
+    "symbol": "KAP",
+    "name": "Kapital DAO Token",
+    "decimals": 18,
+    "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569"
+  },
+  "0x45f5bd656d89ee84b96ace4d161e4021126d03e5": {
+    "symbol": "BTEC",
+    "name": "BTECHAIN",
+    "decimals": 6,
+    "address": "0x45f5bd656d89ee84b96ace4d161e4021126d03e5"
+  },
+  "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
+    "symbol": "SHIB",
+    "name": "SHIBA INU",
+    "decimals": 18,
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+  },
+  "0x0000206329b97db379d5e1bf586bbdb969c63274": {
+    "symbol": "USDA",
+    "name": "USDA",
+    "decimals": 18,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274"
+  },
+  "0x31429d1856ad1377a8a0079410b297e1a9e214c2": {
+    "symbol": "ANGLE",
+    "name": "ANGLE",
+    "decimals": 18,
+    "address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2"
+  },
+  "0x947770ef50954aaf5b1aa90a39728143cf41247b": {
+    "symbol": "ttc1",
+    "name": "ttc1",
+    "decimals": 18,
+    "address": "0x947770ef50954aaf5b1aa90a39728143cf41247b"
+  },
+  "0xd29da236dd4aac627346e1bba06a619e8c22d7c5": {
+    "symbol": "MAGA",
+    "name": "MAGA",
+    "decimals": 9,
+    "address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5"
+  }
+}

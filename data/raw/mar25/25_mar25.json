@@ -1,0 +1,116 @@
+{
+  "0x44001adbeda74c0f8c8484d49cb56ea98046beaf": {
+    "symbol": "YAWN",
+    "name": "Yawn",
+    "decimals": 18,
+    "address": "0x44001adbeda74c0f8c8484d49cb56ea98046beaf"
+  },
+  "0x2f8d0367e64043ba9a23edf4fec0e0dec348299b": {
+    "symbol": "PARTI",
+    "name": "Particle Network",
+    "decimals": 18,
+    "address": "0x2f8d0367e64043ba9a23edf4fec0e0dec348299b"
+  },
+  "0x1775b1387e61504243bf9daf7129d8ed9c1880fe": {
+    "symbol": "Yuuse",
+    "name": "Yuuse Int",
+    "decimals": 18,
+    "address": "0x1775b1387e61504243bf9daf7129d8ed9c1880fe"
+  },
+  "0x39ad0e14c95a9a2dc5c35db5057231e381ada904": {
+    "symbol": "AMI",
+    "name": "Amnis Finance",
+    "decimals": 18,
+    "address": "0x39ad0e14c95a9a2dc5c35db5057231e381ada904"
+  },
+  "0xaafb7e0c616113b0aa17775631fa8a1a89bb5b61": {
+    "symbol": "Talk",
+    "name": "CrypTalk",
+    "decimals": 18,
+    "address": "0xaafb7e0c616113b0aa17775631fa8a1a89bb5b61"
+  },
+  "0xc6c72a9a9ce3a395d05105367fde8e370521da47": {
+    "symbol": "TrumpHype",
+    "name": "Trump Hype",
+    "decimals": 18,
+    "address": "0xc6c72a9a9ce3a395d05105367fde8e370521da47"
+  },
+  "0x45b0e9f217a2d3c627ca7ee0dc51a914f77d3bec": {
+    "symbol": "TTOC",
+    "name": "TitoCoin",
+    "decimals": 0,
+    "address": "0x45b0e9f217a2d3c627ca7ee0dc51a914f77d3bec"
+  },
+  "0x7fa1508087930a60ca8eee65bfa28705efc4b2e1": {
+    "symbol": "$YZY",
+    "name": "YZY",
+    "decimals": 9,
+    "address": "0x7fa1508087930a60ca8eee65bfa28705efc4b2e1"
+  },
+  "0x6ab0cdeb03d8b0d3b33ac19b30febf2d446baf51": {
+    "symbol": "wA7A5",
+    "name": "Wrapped A7A5 1.0",
+    "decimals": 6,
+    "address": "0x6ab0cdeb03d8b0d3b33ac19b30febf2d446baf51"
+  },
+  "0x85063487eceaa61e5b9f3ea06567577532556c22": {
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "decimals": 18,
+    "address": "0x85063487eceaa61e5b9f3ea06567577532556c22"
+  },
+  "0x24ec258965f7ba3c0c80d607176a3ce307268056": {
+    "symbol": "PARTI",
+    "name": "PARTI Token",
+    "decimals": 18,
+    "address": "0x24ec258965f7ba3c0c80d607176a3ce307268056"
+  },
+  "0x2614f29c39de46468a921fd0b41fdd99a01f2edf": {
+    "symbol": "HLX",
+    "name": "HELIOS",
+    "decimals": 18,
+    "address": "0x2614f29c39de46468a921fd0b41fdd99a01f2edf"
+  },
+  "0xaa26754dd0c8310cb70f3b66daeab52c8cff3c30": {
+    "symbol": "H420",
+    "name": "H420",
+    "decimals": 18,
+    "address": "0xaa26754dd0c8310cb70f3b66daeab52c8cff3c30"
+  },
+  "0x79d7f14d9e88eb3d0587c603196e46e2a219ffd0": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0x79d7f14d9e88eb3d0587c603196e46e2a219ffd0"
+  },
+  "0xf73df8664b0aa4074155c95da885f3b23ab47cda": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0xf73df8664b0aa4074155c95da885f3b23ab47cda"
+  },
+  "0x41a6889dfde9c1ac0e9efd0ce00db8dc0e0a61ed": {
+    "symbol": "TToken",
+    "name": "TToken 1.0",
+    "decimals": 6,
+    "address": "0x41a6889dfde9c1ac0e9efd0ce00db8dc0e0a61ed"
+  },
+  "0xba3f535bbcccca2a154b573ca6c5a49baae0a3ea": {
+    "symbol": "dEURO",
+    "name": "DecentralizedEURO",
+    "decimals": 18,
+    "address": "0xba3f535bbcccca2a154b573ca6c5a49baae0a3ea"
+  },
+  "0x5be6e0e0bbe7711dd118b9dc3c68ccf9bb9754ea": {
+    "symbol": "$VLN",
+    "name": "MUTANT ALIENS VILLAIN",
+    "decimals": 18,
+    "address": "0x5be6e0e0bbe7711dd118b9dc3c68ccf9bb9754ea"
+  },
+  "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6": {
+    "symbol": "nDEPS",
+    "name": "Native Decentralized Euro Protocol Share",
+    "decimals": 18,
+    "address": "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6"
+  }
+}

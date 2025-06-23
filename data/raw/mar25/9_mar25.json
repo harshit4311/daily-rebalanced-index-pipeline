@@ -1,0 +1,80 @@
+{
+  "0x8a79c7bfc68a99f93c6cf0e97bf176e9b0747490": {
+    "symbol": "STABLEDON",
+    "name": "STABLEDON Coin",
+    "decimals": 18,
+    "address": "0x8a79c7bfc68a99f93c6cf0e97bf176e9b0747490"
+  },
+  "0x77fcc28963e19231b16ee473fa318fe79b7297c9": {
+    "symbol": "EPH",
+    "name": "EOPLLIH",
+    "decimals": 18,
+    "address": "0x77fcc28963e19231b16ee473fa318fe79b7297c9"
+  },
+  "0x295c37c11488878db41c526c17bfa5dbf12a1b8a": {
+    "symbol": "MBXAU",
+    "name": "METALBANK X",
+    "decimals": 18,
+    "address": "0x295c37c11488878db41c526c17bfa5dbf12a1b8a"
+  },
+  "0x48b2aa337ac50f55a3d71f3b4ef21d4b160225a2": {
+    "symbol": "SIMPLEMAN",
+    "name": "I See Tits I Buy",
+    "decimals": 18,
+    "address": "0x48b2aa337ac50f55a3d71f3b4ef21d4b160225a2"
+  },
+  "0x960fce8724aa127184b6d13af41a711755236c77": {
+    "symbol": "henlo",
+    "name": "henlo",
+    "decimals": 9,
+    "address": "0x960fce8724aa127184b6d13af41a711755236c77"
+  },
+  "0x3593d125a4f7849a1b059e64f4517a86dd60c95d": {
+    "symbol": "OM",
+    "name": "MANTRA DAO",
+    "decimals": 18,
+    "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+  },
+  "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb": {
+    "symbol": "MTC",
+    "name": "MetaTrustCoin",
+    "decimals": 18,
+    "address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb"
+  },
+  "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3": {
+    "symbol": "TOPIA",
+    "name": "TOPIA",
+    "decimals": 18,
+    "address": "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3"
+  },
+  "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf": {
+    "symbol": "DFDX",
+    "name": "DFDX",
+    "decimals": 18,
+    "address": "0x91fde184b93bd66f37aff435f47aa63c20a3b2bf"
+  },
+  "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1": {
+    "symbol": "TITANX",
+    "name": "TITAN X",
+    "decimals": 18,
+    "address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1"
+  },
+  "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f": {
+    "symbol": "eUSDe",
+    "name": "Ethereal Pre-deposit Vault",
+    "decimals": 18,
+    "address": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f"
+  },
+  "0x96a5399d07896f757bd4c6ef56461f58db951862": {
+    "symbol": "DRAGONX",
+    "name": "DragonX",
+    "decimals": 18,
+    "address": "0x96a5399d07896f757bd4c6ef56461f58db951862"
+  },
+  "0xc555d625828c4527d477e595ff1dd5801b4a600e": {
+    "symbol": "MON",
+    "name": "MON",
+    "decimals": 18,
+    "address": "0xc555d625828c4527d477e595ff1dd5801b4a600e"
+  }
+}
