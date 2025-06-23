@@ -1,0 +1,110 @@
+{
+  "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc": {
+    "symbol": "LAI",
+    "name": "LayerAI Token",
+    "decimals": 18,
+    "address": "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc"
+  },
+  "0xbef7e5cafef65dbe229757ae00c66eb259a2bb2e": {
+    "symbol": "G21",
+    "name": "Genesis21",
+    "decimals": 18,
+    "address": "0xbef7e5cafef65dbe229757ae00c66eb259a2bb2e"
+  },
+  "0x8ef4034cd6a74819aa9dc9ee919b5671891b419b": {
+    "symbol": "AGTL",
+    "name": "Agent Labs",
+    "decimals": 18,
+    "address": "0x8ef4034cd6a74819aa9dc9ee919b5671891b419b"
+  },
+  "0xa96f4e53fd34c3a90ff632a38bc423e086446f31": {
+    "symbol": "Torra",
+    "name": "Torra AI Coin",
+    "decimals": 18,
+    "address": "0xa96f4e53fd34c3a90ff632a38bc423e086446f31"
+  },
+  "0xb211888b8e65592d9768e6af026fa959395ad56d": {
+    "symbol": "DPM",
+    "name": "DPM",
+    "decimals": 18,
+    "address": "0xb211888b8e65592d9768e6af026fa959395ad56d"
+  },
+  "0x8f34db9c012f51af44526af5b499e9fdb0d724a3": {
+    "symbol": "SNFL",
+    "name": "SniffleCoin",
+    "decimals": 18,
+    "address": "0x8f34db9c012f51af44526af5b499e9fdb0d724a3"
+  },
+  "0xaa26754dd0c8310cb70f3b66daeab52c8cff3c30": {
+    "symbol": "H420",
+    "name": "H420",
+    "decimals": 18,
+    "address": "0xaa26754dd0c8310cb70f3b66daeab52c8cff3c30"
+  },
+  "0x9909669b9ef4dfb6d7606c3cf48c8fe33a3cfe8d": {
+    "symbol": "DRB",
+    "name": "DebtReliefBot",
+    "decimals": 18,
+    "address": "0x9909669b9ef4dfb6d7606c3cf48c8fe33a3cfe8d"
+  },
+  "0x6c1f8e34de1f5d900842442bd99ea3b22bd51d79": {
+    "symbol": "BNKR",
+    "name": "BankrCoin",
+    "decimals": 18,
+    "address": "0x6c1f8e34de1f5d900842442bd99ea3b22bd51d79"
+  },
+  "0x9894e6e79d0a5d1768cb235ba25e5b122250efcd": {
+    "symbol": "VisaInu",
+    "name": "VisaInu",
+    "decimals": 18,
+    "address": "0x9894e6e79d0a5d1768cb235ba25e5b122250efcd"
+  },
+  "0xfa7b103b5d187c46f14175431a22da72e0a1913f": {
+    "symbol": "GOOBY",
+    "name": "Goobygambles",
+    "decimals": 18,
+    "address": "0xfa7b103b5d187c46f14175431a22da72e0a1913f"
+  },
+  "0xd78959df1ff28b45e6b4ea234bdcf9d6609d16e1": {
+    "symbol": "Mierda",
+    "name": "Moneda de Caca",
+    "decimals": 18,
+    "address": "0xd78959df1ff28b45e6b4ea234bdcf9d6609d16e1"
+  },
+  "0x8e3540830f93e57a9fa4cc3470dd85df473af9d7": {
+    "symbol": "$cool",
+    "name": "$cool",
+    "decimals": 18,
+    "address": "0x8e3540830f93e57a9fa4cc3470dd85df473af9d7"
+  },
+  "0xb9b1a183ec897b91e7ff7e2b17165d4c88da1c91": {
+    "symbol": "XIN",
+    "name": "Xi Network",
+    "decimals": 18,
+    "address": "0xb9b1a183ec897b91e7ff7e2b17165d4c88da1c91"
+  },
+  "0x9fabd61d90cad5f63ac58972ced94e36205c7862": {
+    "symbol": "ERIC",
+    "name": "Eric Trump",
+    "decimals": 18,
+    "address": "0x9fabd61d90cad5f63ac58972ced94e36205c7862"
+  },
+  "0x2dede6638e24da3d97463183bf2c2d41f1d8f17e": {
+    "symbol": "CLIZA",
+    "name": "cliza",
+    "decimals": 18,
+    "address": "0x2dede6638e24da3d97463183bf2c2d41f1d8f17e"
+  },
+  "0xc745487ebb996c5d2e78415934dc016e8bae585f": {
+    "symbol": "B3 ",
+    "name": "B3",
+    "decimals": 18,
+    "address": "0xc745487ebb996c5d2e78415934dc016e8bae585f"
+  },
+  "0x5ebb51f6a5676fbba87fd467fd0f67a0c0a00d34": {
+    "symbol": "PAI",
+    "name": "POWRAI",
+    "decimals": 18,
+    "address": "0x5ebb51f6a5676fbba87fd467fd0f67a0c0a00d34"
+  }
+}

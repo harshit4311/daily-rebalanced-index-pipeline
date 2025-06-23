@@ -1,0 +1,68 @@
+{
+  "0xb0415d55f2c87b7f99285848bd341c367feac1ea": {
+    "symbol": "1R0R",
+    "name": "R0AR TOKEN",
+    "decimals": 18,
+    "address": "0xb0415d55f2c87b7f99285848bd341c367feac1ea"
+  },
+  "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2": {
+    "symbol": "wWLFI",
+    "name": "Wrapped World Liberty Financial",
+    "decimals": 18,
+    "address": "0x9d05e5bafb721e6fb24d8ab8179209be70e4dda2"
+  },
+  "0xb56352b5e584c09fe736323bf72e7a5b2b17d4a8": {
+    "symbol": "Cocoro",
+    "name": "Cocoro Gold",
+    "decimals": 18,
+    "address": "0xb56352b5e584c09fe736323bf72e7a5b2b17d4a8"
+  },
+  "0x59a8e1d44a502c1acfc2a068f889d4dda6e88f7f": {
+    "symbol": "BT",
+    "name": "barron trump",
+    "decimals": 18,
+    "address": "0x59a8e1d44a502c1acfc2a068f889d4dda6e88f7f"
+  },
+  "0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78": {
+    "symbol": "APIX",
+    "name": "APIX",
+    "decimals": 18,
+    "address": "0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78"
+  },
+  "0x3073f7aaa4db83f95e9fff17424f71d4751a3073": {
+    "symbol": "MOVE",
+    "name": "Movement",
+    "decimals": 8,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073"
+  },
+  "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0": {
+    "symbol": "USDZ",
+    "name": "USDZ",
+    "decimals": 18,
+    "address": "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0"
+  },
+  "0x0e22ce6cf724ceb0b63a7068d52aecf772c4a92a": {
+    "symbol": "TST",
+    "name": "TEST",
+    "decimals": 18,
+    "address": "0x0e22ce6cf724ceb0b63a7068d52aecf772c4a92a"
+  },
+  "0xfe8416a33eeac4b7c3b3758e7db6c4d86e6dc52a": {
+    "symbol": "Bibi",
+    "name": "BibiCoin",
+    "decimals": 11,
+    "address": "0xfe8416a33eeac4b7c3b3758e7db6c4d86e6dc52a"
+  },
+  "0x3845badade8e6dff049820680d1f14bd3903a5d0": {
+    "symbol": "SAND",
+    "name": "SAND",
+    "decimals": 18,
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+  },
+  "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb": {
+    "symbol": "MTC",
+    "name": "MetaTrustCoin",
+    "decimals": 18,
+    "address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb"
+  }
+}

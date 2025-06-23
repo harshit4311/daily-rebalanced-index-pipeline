@@ -1,0 +1,68 @@
+{
+  "0xe1c7c41a7fc8167b50cfd92ae1f53ec4913366b9": {
+    "symbol": "XAU6900",
+    "name": "XAU6900",
+    "decimals": 18,
+    "address": "0xe1c7c41a7fc8167b50cfd92ae1f53ec4913366b9"
+  },
+  "0x33f07795ed205112a21fcaab33e84b82a98a9b6f": {
+    "symbol": "MIXUE",
+    "name": "Mixue Ice Cream & Tea",
+    "decimals": 18,
+    "address": "0x33f07795ed205112a21fcaab33e84b82a98a9b6f"
+  },
+  "0x4232df19f7ae5033a2a87c74030e471d4ec9cd57": {
+    "symbol": "XAU6900",
+    "name": "XAU6900",
+    "decimals": 18,
+    "address": "0x4232df19f7ae5033a2a87c74030e471d4ec9cd57"
+  },
+  "0xafc472082b762299285dd945015c72339d143e97": {
+    "symbol": "ICHIGO",
+    "name": "ICHIGO CHAN - COCORO REAL NAME",
+    "decimals": 9,
+    "address": "0xafc472082b762299285dd945015c72339d143e97"
+  },
+  "0xfa2b947eec368f42195f24f36d2af29f7c24cec2": {
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "decimals": 18,
+    "address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+  },
+  "0x2e55e55b2a69b2eb26eedb275b4fd6fb6098aaaa": {
+    "symbol": "VUSDx",
+    "name": "VUSDx",
+    "decimals": 18,
+    "address": "0x2e55e55b2a69b2eb26eedb275b4fd6fb6098aaaa"
+  },
+  "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0": {
+    "symbol": "COCORO",
+    "name": "COCORO",
+    "decimals": 9,
+    "address": "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0"
+  },
+  "0xb44540e23eeaaeca8f67715cdb167154330b6a15": {
+    "symbol": "BR ",
+    "name": "Bedrock",
+    "decimals": 18,
+    "address": "0xb44540e23eeaaeca8f67715cdb167154330b6a15"
+  },
+  "0xa61ba79fabe09aa9ddb522da3230da932fdbe7bf": {
+    "symbol": "MUIE",
+    "name": "Test_BC",
+    "decimals": 4,
+    "address": "0xa61ba79fabe09aa9ddb522da3230da932fdbe7bf"
+  },
+  "0x48817c428da35ff8d140c18c72e9168d6ae1aa7f": {
+    "symbol": "Z",
+    "name": "Z",
+    "decimals": 18,
+    "address": "0x48817c428da35ff8d140c18c72e9168d6ae1aa7f"
+  },
+  "0xc9d152a9acc01695c659e618b269b78962cde5f4": {
+    "symbol": "M28",
+    "name": "M28",
+    "decimals": 18,
+    "address": "0xc9d152a9acc01695c659e618b269b78962cde5f4"
+  }
+}

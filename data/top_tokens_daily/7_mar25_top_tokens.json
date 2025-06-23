@@ -1,0 +1,158 @@
+{
+  "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7": {
+    "symbol": "ELX",
+    "name": "Elixir",
+    "decimals": 18,
+    "address": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7"
+  },
+  "0x240cae3c5afa2564c6ffcfa7ce5b3f1247dfa02a": {
+    "symbol": "MAGNET",
+    "name": "Magneto HR",
+    "decimals": 18,
+    "address": "0x240cae3c5afa2564c6ffcfa7ce5b3f1247dfa02a"
+  },
+  "0x3722359be0bfebb541bc98adfe1250cd901a706c": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x3722359be0bfebb541bc98adfe1250cd901a706c"
+  },
+  "0x4e1858e8755a69597ce4a9c162847f350f7c4b12": {
+    "symbol": "RDOGE",
+    "name": "RoboDoge",
+    "decimals": 18,
+    "address": "0x4e1858e8755a69597ce4a9c162847f350f7c4b12"
+  },
+  "0x4dfb54c45e67bb9bb76011ba0b651508eeca46d7": {
+    "symbol": "BARRON",
+    "name": "Barron Trump",
+    "decimals": 18,
+    "address": "0x4dfb54c45e67bb9bb76011ba0b651508eeca46d7"
+  },
+  "0xb3cc6bcdf6b917efe0eac1288974cf8d750c8874": {
+    "symbol": "BGLD",
+    "name": "BeGold",
+    "decimals": 18,
+    "address": "0xb3cc6bcdf6b917efe0eac1288974cf8d750c8874"
+  },
+  "0x7c04ea9a79fca8579279274fbc4c2927fa8a81b1": {
+    "symbol": "USA",
+    "name": "USA",
+    "decimals": 18,
+    "address": "0x7c04ea9a79fca8579279274fbc4c2927fa8a81b1"
+  },
+  "0x8c84725d026faa23f5d304bca7843c36ce80282d": {
+    "symbol": "GROK",
+    "name": "Grok AI",
+    "decimals": 18,
+    "address": "0x8c84725d026faa23f5d304bca7843c36ce80282d"
+  },
+  "0xeeffd5b5771aa40159ffdd778c5f3ad64a2fa5e5": {
+    "symbol": "USA",
+    "name": "USA",
+    "decimals": 18,
+    "address": "0xeeffd5b5771aa40159ffdd778c5f3ad64a2fa5e5"
+  },
+  "0xf503d48498e7925269ef8e4704d6ba1a46c3184e": {
+    "symbol": "MOONBANK",
+    "name": "Moonbank",
+    "decimals": 18,
+    "address": "0xf503d48498e7925269ef8e4704d6ba1a46c3184e"
+  },
+  "0xa0be76135289aeb5781923ee0d47ca5527821f59": {
+    "symbol": "HYDX",
+    "name": "Hyper-Dex Exchange",
+    "decimals": 18,
+    "address": "0xa0be76135289aeb5781923ee0d47ca5527821f59"
+  },
+  "0x6243558a24cc6116abe751f27e6d7ede50abfc76": {
+    "symbol": "LVVA",
+    "name": "Levva Protocol Token",
+    "decimals": 18,
+    "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76"
+  },
+  "0xf4eff3b86dcc6b7c3b5cd7a0fd3f582487250fce": {
+    "symbol": "EPIC",
+    "name": "EPIC",
+    "decimals": 18,
+    "address": "0xf4eff3b86dcc6b7c3b5cd7a0fd3f582487250fce"
+  },
+  "0x7c25baeaac65b3d989a4950e152ad88e72f64215": {
+    "symbol": "MLP",
+    "name": "MegaLP",
+    "decimals": 18,
+    "address": "0x7c25baeaac65b3d989a4950e152ad88e72f64215"
+  },
+  "0x013f6313e94abf495be683ee32d945b551968571": {
+    "symbol": "USD",
+    "name": "USD",
+    "decimals": 8,
+    "address": "0x013f6313e94abf495be683ee32d945b551968571"
+  },
+  "0xfae3f3d723159fdace54ee40d8b78338b83dbbd1": {
+    "symbol": "404 Error",
+    "name": "404 Error Coin",
+    "decimals": 18,
+    "address": "0xfae3f3d723159fdace54ee40d8b78338b83dbbd1"
+  },
+  "0xadb58d38f4a27842715be181bcc35a2ef751d16f": {
+    "symbol": "XAI",
+    "name": "XAI-COIN",
+    "decimals": 18,
+    "address": "0xadb58d38f4a27842715be181bcc35a2ef751d16f"
+  },
+  "0x7801d55efdb2992a98d0c86d010f4c4c62253a4e": {
+    "symbol": "TKN",
+    "name": "TKN",
+    "decimals": 18,
+    "address": "0x7801d55efdb2992a98d0c86d010f4c4c62253a4e"
+  },
+  "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": {
+    "symbol": "crvUSD",
+    "name": "Curve.Fi USD Stablecoin",
+    "decimals": 18,
+    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
+  },
+  "0x39fbbabf11738317a448031930706cd3e612e1b9": {
+    "symbol": "WXRP",
+    "name": "Wrapped XRP",
+    "decimals": 18,
+    "address": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+  },
+  "0xc73fc4be3430cb970253cc9816305ed5e28a9077": {
+    "symbol": "UGT",
+    "name": "Unity Game Token",
+    "decimals": 18,
+    "address": "0xc73fc4be3430cb970253cc9816305ed5e28a9077"
+  },
+  "0x6690714c42a32996ae7be012ec730e67daa976fc": {
+    "symbol": "TKN1",
+    "name": "TKN1",
+    "decimals": 18,
+    "address": "0x6690714c42a32996ae7be012ec730e67daa976fc"
+  },
+  "0xa602a928b5cfa80f7f0eaeb5d4ac2bd0c5d3daae": {
+    "symbol": "TKN2",
+    "name": "TKN2",
+    "decimals": 18,
+    "address": "0xa602a928b5cfa80f7f0eaeb5d4ac2bd0c5d3daae"
+  },
+  "0x52bc4c279caab1c030395bb840ba32ae40013035": {
+    "symbol": "USD",
+    "name": "OpenUSD",
+    "decimals": 12,
+    "address": "0x52bc4c279caab1c030395bb840ba32ae40013035"
+  },
+  "0xb2ec55921e45d4bc8198bd36179cd238762e6390": {
+    "symbol": "SMCB",
+    "name": "Satoshi Meme Coin Buy",
+    "decimals": 18,
+    "address": "0xb2ec55921e45d4bc8198bd36179cd238762e6390"
+  },
+  "0x0943d06a5ff3b25ddc51642717680c105ad63c01": {
+    "symbol": "Ascend",
+    "name": "Ascendant.win",
+    "decimals": 18,
+    "address": "0x0943d06a5ff3b25ddc51642717680c105ad63c01"
+  }
+}

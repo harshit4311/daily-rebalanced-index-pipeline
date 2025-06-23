@@ -1,0 +1,86 @@
+{
+  "0x721562c04324b6751d411fd45e5360bbddaec353": {
+    "symbol": "CineX",
+    "name": "CineXToken",
+    "decimals": 18,
+    "address": "0x721562c04324b6751d411fd45e5360bbddaec353"
+  },
+  "0x50327c6c5a14dcade707abad2e27eb517df87ab5": {
+    "symbol": "TRX",
+    "name": "TRON",
+    "decimals": 6,
+    "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+  },
+  "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "decimals": 18,
+    "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+  },
+  "0x75b45b0fd4a33ff3db856b24bf9c2c13f48e8eaf": {
+    "symbol": "MBXAU",
+    "name": "METALBANK X",
+    "decimals": 18,
+    "address": "0x75b45b0fd4a33ff3db856b24bf9c2c13f48e8eaf"
+  },
+  "0x9669890e48f330acd88b78d63e1a6b3482652cd9": {
+    "symbol": "BCNT",
+    "name": "Bincentive Token",
+    "decimals": 18,
+    "address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+  },
+  "0x7a7b723493781e9c4a96b64705c4f45cfe5ba142": {
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "decimals": 18,
+    "address": "0x7a7b723493781e9c4a96b64705c4f45cfe5ba142"
+  },
+  "0x67d59405c46d26bb75761ec46224a28e121a05d3": {
+    "symbol": "Lunc",
+    "name": "Terra LUNC",
+    "decimals": 18,
+    "address": "0x67d59405c46d26bb75761ec46224a28e121a05d3"
+  },
+  "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6": {
+    "symbol": "CORN",
+    "name": "Corn",
+    "decimals": 18,
+    "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
+  },
+  "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e": {
+    "symbol": "TARA",
+    "name": "Taraxa",
+    "decimals": 18,
+    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e"
+  },
+  "0x9b79ea20a8258649401f8c58973281081d905b9f": {
+    "symbol": "N3",
+    "name": "Network3",
+    "decimals": 18,
+    "address": "0x9b79ea20a8258649401f8c58973281081d905b9f"
+  },
+  "0x154742f24bcf3d1aca126bffe0baf87b2cd26446": {
+    "symbol": "GLDC",
+    "name": "GLD Coin",
+    "decimals": 0,
+    "address": "0x154742f24bcf3d1aca126bffe0baf87b2cd26446"
+  },
+  "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a": {
+    "symbol": "Mog",
+    "name": "Mog Coin",
+    "decimals": 18,
+    "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a"
+  },
+  "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
+    "decimals": 18,
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+  },
+  "0x541e5b1fb6752fc102cc284a136e09746d28aff9": {
+    "symbol": "JMC",
+    "name": "Jamu Meta Coin",
+    "decimals": 18,
+    "address": "0x541e5b1fb6752fc102cc284a136e09746d28aff9"
+  }
+}

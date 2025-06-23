@@ -1,0 +1,122 @@
+{
+  "0x8e77d9e3877ad22b19223b30cb8f3a0d65ca95ea": {
+    "symbol": "RAINDOG",
+    "name": "RDOG",
+    "decimals": 18,
+    "address": "0x8e77d9e3877ad22b19223b30cb8f3a0d65ca95ea"
+  },
+  "0x5651fa7a726b9ec0cad00ee140179912b6e73599": {
+    "symbol": "OORT",
+    "name": "OORT",
+    "decimals": 18,
+    "address": "0x5651fa7a726b9ec0cad00ee140179912b6e73599"
+  },
+  "0x56a1bbc7c9bbebff47f7e6754817c1d9432e112e": {
+    "symbol": "World",
+    "name": "WORLD",
+    "decimals": 18,
+    "address": "0x56a1bbc7c9bbebff47f7e6754817c1d9432e112e"
+  },
+  "0xd3c68968137317a57a9babeacc7707ec433548b4": {
+    "symbol": "SOCIAL",
+    "name": "Phavercoin",
+    "decimals": 18,
+    "address": "0xd3c68968137317a57a9babeacc7707ec433548b4"
+  },
+  "0x09827200ba2d95d1b2d3a59dd2402875f84c022a": {
+    "symbol": "LOVE",
+    "name": "Love",
+    "decimals": 18,
+    "address": "0x09827200ba2d95d1b2d3a59dd2402875f84c022a"
+  },
+  "0x22c8a1ca2354ad0dff50f99c30b55f67b1ca24c4": {
+    "symbol": "OGC",
+    "name": "One Gold",
+    "decimals": 18,
+    "address": "0x22c8a1ca2354ad0dff50f99c30b55f67b1ca24c4"
+  },
+  "0xd46bc63ad879961db20cd64dec07a75972d869cf": {
+    "symbol": "BUBB",
+    "name": "Bubb",
+    "decimals": 18,
+    "address": "0xd46bc63ad879961db20cd64dec07a75972d869cf"
+  },
+  "0x6d7c16a07c8584e3566092c462fd18a62c17d833": {
+    "symbol": "ENT",
+    "name": "ENT",
+    "decimals": 18,
+    "address": "0x6d7c16a07c8584e3566092c462fd18a62c17d833"
+  },
+  "0x938b1732d90d0aa359ddc3e03d495cd126c4272a": {
+    "symbol": "LABS",
+    "name": "LABS",
+    "decimals": 18,
+    "address": "0x938b1732d90d0aa359ddc3e03d495cd126c4272a"
+  },
+  "0x37cde62bfe72aef9528eada84672f81e617688e7": {
+    "symbol": "WLFI 47",
+    "name": "WLFI 47",
+    "decimals": 18,
+    "address": "0x37cde62bfe72aef9528eada84672f81e617688e7"
+  },
+  "0x73dcf048f12a8f73e225dea47bd0b172f91afb03": {
+    "symbol": "TEST BIRD",
+    "name": "Test Bird ",
+    "decimals": 18,
+    "address": "0x73dcf048f12a8f73e225dea47bd0b172f91afb03"
+  },
+  "0xe047705117eb07e712c3d684f5b18e74577e83ac": {
+    "symbol": "BCP",
+    "name": "BitcashPay",
+    "decimals": 8,
+    "address": "0xe047705117eb07e712c3d684f5b18e74577e83ac"
+  },
+  "0x98e12c3185b54e3293cd9dd6b9e059d118d8b1f3": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x98e12c3185b54e3293cd9dd6b9e059d118d8b1f3"
+  },
+  "0x1c5d9352a52330b92c05972a591e01cf824e6919": {
+    "symbol": "Deribit",
+    "name": "Deribit",
+    "decimals": 18,
+    "address": "0x1c5d9352a52330b92c05972a591e01cf824e6919"
+  },
+  "0x2162f572b25f7358db9376ab58a947a4e45cede1": {
+    "symbol": "LBL",
+    "name": "LABEL",
+    "decimals": 18,
+    "address": "0x2162f572b25f7358db9376ab58a947a4e45cede1"
+  },
+  "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "decimals": 18,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+  },
+  "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "decimals": 8,
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+  },
+  "0x4c6229d1b38a91254b4f7854da661e235db3ee91": {
+    "symbol": "ddasda",
+    "name": "dasdas",
+    "decimals": 18,
+    "address": "0x4c6229d1b38a91254b4f7854da661e235db3ee91"
+  },
+  "0xc8cd3fc5188c84180339c7a5a5adad4da18c9919": {
+    "symbol": "ddasda",
+    "name": "dasdas",
+    "decimals": 18,
+    "address": "0xc8cd3fc5188c84180339c7a5a5adad4da18c9919"
+  },
+  "0x26790db2af8b109284b96461d779d75408ea2492": {
+    "symbol": "BTL",
+    "name": "Beetle",
+    "decimals": 18,
+    "address": "0x26790db2af8b109284b96461d779d75408ea2492"
+  }
+}

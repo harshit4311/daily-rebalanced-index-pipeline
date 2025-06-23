@@ -1,0 +1,92 @@
+{
+  "0xdcd3ac490513a42ec0bfc09e46244cc8aa283b3e": {
+    "symbol": "LCAI",
+    "name": "LightchainAI",
+    "decimals": 18,
+    "address": "0xdcd3ac490513a42ec0bfc09e46244cc8aa283b3e"
+  },
+  "0x2762edc42b07cbb995ab0be2647a59a056119043": {
+    "symbol": "GUN",
+    "name": "GUNZ",
+    "decimals": 18,
+    "address": "0x2762edc42b07cbb995ab0be2647a59a056119043"
+  },
+  "0x667102bd3413bfeaa3dffb48fa8288819e480a88": {
+    "symbol": "TKX",
+    "name": "Tokenize Emblem",
+    "decimals": 8,
+    "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88"
+  },
+  "0x76a9904b5cf095d652f1591f06ef20496247f1d5": {
+    "symbol": "R5",
+    "name": "R5",
+    "decimals": 18,
+    "address": "0x76a9904b5cf095d652f1591f06ef20496247f1d5"
+  },
+  "0x687c24313c5f7b04fc4cca2764ac0f3e1d792e2a": {
+    "symbol": "DUCAT",
+    "name": "Ducat",
+    "decimals": 18,
+    "address": "0x687c24313c5f7b04fc4cca2764ac0f3e1d792e2a"
+  },
+  "0xa801e2044ffa933129592a5176fc918a71c04ca8": {
+    "symbol": "LFC",
+    "name": "Leaf coin",
+    "decimals": 4,
+    "address": "0xa801e2044ffa933129592a5176fc918a71c04ca8"
+  },
+  "0xc269d681868f454b8c4878238105e117c9c7343a": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xc269d681868f454b8c4878238105e117c9c7343a"
+  },
+  "0x34240dd14147367b006ea1c424f476f79fcdafb3": {
+    "symbol": "mubarak",
+    "name": "mubarak",
+    "decimals": 18,
+    "address": "0x34240dd14147367b006ea1c424f476f79fcdafb3"
+  },
+  "0x95a1e037c10323795c23c6249d80b97bc675026c": {
+    "symbol": "Doginme",
+    "name": "Doginme",
+    "decimals": 18,
+    "address": "0x95a1e037c10323795c23c6249d80b97bc675026c"
+  },
+  "0x1c4853ec0d55e420002c5efabc7ed8e0ba7a4121": {
+    "symbol": "Okinami",
+    "name": "Kanagawa Nami",
+    "decimals": 9,
+    "address": "0x1c4853ec0d55e420002c5efabc7ed8e0ba7a4121"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  },
+  "0xf3b9569f82b18aef890de263b84189bd33ebe452": {
+    "symbol": "CAW",
+    "name": "A Hunters Dream",
+    "decimals": 18,
+    "address": "0xf3b9569f82b18aef890de263b84189bd33ebe452"
+  },
+  "0x9909669b9ef4dfb6d7606c3cf48c8fe33a3cfe8d": {
+    "symbol": "DRB",
+    "name": "DebtReliefBot",
+    "decimals": 18,
+    "address": "0x9909669b9ef4dfb6d7606c3cf48c8fe33a3cfe8d"
+  },
+  "0x470c8950c0c3aa4b09654bc73b004615119a44b5": {
+    "symbol": "KIZUNA",
+    "name": "KIZUNA",
+    "decimals": 18,
+    "address": "0x470c8950c0c3aa4b09654bc73b004615119a44b5"
+  },
+  "0x9813037ee2218799597d83d4a5b6f3b6778218d9": {
+    "symbol": "BONE",
+    "name": "BONE SHIBASWAP",
+    "decimals": 18,
+    "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9"
+  }
+}

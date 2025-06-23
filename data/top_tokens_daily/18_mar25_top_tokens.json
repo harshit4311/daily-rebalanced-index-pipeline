@@ -1,0 +1,86 @@
+{
+  "0xa5e0a2bc6a837b68fd6c8344712d1bcf923b15f4": {
+    "symbol": "OTTER",
+    "name": "Otter Labs",
+    "decimals": 18,
+    "address": "0xa5e0a2bc6a837b68fd6c8344712d1bcf923b15f4"
+  },
+  "0xb5fa4cc582c4aec0f4004dd082ac5e5515cb8955": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xb5fa4cc582c4aec0f4004dd082ac5e5515cb8955"
+  },
+  "0x905683cd1f3e94ad3295bd88a212cd0d682a8e30": {
+    "symbol": "howsthisforatickernamelooooollol",
+    "name": "testing the ui big dawg looololl",
+    "decimals": 18,
+    "address": "0x905683cd1f3e94ad3295bd88a212cd0d682a8e30"
+  },
+  "0x91c65c2a9a3adfe2424ecc4a4890b8334c3a8212": {
+    "symbol": "ONE",
+    "name": "One",
+    "decimals": 18,
+    "address": "0x91c65c2a9a3adfe2424ecc4a4890b8334c3a8212"
+  },
+  "0x95c0736e2be430fee7e6e6da7884252aef75adcf": {
+    "symbol": "APUG",
+    "name": "Apugurl",
+    "decimals": 18,
+    "address": "0x95c0736e2be430fee7e6e6da7884252aef75adcf"
+  },
+  "0xf853e1012b2afc65baf392b410f0da24ec7d187a": {
+    "symbol": "PRVX",
+    "name": "PRVX Token",
+    "decimals": 18,
+    "address": "0xf853e1012b2afc65baf392b410f0da24ec7d187a"
+  },
+  "0x8bf68609bee9c881ca97ecce6cea0d168c275760": {
+    "symbol": "BT",
+    "name": "Base Token",
+    "decimals": 18,
+    "address": "0x8bf68609bee9c881ca97ecce6cea0d168c275760"
+  },
+  "0x0f1b194bfac0b63b6f76cf340700d9ed80113404": {
+    "symbol": "AVL",
+    "name": "Avalon",
+    "decimals": 18,
+    "address": "0x0f1b194bfac0b63b6f76cf340700d9ed80113404"
+  },
+  "0xc2a8b56a8608beabab868d787bcbf91f09b606e8": {
+    "symbol": "can",
+    "name": "candle",
+    "decimals": 18,
+    "address": "0xc2a8b56a8608beabab868d787bcbf91f09b606e8"
+  },
+  "0x7c74e84955891dfbdaf465be3d809f9605f93436": {
+    "symbol": "CIFO",
+    "name": "CIFO Group Token",
+    "decimals": 18,
+    "address": "0x7c74e84955891dfbdaf465be3d809f9605f93436"
+  },
+  "0x35fa164735182de50811e8e2e824cfb9b6118ac2": {
+    "symbol": "eETH",
+    "name": "ether.fi ETH",
+    "decimals": 18,
+    "address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2"
+  },
+  "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9": {
+    "symbol": "BITCOIN",
+    "name": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9"
+  },
+  "0xb9f599ce614feb2e1bbe58f180f370d05b39344e": {
+    "symbol": "PORK",
+    "name": "PepeFork",
+    "decimals": 18,
+    "address": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e"
+  },
+  "0xb788144df611029c60b859df47e79b7726c4deba": {
+    "symbol": "VULT",
+    "name": "Vultisig Token",
+    "decimals": 18,
+    "address": "0xb788144df611029c60b859df47e79b7726c4deba"
+  }
+}

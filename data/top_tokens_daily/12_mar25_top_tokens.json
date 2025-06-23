@@ -1,0 +1,74 @@
+{
+  "0x8730762cad4a27816a467fac54e3dd1e2e9617a1": {
+    "symbol": "GX",
+    "name": "Grindery X",
+    "decimals": 18,
+    "address": "0x8730762cad4a27816a467fac54e3dd1e2e9617a1"
+  },
+  "0x6b2b39b32f038b7b21fc14683e3d6c6d0026262c": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x6b2b39b32f038b7b21fc14683e3d6c6d0026262c"
+  },
+  "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb": {
+    "symbol": "ATN",
+    "name": "ATHENE NETWORK",
+    "decimals": 9,
+    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb"
+  },
+  "0x4d2755ce1a8aa9d9cec0f48011abc138816873df": {
+    "symbol": "BTCBULL",
+    "name": "BTC Bull",
+    "decimals": 18,
+    "address": "0x4d2755ce1a8aa9d9cec0f48011abc138816873df"
+  },
+  "0x0a1166a6b804d00b4743eaa320985ad4abbb2624": {
+    "symbol": "ZERO",
+    "name": "The Zero Supply Token",
+    "decimals": 18,
+    "address": "0x0a1166a6b804d00b4743eaa320985ad4abbb2624"
+  },
+  "0x6e7f11641c1ec71591828e531334192d622703f7": {
+    "symbol": "OIK",
+    "name": "Space Nation Oikos",
+    "decimals": 18,
+    "address": "0x6e7f11641c1ec71591828e531334192d622703f7"
+  },
+  "0xaa708cd93fd9a1a5299d411b914d223d64a7b4fb": {
+    "symbol": "BPM",
+    "name": "BIT3 Power Mining Token ",
+    "decimals": 18,
+    "address": "0xaa708cd93fd9a1a5299d411b914d223d64a7b4fb"
+  },
+  "0x35a8f6adb40f6a88aa1e459d18969622530b61e7": {
+    "symbol": "Trustees",
+    "name": "Tregnant",
+    "decimals": 13,
+    "address": "0x35a8f6adb40f6a88aa1e459d18969622530b61e7"
+  },
+  "0x337305b96d1ae31122782aee630903b90cf85567": {
+    "symbol": "RJT",
+    "name": "Retard Justice Token",
+    "decimals": 18,
+    "address": "0x337305b96d1ae31122782aee630903b90cf85567"
+  },
+  "0x139a3fd13ba395ec6d0b25ea2f944dcb6466491d": {
+    "symbol": "PMT",
+    "name": "Power Mining Token",
+    "decimals": 18,
+    "address": "0x139a3fd13ba395ec6d0b25ea2f944dcb6466491d"
+  },
+  "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+  },
+  "0x3e17c67a5ef90cf38191f702a0e3acf509e713b2": {
+    "symbol": "trade wars",
+    "name": "trade wars",
+    "decimals": 18,
+    "address": "0x3e17c67a5ef90cf38191f702a0e3acf509e713b2"
+  }
+}

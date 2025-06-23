@@ -1,0 +1,122 @@
+{
+  "0x1278b112943abc025a0df081ee42369414c3a834": {
+    "symbol": "SIR",
+    "name": "Synthetics Implemented Right",
+    "decimals": 12,
+    "address": "0x1278b112943abc025a0df081ee42369414c3a834"
+  },
+  "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2": {
+    "symbol": "AVL",
+    "name": "AVL",
+    "decimals": 18,
+    "address": "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2"
+  },
+  "0x8b5a88c29ee47abac18d6cce0e3b247fdd966b51": {
+    "symbol": "TJ",
+    "name": "TJ",
+    "decimals": 18,
+    "address": "0x8b5a88c29ee47abac18d6cce0e3b247fdd966b51"
+  },
+  "0xb420c7c6f8fbb875adb0a3db9ccedcaa22e5f7fd": {
+    "symbol": "Dumbo",
+    "name": "Dumbo",
+    "decimals": 18,
+    "address": "0xb420c7c6f8fbb875adb0a3db9ccedcaa22e5f7fd"
+  },
+  "0xd85249faeecb7e9c02e100688d133d3cf936ea9f": {
+    "symbol": "ICF",
+    "name": "I Can Fly Utility Token",
+    "decimals": 18,
+    "address": "0xd85249faeecb7e9c02e100688d133d3cf936ea9f"
+  },
+  "0x0db4dadaa010493cb49ac73d7911b671fb7b7311": {
+    "symbol": "GCT",
+    "name": "GC Utility Token",
+    "decimals": 18,
+    "address": "0x0db4dadaa010493cb49ac73d7911b671fb7b7311"
+  },
+  "0x5ccc9d264259b2caa590540e3f7af64bb8f54c06": {
+    "symbol": "SGI",
+    "name": "SGI Utility Token",
+    "decimals": 18,
+    "address": "0x5ccc9d264259b2caa590540e3f7af64bb8f54c06"
+  },
+  "0x84f99b9b47749f2b14a3db24ec3acc30108ad484": {
+    "symbol": "GMU",
+    "name": "Genius Music Utility Token",
+    "decimals": 18,
+    "address": "0x84f99b9b47749f2b14a3db24ec3acc30108ad484"
+  },
+  "0xe5595beebcac425aceb0cf11a25525f6ca7770d5": {
+    "symbol": "GGP",
+    "name": "Genius Games Paradise Utility Token",
+    "decimals": 18,
+    "address": "0xe5595beebcac425aceb0cf11a25525f6ca7770d5"
+  },
+  "0xf5eaed09e7654dd486cb720d2ae6e2de95253e30": {
+    "symbol": "YWB",
+    "name": "Young Warren Buffett Utility Token",
+    "decimals": 18,
+    "address": "0xf5eaed09e7654dd486cb720d2ae6e2de95253e30"
+  },
+  "0x0dc96618b39e4d2e35da5d9a5996cd9f3f8f211f": {
+    "symbol": "BAG",
+    "name": "Bless and Give Utility Token",
+    "decimals": 18,
+    "address": "0x0dc96618b39e4d2e35da5d9a5996cd9f3f8f211f"
+  },
+  "0x077818ba861a62647760fbdc9231dddeab622792": {
+    "symbol": "broccoli Ai",
+    "name": "broccoli Ai",
+    "decimals": 18,
+    "address": "0x077818ba861a62647760fbdc9231dddeab622792"
+  },
+  "0x49c5bead685d4746bd56483fc2bf3dbf107d8e9c": {
+    "symbol": "LULU",
+    "name": "Lulu",
+    "decimals": 18,
+    "address": "0x49c5bead685d4746bd56483fc2bf3dbf107d8e9c"
+  },
+  "0x14a65ef1a2b66750b53d108daddd04d4929569b8": {
+    "symbol": "E2",
+    "name": "Etheric Double",
+    "decimals": 18,
+    "address": "0x14a65ef1a2b66750b53d108daddd04d4929569b8"
+  },
+  "0xb9c5c3d24079037509668ed56265d561ccb819d8": {
+    "symbol": "Trump",
+    "name": "Trump",
+    "decimals": 18,
+    "address": "0xb9c5c3d24079037509668ed56265d561ccb819d8"
+  },
+  "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
+    "symbol": "PEAS",
+    "name": "Peapods",
+    "decimals": 18,
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+  },
+  "0xd1538a9d69801e57c937f3c64d8c4f57d2967257": {
+    "symbol": "pfWETH-2",
+    "name": "Peapods Interest Bearing WETH - 2",
+    "decimals": 18,
+    "address": "0xd1538a9d69801e57c937f3c64d8c4f57d2967257"
+  },
+  "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9": {
+    "symbol": "KEKIUS",
+    "name": "Kekius Maximus",
+    "decimals": 9,
+    "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9"
+  },
+  "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10": {
+    "symbol": "WEPE",
+    "name": "Wall Street Pepe",
+    "decimals": 18,
+    "address": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10"
+  },
+  "0x2a897de60073e13c1f34f672033c1c1d08657fbb": {
+    "symbol": "DAWAE",
+    "name": "DAWAE",
+    "decimals": 9,
+    "address": "0x2a897de60073e13c1f34f672033c1c1d08657fbb"
+  }
+}

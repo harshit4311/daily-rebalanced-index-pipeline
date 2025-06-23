@@ -1,0 +1,146 @@
+{
+  "0xe9acd1007c071ecc701b89361a581d137efb13f2": {
+    "symbol": "NIL",
+    "name": "Nillion",
+    "decimals": 18,
+    "address": "0xe9acd1007c071ecc701b89361a581d137efb13f2"
+  },
+  "0x2a430352d755a6dcf0ccb6c484bb9b9b2ef57967": {
+    "symbol": "NIL",
+    "name": "Nillion",
+    "decimals": 18,
+    "address": "0x2a430352d755a6dcf0ccb6c484bb9b9b2ef57967"
+  },
+  "0x05583b1d87d8a745b493bb100ff15f08a08810c2": {
+    "symbol": "DOWNALD",
+    "name": "Downald Trump",
+    "decimals": 18,
+    "address": "0x05583b1d87d8a745b493bb100ff15f08a08810c2"
+  },
+  "0x7f90ad2c6ebec37a542268e4c0c92748f1abad64": {
+    "symbol": "Kishu",
+    "name": "Kishu Coin",
+    "decimals": 18,
+    "address": "0x7f90ad2c6ebec37a542268e4c0c92748f1abad64"
+  },
+  "0xd7573f4c65b67a15eaee5c8fe67565c0f319fc03": {
+    "symbol": "Progama",
+    "name": "Progama Coin",
+    "decimals": 18,
+    "address": "0xd7573f4c65b67a15eaee5c8fe67565c0f319fc03"
+  },
+  "0x705190d9abede19687a01ebdfe2330ad57a8474b": {
+    "symbol": "STX",
+    "name": "StalkX",
+    "decimals": 18,
+    "address": "0x705190d9abede19687a01ebdfe2330ad57a8474b"
+  },
+  "0x069114020b582fbcaf531c120acc7bc6773c9669": {
+    "symbol": "WILL",
+    "name": "WILLIAM",
+    "decimals": 18,
+    "address": "0x069114020b582fbcaf531c120acc7bc6773c9669"
+  },
+  "0xd1bb58e1f2ee11ff62aea1225a6f210467863031": {
+    "symbol": "WLF",
+    "name": "WLF TOKEN",
+    "decimals": 18,
+    "address": "0xd1bb58e1f2ee11ff62aea1225a6f210467863031"
+  },
+  "0x9fa452a910055202d2b27256d8074f510b0a737f": {
+    "symbol": "FXAI",
+    "name": "FXAI",
+    "decimals": 18,
+    "address": "0x9fa452a910055202d2b27256d8074f510b0a737f"
+  },
+  "0xe4029effdbd46d667dcab75b296d416eef89bf9a": {
+    "symbol": "PWRA",
+    "name": "PowrAI",
+    "decimals": 18,
+    "address": "0xe4029effdbd46d667dcab75b296d416eef89bf9a"
+  },
+  "0x4c3a6d163f121a1bcf5bf55f9b713d554e42d25f": {
+    "symbol": "GG",
+    "name": "GOODGREEN",
+    "decimals": 18,
+    "address": "0x4c3a6d163f121a1bcf5bf55f9b713d554e42d25f"
+  },
+  "0x9e57bca746b8a81032978c3a8cf84af90ac8b057": {
+    "symbol": "USD1",
+    "name": "USD1",
+    "decimals": 18,
+    "address": "0x9e57bca746b8a81032978c3a8cf84af90ac8b057"
+  },
+  "0x797b5afb004db516cf751ec307e2483b81429fed": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x797b5afb004db516cf751ec307e2483b81429fed"
+  },
+  "0x75b45b0fd4a33ff3db856b24bf9c2c13f48e8eaf": {
+    "symbol": "MBXAU",
+    "name": "METALBANK X",
+    "decimals": 18,
+    "address": "0x75b45b0fd4a33ff3db856b24bf9c2c13f48e8eaf"
+  },
+  "0x564682db4033e53570f9d88bd38ccfdd9a25251c": {
+    "symbol": "$SSTR",
+    "name": "StinkStar",
+    "decimals": 18,
+    "address": "0x564682db4033e53570f9d88bd38ccfdd9a25251c"
+  },
+  "0x8757ae79ddd4b67dd64f95cd64319af0a7b0652e": {
+    "symbol": "BNXR",
+    "name": "BankrX",
+    "decimals": 18,
+    "address": "0x8757ae79ddd4b67dd64f95cd64319af0a7b0652e"
+  },
+  "0x1c231fa0fc666ce14fd11f16bf9642381914deb7": {
+    "symbol": "AIXBT",
+    "name": "aixbt by Virtuals",
+    "decimals": 18,
+    "address": "0x1c231fa0fc666ce14fd11f16bf9642381914deb7"
+  },
+  "0x45770f05da22f3f430fb2f9b23f5feca4cb7af77": {
+    "symbol": "HPT",
+    "name": "Haulage Partner Toaken",
+    "decimals": 18,
+    "address": "0x45770f05da22f3f430fb2f9b23f5feca4cb7af77"
+  },
+  "0x14150b33b099894966bf6711a87b7d1a621b99df": {
+    "symbol": "lemon3",
+    "name": "lemon3",
+    "decimals": 18,
+    "address": "0x14150b33b099894966bf6711a87b7d1a621b99df"
+  },
+  "0x698b1d54e936b9f772b8f58447194bbc82ec1933": {
+    "symbol": "PEEZY",
+    "name": "Peezy",
+    "decimals": 9,
+    "address": "0x698b1d54e936b9f772b8f58447194bbc82ec1933"
+  },
+  "0x8dce83eca4af45dbe618da1779f9aaca43201084": {
+    "symbol": "AIKEK",
+    "name": "AlphaKEK.AI",
+    "decimals": 18,
+    "address": "0x8dce83eca4af45dbe618da1779f9aaca43201084"
+  },
+  "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0": {
+    "symbol": "USD0++",
+    "name": "USD0 Liquid Bond",
+    "decimals": 18,
+    "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
+  },
+  "0x244e26aea18ff36e6867fc2d16d697beff371239": {
+    "symbol": "$ICEFACE",
+    "name": "Frost Face",
+    "decimals": 18,
+    "address": "0x244e26aea18ff36e6867fc2d16d697beff371239"
+  },
+  "0x5782fec854e03c991649bf1b3fb6dc91dae1b573": {
+    "symbol": "FART",
+    "name": "FAAART",
+    "decimals": 18,
+    "address": "0x5782fec854e03c991649bf1b3fb6dc91dae1b573"
+  }
+}

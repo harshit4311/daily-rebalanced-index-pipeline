@@ -1,0 +1,122 @@
+{
+  "0xc67dfae5ad1189df7e2fcd681005602f919f9ab0": {
+    "symbol": "NIL",
+    "name": "Nillion",
+    "decimals": 18,
+    "address": "0xc67dfae5ad1189df7e2fcd681005602f919f9ab0"
+  },
+  "0xc52d968057b3ee0d73c1da39e98e55412380264a": {
+    "symbol": "DRB",
+    "name": "DebtReliefBot",
+    "decimals": 18,
+    "address": "0xc52d968057b3ee0d73c1da39e98e55412380264a"
+  },
+  "0x147051e19a4bbc06873747ab9abd44bdc0640341": {
+    "symbol": "DOG",
+    "name": "Doge",
+    "decimals": 18,
+    "address": "0x147051e19a4bbc06873747ab9abd44bdc0640341"
+  },
+  "0xc950e64ef6ac7f3be77b768419675d33f053026f": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xc950e64ef6ac7f3be77b768419675d33f053026f"
+  },
+  "0xc47c9b409e01bb6438fd38bc67d8f61a80479fcf": {
+    "symbol": "kBTC",
+    "name": "Kraken Wrapped Bitcoin",
+    "decimals": 18,
+    "address": "0xc47c9b409e01bb6438fd38bc67d8f61a80479fcf"
+  },
+  "0x507cb8958599b416b6084c99a78d3d00dd307ce5": {
+    "symbol": "TOAKN",
+    "name": "Toaken Protocol",
+    "decimals": 18,
+    "address": "0x507cb8958599b416b6084c99a78d3d00dd307ce5"
+  },
+  "0x24d7ad9402717f429a81925fe7643b78918eda8b": {
+    "symbol": "XION",
+    "name": "XION",
+    "decimals": 6,
+    "address": "0x24d7ad9402717f429a81925fe7643b78918eda8b"
+  },
+  "0xc3830f46631e962e9129da805598edbebf5a0cad": {
+    "symbol": "HAUL",
+    "name": "Haulage Partner",
+    "decimals": 18,
+    "address": "0xc3830f46631e962e9129da805598edbebf5a0cad"
+  },
+  "0x152649ea73beab28c5b49b26eb48f7ead6d4c898": {
+    "symbol": "Cake",
+    "name": "PancakeSwap Token",
+    "decimals": 18,
+    "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+  },
+  "0xc07485d1ad640426ff56d1431a21f212a56efe2d": {
+    "symbol": "A1C",
+    "name": "Sally A1C",
+    "decimals": 18,
+    "address": "0xc07485d1ad640426ff56d1431a21f212a56efe2d"
+  },
+  "0x6e7f11641c1ec71591828e531334192d622703f7": {
+    "symbol": "OIK",
+    "name": "Space Nation Oikos",
+    "decimals": 18,
+    "address": "0x6e7f11641c1ec71591828e531334192d622703f7"
+  },
+  "0xd2a466a64c52c39c2cdef7d27416beca9b43506e": {
+    "symbol": "doginme",
+    "name": "doginme",
+    "decimals": 18,
+    "address": "0xd2a466a64c52c39c2cdef7d27416beca9b43506e"
+  },
+  "0xb857e1c4a607c60a2d2a4aa9b6ffb9061b73d877": {
+    "symbol": "GRK",
+    "name": "Grokster",
+    "decimals": 18,
+    "address": "0xb857e1c4a607c60a2d2a4aa9b6ffb9061b73d877"
+  },
+  "0x9d1b4b87ae14a0ef58950ab109407700d553917d": {
+    "symbol": "TAT",
+    "name": "Tell A Tale",
+    "decimals": 18,
+    "address": "0x9d1b4b87ae14a0ef58950ab109407700d553917d"
+  },
+  "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
+    "symbol": "CRO",
+    "name": "CRO",
+    "decimals": 8,
+    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+  },
+  "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa": {
+    "symbol": "ETHMNY",
+    "name": "Ethereum Money",
+    "decimals": 2,
+    "address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa"
+  },
+  "0x8245aebef2a2ad9eaec0594d74cc34177f367d80": {
+    "symbol": "MILLY",
+    "name": "Million",
+    "decimals": 18,
+    "address": "0x8245aebef2a2ad9eaec0594d74cc34177f367d80"
+  },
+  "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f": {
+    "symbol": "ACX",
+    "name": "Across Protocol Token",
+    "decimals": 18,
+    "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f"
+  },
+  "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "decimals": 18,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+  },
+  "0x55296f69f40ea6d20e478533c15a6b08b654e758": {
+    "symbol": "XYO",
+    "name": "XY Oracle",
+    "decimals": 18,
+    "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
+  }
+}

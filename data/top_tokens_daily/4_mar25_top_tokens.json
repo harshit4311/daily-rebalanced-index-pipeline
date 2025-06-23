@@ -1,0 +1,50 @@
+{
+  "0x15fe65ac46e2ae48ef3f11592749ad60b75d2f20": {
+    "symbol": "broccoli Ai",
+    "name": "broccoli Ai",
+    "decimals": 18,
+    "address": "0x15fe65ac46e2ae48ef3f11592749ad60b75d2f20"
+  },
+  "0x5a498e8b0ff71703049d61d2953f91504873489f": {
+    "symbol": "broccoli Ai",
+    "name": "broccoli Ai",
+    "decimals": 18,
+    "address": "0x5a498e8b0ff71703049d61d2953f91504873489f"
+  },
+  "0x5ba6f57bcc23d154364a9b91d9838a93e95109fd": {
+    "symbol": "BBE",
+    "name": "Baby Elon",
+    "decimals": 18,
+    "address": "0x5ba6f57bcc23d154364a9b91d9838a93e95109fd"
+  },
+  "0x051fc8b5c1720172f8ffca87a21991704f416d4c": {
+    "symbol": "broccoli Ai",
+    "name": "broccoli Ai",
+    "decimals": 18,
+    "address": "0x051fc8b5c1720172f8ffca87a21991704f416d4c"
+  },
+  "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69": {
+    "symbol": "IOTX",
+    "name": "IoTeX Network",
+    "decimals": 18,
+    "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
+  },
+  "0x9f90b457dea25ef802e38d470dda7343691d8fe1": {
+    "symbol": "CIOTX",
+    "name": "Crosschain IOTX",
+    "decimals": 18,
+    "address": "0x9f90b457dea25ef802e38d470dda7343691d8fe1"
+  },
+  "0xb69e38c7b5e32c2c662ef7e83bd712ba28c543c3": {
+    "symbol": "MON",
+    "name": "MonopolyCoin",
+    "decimals": 18,
+    "address": "0xb69e38c7b5e32c2c662ef7e83bd712ba28c543c3"
+  },
+  "0x7b4b7e83b6674026958cae26bdc6ee743023df1b": {
+    "symbol": "PULSAR",
+    "name": "Pulsar",
+    "decimals": 18,
+    "address": "0x7b4b7e83b6674026958cae26bdc6ee743023df1b"
+  }
+}

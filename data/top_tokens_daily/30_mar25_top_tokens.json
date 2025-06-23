@@ -1,0 +1,104 @@
+{
+  "0xf2537cee2e383b3309c3c36421f74bdc13f6de48": {
+    "symbol": "GUN",
+    "name": "Gunz",
+    "decimals": 18,
+    "address": "0xf2537cee2e383b3309c3c36421f74bdc13f6de48"
+  },
+  "0xfcef89afc93256e460405e0666ccbb0639003071": {
+    "symbol": "MAXI",
+    "name": "maxi in a eth world",
+    "decimals": 18,
+    "address": "0xfcef89afc93256e460405e0666ccbb0639003071"
+  },
+  "0x71b5a8f333b8653f378f0518d10c600a45a303c3": {
+    "symbol": "MAXI",
+    "name": "maxi in a eth world",
+    "decimals": 18,
+    "address": "0x71b5a8f333b8653f378f0518d10c600a45a303c3"
+  },
+  "0x246e1c6cc60a73dba50d3460042b3d53f96bbe30": {
+    "symbol": "JUICE",
+    "name": "Juice",
+    "decimals": 18,
+    "address": "0x246e1c6cc60a73dba50d3460042b3d53f96bbe30"
+  },
+  "0x04f75c63fb4d8df340ec3643ac905e5eb59a3304": {
+    "symbol": "SPECTER",
+    "name": "SPECTER AI",
+    "decimals": 18,
+    "address": "0x04f75c63fb4d8df340ec3643ac905e5eb59a3304"
+  },
+  "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee": {
+    "symbol": "Neiro",
+    "name": "Neiro",
+    "decimals": 9,
+    "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee"
+  },
+  "0xb8646b8e4a77ebf483b5fe33d60338d364327774": {
+    "symbol": "Eid",
+    "name": "Eid Mubarak",
+    "decimals": 18,
+    "address": "0xb8646b8e4a77ebf483b5fe33d60338d364327774"
+  },
+  "0xec9a85e46f50ec5434cc072deefef23156b12488": {
+    "symbol": "EOTW",
+    "name": "Elites of the World",
+    "decimals": 18,
+    "address": "0xec9a85e46f50ec5434cc072deefef23156b12488"
+  },
+  "0x6ae1a5cef44c30a382bf2b5ca51071018d7ad1b3": {
+    "symbol": "FUN",
+    "name": "FunFair",
+    "decimals": 18,
+    "address": "0x6ae1a5cef44c30a382bf2b5ca51071018d7ad1b3"
+  },
+  "0xb322dbcf411bf98c82aae7085ef6c8a0886408b5": {
+    "symbol": "MELON",
+    "name": "The Melon",
+    "decimals": 18,
+    "address": "0xb322dbcf411bf98c82aae7085ef6c8a0886408b5"
+  },
+  "0x798b33bc09a41029af2c1467a9b5380f8606598a": {
+    "symbol": "SYD",
+    "name": "DiamondToken",
+    "decimals": 18,
+    "address": "0x798b33bc09a41029af2c1467a9b5380f8606598a"
+  },
+  "0x6c622863aaff919ef36ffab46229ab63f3e3c5a7": {
+    "symbol": "HCIT",
+    "name": "Halal Crowdfunding Investment Token",
+    "decimals": 18,
+    "address": "0x6c622863aaff919ef36ffab46229ab63f3e3c5a7"
+  },
+  "0x33333333fede34409fb7f67c6585047e1f653333": {
+    "symbol": "ORA",
+    "name": "ORA Coin",
+    "decimals": 18,
+    "address": "0x33333333fede34409fb7f67c6585047e1f653333"
+  },
+  "0x3bbbc337774d36a6fc0c94102ae968f1c1c569b7": {
+    "symbol": "ora-test",
+    "name": "TEST TOKEN - 2",
+    "decimals": 18,
+    "address": "0x3bbbc337774d36a6fc0c94102ae968f1c1c569b7"
+  },
+  "0x7704061451b1e03c6367bae6435f3913fef59088": {
+    "symbol": "SYG",
+    "name": "TokenSyli",
+    "decimals": 18,
+    "address": "0x7704061451b1e03c6367bae6435f3913fef59088"
+  },
+  "0x341c853c09b3691b434781078572f9d3ab9e3cbb": {
+    "symbol": "B",
+    "name": "B",
+    "decimals": 40,
+    "address": "0x341c853c09b3691b434781078572f9d3ab9e3cbb"
+  },
+  "0xea55fffae1937e47eba2d854ab7bd29a9cc29170": {
+    "symbol": "A",
+    "name": "A",
+    "decimals": 40,
+    "address": "0xea55fffae1937e47eba2d854ab7bd29a9cc29170"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9": {
+    "symbol": "FAME",
+    "name": "$FAME Token",
+    "decimals": 18,
+    "address": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9"
+  },
+  "0x242d85f1635cc1c9695e08bb952e3c4bb892c889": {
+    "symbol": "BOP",
+    "name": "BOOK OF PEPE",
+    "decimals": 18,
+    "address": "0x242d85f1635cc1c9695e08bb952e3c4bb892c889"
+  },
+  "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0": {
+    "symbol": "COCORO",
+    "name": "COCORO",
+    "decimals": 9,
+    "address": "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0"
+  },
+  "0xe638b73045a5232b9a8056a4e485efc025a94aba": {
+    "symbol": "dasdasd",
+    "name": "Noob",
+    "decimals": 18,
+    "address": "0xe638b73045a5232b9a8056a4e485efc025a94aba"
+  },
+  "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66": {
+    "symbol": "SYRUP",
+    "name": "Syrup Token",
+    "decimals": 18,
+    "address": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66"
+  },
+  "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321": {
+    "symbol": "VITA",
+    "name": "VitaDAO Token",
+    "decimals": 18,
+    "address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321"
+  },
+  "0xcb1592591996765ec0efc1f92599a19767ee5ffa": {
+    "symbol": "BIO",
+    "name": "BIO",
+    "decimals": 18,
+    "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+  }
+}

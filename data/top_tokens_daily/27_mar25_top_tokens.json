@@ -1,0 +1,158 @@
+{
+  "0x9d4eee6770c35c14a197e9f682271a3e20cfd0e3": {
+    "symbol": "SPEED",
+    "name": "SpeedThrone",
+    "decimals": 18,
+    "address": "0x9d4eee6770c35c14a197e9f682271a3e20cfd0e3"
+  },
+  "0x43c5034469bce262d32f64c5e7f9f359f5b1495f": {
+    "symbol": "DOPE",
+    "name": "Department Of Propaganda Everywhere",
+    "decimals": 9,
+    "address": "0x43c5034469bce262d32f64c5e7f9f359f5b1495f"
+  },
+  "0x0754ba9c2d8d7a7d685eb184f9f1cb2880d1f27e": {
+    "symbol": "FXAICoin",
+    "name": "FXAICoin",
+    "decimals": 18,
+    "address": "0x0754ba9c2d8d7a7d685eb184f9f1cb2880d1f27e"
+  },
+  "0x590d06ce5c9973e6be7774543d4fcf3db1493ef7": {
+    "symbol": "Ghibli",
+    "name": "Ghiblification",
+    "decimals": 18,
+    "address": "0x590d06ce5c9973e6be7774543d4fcf3db1493ef7"
+  },
+  "0x5f6baa97a213b15891a703583105bf83b86596c0": {
+    "symbol": "BEAN",
+    "name": "Beanie",
+    "decimals": 18,
+    "address": "0x5f6baa97a213b15891a703583105bf83b86596c0"
+  },
+  "0xc18cb382bbb099a11588373ab57da86e9bda572a": {
+    "symbol": "HAULX",
+    "name": "Haulage Partner",
+    "decimals": 18,
+    "address": "0xc18cb382bbb099a11588373ab57da86e9bda572a"
+  },
+  "0xaa7dd57f7fd0a00de76ff309c73ac389974fa989": {
+    "symbol": "Stem",
+    "name": "Stem",
+    "decimals": 18,
+    "address": "0xaa7dd57f7fd0a00de76ff309c73ac389974fa989"
+  },
+  "0x743d65409140b2b3af60514b5eb84b1d0674e958": {
+    "symbol": "BERA",
+    "name": "Berachain",
+    "decimals": 18,
+    "address": "0x743d65409140b2b3af60514b5eb84b1d0674e958"
+  },
+  "0xd3f7d90588d7514ea6b9cbe23f2a1534c6bc60a3": {
+    "symbol": "Stem",
+    "name": "Stem",
+    "decimals": 18,
+    "address": "0xd3f7d90588d7514ea6b9cbe23f2a1534c6bc60a3"
+  },
+  "0x41a1203207f88c676ab024f3f04be9592878ff04": {
+    "symbol": "FLUX",
+    "name": "Phlux",
+    "decimals": 18,
+    "address": "0x41a1203207f88c676ab024f3f04be9592878ff04"
+  },
+  "0xbef7e5cafef65dbe229757ae00c66eb259a2bb2e": {
+    "symbol": "G21",
+    "name": "Genesis21",
+    "decimals": 18,
+    "address": "0xbef7e5cafef65dbe229757ae00c66eb259a2bb2e"
+  },
+  "0x03c11c56eb0082aa15cc7a46c04e499c00d2f6c0": {
+    "symbol": "Ghibli",
+    "name": "Ghibli",
+    "decimals": 18,
+    "address": "0x03c11c56eb0082aa15cc7a46c04e499c00d2f6c0"
+  },
+  "0x39ae5bc5b549cfb730a872fccb380c17cb4bc079": {
+    "symbol": "GUN",
+    "name": "GUN",
+    "decimals": 18,
+    "address": "0x39ae5bc5b549cfb730a872fccb380c17cb4bc079"
+  },
+  "0x0923e26e3081db7fc5bafbe8d82fbb009f499545": {
+    "symbol": "Ghbldoge",
+    "name": "Ghibli Doge",
+    "decimals": 18,
+    "address": "0x0923e26e3081db7fc5bafbe8d82fbb009f499545"
+  },
+  "0x677a88c0cc9c818f9368023cf64e1adad884f48a": {
+    "symbol": "GHIBLIFY",
+    "name": "Ghiblify",
+    "decimals": 18,
+    "address": "0x677a88c0cc9c818f9368023cf64e1adad884f48a"
+  },
+  "0x05245bf6d771568e672c87e8607161bc326c2950": {
+    "symbol": "MTK",
+    "name": "Tken",
+    "decimals": 18,
+    "address": "0x05245bf6d771568e672c87e8607161bc326c2950"
+  },
+  "0xcdd55ca6d4f9fb4ec3c39e2d5ba7b4b561323e96": {
+    "symbol": "MTK",
+    "name": "Tken",
+    "decimals": 18,
+    "address": "0xcdd55ca6d4f9fb4ec3c39e2d5ba7b4b561323e96"
+  },
+  "0x57a65b8360bdb304b0301e96867d48ac5bf23713": {
+    "symbol": "TOKENB",
+    "name": "TokenB",
+    "decimals": 18,
+    "address": "0x57a65b8360bdb304b0301e96867d48ac5bf23713"
+  },
+  "0xe34bd391be1592bb5781ef2adee4a2e613d7e747": {
+    "symbol": "TOKENA",
+    "name": "TokenA",
+    "decimals": 18,
+    "address": "0xe34bd391be1592bb5781ef2adee4a2e613d7e747"
+  },
+  "0x55fad671b9f8b30c3f015b7575054a2feaac7edf": {
+    "symbol": "MLF",
+    "name": "MintLeaf",
+    "decimals": 18,
+    "address": "0x55fad671b9f8b30c3f015b7575054a2feaac7edf"
+  },
+  "0x3845badade8e6dff049820680d1f14bd3903a5d0": {
+    "symbol": "SAND",
+    "name": "SAND",
+    "decimals": 18,
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+  },
+  "0xe28b3b32b6c345a34ff64674606124dd5aceca30": {
+    "symbol": "INJ",
+    "name": "Injective Token",
+    "decimals": 18,
+    "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+  },
+  "0x3d717d4a3d0007d0c63437f2947843af2b968ff0": {
+    "symbol": "GHIBLI",
+    "name": "Ghibli Inu",
+    "decimals": 18,
+    "address": "0x3d717d4a3d0007d0c63437f2947843af2b968ff0"
+  },
+  "0xbf7faf69f07f2efa41440a6c789e1fa0ff8bfe93": {
+    "symbol": "Ghibilvb",
+    "name": "Ghibilvb",
+    "decimals": 18,
+    "address": "0xbf7faf69f07f2efa41440a6c789e1fa0ff8bfe93"
+  },
+  "0x1e4ead042f24f5b10f7d4bf86377f7da386b645f": {
+    "symbol": "SLASH",
+    "name": "Slash",
+    "decimals": 18,
+    "address": "0x1e4ead042f24f5b10f7d4bf86377f7da386b645f"
+  },
+  "0x25158a5603057d822085a50abdd10ba32c750e69": {
+    "symbol": "ZOOM",
+    "name": "Zoom",
+    "decimals": 18,
+    "address": "0x25158a5603057d822085a50abdd10ba32c750e69"
+  }
+}

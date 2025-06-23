@@ -1,0 +1,56 @@
+{
+  "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a": {
+    "symbol": "YUSD",
+    "name": "YUSD",
+    "decimals": 18,
+    "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a"
+  },
+  "0xb28ecfc8ae218bc2c16c1f2218a9cc799191b1a7": {
+    "symbol": "AriaDebutLP",
+    "name": "Aria Premiere Launch",
+    "decimals": 18,
+    "address": "0xb28ecfc8ae218bc2c16c1f2218a9cc799191b1a7"
+  },
+  "0x34c72ea94349c542015fba1f65595ee3db1a585f": {
+    "symbol": "BALDONI",
+    "name": "Baldoni",
+    "decimals": 18,
+    "address": "0x34c72ea94349c542015fba1f65595ee3db1a585f"
+  },
+  "0xe9a95d175a5f4c9369f3b74222402eb1b837693b": {
+    "symbol": "NOW",
+    "name": "ChangeNOW",
+    "decimals": 8,
+    "address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
+  },
+  "0x3073f7aaa4db83f95e9fff17424f71d4751a3073": {
+    "symbol": "MOVE",
+    "name": "Movement",
+    "decimals": 8,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073"
+  },
+  "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5": {
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "decimals": 18,
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+  },
+  "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e": {
+    "symbol": "USUAL",
+    "name": "USUAL",
+    "decimals": 18,
+    "address": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e"
+  },
+  "0xd1538a9d69801e57c937f3c64d8c4f57d2967257": {
+    "symbol": "pfWETH-2",
+    "name": "Peapods Interest Bearing WETH - 2",
+    "decimals": 18,
+    "address": "0xd1538a9d69801e57c937f3c64d8c4f57d2967257"
+  },
+  "0xe638b73045a5232b9a8056a4e485efc025a94aba": {
+    "symbol": "dasdasd",
+    "name": "Noob",
+    "decimals": 18,
+    "address": "0xe638b73045a5232b9a8056a4e485efc025a94aba"
+  }
+}

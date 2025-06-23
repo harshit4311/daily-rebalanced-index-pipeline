@@ -1,0 +1,98 @@
+{
+  "0xba962a81f78837751be8a177378d582f337084e6": {
+    "symbol": "PEEPS",
+    "name": "PleasrDAO",
+    "decimals": 18,
+    "address": "0xba962a81f78837751be8a177378d582f337084e6"
+  },
+  "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4": {
+    "symbol": "IXS",
+    "name": "Ixs Token",
+    "decimals": 18,
+    "address": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4"
+  },
+  "0x1ecc2a82931f0871b776536a42dddc75b1ad8289": {
+    "symbol": "\ud83c\udfad",
+    "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER from PulseChain",
+    "decimals": 18,
+    "address": "0x1ecc2a82931f0871b776536a42dddc75b1ad8289"
+  },
+  "0x0255da0c15712c90e0d45503c832893f5dd4e1f6": {
+    "symbol": "HEX",
+    "name": "NoExpectationsButPumpMyBagsRichardPlease from PulseChain",
+    "decimals": 18,
+    "address": "0x0255da0c15712c90e0d45503c832893f5dd4e1f6"
+  },
+  "0x4d4317587e7c7b311e79716f8b90544a1e0a8796": {
+    "symbol": "GRK",
+    "name": "EtherGrok",
+    "decimals": 18,
+    "address": "0x4d4317587e7c7b311e79716f8b90544a1e0a8796"
+  },
+  "0xb5dda516b23e2ba3b2fb8e4947d8494feeba31ea": {
+    "symbol": "PHNX ",
+    "name": "Phoenix Flame",
+    "decimals": 18,
+    "address": "0xb5dda516b23e2ba3b2fb8e4947d8494feeba31ea"
+  },
+  "0x593c376366e6786bb0d8009d1715ccf5ca04235d": {
+    "symbol": "USA",
+    "name": "USA",
+    "decimals": 18,
+    "address": "0x593c376366e6786bb0d8009d1715ccf5ca04235d"
+  },
+  "0x2369fe68e9e2489249cbb86fbc55621a1fdbf20c": {
+    "symbol": "DMO",
+    "name": "Dambo",
+    "decimals": 18,
+    "address": "0x2369fe68e9e2489249cbb86fbc55621a1fdbf20c"
+  },
+  "0x547332392f9c9950e3da5ab614932659708ac0ee": {
+    "symbol": "EPT",
+    "name": "EthPoolToken",
+    "decimals": 18,
+    "address": "0x547332392f9c9950e3da5ab614932659708ac0ee"
+  },
+  "0xf4337b4730441c9eee0e8a24e50be75e8102a5f3": {
+    "symbol": "SPT",
+    "name": "StablePoolToken",
+    "decimals": 18,
+    "address": "0xf4337b4730441c9eee0e8a24e50be75e8102a5f3"
+  },
+  "0x418e94b036042089121e0077226285d1ded2f575": {
+    "symbol": "TEURO",
+    "name": "TEDR",
+    "decimals": 6,
+    "address": "0x418e94b036042089121e0077226285d1ded2f575"
+  },
+  "0xc581b735a1688071a1746c968e0798d642ede491": {
+    "symbol": "EURT",
+    "name": "Euro Tether",
+    "decimals": 6,
+    "address": "0xc581b735a1688071a1746c968e0798d642ede491"
+  },
+  "0xe2cfd7a01ec63875cd9da6c7c1b7025166c2fa2f": {
+    "symbol": "HYPER",
+    "name": "Hyper",
+    "decimals": 18,
+    "address": "0xe2cfd7a01ec63875cd9da6c7c1b7025166c2fa2f"
+  },
+  "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea": {
+    "symbol": "MATRIX",
+    "name": "MATRIX.WIN",
+    "decimals": 18,
+    "address": "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea"
+  },
+  "0x921ec1160d940298304e3b466dd8b10275b11f0b": {
+    "symbol": "CHI",
+    "name": "CyberShib",
+    "decimals": 18,
+    "address": "0x921ec1160d940298304e3b466dd8b10275b11f0b"
+  },
+  "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b": {
+    "symbol": "TREAT",
+    "name": "Treat",
+    "decimals": 18,
+    "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b"
+  }
+}
