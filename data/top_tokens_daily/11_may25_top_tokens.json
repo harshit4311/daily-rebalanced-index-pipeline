@@ -1,0 +1,122 @@
+{
+  "0x962c8a85f500519266269f77dffba4cea0b46da1": {
+    "symbol": "BERRY",
+    "name": "Strawberry In Bloom",
+    "decimals": 9,
+    "address": "0x962c8a85f500519266269f77dffba4cea0b46da1"
+  },
+  "0x417536315f6e5334aac69edeeb8f78dbcbf26770": {
+    "symbol": "MACI",
+    "name": "Maci The Cat",
+    "decimals": 9,
+    "address": "0x417536315f6e5334aac69edeeb8f78dbcbf26770"
+  },
+  "0xe7d32c348b218700a1a3afcb094ae0371a360f09": {
+    "symbol": "FURIE",
+    "name": "Matt Furie",
+    "decimals": 18,
+    "address": "0xe7d32c348b218700a1a3afcb094ae0371a360f09"
+  },
+  "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "decimals": 8,
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+  },
+  "0xe6e079e961ee2cba8fc67762eb138144c882367f": {
+    "symbol": "DRMUTANT",
+    "name": "Doctor Mutant",
+    "decimals": 9,
+    "address": "0xe6e079e961ee2cba8fc67762eb138144c882367f"
+  },
+  "0x4d74026a5be387235afcc9ed611996eeb8bdfe4c": {
+    "symbol": "STRAWBERRY",
+    "name": "Strawberry by \ud835\udcdc\ud835\udcea\ud835\udcfd\ud835\udcfd \ud835\udcd5\ud835\udcfe\ud835\udcfb\ud835\udcf2\ud835\udcee",
+    "decimals": 9,
+    "address": "0x4d74026a5be387235afcc9ed611996eeb8bdfe4c"
+  },
+  "0xa053f17fea932f6969dd570d9a23490c5da2ef14": {
+    "symbol": "JADOKAR",
+    "name": "Jadokar",
+    "decimals": 18,
+    "address": "0xa053f17fea932f6969dd570d9a23490c5da2ef14"
+  },
+  "0x3c709f1694bead086886b52e54cea367d99b1ee8": {
+    "symbol": "PEPE404",
+    "name": "PEPE 404",
+    "decimals": 18,
+    "address": "0x3c709f1694bead086886b52e54cea367d99b1ee8"
+  },
+  "0x00a3c6c5fdc02b159a7449b6973bfa7c5ae61ee2": {
+    "symbol": "P",
+    "name": "Pepeism",
+    "decimals": 18,
+    "address": "0x00a3c6c5fdc02b159a7449b6973bfa7c5ae61ee2"
+  },
+  "0x75b50e50957e0e2c6c3b1d69976d3aaa50e03b58": {
+    "symbol": "\u23f3",
+    "name": "The Golden Dawn",
+    "decimals": 18,
+    "address": "0x75b50e50957e0e2c6c3b1d69976d3aaa50e03b58"
+  },
+  "0x2543eaa7e284500201da32ca448ce717a2a68971": {
+    "symbol": "PEPE3",
+    "name": "Pepe V3",
+    "decimals": 18,
+    "address": "0x2543eaa7e284500201da32ca448ce717a2a68971"
+  },
+  "0x4e05f37aad5204a968be8021ebaee1be8f006fed": {
+    "symbol": "BOO",
+    "name": "Uniboo",
+    "decimals": 18,
+    "address": "0x4e05f37aad5204a968be8021ebaee1be8f006fed"
+  },
+  "0x18b334edef057f03df2123915864ec4970c53739": {
+    "symbol": "WOFL",
+    "name": "Wofl",
+    "decimals": 9,
+    "address": "0x18b334edef057f03df2123915864ec4970c53739"
+  },
+  "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea": {
+    "symbol": "MATRIX",
+    "name": "MATRIX.WIN",
+    "decimals": 18,
+    "address": "0xf2fc894381792ded27a7f08d9f0f246363cbe1ea"
+  },
+  "0x03b4706c0efea119aa91e807992e143d9445d6b9": {
+    "symbol": "USD.T",
+    "name": "Tether.USD",
+    "decimals": 18,
+    "address": "0x03b4706c0efea119aa91e807992e143d9445d6b9"
+  },
+  "0xd1cb15655cb73a932bf428d1e272c940b10f8504": {
+    "symbol": "OOGRE",
+    "name": "Oogre the Ogre",
+    "decimals": 9,
+    "address": "0xd1cb15655cb73a932bf428d1e272c940b10f8504"
+  },
+  "0xec3734585406a0879f869399751788f652124218": {
+    "symbol": "chris",
+    "name": "meohriw",
+    "decimals": 18,
+    "address": "0xec3734585406a0879f869399751788f652124218"
+  },
+  "0xdaf5384c07ef1a3bf801d28375bd3fc7c57cfad6": {
+    "symbol": "idk",
+    "name": "real",
+    "decimals": 18,
+    "address": "0xdaf5384c07ef1a3bf801d28375bd3fc7c57cfad6"
+  },
+  "0xf90eee73a12b87d0ead50149870b36ccebebf6bb": {
+    "symbol": "P",
+    "name": "Pepeism",
+    "decimals": 18,
+    "address": "0xf90eee73a12b87d0ead50149870b36ccebebf6bb"
+  },
+  "0x2b48b18138dda17618c2c43d605ee4408dc6b966": {
+    "symbol": "P",
+    "name": "Pepeism",
+    "decimals": 18,
+    "address": "0x2b48b18138dda17618c2c43d605ee4408dc6b966"
+  }
+}

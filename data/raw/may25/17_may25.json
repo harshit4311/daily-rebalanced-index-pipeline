@@ -1,0 +1,110 @@
+{
+  "0x3fa55eb91be2c5d72890da11a4c0269e7f786555": {
+    "symbol": "PROPHET",
+    "name": "Prophet of Ethereum",
+    "decimals": 18,
+    "address": "0x3fa55eb91be2c5d72890da11a4c0269e7f786555"
+  },
+  "0x90668ff34ccb524be91a09486418144298a2a26d": {
+    "symbol": "lLilly",
+    "name": "lilly ",
+    "decimals": 18,
+    "address": "0x90668ff34ccb524be91a09486418144298a2a26d"
+  },
+  "0x4dd0c8b1a2512ece2388d7ba7416d7176e88bf55": {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 18,
+    "address": "0x4dd0c8b1a2512ece2388d7ba7416d7176e88bf55"
+  },
+  "0x3ec58c6c3be8d37b519c7e9cff1e1447862b4b1b": {
+    "symbol": "SKI",
+    "name": "Ski Mask Frog",
+    "decimals": 18,
+    "address": "0x3ec58c6c3be8d37b519c7e9cff1e1447862b4b1b"
+  },
+  "0xa1c1e3a2babacca3ee237f580344fac643292792": {
+    "symbol": "MOLO",
+    "name": "Molo",
+    "decimals": 18,
+    "address": "0xa1c1e3a2babacca3ee237f580344fac643292792"
+  },
+  "0x4606dd2488d74f2cb07f5e50427a8c760d9c8183": {
+    "symbol": "ELAINE",
+    "name": "Elaine the Girl Pepe",
+    "decimals": 9,
+    "address": "0x4606dd2488d74f2cb07f5e50427a8c760d9c8183"
+  },
+  "0xf971d16613e339cafcaab8ea74150ac11f7c85cf": {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 18,
+    "address": "0xf971d16613e339cafcaab8ea74150ac11f7c85cf"
+  },
+  "0x10d8570462bed3d8d6c78dd3b2ac796777a8e1ff": {
+    "symbol": "ATOM",
+    "name": "Cosmos Hub",
+    "decimals": 18,
+    "address": "0x10d8570462bed3d8d6c78dd3b2ac796777a8e1ff"
+  },
+  "0x0a17685bba8083718f0e3ed8a5ab14fd662120df": {
+    "symbol": "RUNE",
+    "name": "THORChain",
+    "decimals": 18,
+    "address": "0x0a17685bba8083718f0e3ed8a5ab14fd662120df"
+  },
+  "0xe868084cf08f3c3db11f4b73a95473762d9463f7": {
+    "symbol": "YU",
+    "name": "Yala stablecoin",
+    "decimals": 18,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7"
+  },
+  "0x97d6bc98ca6fbac620d4399ff01d02c4536c1712": {
+    "symbol": "XMR",
+    "name": "Monero",
+    "decimals": 18,
+    "address": "0x97d6bc98ca6fbac620d4399ff01d02c4536c1712"
+  },
+  "0x47e677b1cf0ccff83622ada8488aff7e9d80ae0c": {
+    "symbol": "APT",
+    "name": "Aptos",
+    "decimals": 18,
+    "address": "0x47e677b1cf0ccff83622ada8488aff7e9d80ae0c"
+  },
+  "0xf5491b59be124e637da283e2e77ae9efc001545f": {
+    "symbol": "MUSA",
+    "name": "MadeInUSA Token",
+    "decimals": 18,
+    "address": "0xf5491b59be124e637da283e2e77ae9efc001545f"
+  },
+  "0xd6be8bceee4b2b0a8cdca9e8c9a6654ca4b65f88": {
+    "symbol": "MOLO",
+    "name": "Molo",
+    "decimals": 18,
+    "address": "0xd6be8bceee4b2b0a8cdca9e8c9a6654ca4b65f88"
+  },
+  "0x0202cdc995a607f23005f38fec256bc7acdf0e22": {
+    "symbol": "ZNOW",
+    "name": "Znow Flakz",
+    "decimals": 18,
+    "address": "0x0202cdc995a607f23005f38fec256bc7acdf0e22"
+  },
+  "0x12e652162d3bfbb45d3293f27846ac537fcc1a18": {
+    "symbol": "NHO",
+    "name": "NANOHOLE",
+    "decimals": 18,
+    "address": "0x12e652162d3bfbb45d3293f27846ac537fcc1a18"
+  },
+  "0x06dd7d5658f6df2602896789a0f95667dc5e84bc": {
+    "symbol": "Startup",
+    "name": "Aerotyne",
+    "decimals": 18,
+    "address": "0x06dd7d5658f6df2602896789a0f95667dc5e84bc"
+  },
+  "0x140007c65535aa9c3801ea3bbd3f83c378c7f457": {
+    "symbol": "\ud835\udd4f",
+    "name": "Free Speech",
+    "decimals": 9,
+    "address": "0x140007c65535aa9c3801ea3bbd3f83c378c7f457"
+  }
+}

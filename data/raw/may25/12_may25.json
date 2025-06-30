@@ -1,0 +1,296 @@
+{
+  "0x5d57449a3bec89e98ca941bf02ab0f8344705dab": {
+    "symbol": "TRUTH",
+    "name": "Truth Social",
+    "decimals": 18,
+    "address": "0x5d57449a3bec89e98ca941bf02ab0f8344705dab"
+  },
+  "0x5048fbcf7465394577054886cbac8b683eb38e3d": {
+    "symbol": "MOOBULL",
+    "name": "moo moo moo",
+    "decimals": 18,
+    "address": "0x5048fbcf7465394577054886cbac8b683eb38e3d"
+  },
+  "0x06c4b0e0f872f3deb17433810dcac97139324cae": {
+    "symbol": "shiba",
+    "name": "shiba",
+    "decimals": 18,
+    "address": "0x06c4b0e0f872f3deb17433810dcac97139324cae"
+  },
+  "0x361d6053c2528a6e8b249e57085ba77d5f53e6f9": {
+    "symbol": "ETEST",
+    "name": "Ebull Test",
+    "decimals": 18,
+    "address": "0x361d6053c2528a6e8b249e57085ba77d5f53e6f9"
+  },
+  "0x1b887c8621ed207d831b846951a80474fb17a31d": {
+    "symbol": "gUP",
+    "name": "GearUp",
+    "decimals": 18,
+    "address": "0x1b887c8621ed207d831b846951a80474fb17a31d"
+  },
+  "0xd70e6166ac687abc60c4cdbd49c30f2049d2c3db": {
+    "symbol": "BARRON",
+    "name": "Barron",
+    "decimals": 9,
+    "address": "0xd70e6166ac687abc60c4cdbd49c30f2049d2c3db"
+  },
+  "0x9a69750b311148a204196e886349a6491e28527b": {
+    "symbol": "PENCIL",
+    "name": "Colored Pencil",
+    "decimals": 9,
+    "address": "0x9a69750b311148a204196e886349a6491e28527b"
+  },
+  "0x793ea4c56520f9d402c4ac12affc717a0ad975f6": {
+    "symbol": "BULL",
+    "name": "Bullionaire",
+    "decimals": 18,
+    "address": "0x793ea4c56520f9d402c4ac12affc717a0ad975f6"
+  },
+  "0xdf0320d29b1bfc4257d0123b060925d29937d0da": {
+    "symbol": "TSUKA",
+    "name": "Dejitaru Tsuka",
+    "decimals": 18,
+    "address": "0xdf0320d29b1bfc4257d0123b060925d29937d0da"
+  },
+  "0x9577de3c528b94ac17edd266e0340f31f2432073": {
+    "symbol": "MEGA",
+    "name": "Make ETH Great Again",
+    "decimals": 18,
+    "address": "0x9577de3c528b94ac17edd266e0340f31f2432073"
+  },
+  "0x85caf707e2e63a569f5099b6364958433c1736ef": {
+    "symbol": "KDLY",
+    "name": "Nakamoto",
+    "decimals": 18,
+    "address": "0x85caf707e2e63a569f5099b6364958433c1736ef"
+  },
+  "0x2ef3ae46ffc213b86e8985601b1aae46dd2549db": {
+    "symbol": "BULLDOG",
+    "name": "Bulldog",
+    "decimals": 18,
+    "address": "0x2ef3ae46ffc213b86e8985601b1aae46dd2549db"
+  },
+  "0x26501c6a731d7c9bffec227c789dca53f05d49ce": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x26501c6a731d7c9bffec227c789dca53f05d49ce"
+  },
+  "0xec2fbe79236fa86bf2aa5d674dea20e2a1e7b01a": {
+    "symbol": "MVRK",
+    "name": "Mavryk Network",
+    "decimals": 6,
+    "address": "0xec2fbe79236fa86bf2aa5d674dea20e2a1e7b01a"
+  },
+  "0x389757fbf1f5dd2cede454e9f9713cfbbdce2e0c": {
+    "symbol": "MOO-MOON",
+    "name": "Moon Mastcot",
+    "decimals": 18,
+    "address": "0x389757fbf1f5dd2cede454e9f9713cfbbdce2e0c"
+  },
+  "0x6a44ef728f135607f63f174a49d3bb7598225457": {
+    "symbol": "Bullieve",
+    "name": "Bullieve",
+    "decimals": 18,
+    "address": "0x6a44ef728f135607f63f174a49d3bb7598225457"
+  },
+  "0x686b574e704440b923bf1f42fc29e5c548e5b7b7": {
+    "symbol": "BULLERIN",
+    "name": "Vitalik Bullerin",
+    "decimals": 18,
+    "address": "0x686b574e704440b923bf1f42fc29e5c548e5b7b7"
+  },
+  "0x1d3c6ebeb8186f476346d8e91e6c65f5eb04b183": {
+    "symbol": "Tbull",
+    "name": "Turbo Bull",
+    "decimals": 18,
+    "address": "0x1d3c6ebeb8186f476346d8e91e6c65f5eb04b183"
+  },
+  "0x3b348580233444ea0b56cfb650cdf37d33447c7e": {
+    "symbol": "BULLFROG",
+    "name": "BullFrog",
+    "decimals": 18,
+    "address": "0x3b348580233444ea0b56cfb650cdf37d33447c7e"
+  },
+  "0x1845574e20b16c2de5f0ae45f50cf0c745f7f2ea": {
+    "symbol": "MUMU",
+    "name": "Mumu The Bull",
+    "decimals": 18,
+    "address": "0x1845574e20b16c2de5f0ae45f50cf0c745f7f2ea"
+  },
+  "0xdefe2b57de253e8f9dc1bf0b1a1549a4c2caad40": {
+    "symbol": "MOOSE",
+    "name": "Moose",
+    "decimals": 18,
+    "address": "0xdefe2b57de253e8f9dc1bf0b1a1549a4c2caad40"
+  },
+  "0x4665ddb80c23cff472e210d509d451ec6acd0e19": {
+    "symbol": "BULLTH",
+    "name": "Bullthereum",
+    "decimals": 18,
+    "address": "0x4665ddb80c23cff472e210d509d451ec6acd0e19"
+  },
+  "0x623731d68dd92feaeba78662fad7e8feca21eaa3": {
+    "symbol": "EBULL",
+    "name": "ETHEREUM IS GOOD",
+    "decimals": 18,
+    "address": "0x623731d68dd92feaeba78662fad7e8feca21eaa3"
+  },
+  "0x2ff8d65e4cfb681c27adf078bfdf06590fc9b143": {
+    "symbol": "pepebull",
+    "name": "pepebull",
+    "decimals": 18,
+    "address": "0x2ff8d65e4cfb681c27adf078bfdf06590fc9b143"
+  },
+  "0xed0f2babf135a8296410f5fd1dacfa7b95fd33c9": {
+    "symbol": "Gekko",
+    "name": "Gekko by Matt Furie",
+    "decimals": 0,
+    "address": "0xed0f2babf135a8296410f5fd1dacfa7b95fd33c9"
+  },
+  "0x246a30ded13421ee13a42f3f6d0280c7b3abf78d": {
+    "symbol": "MOGBULL",
+    "name": "Mog Bull",
+    "decimals": 18,
+    "address": "0x246a30ded13421ee13a42f3f6d0280c7b3abf78d"
+  },
+  "0x3871d272e0d2b3b05b2b81a2d533bd58f00bd8eb": {
+    "symbol": "SPECTRACULAR",
+    "name": "Spectracular",
+    "decimals": 18,
+    "address": "0x3871d272e0d2b3b05b2b81a2d533bd58f00bd8eb"
+  },
+  "0x337497354ac2c38fba9e80011b88947e96e422cf": {
+    "symbol": "Rato The Rat",
+    "name": "RATO",
+    "decimals": 18,
+    "address": "0x337497354ac2c38fba9e80011b88947e96e422cf"
+  },
+  "0x9f9f5fb38189ecb7b4bbd683cd7cffa41adb747f": {
+    "symbol": "SOLX",
+    "name": "Solaxy                                                                                            0xe0B7AD7F8F26e2b00C8b47b5Df370f15F90fCF48",
+    "decimals": 18,
+    "address": "0x9f9f5fb38189ecb7b4bbd683cd7cffa41adb747f"
+  },
+  "0xf97804e96686783b2392867ea606d343986ff5bb": {
+    "symbol": "RUNNA",
+    "name": "BullRunna",
+    "decimals": 18,
+    "address": "0xf97804e96686783b2392867ea606d343986ff5bb"
+  },
+  "0x2d5561b237ca009a010fce5371bdba75a45b2e10": {
+    "symbol": "AyeAyeCoin",
+    "name": "1st Meme Deployed on Ethereum",
+    "decimals": 18,
+    "address": "0x2d5561b237ca009a010fce5371bdba75a45b2e10"
+  },
+  "0x67cf1fc1e82ba34a34d272370347601e2dc95604": {
+    "symbol": "BULLETH",
+    "name": "BullETH",
+    "decimals": 18,
+    "address": "0x67cf1fc1e82ba34a34d272370347601e2dc95604"
+  },
+  "0x58412ae274f2764b71c66315d97662d47d930d94": {
+    "symbol": "NEX",
+    "name": "Nexora",
+    "decimals": 18,
+    "address": "0x58412ae274f2764b71c66315d97662d47d930d94"
+  },
+  "0x0c11272f9c72c35492383344a5ae4ae746d88f3c": {
+    "symbol": "APU",
+    "name": "Apu Apustaja",
+    "decimals": 18,
+    "address": "0x0c11272f9c72c35492383344a5ae4ae746d88f3c"
+  },
+  "0x7eeadd46be98b32056f292faf2e5d771c722f6fe": {
+    "symbol": "BULLS",
+    "name": "BULLSEYE",
+    "decimals": 18,
+    "address": "0x7eeadd46be98b32056f292faf2e5d771c722f6fe"
+  },
+  "0xdbf0932bdf1caf12dad94e15c80c613c5961931d": {
+    "symbol": "BULLCAT",
+    "name": "Bullcat",
+    "decimals": 18,
+    "address": "0xdbf0932bdf1caf12dad94e15c80c613c5961931d"
+  },
+  "0x9bb9e9da8d07eb7d0de8e4e620d6fb8a6417bb2d": {
+    "symbol": "BARRON",
+    "name": "BARRON",
+    "decimals": 18,
+    "address": "0x9bb9e9da8d07eb7d0de8e4e620d6fb8a6417bb2d"
+  },
+  "0xf7b6e667d17836182ac3443b7f33e73a9f069fad": {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 18,
+    "address": "0xf7b6e667d17836182ac3443b7f33e73a9f069fad"
+  },
+  "0x40c2c8aec9a5d8a7cabfd273da7cfbc6b304d276": {
+    "symbol": "test dont buy",
+    "name": "test dont buy",
+    "decimals": 18,
+    "address": "0x40c2c8aec9a5d8a7cabfd273da7cfbc6b304d276"
+  },
+  "0x3f0ceae873414028f7c9ca55f6cb4f3098e0088c": {
+    "symbol": "BARRON",
+    "name": "Barron",
+    "decimals": 18,
+    "address": "0x3f0ceae873414028f7c9ca55f6cb4f3098e0088c"
+  },
+  "0x9869299db04dcc7e10c3c60f4c69e631f7e6b0bc": {
+    "symbol": "BTCBULL",
+    "name": "BTC Bull",
+    "decimals": 18,
+    "address": "0x9869299db04dcc7e10c3c60f4c69e631f7e6b0bc"
+  },
+  "0x27a70b9f8073efe5a02998d5cc64acdc9e0ba589": {
+    "symbol": "YBTC",
+    "name": "Yala BTC",
+    "decimals": 18,
+    "address": "0x27a70b9f8073efe5a02998d5cc64acdc9e0ba589"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0xf3b6450dac3b69c0faadb558b25fa4fbfd1819e2": {
+    "symbol": "AMERICA",
+    "name": "America",
+    "decimals": 18,
+    "address": "0xf3b6450dac3b69c0faadb558b25fa4fbfd1819e2"
+  },
+  "0xfcdf81ded46d834f16e477502b19dfd4fc7a36db": {
+    "symbol": "BARRON",
+    "name": "BARRON",
+    "decimals": 18,
+    "address": "0xfcdf81ded46d834f16e477502b19dfd4fc7a36db"
+  },
+  "0xe868084cf08f3c3db11f4b73a95473762d9463f7": {
+    "symbol": "YU",
+    "name": "Yala stablecoin",
+    "decimals": 18,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7"
+  },
+  "0xb49e6f52c6c97f83f4243af7b2d3d7279be70b29": {
+    "symbol": "TSUKA",
+    "name": "Dejitaru Tsuka",
+    "decimals": 18,
+    "address": "0xb49e6f52c6c97f83f4243af7b2d3d7279be70b29"
+  },
+  "0x3e67536e61c0d8dc7792d8bc0231ace918dc80e9": {
+    "symbol": "GOLDEN",
+    "name": "The Golden Age",
+    "decimals": 18,
+    "address": "0x3e67536e61c0d8dc7792d8bc0231ace918dc80e9"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  }
+}

@@ -1,1 +1,302 @@
-{}
+{
+  "0x693c308e1c3d3a175467875d686759ffb711ed95": {
+    "symbol": "MIETA",
+    "name": "Ethereum Dog",
+    "decimals": 18,
+    "address": "0x693c308e1c3d3a175467875d686759ffb711ed95"
+  },
+  "0x9e593a1c2bf383063ab806f52ffeceaa04b7e389": {
+    "symbol": "CLI",
+    "name": "Cli",
+    "decimals": 18,
+    "address": "0x9e593a1c2bf383063ab806f52ffeceaa04b7e389"
+  },
+  "0x695692a3c170118ee0cb1bd7a287fb04680af327": {
+    "symbol": "Mi\u0119ta",
+    "name": " Ethereum Dog",
+    "decimals": 18,
+    "address": "0x695692a3c170118ee0cb1bd7a287fb04680af327"
+  },
+  "0xe77c93195786604713eb9e876ee9345c2df8a7c9": {
+    "symbol": "SCAT",
+    "name": "Super Eth Cat",
+    "decimals": 18,
+    "address": "0xe77c93195786604713eb9e876ee9345c2df8a7c9"
+  },
+  "0x691ce51228f044f3def72ea7ccaabd8ff94ffd43": {
+    "symbol": "Mi\u0119ta ",
+    "name": "Mi\u0119ta ",
+    "decimals": 18,
+    "address": "0x691ce51228f044f3def72ea7ccaabd8ff94ffd43"
+  },
+  "0x007f597508aaa05bb670cc7901428da464a08524": {
+    "symbol": "JOOBI",
+    "name": "Joobi",
+    "decimals": 18,
+    "address": "0x007f597508aaa05bb670cc7901428da464a08524"
+  },
+  "0x691fa2498ed141a1eef7c9bc13cd731f09467410": {
+    "symbol": "RURU",
+    "name": "Ruru the Kangaroo",
+    "decimals": 18,
+    "address": "0x691fa2498ed141a1eef7c9bc13cd731f09467410"
+  },
+  "0x001a7479e1e16e6f11f8f1cbdab328507aa7223e": {
+    "symbol": "MIETA",
+    "name": "Ethereum Dog",
+    "decimals": 18,
+    "address": "0x001a7479e1e16e6f11f8f1cbdab328507aa7223e"
+  },
+  "0x690830e308f0faa0353cd6b8d756f3dbbb638917": {
+    "symbol": "PEPECAT",
+    "name": "Pepecat",
+    "decimals": 18,
+    "address": "0x690830e308f0faa0353cd6b8d756f3dbbb638917"
+  },
+  "0xa69cbf5573f01f02c5d65e9c845a9a39bd5d68e8": {
+    "symbol": "HADAKA",
+    "name": "Hadaka",
+    "decimals": 18,
+    "address": "0xa69cbf5573f01f02c5d65e9c845a9a39bd5d68e8"
+  },
+  "0x69aaa718e34a5c19cfc64119d1e746ca6d341da0": {
+    "symbol": "DUOGOV",
+    "name": "Dual governance",
+    "decimals": 18,
+    "address": "0x69aaa718e34a5c19cfc64119d1e746ca6d341da0"
+  },
+  "0x692d6e2368121779d46e7df571cdd8027df7bd8e": {
+    "symbol": "eDollar",
+    "name": "Ethereum Dollar",
+    "decimals": 18,
+    "address": "0x692d6e2368121779d46e7df571cdd8027df7bd8e"
+  },
+  "0x6985cb674fd0abd5fa2a7fe94d2516eba96e258f": {
+    "symbol": "Stoney ",
+    "name": "Stoney ",
+    "decimals": 18,
+    "address": "0x6985cb674fd0abd5fa2a7fe94d2516eba96e258f"
+  },
+  "0x694d289682981b8b35e3bffffcd11d6bccd47c56": {
+    "symbol": "KEKE",
+    "name": "Keke",
+    "decimals": 18,
+    "address": "0x694d289682981b8b35e3bffffcd11d6bccd47c56"
+  },
+  "0x69fce185c7d88bac9ca9b17b698904d902d89909": {
+    "symbol": "VIX777",
+    "name": "VIX777",
+    "decimals": 18,
+    "address": "0x69fce185c7d88bac9ca9b17b698904d902d89909"
+  },
+  "0x69b4c92967945058301c67c22bacbbe1959ed3ac": {
+    "symbol": "ETHMASCOTS",
+    "name": "Ethereum Mascots",
+    "decimals": 18,
+    "address": "0x69b4c92967945058301c67c22bacbbe1959ed3ac"
+  },
+  "0x69c569c1a6bab4dfc704bb876e940b27f98fce68": {
+    "symbol": "VANCLINGS",
+    "name": "VANCLINGS",
+    "decimals": 18,
+    "address": "0x69c569c1a6bab4dfc704bb876e940b27f98fce68"
+  },
+  "0x692eee08dc058123afe642f7439ae064cf78b886": {
+    "symbol": "KIMA",
+    "name": "ETHEREUM SECURITY GUARD",
+    "decimals": 18,
+    "address": "0x692eee08dc058123afe642f7439ae064cf78b886"
+  },
+  "0xc2eae31e3ee39a357154db41abb262a615e5ae8f": {
+    "symbol": "CHUNGUS",
+    "name": "Big Chungus",
+    "decimals": 18,
+    "address": "0xc2eae31e3ee39a357154db41abb262a615e5ae8f"
+  },
+  "0x69f39b9ad74b8141dbf7d9e9ddb6e99597b3e131": {
+    "symbol": "MIETA",
+    "name": "Ethereum Dog",
+    "decimals": 18,
+    "address": "0x69f39b9ad74b8141dbf7d9e9ddb6e99597b3e131"
+  },
+  "0x6996f21a57eaf70bdb9937794e93a12c22fdf999": {
+    "symbol": "ETH-69",
+    "name": "Eternal Titty Heaven",
+    "decimals": 18,
+    "address": "0x6996f21a57eaf70bdb9937794e93a12c22fdf999"
+  },
+  "0x69069f37b2ec7b88a6aa9b450c2de50ca0f4dfa7": {
+    "symbol": "GIRL",
+    "name": "Girl Force",
+    "decimals": 18,
+    "address": "0x69069f37b2ec7b88a6aa9b450c2de50ca0f4dfa7"
+  },
+  "0x6995c326aea26f851800942454a9648dc2b4dcef": {
+    "symbol": "BD",
+    "name": "BirdDog by Matt Furie",
+    "decimals": 18,
+    "address": "0x6995c326aea26f851800942454a9648dc2b4dcef"
+  },
+  "0x698976f252754741998a9093dacfc7d95c18e86c": {
+    "symbol": "ZOOMER",
+    "name": "Zoomer",
+    "decimals": 18,
+    "address": "0x698976f252754741998a9093dacfc7d95c18e86c"
+  },
+  "0x6942ca348a23aea0a2956df4fd464e476b490f82": {
+    "symbol": "DODAM",
+    "name": "Ethereum Core Dev's Dog",
+    "decimals": 18,
+    "address": "0x6942ca348a23aea0a2956df4fd464e476b490f82"
+  },
+  "0x694f93525cd145d44f1ffce31025361778a1ca49": {
+    "symbol": "HONOKA6900",
+    "name": "Honoka6900",
+    "decimals": 18,
+    "address": "0x694f93525cd145d44f1ffce31025361778a1ca49"
+  },
+  "0x69de517577a39b5da72cf355ac64926bfa6c138b": {
+    "symbol": "MASCOTS",
+    "name": "ETHISTORY MASCOTS",
+    "decimals": 18,
+    "address": "0x69de517577a39b5da72cf355ac64926bfa6c138b"
+  },
+  "0x697772bc2b34bcd238ae46c4f4fbc46d84f5ea6b": {
+    "symbol": "HEMULE",
+    "name": "Vitalik Cat",
+    "decimals": 18,
+    "address": "0x697772bc2b34bcd238ae46c4f4fbc46d84f5ea6b"
+  },
+  "0x69b210bf087c05cf1474c188d5af168da847fbdc": {
+    "symbol": "CHUNGUS",
+    "name": "Big Chungus",
+    "decimals": 18,
+    "address": "0x69b210bf087c05cf1474c188d5af168da847fbdc"
+  },
+  "0x6937c8a1a5a8d86fbfc148fad34bafc635bba9a7": {
+    "symbol": "Mi\u0119ta",
+    "name": "Mi\u0119ta",
+    "decimals": 18,
+    "address": "0x6937c8a1a5a8d86fbfc148fad34bafc635bba9a7"
+  },
+  "0x695f0c640faf385a40211ff394fadaa17da86443": {
+    "symbol": "Lucky",
+    "name": "Mieta FRIEND",
+    "decimals": 18,
+    "address": "0x695f0c640faf385a40211ff394fadaa17da86443"
+  },
+  "0x69610e62ed8bb320f4ea85361266d491fdbab024": {
+    "symbol": "HEART",
+    "name": "Neiro's Friend",
+    "decimals": 18,
+    "address": "0x69610e62ed8bb320f4ea85361266d491fdbab024"
+  },
+  "0x69c36476f32131e6323e9ca7f869a5a9eec3ab40": {
+    "symbol": "Dodam",
+    "name": "Ethereum Core Dev's Dog",
+    "decimals": 18,
+    "address": "0x69c36476f32131e6323e9ca7f869a5a9eec3ab40"
+  },
+  "0x69cb367ae5ced09daa17c9681b8414e3b90d3f8e": {
+    "symbol": "Mermaid",
+    "name": "Ethereum New Mascot",
+    "decimals": 18,
+    "address": "0x69cb367ae5ced09daa17c9681b8414e3b90d3f8e"
+  },
+  "0x69fd58fb626e0f0a2b5c6d0265fa119ec6c2e889": {
+    "symbol": "ZOOMER",
+    "name": "Zoomer",
+    "decimals": 18,
+    "address": "0x69fd58fb626e0f0a2b5c6d0265fa119ec6c2e889"
+  },
+  "0x696fecfff3b926a87f5ad3138af9995b3ecd8c41": {
+    "symbol": "VANCLINGS",
+    "name": "VANCLINGS",
+    "decimals": 18,
+    "address": "0x696fecfff3b926a87f5ad3138af9995b3ecd8c41"
+  },
+  "0x69b885aa2a329a63b32c782dfb06d53176808e99": {
+    "symbol": "GLIZZY",
+    "name": "Glizzy",
+    "decimals": 18,
+    "address": "0x69b885aa2a329a63b32c782dfb06d53176808e99"
+  },
+  "0x6928b4db944f75f9fb41639ec94719ab67367ea1": {
+    "symbol": "BUNNY",
+    "name": "Bunny",
+    "decimals": 18,
+    "address": "0x6928b4db944f75f9fb41639ec94719ab67367ea1"
+  },
+  "0x6fd4483090773affcff411e0c23f69f17c2e58e8": {
+    "symbol": "MOONEREUM",
+    "name": "Moonereum",
+    "decimals": 18,
+    "address": "0x6fd4483090773affcff411e0c23f69f17c2e58e8"
+  },
+  "0x699e0aa3e20e3a22d6846739f27009eba70c4153": {
+    "symbol": "KIMA",
+    "name": "ETHEREUM SECURITY GUARD",
+    "decimals": 18,
+    "address": "0x699e0aa3e20e3a22d6846739f27009eba70c4153"
+  },
+  "0x69d5237652b09962f52d62e0270655cfd43f5cc7": {
+    "symbol": "USDebbie",
+    "name": "the stable mascot",
+    "decimals": 18,
+    "address": "0x69d5237652b09962f52d62e0270655cfd43f5cc7"
+  },
+  "0x69969724fb10621a5d30fb3d5fa15fa5bc4d3132": {
+    "symbol": "KANDY",
+    "name": "Beauty Kandy",
+    "decimals": 18,
+    "address": "0x69969724fb10621a5d30fb3d5fa15fa5bc4d3132"
+  },
+  "0x69ef677326d829747bbe06491238aea9162caf26": {
+    "symbol": "Mi\u0119ta",
+    "name": "Mi\u0119ta",
+    "decimals": 18,
+    "address": "0x69ef677326d829747bbe06491238aea9162caf26"
+  },
+  "0x69247219f28ac47be0f7c7b8f212df44c85b9f13": {
+    "symbol": "ELON",
+    "name": "Elon on Mars",
+    "decimals": 18,
+    "address": "0x69247219f28ac47be0f7c7b8f212df44c85b9f13"
+  },
+  "0x695bd90517e397857b9472e25a0bca912d943727": {
+    "symbol": "eDollar",
+    "name": "Ethereum Dollar",
+    "decimals": 18,
+    "address": "0x695bd90517e397857b9472e25a0bca912d943727"
+  },
+  "0x69561923aa05cbfd8812c51c0f8095d74dcccfbc": {
+    "symbol": "Mermaid",
+    "name": "Ethereum Mascot",
+    "decimals": 18,
+    "address": "0x69561923aa05cbfd8812c51c0f8095d74dcccfbc"
+  },
+  "0x69e7da70c2fd8f15f1240b3fff77d684638f45a0": {
+    "symbol": "BABYGIRL",
+    "name": "BABYGIRL BY MATT FURIE",
+    "decimals": 18,
+    "address": "0x69e7da70c2fd8f15f1240b3fff77d684638f45a0"
+  },
+  "0x696f41f16cc7853423f228f86913af625774ec2f": {
+    "symbol": "BUNNY",
+    "name": "Encyclopedia of Bunnies",
+    "decimals": 18,
+    "address": "0x696f41f16cc7853423f228f86913af625774ec2f"
+  },
+  "0x695ba1b89fcc33f2143cb3a823214f4c3236c3f9": {
+    "symbol": "RICO",
+    "name": "Hahayes",
+    "decimals": 18,
+    "address": "0x695ba1b89fcc33f2143cb3a823214f4c3236c3f9"
+  },
+  "0x69b445efbff80afd62e8751f5aebf5881b64145f": {
+    "symbol": "FOUR",
+    "name": "VITALIK'S FOUR",
+    "decimals": 18,
+    "address": "0x69b445efbff80afd62e8751f5aebf5881b64145f"
+  }
+}

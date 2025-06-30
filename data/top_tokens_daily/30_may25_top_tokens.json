@@ -1,0 +1,104 @@
+{
+  "0x4f1aac70b303818ddd0823570af3bb46681d9bd8": {
+    "symbol": "SBET",
+    "name": "SharpLink Gaming",
+    "decimals": 9,
+    "address": "0x4f1aac70b303818ddd0823570af3bb46681d9bd8"
+  },
+  "0xa644807199ce63f33beb107a61f2914bcddff9fc": {
+    "symbol": "Ticker is ETH",
+    "name": "Ethereum Treasury Strategy Reserve",
+    "decimals": 18,
+    "address": "0xa644807199ce63f33beb107a61f2914bcddff9fc"
+  },
+  "0x804150d8e747f161c62def3f6827e1c6c6bbb228": {
+    "symbol": "COFFIN",
+    "name": "A DeFi Coffin for 0xDEAD",
+    "decimals": 18,
+    "address": "0x804150d8e747f161c62def3f6827e1c6c6bbb228"
+  },
+  "0x58d97b57bb95320f9a05dc918aef65434969c2b2": {
+    "symbol": "MORPHO",
+    "name": "Morpho Token",
+    "decimals": 18,
+    "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2"
+  },
+  "0x7c8cca1058d22965ef1a255b4b8c3f797adb6260": {
+    "symbol": "bEIGEN",
+    "name": "Eigen Layer Bonds",
+    "decimals": 18,
+    "address": "0x7c8cca1058d22965ef1a255b4b8c3f797adb6260"
+  },
+  "0xa6b4ad3789c851b584081efbcd92405b7ad06bad": {
+    "symbol": "BLUE",
+    "name": "Bluefin",
+    "decimals": 18,
+    "address": "0xa6b4ad3789c851b584081efbcd92405b7ad06bad"
+  },
+  "0xcbd7852bb01e83ca90953bf8945e101db8c4e148": {
+    "symbol": "NATIX",
+    "name": "NATIX Network",
+    "decimals": 18,
+    "address": "0xcbd7852bb01e83ca90953bf8945e101db8c4e148"
+  },
+  "0x38f9f20795d5cb8a472a9e1d9e9f148fc7726232": {
+    "symbol": "LAFUFU",
+    "name": "LAFUFU",
+    "decimals": 18,
+    "address": "0x38f9f20795d5cb8a472a9e1d9e9f148fc7726232"
+  },
+  "0x716efbd1f2f4905e5c0a7f99c7ead7bc7ed0f650": {
+    "symbol": "NATIX",
+    "name": "NATIX Network",
+    "decimals": 18,
+    "address": "0x716efbd1f2f4905e5c0a7f99c7ead7bc7ed0f650"
+  },
+  "0x030848df4fa90b5ffc1638c09200ba3bc8115675": {
+    "symbol": "GIGA",
+    "name": "GIGACHAD",
+    "decimals": 18,
+    "address": "0x030848df4fa90b5ffc1638c09200ba3bc8115675"
+  },
+  "0x4d81c30e5714db52e52fee85d3c435e2d252568e": {
+    "symbol": "LMNX",
+    "name": "LumenX",
+    "decimals": 18,
+    "address": "0x4d81c30e5714db52e52fee85d3c435e2d252568e"
+  },
+  "0x2d8ecb8dd7a70e49f70f5224af7573078ec20052": {
+    "symbol": "JR",
+    "name": "JUNIOR",
+    "decimals": 18,
+    "address": "0x2d8ecb8dd7a70e49f70f5224af7573078ec20052"
+  },
+  "0x147a1c199c77549e750a1ab4baf4f6891d42cb88": {
+    "symbol": "SWEENEY",
+    "name": "Sydney Sweeney",
+    "decimals": 18,
+    "address": "0x147a1c199c77549e750a1ab4baf4f6891d42cb88"
+  },
+  "0x4d224452801aced8b2f0aebe155379bb5d594381": {
+    "symbol": "APE",
+    "name": "ApeCoin",
+    "decimals": 18,
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+  },
+  "0x863a0d8bfc940969087bec4e4f1824f312a21565": {
+    "symbol": "NIGGER",
+    "name": "NIGGER",
+    "decimals": 18,
+    "address": "0x863a0d8bfc940969087bec4e4f1824f312a21565"
+  },
+  "0x25cbb21a9da7c3c63bb77ccca5b2e2482aedb710": {
+    "symbol": "HOBA",
+    "name": "Honey Badger",
+    "decimals": 9,
+    "address": "0x25cbb21a9da7c3c63bb77ccca5b2e2482aedb710"
+  },
+  "0xdb4e144234b65eb147acf1694cbdccf3381af438": {
+    "symbol": "CHUD",
+    "name": "Chudjak",
+    "decimals": 18,
+    "address": "0xdb4e144234b65eb147acf1694cbdccf3381af438"
+  }
+}

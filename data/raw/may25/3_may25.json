@@ -1,0 +1,44 @@
+{
+  "0x71ad96bc4acdc01edfbb0135c9e28846d544f93e": {
+    "symbol": "BUG",
+    "name": "BUG Token",
+    "decimals": 18,
+    "address": "0x71ad96bc4acdc01edfbb0135c9e28846d544f93e"
+  },
+  "0x49607c4a9339c5fb1723e032046efcdccf5451a0": {
+    "symbol": "MONDAY",
+    "name": "Monday Coin",
+    "decimals": 18,
+    "address": "0x49607c4a9339c5fb1723e032046efcdccf5451a0"
+  },
+  "0x4dee1e1dcd551676c17dcb5eac0d7f1b3a8918fb": {
+    "symbol": "COCORO",
+    "name": "COCORO",
+    "decimals": 18,
+    "address": "0x4dee1e1dcd551676c17dcb5eac0d7f1b3a8918fb"
+  },
+  "0x4af39d3e0848274f13c7c45854b16ddf413ea029": {
+    "symbol": "BIOS",
+    "name": "BasisOS",
+    "decimals": 18,
+    "address": "0x4af39d3e0848274f13c7c45854b16ddf413ea029"
+  },
+  "0x00530d8ad40f34856d509289f489a5f3a4553512": {
+    "symbol": "OBOL",
+    "name": "OBOL",
+    "decimals": 18,
+    "address": "0x00530d8ad40f34856d509289f489a5f3a4553512"
+  },
+  "0xaf29f8ed48b619bf60c886a7cc9c2baed4cd3c41": {
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "decimals": 18,
+    "address": "0xaf29f8ed48b619bf60c886a7cc9c2baed4cd3c41"
+  },
+  "0x047cc64ff0ee13ecaad91ccde233f06157b9f9d9": {
+    "symbol": "NYKO",
+    "name": "NIYOKO",
+    "decimals": 18,
+    "address": "0x047cc64ff0ee13ecaad91ccde233f06157b9f9d9"
+  }
+}

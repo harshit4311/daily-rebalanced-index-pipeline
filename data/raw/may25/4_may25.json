@@ -1,0 +1,68 @@
+{
+  "0xba40d15ee91fbcfadc7172d5f895ace2b8c04695": {
+    "symbol": "TRUTH",
+    "name": "TruthCoin",
+    "decimals": 18,
+    "address": "0xba40d15ee91fbcfadc7172d5f895ace2b8c04695"
+  },
+  "0x66761fa41377003622aee3c7675fc7b5c1c2fac5": {
+    "symbol": "CPOOL",
+    "name": "Clearpool",
+    "decimals": 18,
+    "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5"
+  },
+  "0xa5cf1136877ac4107e8246fbd6f2c143d6149a03": {
+    "symbol": "TRUTH",
+    "name": "Truth",
+    "decimals": 18,
+    "address": "0xa5cf1136877ac4107e8246fbd6f2c143d6149a03"
+  },
+  "0x063d8a953262adac45d4c17dff928fa9718b1887": {
+    "symbol": "BANK",
+    "name": "BANK",
+    "decimals": 18,
+    "address": "0x063d8a953262adac45d4c17dff928fa9718b1887"
+  },
+  "0xdcfe07b6fc9c072bd5a6a55fdcff57f7707b5236": {
+    "symbol": "JAC",
+    "name": "Jarvis Ai Coin",
+    "decimals": 18,
+    "address": "0xdcfe07b6fc9c072bd5a6a55fdcff57f7707b5236"
+  },
+  "0xc89fc702cdcfb4752b6267e0121f8891224f3bf2": {
+    "symbol": "MILA",
+    "name": "Mila",
+    "decimals": 18,
+    "address": "0xc89fc702cdcfb4752b6267e0121f8891224f3bf2"
+  },
+  "0xdd2027fca129005b6255295ceb7e281365e50b0e": {
+    "symbol": "PTTO",
+    "name": "PintoToken",
+    "decimals": 18,
+    "address": "0xdd2027fca129005b6255295ceb7e281365e50b0e"
+  },
+  "0x1171f4e7208b5283ef9e15d7514376bcdc60fa8e": {
+    "symbol": "DINO",
+    "name": "DINO",
+    "decimals": 18,
+    "address": "0x1171f4e7208b5283ef9e15d7514376bcdc60fa8e"
+  },
+  "0x3b15052127eeda5f1418736ba33daa03ff1759fc": {
+    "symbol": "STARBASE",
+    "name": "S T A R B A S E",
+    "decimals": 18,
+    "address": "0x3b15052127eeda5f1418736ba33daa03ff1759fc"
+  },
+  "0xbfb994a998d01633cba8fbceed94c16894d63c94": {
+    "symbol": "BMACC",
+    "name": "BMACC",
+    "decimals": 18,
+    "address": "0xbfb994a998d01633cba8fbceed94c16894d63c94"
+  },
+  "0x9874643d48a5b9234321cc46f91d022b74cb266e": {
+    "symbol": "FXT",
+    "name": "FlexChain",
+    "decimals": 18,
+    "address": "0x9874643d48a5b9234321cc46f91d022b74cb266e"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "0x9e587b548174c73d5d458f47e75ad8673ed27eb4": {
+    "symbol": "MEMECOIN",
+    "name": "memecoin",
+    "decimals": 9,
+    "address": "0x9e587b548174c73d5d458f47e75ad8673ed27eb4"
+  },
+  "0x87cd6ec2c0a14af16574e13e1a7be486cd6cd8f4": {
+    "symbol": "PEPE",
+    "name": "PEPE BY MATT FURIE",
+    "decimals": 9,
+    "address": "0x87cd6ec2c0a14af16574e13e1a7be486cd6cd8f4"
+  },
+  "0xd444b0d1dceedd7b0993ed04351a491d47048fc4": {
+    "symbol": "SUIRWAPIN",
+    "name": "SUIRWAPIN",
+    "decimals": 18,
+    "address": "0xd444b0d1dceedd7b0993ed04351a491d47048fc4"
+  },
+  "0xeebc32fa03e0968ff77df2f51417acb8fe1beda6": {
+    "symbol": "NATTY",
+    "name": "Natty by \ud835\udcdc\ud835\udcea\ud835\udcfd\ud835\udcfd \ud835\udcd5\ud835\udcfe\ud835\udcfb\ud835\udcf2\ud835\udcee",
+    "decimals": 9,
+    "address": "0xeebc32fa03e0968ff77df2f51417acb8fe1beda6"
+  },
+  "0x7f0637497d3f63f9b7e294f27c375a6efde99281": {
+    "symbol": "DPLY",
+    "name": "Deploy",
+    "decimals": 18,
+    "address": "0x7f0637497d3f63f9b7e294f27c375a6efde99281"
+  },
+  "0xe778fd9a8d074e4a808092896b33fe3d3452c125": {
+    "symbol": "FROGGER",
+    "name": "FROGGER",
+    "decimals": 18,
+    "address": "0xe778fd9a8d074e4a808092896b33fe3d3452c125"
+  },
+  "0xd055ec4c393cf8564489b9347ad3ef01ed4896d1": {
+    "symbol": "DOGGEN",
+    "name": "Doggensnout",
+    "decimals": 18,
+    "address": "0xd055ec4c393cf8564489b9347ad3ef01ed4896d1"
+  },
+  "0xb683d83a532e2cb7dfa5275eed3698436371cc9f": {
+    "symbol": "BTU",
+    "name": "BTU Protocol",
+    "decimals": 18,
+    "address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
+  },
+  "0x4ada70bd20ee25269252ac6592924e155f0239f5": {
+    "symbol": "tv3",
+    "name": "v3test",
+    "decimals": 18,
+    "address": "0x4ada70bd20ee25269252ac6592924e155f0239f5"
+  },
+  "0x6e5d57c796b7659152f412c861db191b249339ba": {
+    "symbol": "TURTY",
+    "name": "Sandpit Turtle",
+    "decimals": 18,
+    "address": "0x6e5d57c796b7659152f412c861db191b249339ba"
+  },
+  "0xf56a4a9ae94aee8f6e9bf737907389c94285abe6": {
+    "symbol": "Gasspas",
+    "name": "Gasspas",
+    "decimals": 9,
+    "address": "0xf56a4a9ae94aee8f6e9bf737907389c94285abe6"
+  },
+  "0xce23b9be64d249a543592baa973085058ea14d69": {
+    "symbol": "HYPER",
+    "name": "Bitcoin Hyper",
+    "decimals": 18,
+    "address": "0xce23b9be64d249a543592baa973085058ea14d69"
+  },
+  "0xbeb964201f162dc356f7dae851fbf1e02365ada4": {
+    "symbol": "KHAN",
+    "name": "Khanite",
+    "decimals": 18,
+    "address": "0xbeb964201f162dc356f7dae851fbf1e02365ada4"
+  },
+  "0x93423046fb9552a84adf517b36e6f0776336b92d": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x93423046fb9552a84adf517b36e6f0776336b92d"
+  },
+  "0x4598a161e7d7fd7d66eb5a13221f745857514f56": {
+    "symbol": "MEMECOIN",
+    "name": "memecoin",
+    "decimals": 9,
+    "address": "0x4598a161e7d7fd7d66eb5a13221f745857514f56"
+  },
+  "0xe802e40f3d1fe8074d8cee5205bf77835ab8a5e7": {
+    "symbol": "NXPC",
+    "name": "Nexpace",
+    "decimals": 18,
+    "address": "0xe802e40f3d1fe8074d8cee5205bf77835ab8a5e7"
+  },
+  "0xa2067bab06f90fc1bef95a12aa54862fe4ff820b": {
+    "symbol": "AXR",
+    "name": "Axelrod",
+    "decimals": 18,
+    "address": "0xa2067bab06f90fc1bef95a12aa54862fe4ff820b"
+  },
+  "0xe53dcec07d16d88e386ae0710e86d9a400f83c31": {
+    "symbol": "BABY",
+    "name": "Babylon",
+    "decimals": 6,
+    "address": "0xe53dcec07d16d88e386ae0710e86d9a400f83c31"
+  },
+  "0xb36f3028da0ede6135eff4cfe2f203869eda2e35": {
+    "symbol": "NXPC",
+    "name": "Nexpace",
+    "decimals": 18,
+    "address": "0xb36f3028da0ede6135eff4cfe2f203869eda2e35"
+  },
+  "0x86dec74bb07b32bb8a32c28c1f7166455bd836da": {
+    "symbol": "A1C",
+    "name": "Sally",
+    "decimals": 18,
+    "address": "0x86dec74bb07b32bb8a32c28c1f7166455bd836da"
+  },
+  "0xa2c0f9ad3fadf5a02b25b0b95ba7c911727cdee5": {
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "decimals": 18,
+    "address": "0xa2c0f9ad3fadf5a02b25b0b95ba7c911727cdee5"
+  },
+  "0x34406785d3a9f8f3621038ebfa58bb4bbe847f60": {
+    "symbol": "HOUSE",
+    "name": "Housecoin",
+    "decimals": 18,
+    "address": "0x34406785d3a9f8f3621038ebfa58bb4bbe847f60"
+  },
+  "0x1487bd704fa05a222b0adb50dc420f001f003045": {
+    "symbol": "CCDAO",
+    "name": "Cross-Chain DAO",
+    "decimals": 18,
+    "address": "0x1487bd704fa05a222b0adb50dc420f001f003045"
+  },
+  "0x340d2bde5eb28c1eed91b2f790723e3b160613b7": {
+    "symbol": "VEE",
+    "name": "BLOCKv Token",
+    "decimals": 18,
+    "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+  },
+  "0x70df20655b3e294facb436383435754dbee3cd70": {
+    "symbol": "eBABY",
+    "name": "ebbn",
+    "decimals": 6,
+    "address": "0x70df20655b3e294facb436383435754dbee3cd70"
+  }
+}

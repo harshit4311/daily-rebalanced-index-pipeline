@@ -1,0 +1,128 @@
+{
+  "0xb431456e581f116c50dd100d594af1d687b9f2e3": {
+    "symbol": "DAGZ",
+    "name": "Dawgz AI",
+    "decimals": 18,
+    "address": "0xb431456e581f116c50dd100d594af1d687b9f2e3"
+  },
+  "0xecca809227d43b895754382f1fd871628d7e51fb": {
+    "symbol": "LANLAN",
+    "name": "LanLan Cat",
+    "decimals": 9,
+    "address": "0xecca809227d43b895754382f1fd871628d7e51fb"
+  },
+  "0x97c012e24fab983a869f9fdbf27e9b61d8949fd5": {
+    "symbol": "LUNKY",
+    "name": "Lunky by Matt Furie",
+    "decimals": 18,
+    "address": "0x97c012e24fab983a869f9fdbf27e9b61d8949fd5"
+  },
+  "0x255494b830bd4fe7220b3ec4842cba75600b6c80": {
+    "symbol": "BEAST",
+    "name": "Beast Seller",
+    "decimals": 9,
+    "address": "0x255494b830bd4fe7220b3ec4842cba75600b6c80"
+  },
+  "0xb8c35e66b4faafdccace27e8b5062f45cb381e31": {
+    "symbol": "MOANER",
+    "name": "Moaner by Matt Furie",
+    "decimals": 18,
+    "address": "0xb8c35e66b4faafdccace27e8b5062f45cb381e31"
+  },
+  "0x82bf656304a587e9642eb62a924fe6728964d412": {
+    "symbol": "QDOGE",
+    "name": "QuantumDoge",
+    "decimals": 18,
+    "address": "0x82bf656304a587e9642eb62a924fe6728964d412"
+  },
+  "0x4acaaed02d7b3e096411d4b9fd7d8f905414a960": {
+    "symbol": "COLLAB",
+    "name": "CollabToken",
+    "decimals": 18,
+    "address": "0x4acaaed02d7b3e096411d4b9fd7d8f905414a960"
+  },
+  "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0": {
+    "symbol": "VANA",
+    "name": "Vana",
+    "decimals": 18,
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0"
+  },
+  "0x3edbcb60f54260f3bf04c1f32cfa8988e9cf0e0e": {
+    "symbol": "FENCE",
+    "name": "Fence Finance",
+    "decimals": 18,
+    "address": "0x3edbcb60f54260f3bf04c1f32cfa8988e9cf0e0e"
+  },
+  "0xc4eb0af84cbd0137b2c2f377e7c47281bb639c21": {
+    "symbol": "CZGOAT",
+    "name": "CZ THE GOAT",
+    "decimals": 18,
+    "address": "0xc4eb0af84cbd0137b2c2f377e7c47281bb639c21"
+  },
+  "0x656c00e1bcd96f256f224ad9112ff426ef053733": {
+    "symbol": "EFI",
+    "name": "Efinity Token",
+    "decimals": 18,
+    "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733"
+  },
+  "0x1d40e041d8644eaa9779a31492153792fcadb438": {
+    "symbol": "HAEDAL",
+    "name": "Haedal Protocol",
+    "decimals": 18,
+    "address": "0x1d40e041d8644eaa9779a31492153792fcadb438"
+  },
+  "0xf0096b062c5d078e22fb871775c291ee579c8460": {
+    "symbol": "USD1",
+    "name": "USD1",
+    "decimals": 18,
+    "address": "0xf0096b062c5d078e22fb871775c291ee579c8460"
+  },
+  "0xbe504218862bfe2ce033d3af5bb1021395a8a7e4": {
+    "symbol": "AAAT",
+    "name": "AAA Token",
+    "decimals": 18,
+    "address": "0xbe504218862bfe2ce033d3af5bb1021395a8a7e4"
+  },
+  "0x90bc5ecd17285201e5a1b1b8884b808b26a689c6": {
+    "symbol": "DBTMN",
+    "name": "DIAMOND BATMAN",
+    "decimals": 18,
+    "address": "0x90bc5ecd17285201e5a1b1b8884b808b26a689c6"
+  },
+  "0xcb1592591996765ec0efc1f92599a19767ee5ffa": {
+    "symbol": "BIO",
+    "name": "BIO",
+    "decimals": 18,
+    "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+  },
+  "0xf4308b0263723b121056938c2172868e408079d0": {
+    "symbol": "CRYO",
+    "name": "CryoDAO",
+    "decimals": 18,
+    "address": "0xf4308b0263723b121056938c2172868e408079d0"
+  },
+  "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3": {
+    "symbol": "DYP",
+    "name": "Dypius",
+    "decimals": 18,
+    "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3"
+  },
+  "0xe7157710da6bc9ee0f73dfd7adb65c2f3a87e9f3": {
+    "symbol": "SHHH",
+    "name": "Shhhhhhh Token",
+    "decimals": 18,
+    "address": "0xe7157710da6bc9ee0f73dfd7adb65c2f3a87e9f3"
+  },
+  "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c": {
+    "symbol": "JUSDT",
+    "name": "JSONRCV USDT",
+    "decimals": 18,
+    "address": "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c"
+  },
+  "0xef2720ff0094230b4f97de8c8822d1df5c221f18": {
+    "symbol": "CWETH",
+    "name": "Collateralized Wrapped ETH V2",
+    "decimals": 18,
+    "address": "0xef2720ff0094230b4f97de8c8822d1df5c221f18"
+  }
+}

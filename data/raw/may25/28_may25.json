@@ -1,0 +1,158 @@
+{
+  "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0": {
+    "symbol": "SOPH",
+    "name": "Sophon",
+    "decimals": 18,
+    "address": "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0"
+  },
+  "0x9e72a0e219cff0011069ae7b0da73fa26280f41b": {
+    "symbol": "IZZY",
+    "name": "Izzy",
+    "decimals": 9,
+    "address": "0x9e72a0e219cff0011069ae7b0da73fa26280f41b"
+  },
+  "0xbabe90c7ae3bf49994aba03f1bb917a6d6c1879c": {
+    "symbol": "BABYZEUS",
+    "name": "BabyZeus",
+    "decimals": 9,
+    "address": "0xbabe90c7ae3bf49994aba03f1bb917a6d6c1879c"
+  },
+  "0x40d09d1c989fcb3a68623fe1c1acb3b769e0d237": {
+    "symbol": "BOSSBURGER",
+    "name": "Boss Burger",
+    "decimals": 9,
+    "address": "0x40d09d1c989fcb3a68623fe1c1acb3b769e0d237"
+  },
+  "0xa7109533f8f038f9015d9268b6574e5419139187": {
+    "symbol": "UWA",
+    "name": "uwa",
+    "decimals": 18,
+    "address": "0xa7109533f8f038f9015d9268b6574e5419139187"
+  },
+  "0xda0d04b806cbfa23d9c03c27a321c478a235f98b": {
+    "symbol": "FETH",
+    "name": "FOMO'ed ETH",
+    "decimals": 3,
+    "address": "0xda0d04b806cbfa23d9c03c27a321c478a235f98b"
+  },
+  "0x7c7074a51a316bf0ad19a9ef91aa7fc40d64a626": {
+    "symbol": "Bitcoin6900",
+    "name": "BITCOIN 6900",
+    "decimals": 9,
+    "address": "0x7c7074a51a316bf0ad19a9ef91aa7fc40d64a626"
+  },
+  "0x77b53d996deebf5f5a0b8946a7324d68f2052459": {
+    "symbol": "NLUX",
+    "name": "NimbusLuxor",
+    "decimals": 18,
+    "address": "0x77b53d996deebf5f5a0b8946a7324d68f2052459"
+  },
+  "0xdb4e144234b65eb147acf1694cbdccf3381af438": {
+    "symbol": "CHUD",
+    "name": "Chudjak",
+    "decimals": 18,
+    "address": "0xdb4e144234b65eb147acf1694cbdccf3381af438"
+  },
+  "0xc96ffdaf1174dced8fabd65e1d24f176a2169af9": {
+    "symbol": "MATOff",
+    "name": "Matt Furie Official",
+    "decimals": 3,
+    "address": "0xc96ffdaf1174dced8fabd65e1d24f176a2169af9"
+  },
+  "0x1e93fafd35ad56b7a239f8fedfc7c7a7e354b114": {
+    "symbol": "bPEPE",
+    "name": "PePe Enjoyer",
+    "decimals": 18,
+    "address": "0x1e93fafd35ad56b7a239f8fedfc7c7a7e354b114"
+  },
+  "0x5f45e126f449ceb386ac967936f17ee75c2f7c0f": {
+    "symbol": "SOPH",
+    "name": "Sophon",
+    "decimals": 18,
+    "address": "0x5f45e126f449ceb386ac967936f17ee75c2f7c0f"
+  },
+  "0x53bf5913a84a4887a8aeb21972c8878c64475c7e": {
+    "symbol": "BANANA",
+    "name": "Banana Gun",
+    "decimals": 18,
+    "address": "0x53bf5913a84a4887a8aeb21972c8878c64475c7e"
+  },
+  "0x651e7f9e9884209e8800117ad2e06fd90b6c3692": {
+    "symbol": "GUN",
+    "name": "Gunz",
+    "decimals": 18,
+    "address": "0x651e7f9e9884209e8800117ad2e06fd90b6c3692"
+  },
+  "0x7c73fe2c26fd00cc02d707436f7839d3f35ecab2": {
+    "symbol": "PEPE1",
+    "name": "PEPE on USD1",
+    "decimals": 18,
+    "address": "0x7c73fe2c26fd00cc02d707436f7839d3f35ecab2"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0xb60fdf036f2ad584f79525b5da76c5c531283a1b": {
+    "symbol": "NEMO",
+    "name": "Nemo Sum",
+    "decimals": 9,
+    "address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b"
+  },
+  "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+    "symbol": "K\u016aKA",
+    "name": "K\u016aKA",
+    "decimals": 18,
+    "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
+  },
+  "0xaaadbd2fd60f3ef7bf40995d955641053e595649": {
+    "symbol": "tss",
+    "name": "tss",
+    "decimals": 18,
+    "address": "0xaaadbd2fd60f3ef7bf40995d955641053e595649"
+  },
+  "0x6bce92cfb4441e22b2a34f48f0a284e9802ff5e6": {
+    "symbol": "E",
+    "name": "E",
+    "decimals": 18,
+    "address": "0x6bce92cfb4441e22b2a34f48f0a284e9802ff5e6"
+  },
+  "0xe0cbe9786d462f26ca27b53a5da2898a381b4d38": {
+    "symbol": "1",
+    "name": "ONE on USD1",
+    "decimals": 18,
+    "address": "0xe0cbe9786d462f26ca27b53a5da2898a381b4d38"
+  },
+  "0xb35432f2536e5f7ad51ae8a3b5d8a25f290a6504": {
+    "symbol": "LAUNCH",
+    "name": "Launch USD1 Pair on Ebull.Meme",
+    "decimals": 18,
+    "address": "0xb35432f2536e5f7ad51ae8a3b5d8a25f290a6504"
+  },
+  "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb": {
+    "symbol": "USI",
+    "name": "USIC Token",
+    "decimals": 18,
+    "address": "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb"
+  },
+  "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+  },
+  "0xc024a3a9c2590bff553dc2af3ca0d2985805f372": {
+    "symbol": "LAUNCH",
+    "name": "Launch USD1 Pair on Ebull.Meme",
+    "decimals": 18,
+    "address": "0xc024a3a9c2590bff553dc2af3ca0d2985805f372"
+  },
+  "0x968dc061290f76f90b3b939cc9380d47d79a54c5": {
+    "symbol": "MOONKIN",
+    "name": "Moonkin",
+    "decimals": 9,
+    "address": "0x968dc061290f76f90b3b939cc9380d47d79a54c5"
+  }
+}

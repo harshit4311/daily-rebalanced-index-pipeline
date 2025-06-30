@@ -1,0 +1,134 @@
+{
+  "0xd3496c1915a78f92c9e2984612b709b069270b04": {
+    "symbol": "YOSHI",
+    "name": "Yoshi",
+    "decimals": 18,
+    "address": "0xd3496c1915a78f92c9e2984612b709b069270b04"
+  },
+  "0xd0269af7a380149cbeeea8d5379cae230ab0c8a4": {
+    "symbol": "MASK",
+    "name": "catwifmask",
+    "decimals": 9,
+    "address": "0xd0269af7a380149cbeeea8d5379cae230ab0c8a4"
+  },
+  "0x701bec7d1361ebb9a4004fe8acd8529204feece0": {
+    "symbol": "TAMOTSU",
+    "name": "TAMOTSU",
+    "decimals": 18,
+    "address": "0x701bec7d1361ebb9a4004fe8acd8529204feece0"
+  },
+  "0x40d09d1c989fcb3a68623fe1c1acb3b769e0d237": {
+    "symbol": "BOSSBURGER",
+    "name": "Boss Burger",
+    "decimals": 9,
+    "address": "0x40d09d1c989fcb3a68623fe1c1acb3b769e0d237"
+  },
+  "0x1b4143e4c8ed72a1536504a05e50bc8bd59b5425": {
+    "symbol": "ESCAPE",
+    "name": "Esc-Ape",
+    "decimals": 18,
+    "address": "0x1b4143e4c8ed72a1536504a05e50bc8bd59b5425"
+  },
+  "0x97ad24ab86186af1d0bad969c7ec2116f2120db6": {
+    "symbol": "SWOL",
+    "name": "Snowy Owl",
+    "decimals": 18,
+    "address": "0x97ad24ab86186af1d0bad969c7ec2116f2120db6"
+  },
+  "0x5d3b71b8c428e1d8de0c496cfd6ead224889abed": {
+    "symbol": "Test",
+    "name": "Test",
+    "decimals": 18,
+    "address": "0x5d3b71b8c428e1d8de0c496cfd6ead224889abed"
+  },
+  "0x9866c60598244888c68cbc530ae1ca58ea19bccf": {
+    "symbol": "YE",
+    "name": "YE",
+    "decimals": 18,
+    "address": "0x9866c60598244888c68cbc530ae1ca58ea19bccf"
+  },
+  "0x84e0da44a014883d136601222017e1f1f5926a23": {
+    "symbol": "TOSHI",
+    "name": "TOSHI",
+    "decimals": 18,
+    "address": "0x84e0da44a014883d136601222017e1f1f5926a23"
+  },
+  "0x554b499fcd9859feb09bc0b8a8a541a8080a742d": {
+    "symbol": "WLF",
+    "name": "World liberty Financial",
+    "decimals": 3,
+    "address": "0x554b499fcd9859feb09bc0b8a8a541a8080a742d"
+  },
+  "0x863a37241acbec8a36f2cba83250c15b8ccaaf41": {
+    "symbol": "EEE",
+    "name": "CARTOON ROUTER",
+    "decimals": 18,
+    "address": "0x863a37241acbec8a36f2cba83250c15b8ccaaf41"
+  },
+  "0x47b977f55d8bcd5936a172d2f317f51fa303f6ff": {
+    "symbol": "sal",
+    "name": "salana",
+    "decimals": 18,
+    "address": "0x47b977f55d8bcd5936a172d2f317f51fa303f6ff"
+  },
+  "0x81f083610c6ccae111c7474baa3a49e4fa8fc961": {
+    "symbol": "LPT",
+    "name": "Livepeer",
+    "decimals": 18,
+    "address": "0x81f083610c6ccae111c7474baa3a49e4fa8fc961"
+  },
+  "0x241ea95bf9a230b64527af577b30d853c7c3fd4e": {
+    "symbol": "DORKY",
+    "name": "Dork Lord",
+    "decimals": 18,
+    "address": "0x241ea95bf9a230b64527af577b30d853c7c3fd4e"
+  },
+  "0x0d167536d23df87e62bc8dd2f89b503ae5164985": {
+    "symbol": "DAGZ",
+    "name": "Dawgz AI",
+    "decimals": 18,
+    "address": "0x0d167536d23df87e62bc8dd2f89b503ae5164985"
+  },
+  "0xc27793efc184fcdba06b3f8c1cb41459925ff412": {
+    "symbol": "PSTAKE",
+    "name": "pSTAKE Finance",
+    "decimals": 18,
+    "address": "0xc27793efc184fcdba06b3f8c1cb41459925ff412"
+  },
+  "0x891210f8153894fc570415f03580f0abe18ae68b": {
+    "symbol": "MOONPIG",
+    "name": "moonpig",
+    "decimals": 18,
+    "address": "0x891210f8153894fc570415f03580f0abe18ae68b"
+  },
+  "0xf05a751caf6b4273f8d999fe714b0f2ca9f21131": {
+    "symbol": "MOBY",
+    "name": "Moby AI",
+    "decimals": 18,
+    "address": "0xf05a751caf6b4273f8d999fe714b0f2ca9f21131"
+  },
+  "0x863a0d8bfc940969087bec4e4f1824f312a21565": {
+    "symbol": "NIGGER",
+    "name": "NIGGER",
+    "decimals": 18,
+    "address": "0x863a0d8bfc940969087bec4e4f1824f312a21565"
+  },
+  "0xc425c0877c7b0f8179cdbd636b2efe3204b24bc4": {
+    "symbol": "SPANK",
+    "name": "SPANKER",
+    "decimals": 18,
+    "address": "0xc425c0877c7b0f8179cdbd636b2efe3204b24bc4"
+  },
+  "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+    "symbol": "K\u016aKA",
+    "name": "K\u016aKA",
+    "decimals": 18,
+    "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
+  },
+  "0x774eaf7a53471628768dc679da945847d34b9a55": {
+    "symbol": "GASS",
+    "name": "Gasspas",
+    "decimals": 18,
+    "address": "0x774eaf7a53471628768dc679da945847d34b9a55"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "0x0b010000b7624eb9b3dfbc279673c76e9d29d5f7": {
+    "symbol": "OBOL",
+    "name": "Obol Network",
+    "decimals": 18,
+    "address": "0x0b010000b7624eb9b3dfbc279673c76e9d29d5f7"
+  },
+  "0x50d644cfb4048fac1007fb2b5758b75656abe3ec": {
+    "symbol": "gork",
+    "name": "New XAI gork",
+    "decimals": 6,
+    "address": "0x50d644cfb4048fac1007fb2b5758b75656abe3ec"
+  },
+  "0x51ed35265df9b4159c6e0441eb1a9fe1e9d29f6e": {
+    "symbol": "KICK",
+    "name": "XProtocol",
+    "decimals": 18,
+    "address": "0x51ed35265df9b4159c6e0441eb1a9fe1e9d29f6e"
+  },
+  "0xb683d83a532e2cb7dfa5275eed3698436371cc9f": {
+    "symbol": "BTU",
+    "name": "BTU Protocol",
+    "decimals": 18,
+    "address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
+  },
+  "0x43a3c42bd72890720c489b99695779a5a2a21abe": {
+    "symbol": "DEFIESTA",
+    "name": "DefiestaToken",
+    "decimals": 18,
+    "address": "0x43a3c42bd72890720c489b99695779a5a2a21abe"
+  },
+  "0x96b36d44b936b36bb8a38fdb3e963c04862c0b0a": {
+    "symbol": "RWAI",
+    "name": "RWAI",
+    "decimals": 18,
+    "address": "0x96b36d44b936b36bb8a38fdb3e963c04862c0b0a"
+  },
+  "0x0de50324b6960b15a5ced3d076ae314ac174da2e": {
+    "symbol": "HKT",
+    "name": "Home Krypto Token",
+    "decimals": 18,
+    "address": "0x0de50324b6960b15a5ced3d076ae314ac174da2e"
+  },
+  "0x3ed730ae9f90209ee7cab97b2550ecb4175b84ab": {
+    "symbol": "BAN",
+    "name": "Comedian",
+    "decimals": 18,
+    "address": "0x3ed730ae9f90209ee7cab97b2550ecb4175b84ab"
+  },
+  "0x001bb9ab6cf263c259ce72a8d1e10beda6aa6747": {
+    "symbol": "BOME",
+    "name": "Book of Meme 3.0",
+    "decimals": 18,
+    "address": "0x001bb9ab6cf263c259ce72a8d1e10beda6aa6747"
+  },
+  "0x36c5183e972a46109a97774551328e1948aad64b": {
+    "symbol": "DRTv2",
+    "name": "Decentralized Resource Token v2",
+    "decimals": 18,
+    "address": "0x36c5183e972a46109a97774551328e1948aad64b"
+  },
+  "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab": {
+    "symbol": "WXTZ",
+    "name": "Wrapped XTZ",
+    "decimals": 18,
+    "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab"
+  },
+  "0xff8333b41aa131279e3507cb02a109eb37b7ff0f": {
+    "symbol": "MTAUR",
+    "name": "Minotaurus",
+    "decimals": 18,
+    "address": "0xff8333b41aa131279e3507cb02a109eb37b7ff0f"
+  },
+  "0x2c899a490902352afa33bafb7fe89c9dd142f9d1": {
+    "symbol": "DRT",
+    "name": "Decentralized Resource Token",
+    "decimals": 18,
+    "address": "0x2c899a490902352afa33bafb7fe89c9dd142f9d1"
+  },
+  "0x8382a6c25db2c2bc45c7878d6ae22101178e9aa1": {
+    "symbol": "ThUSD",
+    "name": "Theo USD",
+    "decimals": 18,
+    "address": "0x8382a6c25db2c2bc45c7878d6ae22101178e9aa1"
+  },
+  "0xf56570aaa2826b26ec33672b73521cf64a2a79a0": {
+    "symbol": "TOSHI",
+    "name": "Toshi",
+    "decimals": 18,
+    "address": "0xf56570aaa2826b26ec33672b73521cf64a2a79a0"
+  },
+  "0x7062f103e7a0db6e6b042c53c33550abd7dee023": {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "decimals": 18,
+    "address": "0x7062f103e7a0db6e6b042c53c33550abd7dee023"
+  },
+  "0x37d9ee11d5c144344f965f555e04760296e93365": {
+    "symbol": "GLORIA",
+    "name": "Gloria",
+    "decimals": 18,
+    "address": "0x37d9ee11d5c144344f965f555e04760296e93365"
+  },
+  "0xd15abd70e6e9fc02517f3133687eca503aa12cfc": {
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "decimals": 18,
+    "address": "0xd15abd70e6e9fc02517f3133687eca503aa12cfc"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  },
+  "0x44a0e351ca36c7ab66a3cdd0febc0131fd99bafa": {
+    "symbol": "GPECTRA",
+    "name": "Pectra Giraffe",
+    "decimals": 18,
+    "address": "0x44a0e351ca36c7ab66a3cdd0febc0131fd99bafa"
+  },
+  "0xd83ee5dc263f60846899da1194c568bcb312af09": {
+    "symbol": "RVC",
+    "name": "RenovaCoins",
+    "decimals": 18,
+    "address": "0xd83ee5dc263f60846899da1194c568bcb312af09"
+  }
+}

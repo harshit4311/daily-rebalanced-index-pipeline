@@ -1,0 +1,134 @@
+{
+  "0x6440f144b7e50d6a8439336510312d2f54beb01d": {
+    "symbol": "BOLD",
+    "name": "BOLD Stablecoin",
+    "decimals": 18,
+    "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d"
+  },
+  "0x00e54ad3ab03f36334da26c54735fd9b845df0a4": {
+    "symbol": "SOLX",
+    "name": "Solaxy",
+    "decimals": 18,
+    "address": "0x00e54ad3ab03f36334da26c54735fd9b845df0a4"
+  },
+  "0x995458d29de089847b10d5fd85f06236005991ec": {
+    "symbol": "CUB$",
+    "name": "Cubby Coin",
+    "decimals": 18,
+    "address": "0x995458d29de089847b10d5fd85f06236005991ec"
+  },
+  "0xc564a856b902f2d208881b571c93df36b82c87b2": {
+    "symbol": "LZX",
+    "name": "Layer Zero",
+    "decimals": 18,
+    "address": "0xc564a856b902f2d208881b571c93df36b82c87b2"
+  },
+  "0x09565069e996d2ad4077767d929b2c32587b6be2": {
+    "symbol": "666",
+    "name": "$666 Coin",
+    "decimals": 18,
+    "address": "0x09565069e996d2ad4077767d929b2c32587b6be2"
+  },
+  "0x99e7d7311402f246369f76b5688249bb758d2249": {
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "decimals": 18,
+    "address": "0x99e7d7311402f246369f76b5688249bb758d2249"
+  },
+  "0x009be1b1147c7d78b5ba6af3ffd3ceea1b2fadc0": {
+    "symbol": "AMINT",
+    "name": "AMINT",
+    "decimals": 18,
+    "address": "0x009be1b1147c7d78b5ba6af3ffd3ceea1b2fadc0"
+  },
+  "0xb6ee9668771a79be7967ee29a63d4184f8097143": {
+    "symbol": "CXO",
+    "name": "CargoX Token",
+    "decimals": 18,
+    "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143"
+  },
+  "0xafd93caf434167a095596b343a1a4884f2ac01ca": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0xafd93caf434167a095596b343a1a4884f2ac01ca"
+  },
+  "0x0ba4205a5e817992288fe33eef16686015ef8a28": {
+    "symbol": "SOON",
+    "name": "SOON",
+    "decimals": 18,
+    "address": "0x0ba4205a5e817992288fe33eef16686015ef8a28"
+  },
+  "0x7e168ad2dc589f506a5020c515d3f8c790d69f7c": {
+    "symbol": "ARBUS",
+    "name": "Arbus",
+    "decimals": 18,
+    "address": "0x7e168ad2dc589f506a5020c515d3f8c790d69f7c"
+  },
+  "0x8c07af42341e0c2dddfe6321ffe735f396f73b05": {
+    "symbol": "FET",
+    "name": "Fetch",
+    "decimals": 18,
+    "address": "0x8c07af42341e0c2dddfe6321ffe735f396f73b05"
+  },
+  "0x6abef86c30c6954b004b6230def1e773b9895353": {
+    "symbol": "XTER",
+    "name": "Xterio",
+    "decimals": 18,
+    "address": "0x6abef86c30c6954b004b6230def1e773b9895353"
+  },
+  "0x5200b7f9e41f0affecf40b52f886499e08b47d2f": {
+    "symbol": "DEGEN",
+    "name": "Degen",
+    "decimals": 18,
+    "address": "0x5200b7f9e41f0affecf40b52f886499e08b47d2f"
+  },
+  "0x4f041e4ad7ca9e7dce9b2807a000db3674de1485": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 18,
+    "address": "0x4f041e4ad7ca9e7dce9b2807a000db3674de1485"
+  },
+  "0x593d27031a4491fb4d0c1cacb1c32253402e942c": {
+    "symbol": "PRO",
+    "name": "Propy",
+    "decimals": 18,
+    "address": "0x593d27031a4491fb4d0c1cacb1c32253402e942c"
+  },
+  "0x691dcfc194cd7446160f1e02bddd6e1c267754ce": {
+    "symbol": "KEKIUS",
+    "name": "Kekius Maximus",
+    "decimals": 18,
+    "address": "0x691dcfc194cd7446160f1e02bddd6e1c267754ce"
+  },
+  "0x2621cb9fe8921351e9558d4cd8666688e1dcd689": {
+    "symbol": "BODEN",
+    "name": "Jeo Boden",
+    "decimals": 18,
+    "address": "0x2621cb9fe8921351e9558d4cd8666688e1dcd689"
+  },
+  "0x58edcf4b0ae4591b873664734fd6731ae1aae962": {
+    "symbol": "MKS",
+    "name": "MARKCASH",
+    "decimals": 18,
+    "address": "0x58edcf4b0ae4591b873664734fd6731ae1aae962"
+  },
+  "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e": {
+    "symbol": "USUAL",
+    "name": "USUAL",
+    "decimals": 18,
+    "address": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e"
+  },
+  "0xadd39272e83895e7d3f244f696b7a25635f34234": {
+    "symbol": "PEPU",
+    "name": "Pepe Unchained",
+    "decimals": 18,
+    "address": "0xadd39272e83895e7d3f244f696b7a25635f34234"
+  },
+  "0xc441d0bd70dbcf711f4bba19aea3deff47ce1c48": {
+    "symbol": "pfUSDC-24",
+    "name": "Peapods Interest Bearing USDC - 24",
+    "decimals": 6,
+    "address": "0xc441d0bd70dbcf711f4bba19aea3deff47ce1c48"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "0xcb7acfeca945545066328e2dd5a067780a027dd6": {
+    "symbol": "GORKLON",
+    "name": "gorklon rust",
+    "decimals": 9,
+    "address": "0xcb7acfeca945545066328e2dd5a067780a027dd6"
+  },
+  "0x26a83ed82850e7636c9d78f67cff0eb0e6db2c9c": {
+    "symbol": "XAU",
+    "name": "California Mint Aurum",
+    "decimals": 18,
+    "address": "0x26a83ed82850e7636c9d78f67cff0eb0e6db2c9c"
+  },
+  "0xd63aafd470fc4a24e39ff62e949e52bfa2177caa": {
+    "symbol": "BTC",
+    "name": "Bitcoin on Ethereum",
+    "decimals": 18,
+    "address": "0xd63aafd470fc4a24e39ff62e949e52bfa2177caa"
+  },
+  "0x5d568e75d5f6e5cdd32718a2a515f5b25ad17c19": {
+    "symbol": "ETH2",
+    "name": "ETH2.0",
+    "decimals": 9,
+    "address": "0x5d568e75d5f6e5cdd32718a2a515f5b25ad17c19"
+  },
+  "0xe6d67a3563cac423bd46240e993cf06b14c51a23": {
+    "symbol": "B  ",
+    "name": "BUILDon",
+    "decimals": 18,
+    "address": "0xe6d67a3563cac423bd46240e993cf06b14c51a23"
+  },
+  "0xba1180d0127b43e68228fbe929a192c2de43d218": {
+    "symbol": "\ud83d\ude80",
+    "name": "Democratic Tokes",
+    "decimals": 2,
+    "address": "0xba1180d0127b43e68228fbe929a192c2de43d218"
+  },
+  "0x64474a7b03033ee57128f3792ca2d23991b83cff": {
+    "symbol": "nam",
+    "name": "name",
+    "decimals": 8,
+    "address": "0x64474a7b03033ee57128f3792ca2d23991b83cff"
+  },
+  "0xfffb7d590337a27c1d9ff9d32bf5ba3e13a19595": {
+    "symbol": "SFUK",
+    "name": "Sochi Financial and Legal",
+    "decimals": 18,
+    "address": "0xfffb7d590337a27c1d9ff9d32bf5ba3e13a19595"
+  },
+  "0x957bb52b26ac44e3924d1cf6613bcb20f5deca44": {
+    "symbol": "noice",
+    "name": "noice",
+    "decimals": 18,
+    "address": "0x957bb52b26ac44e3924d1cf6613bcb20f5deca44"
+  },
+  "0xae3369ce153dc585d822dca9efa1ac0ddbc4f7c7": {
+    "symbol": "B2 ",
+    "name": "BSquared Network",
+    "decimals": 18,
+    "address": "0xae3369ce153dc585d822dca9efa1ac0ddbc4f7c7"
+  },
+  "0xfe3d38b1847fa6629b49aa42eb47f4ade068c505": {
+    "symbol": "DOG",
+    "name": "Dog (Bitcoin)",
+    "decimals": 18,
+    "address": "0xfe3d38b1847fa6629b49aa42eb47f4ade068c505"
+  },
+  "0x130de0d32fcc45b192e6ad715c8511176af6a91e": {
+    "symbol": "BLUE",
+    "name": "Bluefin",
+    "decimals": 18,
+    "address": "0x130de0d32fcc45b192e6ad715c8511176af6a91e"
+  },
+  "0x0b1679335f5bf9eb3271009e4e4b56de25fb6e70": {
+    "symbol": "E",
+    "name": "E",
+    "decimals": 18,
+    "address": "0x0b1679335f5bf9eb3271009e4e4b56de25fb6e70"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0xb32844f2260ce6c05ef6227ae8824dc90f6e9e9e": {
+    "symbol": "E",
+    "name": "Eagle",
+    "decimals": 18,
+    "address": "0xb32844f2260ce6c05ef6227ae8824dc90f6e9e9e"
+  },
+  "0xaf5d2cf39f2d4e2f5900d6cf37ab3596866347e4": {
+    "symbol": "JPYR",
+    "name": "JPYR",
+    "decimals": 6,
+    "address": "0xaf5d2cf39f2d4e2f5900d6cf37ab3596866347e4"
+  },
+  "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f": {
+    "symbol": "PHPR",
+    "name": "PHPR",
+    "decimals": 6,
+    "address": "0xc8c913f08c430d4f9dd05631ffc1f9c6b7a84f4f"
+  },
+  "0x70ad86c277146bd4b390afe38c7a44600b89c4f9": {
+    "symbol": "BELLA",
+    "name": "Donald Trump Jr's dog",
+    "decimals": 18,
+    "address": "0x70ad86c277146bd4b390afe38c7a44600b89c4f9"
+  },
+  "0x500ae82738b9f35296f1bb2f2ac76108d19a3e36": {
+    "symbol": "BELLA",
+    "name": "Donald Trump Jr's dog",
+    "decimals": 18,
+    "address": "0x500ae82738b9f35296f1bb2f2ac76108d19a3e36"
+  },
+  "0x8bede87ed6c35a532cb4c62bc6fbe794e67035eb": {
+    "symbol": "ME",
+    "name": "Milady Ether",
+    "decimals": 18,
+    "address": "0x8bede87ed6c35a532cb4c62bc6fbe794e67035eb"
+  },
+  "0xfd53377d310dd04c3ccac62a3d1f76fa5fff67c2": {
+    "symbol": "E",
+    "name": "E",
+    "decimals": 18,
+    "address": "0xfd53377d310dd04c3ccac62a3d1f76fa5fff67c2"
+  }
+}

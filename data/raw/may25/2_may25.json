@@ -1,0 +1,80 @@
+{
+  "0xc6eb293fb4938d3e5cef232403025624e0d16bcc": {
+    "symbol": "SOLX",
+    "name": "SOLAXY",
+    "decimals": 9,
+    "address": "0xc6eb293fb4938d3e5cef232403025624e0d16bcc"
+  },
+  "0x19ab3c6e17c7be2f07f99a4172c3c124ff5edf85": {
+    "symbol": "LCAI",
+    "name": "LightchainAI",
+    "decimals": 18,
+    "address": "0x19ab3c6e17c7be2f07f99a4172c3c124ff5edf85"
+  },
+  "0xb2e19ebe7f3674285eff1511b9eadffc39cd66b0": {
+    "symbol": "STA",
+    "name": "SANTAVA",
+    "decimals": 18,
+    "address": "0xb2e19ebe7f3674285eff1511b9eadffc39cd66b0"
+  },
+  "0x4d2755ce1a8aa9d9cec0f48011abc138816873df": {
+    "symbol": "BTCBULL",
+    "name": "BTC Bull",
+    "decimals": 18,
+    "address": "0x4d2755ce1a8aa9d9cec0f48011abc138816873df"
+  },
+  "0x48bf9585a388b6d0a8a956374cb7d6d1eb4fa431": {
+    "symbol": "BAN",
+    "name": "BAN Token",
+    "decimals": 18,
+    "address": "0x48bf9585a388b6d0a8a956374cb7d6d1eb4fa431"
+  },
+  "0xa103f5ef7b4b3e2ea289a01485ebb0009623b3fd": {
+    "symbol": "MMR",
+    "name": "MemurCoin",
+    "decimals": 18,
+    "address": "0xa103f5ef7b4b3e2ea289a01485ebb0009623b3fd"
+  },
+  "0x334f5aea670542182f8756f509566041fab88c42": {
+    "symbol": "BHC",
+    "name": "BitHillsClub",
+    "decimals": 18,
+    "address": "0x334f5aea670542182f8756f509566041fab88c42"
+  },
+  "0x08f51cba27bd4169519b9e58e89fa66174d054b7": {
+    "symbol": "FARTCOIN",
+    "name": "Fartcoin",
+    "decimals": 18,
+    "address": "0x08f51cba27bd4169519b9e58e89fa66174d054b7"
+  },
+  "0x09f36948ba52c32d12c7c511ecd502c733bb64e6": {
+    "symbol": "STO",
+    "name": "StakeStone",
+    "decimals": 18,
+    "address": "0x09f36948ba52c32d12c7c511ecd502c733bb64e6"
+  },
+  "0x642a1cc03a568caa1f2af1a8cbf0cab8eb98b3a3": {
+    "symbol": "FTT",
+    "name": "FTX",
+    "decimals": 18,
+    "address": "0x642a1cc03a568caa1f2af1a8cbf0cab8eb98b3a3"
+  },
+  "0x2d671c4cf4d7b46e9df776d0cad09cee53e12eea": {
+    "symbol": "STO",
+    "name": "StakeStone",
+    "decimals": 18,
+    "address": "0x2d671c4cf4d7b46e9df776d0cad09cee53e12eea"
+  },
+  "0xed98a3be696108de43f5c3849dabb4e7bdbf2da1": {
+    "symbol": "VILLA",
+    "name": "VillaCoin",
+    "decimals": 18,
+    "address": "0xed98a3be696108de43f5c3849dabb4e7bdbf2da1"
+  },
+  "0x428c5e604e54031709034e555203acb729bfb890": {
+    "symbol": "SNOWWHITE&THE7KITTENS",
+    "name": "Snowwhiteandthe7kittens",
+    "decimals": 18,
+    "address": "0x428c5e604e54031709034e555203acb729bfb890"
+  }
+}

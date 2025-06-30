@@ -1,0 +1,110 @@
+{
+  "0x39fbbabf11738317a448031930706cd3e612e1b9": {
+    "symbol": "WXRP",
+    "name": "Wrapped XRP",
+    "decimals": 18,
+    "address": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+  },
+  "0x9141555ce1c8e5c99d754113df0c2aac39e1f04d": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "decimals": 9,
+    "address": "0x9141555ce1c8e5c99d754113df0c2aac39e1f04d"
+  },
+  "0xd01409314acb3b245cea9500ece3f6fd4d70ea30": {
+    "symbol": "LTO",
+    "name": "LTO Network Token",
+    "decimals": 8,
+    "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30"
+  },
+  "0x55154aedfec29e1bbe2644f308b19cd9243e022d": {
+    "symbol": "WEBTC-gauge",
+    "name": "Curve.fi WEBTC Gauge Deposit",
+    "decimals": 18,
+    "address": "0x55154aedfec29e1bbe2644f308b19cd9243e022d"
+  },
+  "0xa6b1317318b40b97d1623eaf4e41cc014e2392bd": {
+    "symbol": "WEBTC",
+    "name": "WEBTC",
+    "decimals": 18,
+    "address": "0xa6b1317318b40b97d1623eaf4e41cc014e2392bd"
+  },
+  "0x3312ec5514ac161e4c8ce271f15e57205a4c1eed": {
+    "symbol": "BIOS",
+    "name": "BasisOS",
+    "decimals": 18,
+    "address": "0x3312ec5514ac161e4c8ce271f15e57205a4c1eed"
+  },
+  "0xaf5b4a77f71dbb0097423213869151a366627750": {
+    "symbol": "TRUMP",
+    "name": "MAGA",
+    "decimals": 18,
+    "address": "0xaf5b4a77f71dbb0097423213869151a366627750"
+  },
+  "0x1bb84f70724d2e51602bb3983a80a7d56f378f09": {
+    "symbol": "MIKAMI",
+    "name": "MIKAMI",
+    "decimals": 18,
+    "address": "0x1bb84f70724d2e51602bb3983a80a7d56f378f09"
+  },
+  "0xb8a703bb0b82dd92ec366964fc789bc8480f7f4a": {
+    "symbol": "Banks",
+    "name": "Rob Banks",
+    "decimals": 18,
+    "address": "0xb8a703bb0b82dd92ec366964fc789bc8480f7f4a"
+  },
+  "0xf441287ff31e9112fea537a0b28683674994b386": {
+    "symbol": "MISATO",
+    "name": "Misato",
+    "decimals": 18,
+    "address": "0xf441287ff31e9112fea537a0b28683674994b386"
+  },
+  "0x834086c224efcf4293c25e2639843327fbf96bdc": {
+    "symbol": "FROQ",
+    "name": "FROQ",
+    "decimals": 18,
+    "address": "0x834086c224efcf4293c25e2639843327fbf96bdc"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  },
+  "0xabc36a3bd7d477bf74b7b984ddc0293fc41431dc": {
+    "symbol": "\ud83c\udf7f",
+    "name": "PulseChain Drama from PulseChain",
+    "decimals": 18,
+    "address": "0xabc36a3bd7d477bf74b7b984ddc0293fc41431dc"
+  },
+  "0x5dbbd676f70cf9aac23b25a28e841239fa8d2685": {
+    "symbol": "CZKK",
+    "name": "Ceska Krypto Koruna",
+    "decimals": 2,
+    "address": "0x5dbbd676f70cf9aac23b25a28e841239fa8d2685"
+  },
+  "0xcabf85f156d6f1f8f605c4b084b1d2da98eef2b4": {
+    "symbol": "UAEDT",
+    "name": "UAE Digital Token",
+    "decimals": 18,
+    "address": "0xcabf85f156d6f1f8f605c4b084b1d2da98eef2b4"
+  },
+  "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7": {
+    "symbol": "cvxCRV",
+    "name": "Convex CRV",
+    "decimals": 18,
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7"
+  },
+  "0xc425c0877c7b0f8179cdbd636b2efe3204b24bc4": {
+    "symbol": "SPANK",
+    "name": "SPANKER",
+    "decimals": 18,
+    "address": "0xc425c0877c7b0f8179cdbd636b2efe3204b24bc4"
+  },
+  "0xcafe001067cdef266afb7eb5a286dcfd277f3de5": {
+    "symbol": "PSP",
+    "name": "ParaSwap",
+    "decimals": 18,
+    "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5"
+  }
+}

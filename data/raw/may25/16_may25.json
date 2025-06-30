@@ -1,0 +1,134 @@
+{
+  "0x5170c36e46944b4fe49906bddb870a51a8341c0a": {
+    "symbol": "TRUMP2028",
+    "name": "TRUMP2028",
+    "decimals": 9,
+    "address": "0x5170c36e46944b4fe49906bddb870a51a8341c0a"
+  },
+  "0x53f7c6d7020c30fb2ff741f3b7a23c9224cb946d": {
+    "symbol": "ROT",
+    "name": "Happy Rot",
+    "decimals": 9,
+    "address": "0x53f7c6d7020c30fb2ff741f3b7a23c9224cb946d"
+  },
+  "0x257789f267f29f10d37325be7255d6e17784b215": {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 18,
+    "address": "0x257789f267f29f10d37325be7255d6e17784b215"
+  },
+  "0x925306f5ebf06ba2827262d5646b8b9b73d66d8e": {
+    "symbol": "ME",
+    "name": "Me",
+    "decimals": 18,
+    "address": "0x925306f5ebf06ba2827262d5646b8b9b73d66d8e"
+  },
+  "0x89f5a5f40d43770de6eeb0ae2b9cc741e9b07654": {
+    "symbol": "AMR",
+    "name": "Amerati",
+    "decimals": 18,
+    "address": "0x89f5a5f40d43770de6eeb0ae2b9cc741e9b07654"
+  },
+  "0x9cf34b631ba3c6185efd82377f68c56e88cb720c": {
+    "symbol": "MILORD",
+    "name": "Milord",
+    "decimals": 18,
+    "address": "0x9cf34b631ba3c6185efd82377f68c56e88cb720c"
+  },
+  "0x33848724117e639b1918a212a407dc39027f5765": {
+    "symbol": "PRAGLECTRA",
+    "name": "PECTRA MASCOT",
+    "decimals": 9,
+    "address": "0x33848724117e639b1918a212a407dc39027f5765"
+  },
+  "0x402c1af968510737d1340a7801feefa3c77d5489": {
+    "symbol": "MOLO",
+    "name": "Molo",
+    "decimals": 18,
+    "address": "0x402c1af968510737d1340a7801feefa3c77d5489"
+  },
+  "0x5c697fee285b513711a816018dbb34dc0cfc4875": {
+    "symbol": "MNTx",
+    "name": "Minutes Network Token",
+    "decimals": 18,
+    "address": "0x5c697fee285b513711a816018dbb34dc0cfc4875"
+  },
+  "0xdadcce284cd8568cf2f3a7617dc597c9e839735c": {
+    "symbol": "MOLO",
+    "name": "Molo",
+    "decimals": 18,
+    "address": "0xdadcce284cd8568cf2f3a7617dc597c9e839735c"
+  },
+  "0xe53dcec07d16d88e386ae0710e86d9a400f83c31": {
+    "symbol": "BABY",
+    "name": "Babylon",
+    "decimals": 6,
+    "address": "0xe53dcec07d16d88e386ae0710e86d9a400f83c31"
+  },
+  "0x6f54a25d12554df29198ded8868bb2e7fd7ec6a7": {
+    "symbol": "MOLO",
+    "name": "Molo",
+    "decimals": 18,
+    "address": "0x6f54a25d12554df29198ded8868bb2e7fd7ec6a7"
+  },
+  "0x9acdaa337226cdff1f507f7031811e5dd69d35a1": {
+    "symbol": "KENDU",
+    "name": "Kendu Inu",
+    "decimals": 18,
+    "address": "0x9acdaa337226cdff1f507f7031811e5dd69d35a1"
+  },
+  "0xed468841a1b0a12200b72605a5d2ccf1f0fdd4d0": {
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "decimals": 18,
+    "address": "0xed468841a1b0a12200b72605a5d2ccf1f0fdd4d0"
+  },
+  "0xdeff611cf093f5d428461bcb667339347ba756c8": {
+    "symbol": "XMR",
+    "name": "Monero",
+    "decimals": 18,
+    "address": "0xdeff611cf093f5d428461bcb667339347ba756c8"
+  },
+  "0x0e6cc64640de0eb4d9d388c7f24a452553289e3f": {
+    "symbol": "USDF",
+    "name": "USD-FEES",
+    "decimals": 18,
+    "address": "0x0e6cc64640de0eb4d9d388c7f24a452553289e3f"
+  },
+  "0x442a775b9ab4ea6b3c553e727e76ccff17fe8df6": {
+    "symbol": "TEST",
+    "name": "Test Token",
+    "decimals": 18,
+    "address": "0x442a775b9ab4ea6b3c553e727e76ccff17fe8df6"
+  },
+  "0xad8c98c6198a2eaa4c4c9736d629cac72c51642e": {
+    "symbol": "ETHTEST",
+    "name": "ETH Test Token",
+    "decimals": 18,
+    "address": "0xad8c98c6198a2eaa4c4c9736d629cac72c51642e"
+  },
+  "0xd418550ac6f2b0220524cbc04da93ce42126a3f7": {
+    "symbol": "ETHTEST",
+    "name": "ETH Test Token",
+    "decimals": 18,
+    "address": "0xd418550ac6f2b0220524cbc04da93ce42126a3f7"
+  },
+  "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c": {
+    "symbol": "EUROC",
+    "name": "Euro Coin",
+    "decimals": 6,
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+  },
+  "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+    "symbol": "XAUt",
+    "name": "Tether Gold",
+    "decimals": 6,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+  },
+  "0x7c815f246f1735d1da7a1c15cd024098be21dba8": {
+    "symbol": "TEST",
+    "name": "Test Token",
+    "decimals": 18,
+    "address": "0x7c815f246f1735d1da7a1c15cd024098be21dba8"
+  }
+}

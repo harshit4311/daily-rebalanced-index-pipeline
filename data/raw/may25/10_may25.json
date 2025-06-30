@@ -1,0 +1,116 @@
+{
+  "0xf816507e690f5aa4e29d164885eb5fa7a5627860": {
+    "symbol": "RATO",
+    "name": "Rato The Rat",
+    "decimals": 9,
+    "address": "0xf816507e690f5aa4e29d164885eb5fa7a5627860"
+  },
+  "0x9540a382dd8cb932680dc8dea6d2b65d10cb28ca": {
+    "symbol": "TBA",
+    "name": "Linea",
+    "decimals": 18,
+    "address": "0x9540a382dd8cb932680dc8dea6d2b65d10cb28ca"
+  },
+  "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090": {
+    "symbol": "MAX",
+    "name": "Matr1x",
+    "decimals": 18,
+    "address": "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090"
+  },
+  "0x83599937c2c9bea0e0e8ac096c6f32e86486b410": {
+    "symbol": "liquidBeraETH",
+    "name": "Ether.Fi Liquid Bera ETH",
+    "decimals": 18,
+    "address": "0x83599937c2c9bea0e0e8ac096c6f32e86486b410"
+  },
+  "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73": {
+    "symbol": "VIRTUAL",
+    "name": "Virtual Protocol",
+    "decimals": 18,
+    "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+  },
+  "0x3c98e7f58f5df18b61c1ad0f9c34524ff5e67f9c": {
+    "symbol": "BTCBULL",
+    "name": "BTC Bull",
+    "decimals": 18,
+    "address": "0x3c98e7f58f5df18b61c1ad0f9c34524ff5e67f9c"
+  },
+  "0x2273561363710a7c74c0e2544c25b538c03172fa": {
+    "symbol": "STC",
+    "name": "Statical Chain",
+    "decimals": 18,
+    "address": "0x2273561363710a7c74c0e2544c25b538c03172fa"
+  },
+  "0x707597c2da146295999414a8f6ff5efd00218a1d": {
+    "symbol": "\ud835\udcdf\ud835\udcee\ud835\udcf9\ud835\udcee",
+    "name": "Pepe by \ud835\udcdc\ud835\udcea\ud835\udcfd\ud835\udcfd \ud835\udcd5\ud835\udcfe\ud835\udcfb\ud835\udcf2\ud835\udcee",
+    "decimals": 18,
+    "address": "0x707597c2da146295999414a8f6ff5efd00218a1d"
+  },
+  "0x3f242babd02051d786a8d55eb641fa96d023e5b6": {
+    "symbol": "ARTX",
+    "name": "Artifex",
+    "decimals": 18,
+    "address": "0x3f242babd02051d786a8d55eb641fa96d023e5b6"
+  },
+  "0x29d841e527a782996fcffada222ac278dc7cd07f": {
+    "symbol": "FLUG",
+    "name": "FLUG Token",
+    "decimals": 18,
+    "address": "0x29d841e527a782996fcffada222ac278dc7cd07f"
+  },
+  "0x6810e776880c02933d47db1b9fc05908e5386b96": {
+    "symbol": "GNO",
+    "name": "Gnosis Token",
+    "decimals": 18,
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+  },
+  "0xf170371c448736c74f3d753ea27d30a8402512e4": {
+    "symbol": "DOOD",
+    "name": "Doodles",
+    "decimals": 18,
+    "address": "0xf170371c448736c74f3d753ea27d30a8402512e4"
+  },
+  "0x3d55968dfbbdbfd46368b9e1de5d6de69642a819": {
+    "symbol": "VOID",
+    "name": "VOID Token",
+    "decimals": 18,
+    "address": "0x3d55968dfbbdbfd46368b9e1de5d6de69642a819"
+  },
+  "0xb645f43266969ff209dd2962fbcb0ad9f54109fe": {
+    "symbol": "PLG",
+    "name": "PLAGIO",
+    "decimals": 18,
+    "address": "0xb645f43266969ff209dd2962fbcb0ad9f54109fe"
+  },
+  "0xfaab3aa7a7864a8826aa0b7c932b21997cef4949": {
+    "symbol": "PURPE",
+    "name": "PURPLE PEPE",
+    "decimals": 18,
+    "address": "0xfaab3aa7a7864a8826aa0b7c932b21997cef4949"
+  },
+  "0xc382e04099a435439725bb40647e2b32dc136806": {
+    "symbol": "COGE",
+    "name": "Cogecoin",
+    "decimals": 18,
+    "address": "0xc382e04099a435439725bb40647e2b32dc136806"
+  },
+  "0x9beeea83df817f81617ff4eeaa5e540ee54843f8": {
+    "symbol": "KHAN",
+    "name": "KHANS Token",
+    "decimals": 18,
+    "address": "0x9beeea83df817f81617ff4eeaa5e540ee54843f8"
+  },
+  "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b": {
+    "symbol": "NEURON",
+    "name": "Cerebrum DAO Token",
+    "decimals": 18,
+    "address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b"
+  },
+  "0xcb1592591996765ec0efc1f92599a19767ee5ffa": {
+    "symbol": "BIO",
+    "name": "BIO",
+    "decimals": 18,
+    "address": "0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+  }
+}

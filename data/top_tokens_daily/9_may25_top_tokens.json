@@ -1,0 +1,80 @@
+{
+  "0x034d6fd92338e6e86029337e1160ec8ca6911af6": {
+    "symbol": "DAGZ",
+    "name": "Dawgz AI",
+    "decimals": 18,
+    "address": "0x034d6fd92338e6e86029337e1160ec8ca6911af6"
+  },
+  "0xfb70859efec2ceb84dd4935a0842aa69290020bc": {
+    "symbol": "PAIRS",
+    "name": "PAIRS",
+    "decimals": 18,
+    "address": "0xfb70859efec2ceb84dd4935a0842aa69290020bc"
+  },
+  "0xa8b1e10ecffa6dccbeac06af2dc90d417ca0dc30": {
+    "symbol": "AEL",
+    "name": "\u00c6",
+    "decimals": 18,
+    "address": "0xa8b1e10ecffa6dccbeac06af2dc90d417ca0dc30"
+  },
+  "0x77f02d5756cf30b0715526597f906e5a89b76261": {
+    "symbol": "MLRD",
+    "name": "Milords Cult",
+    "decimals": 18,
+    "address": "0x77f02d5756cf30b0715526597f906e5a89b76261"
+  },
+  "0x9ab077f0bc583ffd7e82fc98f854ffd5b2b5a9bb": {
+    "symbol": "MLRD",
+    "name": "Milords Cult",
+    "decimals": 18,
+    "address": "0x9ab077f0bc583ffd7e82fc98f854ffd5b2b5a9bb"
+  },
+  "0x72538c3cd6bab2125dce647ae564e9924581f00f": {
+    "symbol": "f00f",
+    "name": "f00f",
+    "decimals": 18,
+    "address": "0x72538c3cd6bab2125dce647ae564e9924581f00f"
+  },
+  "0x577430e4044f53c64f2c44e61c02c87b0afc5ee6": {
+    "symbol": "PEKTALIK",
+    "name": "Pektalik",
+    "decimals": 18,
+    "address": "0x577430e4044f53c64f2c44e61c02c87b0afc5ee6"
+  },
+  "0x45e465e4735b42721fb6fe610bc7e76c89a87000": {
+    "symbol": "NSAI",
+    "name": "Naturally Smart AI",
+    "decimals": 18,
+    "address": "0x45e465e4735b42721fb6fe610bc7e76c89a87000"
+  },
+  "0x8dc6a2ea3b7c666070b9d832fbf02ea9b5b64c6c": {
+    "symbol": "EVOLV",
+    "name": "EVOLV Coin",
+    "decimals": 18,
+    "address": "0x8dc6a2ea3b7c666070b9d832fbf02ea9b5b64c6c"
+  },
+  "0x8678e976f5f989ac5856bb7e2cc1e266c3d91dcf": {
+    "symbol": "CLAM",
+    "name": "CLAM Token",
+    "decimals": 18,
+    "address": "0x8678e976f5f989ac5856bb7e2cc1e266c3d91dcf"
+  },
+  "0xa96493effe64b5b3d8aff21b4ff998ac1aae9ef8": {
+    "symbol": "RVC",
+    "name": "Renovacoins",
+    "decimals": 18,
+    "address": "0xa96493effe64b5b3d8aff21b4ff998ac1aae9ef8"
+  },
+  "0x4f4e65339ae6ec09fb3441bbf765728cfd660244": {
+    "symbol": "EXEX",
+    "name": "Exponential Meal",
+    "decimals": 18,
+    "address": "0x4f4e65339ae6ec09fb3441bbf765728cfd660244"
+  },
+  "0x3bca01bcf0fe0e6ad3c3935b9d7db51459a255e5": {
+    "symbol": "CEA",
+    "name": "Cearra",
+    "decimals": 18,
+    "address": "0x3bca01bcf0fe0e6ad3c3935b9d7db51459a255e5"
+  }
+}

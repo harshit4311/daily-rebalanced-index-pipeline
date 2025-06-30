@@ -1,0 +1,134 @@
+{
+  "0xb32844f2260ce6c05ef6227ae8824dc90f6e9e9e": {
+    "symbol": "E",
+    "name": "Eagle",
+    "decimals": 18,
+    "address": "0xb32844f2260ce6c05ef6227ae8824dc90f6e9e9e"
+  },
+  "0xd014cb8d4bbccb75fc3a7c941528fd5e891259cf": {
+    "symbol": "L",
+    "name": "Launch On USD1",
+    "decimals": 18,
+    "address": "0xd014cb8d4bbccb75fc3a7c941528fd5e891259cf"
+  },
+  "0xb59490ab09a0f526cc7305822ac65f2ab12f9723": {
+    "symbol": "LIT",
+    "name": "Litentry",
+    "decimals": 18,
+    "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723"
+  },
+  "0xa7fd70dcec903acee37626be5ebed5c607b0ecaa": {
+    "symbol": "yay",
+    "name": "yayyay",
+    "decimals": 18,
+    "address": "0xa7fd70dcec903acee37626be5ebed5c607b0ecaa"
+  },
+  "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0": {
+    "symbol": "RIO",
+    "name": "Realio Network",
+    "decimals": 18,
+    "address": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0"
+  },
+  "0x475d8825f4d427223615e9ab288e190d463a1f9d": {
+    "symbol": "HYPE",
+    "name": "Hype Coin",
+    "decimals": 18,
+    "address": "0x475d8825f4d427223615e9ab288e190d463a1f9d"
+  },
+  "0x285132d7f303e17b970e9bce592066cbbaaf84d0": {
+    "symbol": "FET",
+    "name": "rtificial Superintegence ",
+    "decimals": 18,
+    "address": "0x285132d7f303e17b970e9bce592066cbbaaf84d0"
+  },
+  "0x896ec31e2121f53befa718705406f8188bab60ba": {
+    "symbol": "VIRGEN",
+    "name": "VIRGEN",
+    "decimals": 18,
+    "address": "0x896ec31e2121f53befa718705406f8188bab60ba"
+  },
+  "0x455ad1bc4e18fd4e369234b6e11d88acbc416758": {
+    "symbol": "BRCT",
+    "name": "BRCT",
+    "decimals": 18,
+    "address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758"
+  },
+  "0x944193c8635318510ecce06bf797c8883484c010": {
+    "symbol": "SFUK",
+    "name": "Sochi Financial and Legal",
+    "decimals": 18,
+    "address": "0x944193c8635318510ecce06bf797c8883484c010"
+  },
+  "0xc46841740facfdaad6e530a708837848295b73f3": {
+    "symbol": "VIRGEN",
+    "name": "VIRGEN",
+    "decimals": 18,
+    "address": "0xc46841740facfdaad6e530a708837848295b73f3"
+  },
+  "0xee4048d7372b55f3b0a7f9d14a129bd8d709b5d4": {
+    "symbol": "HUMA",
+    "name": "Huma Finance",
+    "decimals": 18,
+    "address": "0xee4048d7372b55f3b0a7f9d14a129bd8d709b5d4"
+  },
+  "0x0870866a9bab7efcaedb6943d44fc436cb1822db": {
+    "symbol": "SHQP",
+    "name": "ShqipCoin",
+    "decimals": 18,
+    "address": "0x0870866a9bab7efcaedb6943d44fc436cb1822db"
+  },
+  "0xe5532d8a0317129cc2e2cc0618c316ff1d60de40": {
+    "symbol": "INJ",
+    "name": "Injective",
+    "decimals": 18,
+    "address": "0xe5532d8a0317129cc2e2cc0618c316ff1d60de40"
+  },
+  "0xe66747a101bff2dba3697199dcce5b743b454759": {
+    "symbol": "GT",
+    "name": "GateChainToken",
+    "decimals": 18,
+    "address": "0xe66747a101bff2dba3697199dcce5b743b454759"
+  },
+  "0xf411903cbc70a74d22900a5de66a2dda66507255": {
+    "symbol": "VRA",
+    "name": "VERA",
+    "decimals": 18,
+    "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+  },
+  "0x8bac01414c4d105d659646972f7fb08a9a8b9c33": {
+    "symbol": "1",
+    "name": "ONE",
+    "decimals": 18,
+    "address": "0x8bac01414c4d105d659646972f7fb08a9a8b9c33"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0xe65cf686022872187b0eecacf2e0bea1e6b4d03d": {
+    "symbol": "DCAT",
+    "name": "DoorCat",
+    "decimals": 18,
+    "address": "0xe65cf686022872187b0eecacf2e0bea1e6b4d03d"
+  },
+  "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5": {
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "decimals": 18,
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+  },
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+  },
+  "0xed328e9c1179a30ddc1e7595e036aed8760c22af": {
+    "symbol": "MCADE",
+    "name": "Metacade",
+    "decimals": 18,
+    "address": "0xed328e9c1179a30ddc1e7595e036aed8760c22af"
+  }
+}

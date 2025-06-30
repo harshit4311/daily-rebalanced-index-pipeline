@@ -1,0 +1,98 @@
+{
+  "0xc71b5f631354be6853efe9c3ab6b9590f8302e81": {
+    "symbol": "ZK",
+    "name": "Polyhedra Network",
+    "decimals": 18,
+    "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81"
+  },
+  "0x3125cccd8862eee9e8f2160113871f50fbd55edd": {
+    "symbol": "Kobushi",
+    "name": "Pygmy Hippo",
+    "decimals": 9,
+    "address": "0x3125cccd8862eee9e8f2160113871f50fbd55edd"
+  },
+  "0x5752be09df0593cc2464ab420dde03de248be063": {
+    "symbol": "KRM",
+    "name": "Khurram Coin",
+    "decimals": 18,
+    "address": "0x5752be09df0593cc2464ab420dde03de248be063"
+  },
+  "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c": {
+    "symbol": "JUSDT",
+    "name": "JSONRCV USDT",
+    "decimals": 18,
+    "address": "0x047330be3669bb9c4ba12eaf1e0ed923026ff60c"
+  },
+  "0xa80aae00112b04fd9a1fbedd0a5d76ab9eaa6670": {
+    "symbol": "p3",
+    "name": "p3",
+    "decimals": 8,
+    "address": "0xa80aae00112b04fd9a1fbedd0a5d76ab9eaa6670"
+  },
+  "0xea6ca78406074a70139227d9f006f9f6c9ca934c": {
+    "symbol": "XIP",
+    "name": "XiPower Token",
+    "decimals": 18,
+    "address": "0xea6ca78406074a70139227d9f006f9f6c9ca934c"
+  },
+  "0xa0ef786bf476fe0810408caba05e536ac800ff86": {
+    "symbol": "MYRIA",
+    "name": "Myria",
+    "decimals": 18,
+    "address": "0xa0ef786bf476fe0810408caba05e536ac800ff86"
+  },
+  "0xb3962174e3f1e0e458f163fb4589d2c5cb11c2df": {
+    "symbol": "Pectra",
+    "name": "Pectra upgrade",
+    "decimals": 18,
+    "address": "0xb3962174e3f1e0e458f163fb4589d2c5cb11c2df"
+  },
+  "0xbaa25e9eb27e0fb25f4e8d1dd283d5f23e8fb776": {
+    "symbol": "DONKEY",
+    "name": "donkey",
+    "decimals": 18,
+    "address": "0xbaa25e9eb27e0fb25f4e8d1dd283d5f23e8fb776"
+  },
+  "0xfd14911a383af49e09eb63bf24f3c135bf2c93c7": {
+    "symbol": "GE",
+    "name": "GAWES",
+    "decimals": 18,
+    "address": "0xfd14911a383af49e09eb63bf24f3c135bf2c93c7"
+  },
+  "0x39fbbabf11738317a448031930706cd3e612e1b9": {
+    "symbol": "WXRP",
+    "name": "Wrapped XRP",
+    "decimals": 18,
+    "address": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+  },
+  "0x96a5399d07896f757bd4c6ef56461f58db951862": {
+    "symbol": "DRAGONX",
+    "name": "DragonX",
+    "decimals": 18,
+    "address": "0x96a5399d07896f757bd4c6ef56461f58db951862"
+  },
+  "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1": {
+    "symbol": "TITANX",
+    "name": "TITAN X",
+    "decimals": 18,
+    "address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1"
+  },
+  "0x72d5d556bc3c14fd451d71b435b444d5fc0c092c": {
+    "symbol": "Leaf flow",
+    "name": "Leaf",
+    "decimals": 18,
+    "address": "0x72d5d556bc3c14fd451d71b435b444d5fc0c092c"
+  },
+  "0x84cd68c3e470ecee4b8b6212efcb8c6bcb38da1d": {
+    "symbol": "BND",
+    "name": "DokiDoki.Chainbinders",
+    "decimals": 18,
+    "address": "0x84cd68c3e470ecee4b8b6212efcb8c6bcb38da1d"
+  },
+  "0xd418dbd9a83d483677d52eb8d56bb35a93bdf77e": {
+    "symbol": "ARKCOIN",
+    "name": "ArkCoin",
+    "decimals": 18,
+    "address": "0xd418dbd9a83d483677d52eb8d56bb35a93bdf77e"
+  }
+}

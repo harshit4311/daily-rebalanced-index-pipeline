@@ -1,0 +1,86 @@
+{
+  "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958": {
+    "symbol": "wXTM",
+    "name": "WrappedXTM",
+    "decimals": 18,
+    "address": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958"
+  },
+  "0x9917dcff590cb7a880c426a8b5dc945070e89d17": {
+    "symbol": "NITK",
+    "name": "Nahmii Network",
+    "decimals": 18,
+    "address": "0x9917dcff590cb7a880c426a8b5dc945070e89d17"
+  },
+  "0x0b34b2474a30c1bff0d89f851d69cc9bb87a122d": {
+    "symbol": "SPION",
+    "name": "Spioniro",
+    "decimals": 18,
+    "address": "0x0b34b2474a30c1bff0d89f851d69cc9bb87a122d"
+  },
+  "0x2fac393c38c96ec496e95ea6d2b44f20c7209ee7": {
+    "symbol": "EGG",
+    "name": "EGG",
+    "decimals": 18,
+    "address": "0x2fac393c38c96ec496e95ea6d2b44f20c7209ee7"
+  },
+  "0x0ba3845ed62723ad2290d316bd469708c1f87e63": {
+    "symbol": "PEPEV2",
+    "name": "PepeV2",
+    "decimals": 9,
+    "address": "0x0ba3845ed62723ad2290d316bd469708c1f87e63"
+  },
+  "0xe94d107ffe88a165faa0abb9e251875f3dc488c2": {
+    "symbol": "PXL",
+    "name": "0xPixels",
+    "decimals": 18,
+    "address": "0xe94d107ffe88a165faa0abb9e251875f3dc488c2"
+  },
+  "0x1db1591540d7a6062be0837ca3c808add28844f6": {
+    "symbol": "hOHM",
+    "name": "Origami hOHM",
+    "decimals": 18,
+    "address": "0x1db1591540d7a6062be0837ca3c808add28844f6"
+  },
+  "0xc2d4e8d9e2a4022221359613b35fddcf63e80d60": {
+    "symbol": "STICK",
+    "name": "Bolt of ZEUS",
+    "decimals": 18,
+    "address": "0xc2d4e8d9e2a4022221359613b35fddcf63e80d60"
+  },
+  "0x39a7d8222e409abd2222726a0d5cc7912e20183e": {
+    "symbol": "BEER2",
+    "name": "Beercoin 2",
+    "decimals": 18,
+    "address": "0x39a7d8222e409abd2222726a0d5cc7912e20183e"
+  },
+  "0x0661702c8fe7a2258037fe2dc3c8472f5dc72441": {
+    "symbol": "RTK",
+    "name": "Remix token",
+    "decimals": 6,
+    "address": "0x0661702c8fe7a2258037fe2dc3c8472f5dc72441"
+  },
+  "0xbbbb3fd57b67a95788947d3ab4ebdf8d3e7f00cc": {
+    "symbol": "INDI",
+    "name": "Indicoin",
+    "decimals": 18,
+    "address": "0xbbbb3fd57b67a95788947d3ab4ebdf8d3e7f00cc"
+  },
+  "0x2b5985c1b470620c0cd8ef1e106b90e75c89ac76": {
+    "symbol": "SANTA",
+    "name": "SANTA by Virtuals",
+    "decimals": 18,
+    "address": "0x2b5985c1b470620c0cd8ef1e106b90e75c89ac76"
+  },
+  "0x8dc372b9e165dcf17f6e6c3494c2acdbf7b071a5": {
+    "symbol": "SFC",
+    "name": "SEIFCOIN",
+    "decimals": 18,
+    "address": "0x8dc372b9e165dcf17f6e6c3494c2acdbf7b071a5"
+  },
+  "0xd3d54524ed1ac4be93119535f20bde861df51aa8": {
+    "symbol": "MTP",
+    "name": "Motop",
+    "decimals": 18,
+    "address": "0xd3d54524ed1ac4be93119535f20bde861df51aa8"
+  }
+}

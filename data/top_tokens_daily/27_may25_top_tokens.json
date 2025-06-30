@@ -1,0 +1,176 @@
+{
+  "0x3157874a7508fcf972379d24590c6806522b784f": {
+    "symbol": "PFVS",
+    "name": "Puffverse Token",
+    "decimals": 18,
+    "address": "0x3157874a7508fcf972379d24590c6806522b784f"
+  },
+  "0x995be336bbaca57ee93a0e561f9f0db091525fe7": {
+    "symbol": "MOON",
+    "name": "Moon Line Friend",
+    "decimals": 18,
+    "address": "0x995be336bbaca57ee93a0e561f9f0db091525fe7"
+  },
+  "0x242757d4fdab56aa5135677ffcecd39719ccf458": {
+    "symbol": "MOON",
+    "name": "MOON",
+    "decimals": 18,
+    "address": "0x242757d4fdab56aa5135677ffcecd39719ccf458"
+  },
+  "0x002b68e699ab6cedc81e74e47f8a511dac6ecb11": {
+    "symbol": "CONY",
+    "name": "Cony",
+    "decimals": 18,
+    "address": "0x002b68e699ab6cedc81e74e47f8a511dac6ecb11"
+  },
+  "0x104d762838bb2ec8f63cc7bc217d2336a3adadec": {
+    "symbol": "BCAI",
+    "name": "BLACK CAT AI",
+    "decimals": 18,
+    "address": "0x104d762838bb2ec8f63cc7bc217d2336a3adadec"
+  },
+  "0x9ca99220ebc4b16b458f4ef28933a5a8d8f918f5": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x9ca99220ebc4b16b458f4ef28933a5a8d8f918f5"
+  },
+  "0xfca88920ca5639ad5e954ea776e73dec54fdc065": {
+    "symbol": "\ud83d\udda8\ufe0f",
+    "name": "WORLDS GREATEST ETHEREUM PRINTER",
+    "decimals": 18,
+    "address": "0xfca88920ca5639ad5e954ea776e73dec54fdc065"
+  },
+  "0x40182f077c53d261fc8fbc69ecbb8434938eb04c": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x40182f077c53d261fc8fbc69ecbb8434938eb04c"
+  },
+  "0xa2e4ed3493231bbba8619881f5b1c124dc5968c7": {
+    "symbol": "QRL",
+    "name": "Quantum Resistant Ledger",
+    "decimals": 18,
+    "address": "0xa2e4ed3493231bbba8619881f5b1c124dc5968c7"
+  },
+  "0x13aaa700691938d41c152f2fd7a2252e55904be6": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x13aaa700691938d41c152f2fd7a2252e55904be6"
+  },
+  "0x3a0132a21da1a2d2cd3dc10851c33a1de0230a15": {
+    "symbol": "HSN",
+    "name": "Mercenary",
+    "decimals": 18,
+    "address": "0x3a0132a21da1a2d2cd3dc10851c33a1de0230a15"
+  },
+  "0xd39be2aceac2d9c3b3620aefd5e9e9d4d10aac92": {
+    "symbol": "WRBTC",
+    "name": " WrappedBitcoin",
+    "decimals": 18,
+    "address": "0xd39be2aceac2d9c3b3620aefd5e9e9d4d10aac92"
+  },
+  "0x97acbc7372928fd73e803b8d08951cfa3cbbf726": {
+    "symbol": "SEND",
+    "name": "Suilend",
+    "decimals": 18,
+    "address": "0x97acbc7372928fd73e803b8d08951cfa3cbbf726"
+  },
+  "0xb8d74621282aa7d5aecd879569f8fcf0870fe4ae": {
+    "symbol": "MAMO",
+    "name": "Mamo",
+    "decimals": 18,
+    "address": "0xb8d74621282aa7d5aecd879569f8fcf0870fe4ae"
+  },
+  "0x79db0ea3d05592800885c5d6e8d49ec7febd2f11": {
+    "symbol": "AIXBT",
+    "name": "aixbt by Virtuals",
+    "decimals": 18,
+    "address": "0x79db0ea3d05592800885c5d6e8d49ec7febd2f11"
+  },
+  "0xc7a360806172083ec0bde812ba80d197637c5ce6": {
+    "symbol": "HYPER",
+    "name": "Hyperlane",
+    "decimals": 18,
+    "address": "0xc7a360806172083ec0bde812ba80d197637c5ce6"
+  },
+  "0x71e14abecb98b4bc4f4043e5075cc6cf534cd198": {
+    "symbol": "BYTE",
+    "name": "BYTE",
+    "decimals": 18,
+    "address": "0x71e14abecb98b4bc4f4043e5075cc6cf534cd198"
+  },
+  "0x8b43684bec5656307227e738bda1504538714f98": {
+    "symbol": "tst",
+    "name": "tst",
+    "decimals": 18,
+    "address": "0x8b43684bec5656307227e738bda1504538714f98"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0x00f116ac0c304c570daaa68fa6c30a86a04b5c5f": {
+    "symbol": "INF",
+    "name": "INFERNO",
+    "decimals": 18,
+    "address": "0x00f116ac0c304c570daaa68fa6c30a86a04b5c5f"
+  },
+  "0xfeb48b600fb9bb991b2fa27ff30e783d88593ebd": {
+    "symbol": "INFX",
+    "name": "INFERNOX",
+    "decimals": 18,
+    "address": "0xfeb48b600fb9bb991b2fa27ff30e783d88593ebd"
+  },
+  "0x2a11ec5f3d9b547dc7a4f64fa8c34630579ca913": {
+    "symbol": "test",
+    "name": "test",
+    "decimals": 18,
+    "address": "0x2a11ec5f3d9b547dc7a4f64fa8c34630579ca913"
+  },
+  "0x40e3d1a4b2c47d9aa61261f5606136ef73e28042": {
+    "symbol": "SERV",
+    "name": "OpenServ",
+    "decimals": 18,
+    "address": "0x40e3d1a4b2c47d9aa61261f5606136ef73e28042"
+  },
+  "0xe2ed30e48f68d220c0f1934635722c988a3739d1": {
+    "symbol": "TST",
+    "name": "TST",
+    "decimals": 18,
+    "address": "0xe2ed30e48f68d220c0f1934635722c988a3739d1"
+  },
+  "0xb60fdf036f2ad584f79525b5da76c5c531283a1b": {
+    "symbol": "NEMO",
+    "name": "Nemo Sum",
+    "decimals": 9,
+    "address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b"
+  },
+  "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+    "symbol": "K\u016aKA",
+    "name": "K\u016aKA",
+    "decimals": 18,
+    "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
+  },
+  "0x1db1591540d7a6062be0837ca3c808add28844f6": {
+    "symbol": "hOHM",
+    "name": "Origami hOHM",
+    "decimals": 18,
+    "address": "0x1db1591540d7a6062be0837ca3c808add28844f6"
+  },
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+  },
+  "0x04acaf8d2865c0714f79da09645c13fd2888977f": {
+    "symbol": "WFRAX",
+    "name": "Wrapped Frax",
+    "decimals": 18,
+    "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f"
+  }
+}

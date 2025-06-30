@@ -1,0 +1,116 @@
+{
+  "0xe6bfd33f52d82ccb5b37e16d3dd81f9ffdabb195": {
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "decimals": 18,
+    "address": "0xe6bfd33f52d82ccb5b37e16d3dd81f9ffdabb195"
+  },
+  "0x0fb1eedbc85805e075db6d01009ca841aca8d88a": {
+    "symbol": "EAGLE",
+    "name": "Eagle",
+    "decimals": 18,
+    "address": "0x0fb1eedbc85805e075db6d01009ca841aca8d88a"
+  },
+  "0xee5e7f6384f85ff55d291d8f8960a9da8cf5e124": {
+    "symbol": "BLUCHK",
+    "name": "BlueCheck",
+    "decimals": 18,
+    "address": "0xee5e7f6384f85ff55d291d8f8960a9da8cf5e124"
+  },
+  "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057": {
+    "symbol": "FX",
+    "name": "Function X",
+    "decimals": 18,
+    "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057"
+  },
+  "0xc35c5aead955af97ec7210cb849408288d84724a": {
+    "symbol": "GIRAFFE",
+    "name": "Giraffe Pectra",
+    "decimals": 18,
+    "address": "0xc35c5aead955af97ec7210cb849408288d84724a"
+  },
+  "0x35faeb382ef336fd85a67c56c2744a0b5f3f6cc4": {
+    "symbol": "TRUF",
+    "name": "TRUF Token",
+    "decimals": 18,
+    "address": "0x35faeb382ef336fd85a67c56c2744a0b5f3f6cc4"
+  },
+  "0x4b1f8f498356d89c6f7484d7322e7dbddd9368f3": {
+    "symbol": "gUPtst",
+    "name": "Gearuptst",
+    "decimals": 18,
+    "address": "0x4b1f8f498356d89c6f7484d7322e7dbddd9368f3"
+  },
+  "0xdd6942bda15c793a61d2c1efea56410881a94583": {
+    "symbol": "Alex",
+    "name": "Polish",
+    "decimals": 18,
+    "address": "0xdd6942bda15c793a61d2c1efea56410881a94583"
+  },
+  "0xb539073cf919037c1375558a881a3c748a2d2063": {
+    "symbol": "CIK",
+    "name": "Christ is King",
+    "decimals": 18,
+    "address": "0xb539073cf919037c1375558a881a3c748a2d2063"
+  },
+  "0xe38b3c4f781c1f7a9f71bee54175f752b3a0fbc8": {
+    "symbol": "USDTBB",
+    "name": "BabyUSDT",
+    "decimals": 18,
+    "address": "0xe38b3c4f781c1f7a9f71bee54175f752b3a0fbc8"
+  },
+  "0xdc3b563f3596fd7f1dac7c15321583df73fe7c54": {
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "decimals": 18,
+    "address": "0xdc3b563f3596fd7f1dac7c15321583df73fe7c54"
+  },
+  "0xe2993a938a3b895fdc183c9334bd5812f68124bd": {
+    "symbol": "$WLFI",
+    "name": "$WLFI",
+    "decimals": 18,
+    "address": "0xe2993a938a3b895fdc183c9334bd5812f68124bd"
+  },
+  "0x76862f7231f3abe11ed42b6c88721fb2dde935a5": {
+    "symbol": "PARTY",
+    "name": "PARTY",
+    "decimals": 18,
+    "address": "0x76862f7231f3abe11ed42b6c88721fb2dde935a5"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  },
+  "0x6a6fee4cc1ca7f0cb45c004e954f6199d955cd9d": {
+    "symbol": "MAGA",
+    "name": "Make America Great Again",
+    "decimals": 18,
+    "address": "0x6a6fee4cc1ca7f0cb45c004e954f6199d955cd9d"
+  },
+  "0x4dd5df11dd59e93a4b88b6b147eb3cee1f2435e4": {
+    "symbol": "SLK",
+    "name": "SLK Token",
+    "decimals": 18,
+    "address": "0x4dd5df11dd59e93a4b88b6b147eb3cee1f2435e4"
+  },
+  "0x17906b1cd88aa8efaefc5e82891b52a22219bd45": {
+    "symbol": "SUPR",
+    "name": "Superseed",
+    "decimals": 18,
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45"
+  },
+  "0x5c05e82be66b19476bacb558e62e7d449b98635f": {
+    "symbol": "tUSDT",
+    "name": "Mock USDT",
+    "decimals": 6,
+    "address": "0x5c05e82be66b19476bacb558e62e7d449b98635f"
+  },
+  "0xba50ce891807a38374826a906fad9d99580ae037": {
+    "symbol": "tMVRK",
+    "name": "Mock MVRK",
+    "decimals": 6,
+    "address": "0xba50ce891807a38374826a906fad9d99580ae037"
+  }
+}

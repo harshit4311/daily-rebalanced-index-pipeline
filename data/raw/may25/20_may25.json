@@ -1,0 +1,146 @@
+{
+  "0xf8ea18ca502de3ffaa9b8ed95a21878ee41a2f4a": {
+    "symbol": "BOOCHIE",
+    "name": "Boochie by Matt Furie",
+    "decimals": 18,
+    "address": "0xf8ea18ca502de3ffaa9b8ed95a21878ee41a2f4a"
+  },
+  "0x90481b48a72b6281d4db596f99b4f76aaa6001ea": {
+    "symbol": "BEST",
+    "name": "Best Wallet Token",
+    "decimals": 18,
+    "address": "0x90481b48a72b6281d4db596f99b4f76aaa6001ea"
+  },
+  "0x75b3c5d819aff2ad925e20421fa06e5d305bcef3": {
+    "symbol": "BERAI",
+    "name": "BERALIS AI",
+    "decimals": 18,
+    "address": "0x75b3c5d819aff2ad925e20421fa06e5d305bcef3"
+  },
+  "0xbdbacbca5a657f937435fcfae104badbbc838261": {
+    "symbol": "MIKU",
+    "name": "Miku",
+    "decimals": 18,
+    "address": "0xbdbacbca5a657f937435fcfae104badbbc838261"
+  },
+  "0x3daf2a040a692f8d3cb63597b2b636b815439bd4": {
+    "symbol": "CIRCUS",
+    "name": "Circus Protocol Token",
+    "decimals": 18,
+    "address": "0x3daf2a040a692f8d3cb63597b2b636b815439bd4"
+  },
+  "0x2fb7fcf16a12c4f05a6f682b01403ccf75a3bbb3": {
+    "symbol": "FUKAID",
+    "name": "FUKAID",
+    "decimals": 18,
+    "address": "0x2fb7fcf16a12c4f05a6f682b01403ccf75a3bbb3"
+  },
+  "0x9119de9e19cba3e0e7c218025e107a025f64730e": {
+    "symbol": "LUNKY",
+    "name": "Lunky by Matt Furrie",
+    "decimals": 18,
+    "address": "0x9119de9e19cba3e0e7c218025e107a025f64730e"
+  },
+  "0xc8554b4f2c832e3e48c4ce587301307d1adf70da": {
+    "symbol": "TAIKI",
+    "name": "Taiki",
+    "decimals": 18,
+    "address": "0xc8554b4f2c832e3e48c4ce587301307d1adf70da"
+  },
+  "0xf5c1a694fbc64ab8c7515c454565e0b6925164b4": {
+    "symbol": "CRS",
+    "name": "Circus Protocol Token",
+    "decimals": 18,
+    "address": "0xf5c1a694fbc64ab8c7515c454565e0b6925164b4"
+  },
+  "0xa53ab5a1e7e03489839c76e7a7caca0d5df4ba40": {
+    "symbol": "OSN",
+    "name": "Osnovatel",
+    "decimals": 18,
+    "address": "0xa53ab5a1e7e03489839c76e7a7caca0d5df4ba40"
+  },
+  "0x71e0ca3f8207e31d4be4315302fd48c682a3c6c7": {
+    "symbol": "FUKAIDT",
+    "name": "FUKAIDT",
+    "decimals": 18,
+    "address": "0x71e0ca3f8207e31d4be4315302fd48c682a3c6c7"
+  },
+  "0x049144c3e4b76dcdaa8548892b6bfa9ff1fcfbb9": {
+    "symbol": "FUKAIDTH",
+    "name": "FUKAIDTH",
+    "decimals": 18,
+    "address": "0x049144c3e4b76dcdaa8548892b6bfa9ff1fcfbb9"
+  },
+  "0x0c7742f591edb3b948a6363e3efd8f0064adc5ba": {
+    "symbol": "BBC",
+    "name": "BBC Token",
+    "decimals": 18,
+    "address": "0x0c7742f591edb3b948a6363e3efd8f0064adc5ba"
+  },
+  "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9": {
+    "symbol": "KEKIUS",
+    "name": "Kekius Maximus",
+    "decimals": 9,
+    "address": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9"
+  },
+  "0x0b55aa8a39cd8b88df4814c9eeff07228b93b152": {
+    "symbol": "SUI",
+    "name": "Sui",
+    "decimals": 18,
+    "address": "0x0b55aa8a39cd8b88df4814c9eeff07228b93b152"
+  },
+  "0x39b0f587a685d131da59ffa62ba17ad97544dbaa": {
+    "symbol": "ERSEE",
+    "name": "ERsee",
+    "decimals": 18,
+    "address": "0x39b0f587a685d131da59ffa62ba17ad97544dbaa"
+  },
+  "0xf626017008c1426accfc3c627abec5614caedf22": {
+    "symbol": "PEPPER",
+    "name": "Pepper",
+    "decimals": 18,
+    "address": "0xf626017008c1426accfc3c627abec5614caedf22"
+  },
+  "0x7523ac4693c24bd7de82f7f1207e16ee90e55305": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x7523ac4693c24bd7de82f7f1207e16ee90e55305"
+  },
+  "0x7829c4ba182080ebc323da1b85acc007c1ad58b4": {
+    "symbol": "ERSEE",
+    "name": "ERsee",
+    "decimals": 18,
+    "address": "0x7829c4ba182080ebc323da1b85acc007c1ad58b4"
+  },
+  "0x28f67a16ebb46eb01f89e304f4d3d6dddae2b1fa": {
+    "symbol": "CHINPARU TOKEN",
+    "name": "Chinparu Token",
+    "decimals": 18,
+    "address": "0x28f67a16ebb46eb01f89e304f4d3d6dddae2b1fa"
+  },
+  "0xd31a59c85ae9d8edefec411d448f90841571b89c": {
+    "symbol": "SOL",
+    "name": "Wrapped SOL (Wormhole)",
+    "decimals": 9,
+    "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c"
+  },
+  "0x11c476471c115452ef90cbe8656bd1782588ef0c": {
+    "symbol": "$MYCL",
+    "name": "MyCollection1747730491644",
+    "decimals": 18,
+    "address": "0x11c476471c115452ef90cbe8656bd1782588ef0c"
+  },
+  "0xaafd1e28183da77a62a897df22943db1dec989f7": {
+    "symbol": "ERSEE",
+    "name": "ERsee",
+    "decimals": 18,
+    "address": "0xaafd1e28183da77a62a897df22943db1dec989f7"
+  },
+  "0xae9f227a68a307afa799fa024198ba6d1d83da4b": {
+    "symbol": "TARO",
+    "name": "TARO",
+    "decimals": 9,
+    "address": "0xae9f227a68a307afa799fa024198ba6d1d83da4b"
+  }
+}

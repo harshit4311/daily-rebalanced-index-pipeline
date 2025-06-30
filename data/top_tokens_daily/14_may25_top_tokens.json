@@ -1,0 +1,152 @@
+{
+  "0xa4392e3cef22679fa36704d37e5a8192cf8350f2": {
+    "symbol": "SUIAGENT",
+    "name": "aiSUI",
+    "decimals": 18,
+    "address": "0xa4392e3cef22679fa36704d37e5a8192cf8350f2"
+  },
+  "0x774eaf7a53471628768dc679da945847d34b9a55": {
+    "symbol": "GASS",
+    "name": "Gasspas",
+    "decimals": 18,
+    "address": "0x774eaf7a53471628768dc679da945847d34b9a55"
+  },
+  "0x5db240c901d5ff042a98cd6fd5cf823f65e0f80c": {
+    "symbol": "EMERALDS",
+    "name": "Emeralds",
+    "decimals": 18,
+    "address": "0x5db240c901d5ff042a98cd6fd5cf823f65e0f80c"
+  },
+  "0xde6aceaf7f2dceb3d425643c5f85351f2b38fcde": {
+    "symbol": "HQ",
+    "name": "Metaverse HQ",
+    "decimals": 18,
+    "address": "0xde6aceaf7f2dceb3d425643c5f85351f2b38fcde"
+  },
+  "0x58017808b5e37b741bbbf3cb539e27332d49d414": {
+    "symbol": "OWN",
+    "name": "The Internet You Own",
+    "decimals": 18,
+    "address": "0x58017808b5e37b741bbbf3cb539e27332d49d414"
+  },
+  "0x7474ac9567df468e142c7526ed5dd5d5ceea6a2d": {
+    "symbol": "JAC",
+    "name": "JUST A COIN",
+    "decimals": 18,
+    "address": "0x7474ac9567df468e142c7526ed5dd5d5ceea6a2d"
+  },
+  "0xe7a52a058d62450cbb346a8553f4ff07a4ab5970": {
+    "symbol": "ORLY",
+    "name": "ORLY ?",
+    "decimals": 18,
+    "address": "0xe7a52a058d62450cbb346a8553f4ff07a4ab5970"
+  },
+  "0x8d8c8795ef4b72c43a7e3f35bb7bc6d066359063": {
+    "symbol": "DD",
+    "name": "DesertDollar",
+    "decimals": 18,
+    "address": "0x8d8c8795ef4b72c43a7e3f35bb7bc6d066359063"
+  },
+  "0xd86830e9c56785e2b703eb0029ae71a943e4d442": {
+    "symbol": "KOBUSHI",
+    "name": "Kobushi",
+    "decimals": 9,
+    "address": "0xd86830e9c56785e2b703eb0029ae71a943e4d442"
+  },
+  "0x666acd390fa42d5bf86e9c42dc2fa6f6b4b2d8ab": {
+    "symbol": "GORTH",
+    "name": "Gorth",
+    "decimals": 18,
+    "address": "0x666acd390fa42d5bf86e9c42dc2fa6f6b4b2d8ab"
+  },
+  "0x0d4f2cc604eb79a9d1851c2b26f2660f0786831f": {
+    "symbol": "EurNum",
+    "name": "EURNUM",
+    "decimals": 18,
+    "address": "0x0d4f2cc604eb79a9d1851c2b26f2660f0786831f"
+  },
+  "0xedcd2f1ac4d568ac679d23a6d02c4589f42ff361": {
+    "symbol": "MIRROR",
+    "name": "MirrorToken",
+    "decimals": 18,
+    "address": "0xedcd2f1ac4d568ac679d23a6d02c4589f42ff361"
+  },
+  "0x0e26013cbd346476789fedfdc2975118a91f5e4b": {
+    "symbol": "SHYN",
+    "name": "SHYN",
+    "decimals": 5,
+    "address": "0x0e26013cbd346476789fedfdc2975118a91f5e4b"
+  },
+  "0x2226bf946438e2a5f5979b641de29e3eab021889": {
+    "symbol": "RATO2.0",
+    "name": "Rato The Rat2.0",
+    "decimals": 9,
+    "address": "0x2226bf946438e2a5f5979b641de29e3eab021889"
+  },
+  "0x98c29b3a30a118351d56589dd3622b89551e2da3": {
+    "symbol": "sETH",
+    "name": "Synthetic ETH",
+    "decimals": 18,
+    "address": "0x98c29b3a30a118351d56589dd3622b89551e2da3"
+  },
+  "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+  },
+  "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
+    "decimals": 18,
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+  },
+  "0xf273c889b0900cef5b7e23a658a25c3c94d4dbaf": {
+    "symbol": "RBT",
+    "name": "Robot Token",
+    "decimals": 18,
+    "address": "0xf273c889b0900cef5b7e23a658a25c3c94d4dbaf"
+  },
+  "0xf9ca9523e5b5a42c3018c62b084db8543478c400": {
+    "symbol": "LAKE",
+    "name": "Data Lake Token",
+    "decimals": 18,
+    "address": "0xf9ca9523e5b5a42c3018c62b084db8543478c400"
+  },
+  "0x109ba5f0230b7b39e4a8ab56e7361db89fa0e108": {
+    "symbol": "TURBO",
+    "name": "TURBO.WIN",
+    "decimals": 18,
+    "address": "0x109ba5f0230b7b39e4a8ab56e7361db89fa0e108"
+  },
+  "0x9f278dc799bbc61ecb8e5fb8035cbfa29803623b": {
+    "symbol": "BDX",
+    "name": "Baby DragonX",
+    "decimals": 18,
+    "address": "0x9f278dc799bbc61ecb8e5fb8035cbfa29803623b"
+  },
+  "0x75ffb8430148a80d41c37c80ebc8e4f38ff2f2ad": {
+    "symbol": "diUSD",
+    "name": "SUSD",
+    "decimals": 6,
+    "address": "0x75ffb8430148a80d41c37c80ebc8e4f38ff2f2ad"
+  },
+  "0xde0df4f9749d3d8ddbdd866d525a084b5e77ba35": {
+    "symbol": "wafUSD",
+    "name": "wafUSD",
+    "decimals": 18,
+    "address": "0xde0df4f9749d3d8ddbdd866d525a084b5e77ba35"
+  },
+  "0x36c5183e972a46109a97774551328e1948aad64b": {
+    "symbol": "DRTv2",
+    "name": "Decentralized Resource Token v2",
+    "decimals": 18,
+    "address": "0x36c5183e972a46109a97774551328e1948aad64b"
+  },
+  "0x2c899a490902352afa33bafb7fe89c9dd142f9d1": {
+    "symbol": "DRT",
+    "name": "Decentralized Resource Token",
+    "decimals": 18,
+    "address": "0x2c899a490902352afa33bafb7fe89c9dd142f9d1"
+  }
+}

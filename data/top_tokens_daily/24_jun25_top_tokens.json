@@ -1,1 +1,302 @@
-{}
+{
+  "0xd0ec028a3d21533fdd200838f39c85b03679285d": {
+    "symbol": "NEWT",
+    "name": "Newton",
+    "decimals": 18,
+    "address": "0xd0ec028a3d21533fdd200838f39c85b03679285d"
+  },
+  "0xc4d68acfdf0160cb8f21f50ea2c05926dd2b9d1d": {
+    "symbol": "UET",
+    "name": "Useless Ethereum Token",
+    "decimals": 18,
+    "address": "0xc4d68acfdf0160cb8f21f50ea2c05926dd2b9d1d"
+  },
+  "0xa08edfd78bcfbdaa576ee5a6300c0e05fe8cb257": {
+    "symbol": "KANDY",
+    "name": "Kandy by Matt Furie",
+    "decimals": 18,
+    "address": "0xa08edfd78bcfbdaa576ee5a6300c0e05fe8cb257"
+  },
+  "0xfb09c9e399ac0d460480059f4df4ab422e567ba1": {
+    "symbol": "PAGODA",
+    "name": "Pagoda",
+    "decimals": 18,
+    "address": "0xfb09c9e399ac0d460480059f4df4ab422e567ba1"
+  },
+  "0xd83b41d880b0c68db08073afa2405ad9ddb4b8a0": {
+    "symbol": "something",
+    "name": "something",
+    "decimals": 18,
+    "address": "0xd83b41d880b0c68db08073afa2405ad9ddb4b8a0"
+  },
+  "0x81db26bfc396a71ef8dac4b7aef4c6a5cd1f508e": {
+    "symbol": "YUMI",
+    "name": "Dev cat",
+    "decimals": 18,
+    "address": "0x81db26bfc396a71ef8dac4b7aef4c6a5cd1f508e"
+  },
+  "0xfb758c2904dd80d92c2c3ab6ec6184cf6ed4840f": {
+    "symbol": "TOMI",
+    "name": "KLIK FOUNDER CAT",
+    "decimals": 18,
+    "address": "0xfb758c2904dd80d92c2c3ab6ec6184cf6ed4840f"
+  },
+  "0x0ee7aac99afa8e5549e662a626acea2374795ccc": {
+    "symbol": "Dr. Elephant",
+    "name": "Tesla Mascot",
+    "decimals": 18,
+    "address": "0x0ee7aac99afa8e5549e662a626acea2374795ccc"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  "0x4cd05a2238b03ddc496f27d622b9d88c470c56be": {
+    "symbol": "the",
+    "name": "the protocol",
+    "decimals": 18,
+    "address": "0x4cd05a2238b03ddc496f27d622b9d88c470c56be"
+  },
+  "0xc2e6bd1ea13875f2730202ffe5d06dd6b4ce2cc0": {
+    "symbol": "PTS",
+    "name": "PEACE THROUGH STRENGTH",
+    "decimals": 18,
+    "address": "0xc2e6bd1ea13875f2730202ffe5d06dd6b4ce2cc0"
+  },
+  "0xe0fd15a233bb6937396e6bcb7f44146776f01dee": {
+    "symbol": "RORO",
+    "name": "Roro",
+    "decimals": 18,
+    "address": "0xe0fd15a233bb6937396e6bcb7f44146776f01dee"
+  },
+  "0xd9324e3a98b0c5b59f712c8101da67a8d040f91e": {
+    "symbol": "GILBERT",
+    "name": "Anonymous dragon",
+    "decimals": 18,
+    "address": "0xd9324e3a98b0c5b59f712c8101da67a8d040f91e"
+  },
+  "0x78c36fcd20bf0cc14b9d129d84bbe1808f4d68c3": {
+    "symbol": "FASC",
+    "name": "Gaseous Contract",
+    "decimals": 18,
+    "address": "0x78c36fcd20bf0cc14b9d129d84bbe1808f4d68c3"
+  },
+  "0x7ffe885dd859c672f7e71b1326e1a996fabbb343": {
+    "symbol": "PBJ",
+    "name": "Peanut Butter & Jelly",
+    "decimals": 18,
+    "address": "0x7ffe885dd859c672f7e71b1326e1a996fabbb343"
+  },
+  "0x53f35d23b8493451f7f765abbaf879bba13a8252": {
+    "symbol": "SNEZHOK",
+    "name": "Snezhok",
+    "decimals": 18,
+    "address": "0x53f35d23b8493451f7f765abbaf879bba13a8252"
+  },
+  "0x07120ae8f5560f2bddc2c2f57826c184b57e2590": {
+    "symbol": "NACHI",
+    "name": "Nachi No Ichi Go",
+    "decimals": 18,
+    "address": "0x07120ae8f5560f2bddc2c2f57826c184b57e2590"
+  },
+  "0xa1dfe17a7bf5596c1a1e20d9be42bccdd3398c01": {
+    "symbol": "MARVEL ",
+    "name": "MARVEL OFFICIAL COIN",
+    "decimals": 18,
+    "address": "0xa1dfe17a7bf5596c1a1e20d9be42bccdd3398c01"
+  },
+  "0x6c7b33cfbdc3205aa306bf8cd7752cdf20d7c5b3": {
+    "symbol": "SOCIALCOIN",
+    "name": "SocialCoin",
+    "decimals": 18,
+    "address": "0x6c7b33cfbdc3205aa306bf8cd7752cdf20d7c5b3"
+  },
+  "0x871a8503b81e9f77d3f8fee5f0f8f049c4eb6679": {
+    "symbol": "Loria",
+    "name": "Loria",
+    "decimals": 18,
+    "address": "0x871a8503b81e9f77d3f8fee5f0f8f049c4eb6679"
+  },
+  "0x2430e165f6632563dc749fa7232d131b09cae007": {
+    "symbol": "STEGGY",
+    "name": "Steggy",
+    "decimals": 18,
+    "address": "0x2430e165f6632563dc749fa7232d131b09cae007"
+  },
+  "0x5875c946825a84eb34327107da42743ef2fc75e2": {
+    "symbol": "EIP-7782",
+    "name": "EIP-7782",
+    "decimals": 18,
+    "address": "0x5875c946825a84eb34327107da42743ef2fc75e2"
+  },
+  "0x660902d44afd997c258a885e93e1f869e8abd9a9": {
+    "symbol": "DCA",
+    "name": "Dreams Coming Alive",
+    "decimals": 18,
+    "address": "0x660902d44afd997c258a885e93e1f869e8abd9a9"
+  },
+  "0xc0fdfb18b519b1ae2e0cd5658b41bb4716948bd5": {
+    "symbol": "ZUZALU",
+    "name": "Zuzalu",
+    "decimals": 18,
+    "address": "0xc0fdfb18b519b1ae2e0cd5658b41bb4716948bd5"
+  },
+  "0x88aa2316446c2c4f3ec6c33856127f69fd3c7691": {
+    "symbol": "YUMMY",
+    "name": "KLIK FOUNDER'S CAT",
+    "decimals": 18,
+    "address": "0x88aa2316446c2c4f3ec6c33856127f69fd3c7691"
+  },
+  "0x86db8dfd642aeb03a194b1bd089a1d5b11835cbe": {
+    "symbol": "EIP-7782",
+    "name": "EIP-7782",
+    "decimals": 18,
+    "address": "0x86db8dfd642aeb03a194b1bd089a1d5b11835cbe"
+  },
+  "0x3a7c0923c52beeb76b3466badfb8d68cdf9f610f": {
+    "symbol": "WhitePepe",
+    "name": "New Eth Mascot",
+    "decimals": 18,
+    "address": "0x3a7c0923c52beeb76b3466badfb8d68cdf9f610f"
+  },
+  "0x327102c2e11228ee0970d08b133009b683d1e7f8": {
+    "symbol": "DOOMER",
+    "name": "Doomer",
+    "decimals": 18,
+    "address": "0x327102c2e11228ee0970d08b133009b683d1e7f8"
+  },
+  "0xc8f0937558960823fd65ed115308d655b835f1c2": {
+    "symbol": "RATOS",
+    "name": "Ratos by Matt Furie",
+    "decimals": 18,
+    "address": "0xc8f0937558960823fd65ed115308d655b835f1c2"
+  },
+  "0xf86337bb94653225c42834afcc079b37a733dc69": {
+    "symbol": "wPEPE",
+    "name": "White PEPE",
+    "decimals": 18,
+    "address": "0xf86337bb94653225c42834afcc079b37a733dc69"
+  },
+  "0xf93c2254e072d0375dbe468a615d067822f2d4fb": {
+    "symbol": "ZENTRY",
+    "name": "Zentry AI",
+    "decimals": 18,
+    "address": "0xf93c2254e072d0375dbe468a615d067822f2d4fb"
+  },
+  "0x7b86a33d1af994ab9f7a8019c53fca790a9c0b65": {
+    "symbol": "DCA",
+    "name": "Dreams Coming Alive",
+    "decimals": 18,
+    "address": "0x7b86a33d1af994ab9f7a8019c53fca790a9c0b65"
+  },
+  "0x7feef25dde4779c08be1270f13c48136c245ec87": {
+    "symbol": "ILY",
+    "name": "THERE IS NO MEME, I LOVE YOU",
+    "decimals": 18,
+    "address": "0x7feef25dde4779c08be1270f13c48136c245ec87"
+  },
+  "0x43d7c24050c6db500d148f8c5c2132c99f20d491": {
+    "symbol": "Stuart Little",
+    "name": "Elon's Favorite Meme",
+    "decimals": 18,
+    "address": "0x43d7c24050c6db500d148f8c5c2132c99f20d491"
+  },
+  "0x56d0a1c441f3d0059bc6ed98f3e28dd43ee73eab": {
+    "symbol": "$BOK",
+    "name": "Build On Klik",
+    "decimals": 18,
+    "address": "0x56d0a1c441f3d0059bc6ed98f3e28dd43ee73eab"
+  },
+  "0x389539822546ef9cda94fa195cfc2c13d0c22a5e": {
+    "symbol": "VIC",
+    "name": " Vic Vibes",
+    "decimals": 18,
+    "address": "0x389539822546ef9cda94fa195cfc2c13d0c22a5e"
+  },
+  "0xb2f9f6de1d26fca9afbc9768a9ec88e5c917a1f2": {
+    "symbol": "RATOS",
+    "name": "Ratos by Matt Furie",
+    "decimals": 18,
+    "address": "0xb2f9f6de1d26fca9afbc9768a9ec88e5c917a1f2"
+  },
+  "0x2e583fbf0c7d0543f6a2bbe98680afb90068d13d": {
+    "symbol": "FASC",
+    "name": "Gaseous Contract",
+    "decimals": 18,
+    "address": "0x2e583fbf0c7d0543f6a2bbe98680afb90068d13d"
+  },
+  "0xad10a15ca09acbb08657b477201b5c957aa99f2e": {
+    "symbol": "Stuart Little",
+    "name": "Elon's Favorite Meme",
+    "decimals": 18,
+    "address": "0xad10a15ca09acbb08657b477201b5c957aa99f2e"
+  },
+  "0xfd495fff358fec19688746593c4b68288f2faa6e": {
+    "symbol": "WOOLLY",
+    "name": "Miniature Woolly Mammoth",
+    "decimals": 18,
+    "address": "0xfd495fff358fec19688746593c4b68288f2faa6e"
+  },
+  "0x473333657e8cacb4b1ab49a05defa8643e671279": {
+    "symbol": "Dr. Elephant",
+    "name": "Tesla Mascot",
+    "decimals": 18,
+    "address": "0x473333657e8cacb4b1ab49a05defa8643e671279"
+  },
+  "0xc20de7e19070070acf8b666864370ef5baa5c91f": {
+    "symbol": "Pazuzu",
+    "name": "Pazuzu",
+    "decimals": 18,
+    "address": "0xc20de7e19070070acf8b666864370ef5baa5c91f"
+  },
+  "0x8b432143ace80ff917fd1027fd008d559366dddd": {
+    "symbol": "SPCX",
+    "name": "SpaceX Token",
+    "decimals": 18,
+    "address": "0x8b432143ace80ff917fd1027fd008d559366dddd"
+  },
+  "0x79a0ceb51ade344704240343f7882a71c78c8d77": {
+    "symbol": "KERBE",
+    "name": "Kerbe",
+    "decimals": 18,
+    "address": "0x79a0ceb51ade344704240343f7882a71c78c8d77"
+  },
+  "0x8182d3ecd5b87325ed53a1207e256b9db981c637": {
+    "symbol": "ERC-420",
+    "name": "Extremely Roasted Coin",
+    "decimals": 18,
+    "address": "0x8182d3ecd5b87325ed53a1207e256b9db981c637"
+  },
+  "0xaf0bbaad6d72cc64533799ad93e9c2c839329ea3": {
+    "symbol": "X",
+    "name": "Collective Meta-Mind",
+    "decimals": 18,
+    "address": "0xaf0bbaad6d72cc64533799ad93e9c2c839329ea3"
+  },
+  "0xdee82572935c4ee068b50855028dceadae20af42": {
+    "symbol": "T2FART",
+    "name": "TEXT2FART",
+    "decimals": 18,
+    "address": "0xdee82572935c4ee068b50855028dceadae20af42"
+  },
+  "0xcb28e6ddf864979e0cc46105a967fc355149cd74": {
+    "symbol": "Pazuzu",
+    "name": "Pazuzu",
+    "decimals": 18,
+    "address": "0xcb28e6ddf864979e0cc46105a967fc355149cd74"
+  },
+  "0x1e4f75bfdb6a6ab6d602c10fdfe60f5b56b0374b": {
+    "symbol": "MARVEL",
+    "name": "MARVEL OFFICIAL COIN",
+    "decimals": 18,
+    "address": "0x1e4f75bfdb6a6ab6d602c10fdfe60f5b56b0374b"
+  },
+  "0xaf5be39dc45271e44b190553c3ac40b2a94a8abb": {
+    "symbol": "KYLE",
+    "name": "Kyle The Dog",
+    "decimals": 18,
+    "address": "0xaf5be39dc45271e44b190553c3ac40b2a94a8abb"
+  }
+}

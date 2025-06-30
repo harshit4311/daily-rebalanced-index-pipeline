@@ -1,0 +1,236 @@
+{
+  "0x13919f59286578600321f83941369e319dbc0bc5": {
+    "symbol": "B2",
+    "name": "B2",
+    "decimals": 9,
+    "address": "0x13919f59286578600321f83941369e319dbc0bc5"
+  },
+  "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610": {
+    "symbol": "ZEUS",
+    "name": "Zeus",
+    "decimals": 9,
+    "address": "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610"
+  },
+  "0xbca310e411998fe63db5cd60b856f39b601d8bd8": {
+    "symbol": "TUBBY",
+    "name": "Tubby Rainbow",
+    "decimals": 18,
+    "address": "0xbca310e411998fe63db5cd60b856f39b601d8bd8"
+  },
+  "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb": {
+    "symbol": "USI",
+    "name": "USIC Token",
+    "decimals": 18,
+    "address": "0x19112a9fc42536bf74f4d6269022f8fc2f9b38fb"
+  },
+  "0x1f60a7681ae9402aab0bd044d8fca51b5c85aa16": {
+    "symbol": "$TNR",
+    "name": "The Night Riders",
+    "decimals": 18,
+    "address": "0x1f60a7681ae9402aab0bd044d8fca51b5c85aa16"
+  },
+  "0xce87ed6e479a165b80d378bde0726e8cd08f8ceb": {
+    "symbol": "B2",
+    "name": "B2",
+    "decimals": 9,
+    "address": "0xce87ed6e479a165b80d378bde0726e8cd08f8ceb"
+  },
+  "0x1818c53bec3c55a6f782c070cf28635d940c8b11": {
+    "symbol": "Shadowgaze",
+    "name": "Shadowgaze by Matt Furie",
+    "decimals": 18,
+    "address": "0x1818c53bec3c55a6f782c070cf28635d940c8b11"
+  },
+  "0xbc51fe0597d2d62da3f7342164525a2bf482043d": {
+    "symbol": "MBT",
+    "name": "Master_BIT",
+    "decimals": 6,
+    "address": "0xbc51fe0597d2d62da3f7342164525a2bf482043d"
+  },
+  "0x70a056564ea9a22ca7222e6086c73d8a93a141a8": {
+    "symbol": "REY",
+    "name": "Rey Reserve",
+    "decimals": 18,
+    "address": "0x70a056564ea9a22ca7222e6086c73d8a93a141a8"
+  },
+  "0x51cb253744189f11241becb29bedd3f1b5384fdb": {
+    "symbol": "DMTR",
+    "name": "Dimitra Token",
+    "decimals": 18,
+    "address": "0x51cb253744189f11241becb29bedd3f1b5384fdb"
+  },
+  "0x44010973375d320be6ec899d1ff5f99871bb1a19": {
+    "symbol": "TIO",
+    "name": "Tio",
+    "decimals": 9,
+    "address": "0x44010973375d320be6ec899d1ff5f99871bb1a19"
+  },
+  "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e": {
+    "symbol": "TARA",
+    "name": "Taraxa",
+    "decimals": 18,
+    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e"
+  },
+  "0x8fd1ceb2464cdecf9fb48615161f00998bb099bf": {
+    "symbol": "MFBC",
+    "name": "Matt Furie's Boys Club",
+    "decimals": 18,
+    "address": "0x8fd1ceb2464cdecf9fb48615161f00998bb099bf"
+  },
+  "0x37e683d9a67ebbdfad4f1fe7d8d05b817375171e": {
+    "symbol": "NHH",
+    "name": "NIGGA HAIL HITLER",
+    "decimals": 18,
+    "address": "0x37e683d9a67ebbdfad4f1fe7d8d05b817375171e"
+  },
+  "0x0c6c89be1875b47c6471a7c7dd83bae9f3727891": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x0c6c89be1875b47c6471a7c7dd83bae9f3727891"
+  },
+  "0xffe47dff03d2c10307f94eeac252527f625695a0": {
+    "symbol": "RAND",
+    "name": "Pardee RAND Coin",
+    "decimals": 18,
+    "address": "0xffe47dff03d2c10307f94eeac252527f625695a0"
+  },
+  "0xbd66d7cd125c7c3857d78ad372b0a54b949abdb1": {
+    "symbol": "ZBCN",
+    "name": "Zebec Network",
+    "decimals": 18,
+    "address": "0xbd66d7cd125c7c3857d78ad372b0a54b949abdb1"
+  },
+  "0x3cff23c171f8bdccb6771ae9efa187e2f17cb476": {
+    "symbol": "GLD",
+    "name": "GoldenToken",
+    "decimals": 18,
+    "address": "0x3cff23c171f8bdccb6771ae9efa187e2f17cb476"
+  },
+  "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9": {
+    "symbol": "sENA",
+    "name": "Staked ENA",
+    "decimals": 18,
+    "address": "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9"
+  },
+  "0x3b1b728780919c1ed06b2969f4ec6dac16c259f3": {
+    "symbol": "TNT",
+    "name": "TNT Token",
+    "decimals": 18,
+    "address": "0x3b1b728780919c1ed06b2969f4ec6dac16c259f3"
+  },
+  "0x04acaf8d2865c0714f79da09645c13fd2888977f": {
+    "symbol": "WFRAX",
+    "name": "Wrapped Frax",
+    "decimals": 18,
+    "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f"
+  },
+  "0xb19962aaec485d713624c26efb581ddb81bbbfa5": {
+    "symbol": "WNM",
+    "name": "WENIUM",
+    "decimals": 18,
+    "address": "0xb19962aaec485d713624c26efb581ddb81bbbfa5"
+  },
+  "0x86446b0e4359a47bc39ea6af9164cad06abd7e2e": {
+    "symbol": "VIRGEN",
+    "name": "Virgen",
+    "decimals": 18,
+    "address": "0x86446b0e4359a47bc39ea6af9164cad06abd7e2e"
+  },
+  "0x5fa6e50dbbbb55231d2f746adee07ad5708dca7c": {
+    "symbol": "BUBU",
+    "name": "BUBU",
+    "decimals": 18,
+    "address": "0x5fa6e50dbbbb55231d2f746adee07ad5708dca7c"
+  },
+  "0xf6424c301fd12894c66b3bbeede4acc219674113": {
+    "symbol": "BTC",
+    "name": "Beetcoin",
+    "decimals": 18,
+    "address": "0xf6424c301fd12894c66b3bbeede4acc219674113"
+  },
+  "0x88943cecc3c78ee09a680bddf6204ac71803b534": {
+    "symbol": "SAND",
+    "name": "The Sandbox",
+    "decimals": 18,
+    "address": "0x88943cecc3c78ee09a680bddf6204ac71803b534"
+  },
+  "0xcbe1f141ca11bc55650af2650e0b7afd7a9c2903": {
+    "symbol": "TRB",
+    "name": "Tellor Tributes",
+    "decimals": 18,
+    "address": "0xcbe1f141ca11bc55650af2650e0b7afd7a9c2903"
+  },
+  "0xed3c88ac08828a457e32ead78cba74018e476ced": {
+    "symbol": "AERO",
+    "name": "Aerodrome Finance",
+    "decimals": 18,
+    "address": "0xed3c88ac08828a457e32ead78cba74018e476ced"
+  },
+  "0x047e3c20c8fc4cee855b59fc84a95912bcf5e437": {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 18,
+    "address": "0x047e3c20c8fc4cee855b59fc84a95912bcf5e437"
+  },
+  "0xa47bf98e9010342e07b93c9063f714101b8f1c47": {
+    "symbol": "ATOM",
+    "name": "Cosmos Hub",
+    "decimals": 18,
+    "address": "0xa47bf98e9010342e07b93c9063f714101b8f1c47"
+  },
+  "0x63e29797818ee4faf4206a4580ed58ebc1006034": {
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "decimals": 18,
+    "address": "0x63e29797818ee4faf4206a4580ed58ebc1006034"
+  },
+  "0xaf168ab9ea11095786254734cf6a1c251aeda816": {
+    "symbol": "SYRUP",
+    "name": "Maple Finance",
+    "decimals": 18,
+    "address": "0xaf168ab9ea11095786254734cf6a1c251aeda816"
+  },
+  "0xc1be00996509e4c1ecbeb9f3a4ad78bffe084855": {
+    "symbol": "BUBU",
+    "name": "BUBU",
+    "decimals": 18,
+    "address": "0xc1be00996509e4c1ecbeb9f3a4ad78bffe084855"
+  },
+  "0x8c60263f0a8ed46a767341df6c733a9d08663307": {
+    "symbol": "PSTAKE",
+    "name": "pSTAKE Finance",
+    "decimals": 18,
+    "address": "0x8c60263f0a8ed46a767341df6c733a9d08663307"
+  },
+  "0x869a92061ac5054ca511c6eda23c4e6952bc81d8": {
+    "symbol": "NAIIVE",
+    "name": "naiive",
+    "decimals": 18,
+    "address": "0x869a92061ac5054ca511c6eda23c4e6952bc81d8"
+  },
+  "0xbdcab120deb0c01f9f27a5d2d4b4d7b4d3881498": {
+    "symbol": "BUBU",
+    "name": "BUBU",
+    "decimals": 18,
+    "address": "0xbdcab120deb0c01f9f27a5d2d4b4d7b4d3881498"
+  },
+  "0x400cc55213a8bb01cded03d6fb31018c2826bba4": {
+    "symbol": "MIND",
+    "name": "Mind of Pepe",
+    "decimals": 18,
+    "address": "0x400cc55213a8bb01cded03d6fb31018c2826bba4"
+  },
+  "0xe868084cf08f3c3db11f4b73a95473762d9463f7": {
+    "symbol": "YU",
+    "name": "Yala stablecoin",
+    "decimals": 18,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7"
+  },
+  "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d": {
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "decimals": 18,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+  }
+}

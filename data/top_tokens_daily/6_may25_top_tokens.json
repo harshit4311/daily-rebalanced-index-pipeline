@@ -1,0 +1,68 @@
+{
+  "0x43a3c42bd72890720c489b99695779a5a2a21abe": {
+    "symbol": "DEFIESTA",
+    "name": "DefiestaToken",
+    "decimals": 18,
+    "address": "0x43a3c42bd72890720c489b99695779a5a2a21abe"
+  },
+  "0xb24398d4edfd59fab135bcbe0c81f069d2b32561": {
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "decimals": 18,
+    "address": "0xb24398d4edfd59fab135bcbe0c81f069d2b32561"
+  },
+  "0xa0ef786bf476fe0810408caba05e536ac800ff86": {
+    "symbol": "MYRIA",
+    "name": "Myria",
+    "decimals": 18,
+    "address": "0xa0ef786bf476fe0810408caba05e536ac800ff86"
+  },
+  "0xe70f9e8e654926503709a67a64212c728838aadc": {
+    "symbol": "LUMI",
+    "name": "SANTAVGES",
+    "decimals": 18,
+    "address": "0xe70f9e8e654926503709a67a64212c728838aadc"
+  },
+  "0x38ae027346b622619ada5cd78d20e5ec6c597b00": {
+    "symbol": "erc20",
+    "name": "tether",
+    "decimals": 18,
+    "address": "0x38ae027346b622619ada5cd78d20e5ec6c597b00"
+  },
+  "0x4719ffbb7eccbe5a37bd55909182b239084f3a00": {
+    "symbol": "MAXX",
+    "name": "Ethermax",
+    "decimals": 18,
+    "address": "0x4719ffbb7eccbe5a37bd55909182b239084f3a00"
+  },
+  "0xd2c5e2a0b3bdd624576e12a05a2bfd3f5b3eb987": {
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "decimals": 18,
+    "address": "0xd2c5e2a0b3bdd624576e12a05a2bfd3f5b3eb987"
+  },
+  "0xc4fb4ea16ace38414600099fe42193dea95faafc": {
+    "symbol": "TIER",
+    "name": "TIER",
+    "decimals": 18,
+    "address": "0xc4fb4ea16ace38414600099fe42193dea95faafc"
+  },
+  "0x3597bfd533a99c9aa083587b074434e61eb0a258": {
+    "symbol": "DENT",
+    "name": "DENT",
+    "decimals": 8,
+    "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258"
+  },
+  "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321": {
+    "symbol": "VITA",
+    "name": "VitaDAO Token",
+    "decimals": 18,
+    "address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321"
+  },
+  "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b": {
+    "symbol": "DIMO",
+    "name": "Dimo",
+    "decimals": 18,
+    "address": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b"
+  }
+}

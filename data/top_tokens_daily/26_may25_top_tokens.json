@@ -1,0 +1,230 @@
+{
+  "0x716a0fe3f9c7a859f1941b5f27cc39bae43c1fed": {
+    "symbol": "Z404",
+    "name": "ZOGZ by Matt Furie",
+    "decimals": 18,
+    "address": "0x716a0fe3f9c7a859f1941b5f27cc39bae43c1fed"
+  },
+  "0x1ba5816cb5afd6b2aa2b8fd6b7fdab81e89db595": {
+    "symbol": "HAMSA",
+    "name": "Hamsa",
+    "decimals": 18,
+    "address": "0x1ba5816cb5afd6b2aa2b8fd6b7fdab81e89db595"
+  },
+  "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+    "symbol": "K\u016aKA",
+    "name": "K\u016aKA",
+    "decimals": 18,
+    "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
+  },
+  "0x44e86cdd28c9e2943b4147561c5508f234c35c13": {
+    "symbol": "PEKING",
+    "name": "Pekingese Dog",
+    "decimals": 9,
+    "address": "0x44e86cdd28c9e2943b4147561c5508f234c35c13"
+  },
+  "0x223342e18166118169bf13dff82ac93d4e00783f": {
+    "symbol": "PEEK",
+    "name": "Peek",
+    "decimals": 9,
+    "address": "0x223342e18166118169bf13dff82ac93d4e00783f"
+  },
+  "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+    "symbol": "PAXG",
+    "name": "Paxos Gold",
+    "decimals": 18,
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  "0x2026c3524c699cc4e535f9541980379162fe2a0b": {
+    "symbol": "VW",
+    "name": "VitalikWorld",
+    "decimals": 18,
+    "address": "0x2026c3524c699cc4e535f9541980379162fe2a0b"
+  },
+  "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9": {
+    "symbol": "sENA",
+    "name": "Staked ENA",
+    "decimals": 18,
+    "address": "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9"
+  },
+  "0xffe1858d719ae01076ef2b49237bf0f28874e5d2": {
+    "symbol": "TRUMP2028",
+    "name": "TRUMP2028",
+    "decimals": 9,
+    "address": "0xffe1858d719ae01076ef2b49237bf0f28874e5d2"
+  },
+  "0xe2b1ad9e0daf655a3d5049e8bbc025461a2ce273": {
+    "symbol": "VELAR",
+    "name": "Velar StableSwap",
+    "decimals": 18,
+    "address": "0xe2b1ad9e0daf655a3d5049e8bbc025461a2ce273"
+  },
+  "0x399ae1377f25575ed03e051807f21a6ef17a3412": {
+    "symbol": "PAAL",
+    "name": "PAAL",
+    "decimals": 18,
+    "address": "0x399ae1377f25575ed03e051807f21a6ef17a3412"
+  },
+  "0xc0ca01a016eaa0059e5925ca760087e615093b3a": {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "decimals": 18,
+    "address": "0xc0ca01a016eaa0059e5925ca760087e615093b3a"
+  },
+  "0xc0453619e604367384a018f1a972ac053a4c614b": {
+    "symbol": "",
+    "name": "",
+    "decimals": 18,
+    "address": "0xc0453619e604367384a018f1a972ac053a4c614b"
+  },
+  "0xa77cba3f1a699e5ca7e946aa0b1b966269dd3760": {
+    "symbol": "DTF",
+    "name": "DowntoFuck",
+    "decimals": 18,
+    "address": "0xa77cba3f1a699e5ca7e946aa0b1b966269dd3760"
+  },
+  "0xe6fa4eeeacd63042c55b9ad7e8f15b23322d199d": {
+    "symbol": "CC",
+    "name": "CC Token",
+    "decimals": 18,
+    "address": "0xe6fa4eeeacd63042c55b9ad7e8f15b23322d199d"
+  },
+  "0xea939135450bdb80ff4e069b89732e2d1ff20915": {
+    "symbol": "CGPT",
+    "name": "ChadGPT",
+    "decimals": 18,
+    "address": "0xea939135450bdb80ff4e069b89732e2d1ff20915"
+  },
+  "0x0a46108ec12889a05119d3e87d0d2b7ddbb4d4e5": {
+    "symbol": "",
+    "name": "",
+    "decimals": 18,
+    "address": "0x0a46108ec12889a05119d3e87d0d2b7ddbb4d4e5"
+  },
+  "0x300ceae1b592906855da8666c3f8b05a3476a363": {
+    "symbol": "ELDE",
+    "name": "Elderglade",
+    "decimals": 18,
+    "address": "0x300ceae1b592906855da8666c3f8b05a3476a363"
+  },
+  "0xd580690d49459ea2fcb3dc81efbd79ce1e651ea2": {
+    "symbol": "KOKOK",
+    "name": "KoKoK The Roach",
+    "decimals": 18,
+    "address": "0xd580690d49459ea2fcb3dc81efbd79ce1e651ea2"
+  },
+  "0x3b1b728780919c1ed06b2969f4ec6dac16c259f3": {
+    "symbol": "TNT",
+    "name": "TNT Token",
+    "decimals": 18,
+    "address": "0x3b1b728780919c1ed06b2969f4ec6dac16c259f3"
+  },
+  "0x6a25672e5da2aeabbb1d3e9c183c9cd9ce8b5517": {
+    "symbol": "test dont buy",
+    "name": "test dont buy",
+    "decimals": 18,
+    "address": "0x6a25672e5da2aeabbb1d3e9c183c9cd9ce8b5517"
+  },
+  "0x4e9b82fb7b2da6e070014b2a5aff04a500b1109d": {
+    "symbol": "PFVS",
+    "name": "Puffverse",
+    "decimals": 18,
+    "address": "0x4e9b82fb7b2da6e070014b2a5aff04a500b1109d"
+  },
+  "0x660ab4aa26408afb94c72e52f1707c031ff22460": {
+    "symbol": "HUMA",
+    "name": "Huma Finance",
+    "decimals": 18,
+    "address": "0x660ab4aa26408afb94c72e52f1707c031ff22460"
+  },
+  "0x2e3dd64f849eed680be1f54959065bbb9fb158b6": {
+    "symbol": "BRETT",
+    "name": "Brett",
+    "decimals": 18,
+    "address": "0x2e3dd64f849eed680be1f54959065bbb9fb158b6"
+  },
+  "0xe8e28f2c5d6828c84809760f4c9634dffc25c8a1": {
+    "symbol": "CROWN",
+    "name": "Crown by Third Time Games",
+    "decimals": 18,
+    "address": "0xe8e28f2c5d6828c84809760f4c9634dffc25c8a1"
+  },
+  "0x2c0472484289ff59330fc1178c320c1b58b25d61": {
+    "symbol": "SKITTEN",
+    "name": "SKITTEN",
+    "decimals": 18,
+    "address": "0x2c0472484289ff59330fc1178c320c1b58b25d61"
+  },
+  "0x40259e517f4efc6367f30a1a73638adf9bfbc6f3": {
+    "symbol": "ZORA",
+    "name": "Zora",
+    "decimals": 18,
+    "address": "0x40259e517f4efc6367f30a1a73638adf9bfbc6f3"
+  },
+  "0x9ac9468e7e3e1d194080827226b45d0b892c77fd": {
+    "symbol": "Yee",
+    "name": "Yee Token",
+    "decimals": 9,
+    "address": "0x9ac9468e7e3e1d194080827226b45d0b892c77fd"
+  },
+  "0xd60abfb751db36514a592963fd71dd50c6cf9ba9": {
+    "symbol": "JAKEX",
+    "name": "JakeX",
+    "decimals": 18,
+    "address": "0xd60abfb751db36514a592963fd71dd50c6cf9ba9"
+  },
+  "0x3157874a7508fcf972379d24590c6806522b784f": {
+    "symbol": "PFVS",
+    "name": "Puffverse Token",
+    "decimals": 18,
+    "address": "0x3157874a7508fcf972379d24590c6806522b784f"
+  },
+  "0x68b36248477277865c64dfc78884ef80577078f3": {
+    "symbol": "Hold",
+    "name": "Everybody",
+    "decimals": 18,
+    "address": "0x68b36248477277865c64dfc78884ef80577078f3"
+  },
+  "0xb031b9781f8d8a48e83e1acaa0e60218c77274a2": {
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 18,
+    "address": "0xb031b9781f8d8a48e83e1acaa0e60218c77274a2"
+  },
+  "0x5cef65860bbdd0bc6ec70f695e68a8e44c3cadae": {
+    "symbol": "FTC",
+    "name": "FinTech Coin",
+    "decimals": 18,
+    "address": "0x5cef65860bbdd0bc6ec70f695e68a8e44c3cadae"
+  },
+  "0x5887a34cd48f26eb8b8e3077e259a4a2766165a9": {
+    "symbol": "TARDO",
+    "name": "Tardo",
+    "decimals": 18,
+    "address": "0x5887a34cd48f26eb8b8e3077e259a4a2766165a9"
+  },
+  "0xf7f3e16f1f44a7b05f830c9e1a88dec69da44e02": {
+    "symbol": "TARDO",
+    "name": "Retardo",
+    "decimals": 9,
+    "address": "0xf7f3e16f1f44a7b05f830c9e1a88dec69da44e02"
+  },
+  "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110": {
+    "symbol": "USR",
+    "name": "Resolv USD",
+    "decimals": 18,
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110"
+  },
+  "0xb3d9e2875a036d420df892c2b3260743168848c4": {
+    "symbol": "kpRSLV-2",
+    "name": "Rumpel kPT: Resolv S2",
+    "decimals": 18,
+    "address": "0xb3d9e2875a036d420df892c2b3260743168848c4"
+  },
+  "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f": {
+    "symbol": "GHO",
+    "name": "Gho Token",
+    "decimals": 18,
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+  }
+}

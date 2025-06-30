@@ -1,0 +1,86 @@
+{
+  "0x30cbdfdaab4bc15e26caf11e1a4703323d77cd3e": {
+    "symbol": "CMX",
+    "name": "CMX Agent",
+    "decimals": 18,
+    "address": "0x30cbdfdaab4bc15e26caf11e1a4703323d77cd3e"
+  },
+  "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95": {
+    "symbol": "ETHCHAN",
+    "name": "ETH Chan",
+    "decimals": 9,
+    "address": "0x5417994ae69e6ccb283bb6dbdba3006b3d3f9f95"
+  },
+  "0x6e0902f05edb81a26f93c05c21cde4c9d1bd31c0": {
+    "symbol": "FTEC ",
+    "name": "France Tech ",
+    "decimals": 18,
+    "address": "0x6e0902f05edb81a26f93c05c21cde4c9d1bd31c0"
+  },
+  "0x9edea063dd3a7638df5b33faadf665b3285caaa9": {
+    "symbol": "Aemdowge",
+    "name": "Amemiy",
+    "decimals": 18,
+    "address": "0x9edea063dd3a7638df5b33faadf665b3285caaa9"
+  },
+  "0x08adf8bbfca245f38cff912ac18ddef581829750": {
+    "symbol": "oaml",
+    "name": "lmao",
+    "decimals": 18,
+    "address": "0x08adf8bbfca245f38cff912ac18ddef581829750"
+  },
+  "0x77bf74176ac49856f6953c88bca58eaa72945487": {
+    "symbol": "BTFD",
+    "name": "BTFD",
+    "decimals": 18,
+    "address": "0x77bf74176ac49856f6953c88bca58eaa72945487"
+  },
+  "0xd2d549717c6c1dd86cf2e3ccb807b41cc8861ebf": {
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "decimals": 18,
+    "address": "0xd2d549717c6c1dd86cf2e3ccb807b41cc8861ebf"
+  },
+  "0xfc45cf83c1ea09c313f59ee4e96248400bf0b3de": {
+    "symbol": "Kekius",
+    "name": "Kekius Maximus",
+    "decimals": 18,
+    "address": "0xfc45cf83c1ea09c313f59ee4e96248400bf0b3de"
+  },
+  "0x7c23ad8273efd4ea51e212c43419df713ccf76bf": {
+    "symbol": "ARBUS",
+    "name": "Arbus",
+    "decimals": 18,
+    "address": "0x7c23ad8273efd4ea51e212c43419df713ccf76bf"
+  },
+  "0xa5a9e1aefb0fb92a90b9fa196ba84840ab02daed": {
+    "symbol": "PRINTR",
+    "name": "Binance Printer",
+    "decimals": 9,
+    "address": "0xa5a9e1aefb0fb92a90b9fa196ba84840ab02daed"
+  },
+  "0xd5f5effc456e4070f3ae4a487e74f9e8ab4187da": {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 18,
+    "address": "0xd5f5effc456e4070f3ae4a487e74f9e8ab4187da"
+  },
+  "0x1a1e84cb06f63ad2a816c865919aa88b4368bb64": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "decimals": 18,
+    "address": "0x1a1e84cb06f63ad2a816c865919aa88b4368bb64"
+  },
+  "0x08b01d54a847156097e674026ea2b771de2db9b9": {
+    "symbol": "POL",
+    "name": "POL (ex-MATIC)",
+    "decimals": 18,
+    "address": "0x08b01d54a847156097e674026ea2b771de2db9b9"
+  },
+  "0x71500716b0af042fed93b7f17c71055bd4b52ea0": {
+    "symbol": "LEON",
+    "name": "LEON",
+    "decimals": 18,
+    "address": "0x71500716b0af042fed93b7f17c71055bd4b52ea0"
+  }
+}
