@@ -83,7 +83,73 @@ def fetch_and_save_daily_ohlcv(month_label, top_n=5, buffer=40): # keep {buffer 
 
         except Exception as e:
             print(f"❌ Failed to process file {file}: {e}")
+
+
+def fetch_and_save_single_day(file_label, top_n=5, buffer=40):
+    file = f"{file_label}_top_tokens.json"
+    file_path = os.path.join(TOP_TOKENS_DIR, file)
+
+    if not os.path.exists(file_path):
+        print(f"❌ File not found: {file}")
+        return
+
+    print(f"\n📅 Processing {file_label}...")
+
+    try:
+        # parse date from label
+        day_str, mon_str = file_label.split("_")
+        day = int(day_str)
+        month_abbr = mon_str[:3].lower()
+        month = datetime.strptime(month_abbr, "%b").month
+        year = 2025  # fixed
+
+        from_date = datetime(year, month, day)
+        to_date = from_date + timedelta(days=1)
+
+        token_data = load_tokens_from_file(file_path)
+        all_tokens = list(token_data.items())[:top_n + buffer]
+        success_count = 0
+
+        for token_address, token_info in all_tokens:
+            if success_count >= top_n:
+                break
+
+            symbol = token_info["symbol"]
+            print(f"🔍 Fetching {symbol} ({token_address})")
+
+            try:
+                pairs = get_pair_addresses(token_address)
+                if not pairs:
+                    print(f"⚠️ No LP pairs for {symbol}")
+                    continue
+
+                pair = pairs[0]
+                raw = fetch_ohlcv(
+                    pair,
+                    from_date.strftime("%Y-%m-%d"),
+                    to_date.strftime("%Y-%m-%d")
+                )
+                df = pd.DataFrame(raw)
+
+                if df.empty:
+                    print(f"⚠️ No OHLCV data for {symbol}")
+                    continue
+
+                process_and_save(df, symbol, OUTPUT_DIR, file_label)
+                success_count += 1
+
+            except Exception as e:
+                print(f"❌ Error fetching {symbol}: {e}")
+
+        if success_count < top_n:
+            print(f"⚠️ Only saved {success_count}/{top_n} tokens for {file_label}")
+
+    except Exception as e:
+        print(f"❌ Failed to process file {file_label}: {e}")
             
 
+
 if __name__ == "__main__":
-    fetch_and_save_daily_ohlcv("jun25", top_n=5) # change feb25 to jan25 for fetching data for a diff month
+    # fetch_and_save_daily_ohlcv("jun25", top_n=5) # change feb25 to jan25 for fetching data for a diff month
+    fetch_and_save_single_day("30_jun25", top_n=5)
+
