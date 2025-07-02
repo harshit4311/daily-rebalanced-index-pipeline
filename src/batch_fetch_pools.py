@@ -37,7 +37,7 @@ def run_batch(start_day, end_day, month, year, save_subdir):
 if __name__ == "__main__":
     # Edit this section to change the batch month/year
     run_batch(
-        start_day=1,
+        start_day=29,
         end_day=31,
         month=6,
         year=2025,
