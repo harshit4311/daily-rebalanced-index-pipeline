@@ -1,0 +1,302 @@
+{
+  "0x787465ffad1a64c5b272db212a41284b13868ec5": {
+    "symbol": "PAWSE",
+    "name": "PAWSE",
+    "decimals": 18,
+    "address": "0x787465ffad1a64c5b272db212a41284b13868ec5"
+  },
+  "0x69655de9e3cd5e153ee013d47310a20a0edbdec3": {
+    "symbol": "AMP",
+    "name": "America Party",
+    "decimals": 18,
+    "address": "0x69655de9e3cd5e153ee013d47310a20a0edbdec3"
+  },
+  "0x69706a1cec0a4494505f9627944f1fab9760e889": {
+    "symbol": "GOPHER",
+    "name": "GOPHER",
+    "decimals": 18,
+    "address": "0x69706a1cec0a4494505f9627944f1fab9760e889"
+  },
+  "0x6990df01f74c34e4b94d29d6a406dfaa4db206e1": {
+    "symbol": "DM",
+    "name": "Doge Monster",
+    "decimals": 18,
+    "address": "0x6990df01f74c34e4b94d29d6a406dfaa4db206e1"
+  },
+  "0x00ad1b8eab7548bc9df90eb3602bb8245b9a0b50": {
+    "symbol": "$AMP",
+    "name": "AMERICA PARTY",
+    "decimals": 18,
+    "address": "0x00ad1b8eab7548bc9df90eb3602bb8245b9a0b50"
+  },
+  "0x694765799b826182659d58c7e1182f25509161bf": {
+    "symbol": "TAQA",
+    "name": "TAQA Group",
+    "decimals": 18,
+    "address": "0x694765799b826182659d58c7e1182f25509161bf"
+  },
+  "0x697c6411e8cba7c0ea2de673660010f6eb8509c5": {
+    "symbol": "PPP",
+    "name": "PORKY PIG PARTY",
+    "decimals": 18,
+    "address": "0x697c6411e8cba7c0ea2de673660010f6eb8509c5"
+  },
+  "0x6953cc0139e70e7c5f5ddeb245a69e8569005ad0": {
+    "symbol": "LIAR",
+    "name": "LIAR",
+    "decimals": 18,
+    "address": "0x6953cc0139e70e7c5f5ddeb245a69e8569005ad0"
+  },
+  "0x69a80130647bc7b96df8dd59e3749b4238eb0cbb": {
+    "symbol": "MET",
+    "name": "Mastering Ethereum Token",
+    "decimals": 18,
+    "address": "0x69a80130647bc7b96df8dd59e3749b4238eb0cbb"
+  },
+  "0x696638dca2b39e0a0d1ca4abbbbf60e0ba690ced": {
+    "symbol": "ECF",
+    "name": "Ethereum Community Foundation",
+    "decimals": 18,
+    "address": "0x696638dca2b39e0a0d1ca4abbbbf60e0ba690ced"
+  },
+  "0x69e86f14e76eafc5b39d3c02aa6a8c2109f86065": {
+    "symbol": "stockcoin",
+    "name": "stock coin ",
+    "decimals": 18,
+    "address": "0x69e86f14e76eafc5b39d3c02aa6a8c2109f86065"
+  },
+  "0xa683b66742e109d48c4ef52ffc6dcfc3df156e84": {
+    "symbol": "POM",
+    "name": "Pepe of Memeland",
+    "decimals": 18,
+    "address": "0xa683b66742e109d48c4ef52ffc6dcfc3df156e84"
+  },
+  "0x69f1ea40a9473f35d465f94ef5239fa4ee4c3155": {
+    "symbol": "Deportlon",
+    "name": "Deport Elon",
+    "decimals": 18,
+    "address": "0x69f1ea40a9473f35d465f94ef5239fa4ee4c3155"
+  },
+  "0x0077db2e996fff1c09812004b6a5cd95dd51e834": {
+    "symbol": "THARWA",
+    "name": "Al Fahim Group",
+    "decimals": 18,
+    "address": "0x0077db2e996fff1c09812004b6a5cd95dd51e834"
+  },
+  "0x6991a382d76d758743a8c7482d8d182ae6720032": {
+    "symbol": "KIYAMA",
+    "name": "Kiyama Ino",
+    "decimals": 18,
+    "address": "0x6991a382d76d758743a8c7482d8d182ae6720032"
+  },
+  "0x69ce848f44294c303b791d1ea9f9abe2ddeffd75": {
+    "symbol": "VARRO",
+    "name": "Vitalik Open-source Biotech Project",
+    "decimals": 18,
+    "address": "0x69ce848f44294c303b791d1ea9f9abe2ddeffd75"
+  },
+  "0x000ebb788b359be23b7c2fd2834eddb63db02401": {
+    "symbol": "ZUZALU",
+    "name": "Vitalik's new project",
+    "decimals": 18,
+    "address": "0x000ebb788b359be23b7c2fd2834eddb63db02401"
+  },
+  "0x6963201ef11f8da1a5805f1d32ec6f375723976e": {
+    "symbol": "VPVD",
+    "name": "VOX POPULI VOX DEI",
+    "decimals": 18,
+    "address": "0x6963201ef11f8da1a5805f1d32ec6f375723976e"
+  },
+  "0x6941c10139ddf9356c9b15df82a58c89ce95083c": {
+    "symbol": "CACHE",
+    "name": "Austin Griffith Dog",
+    "decimals": 18,
+    "address": "0x6941c10139ddf9356c9b15df82a58c89ce95083c"
+  },
+  "0x695e56e6decef359505df91233388249803ca9a5": {
+    "symbol": "MAG",
+    "name": "Make America Greater",
+    "decimals": 18,
+    "address": "0x695e56e6decef359505df91233388249803ca9a5"
+  },
+  "0x695c3c7a23fd736706d6eab433a75c67a6a6f676": {
+    "symbol": "OBBB",
+    "name": "One Big Beautiful Bill",
+    "decimals": 18,
+    "address": "0x695c3c7a23fd736706d6eab433a75c67a6a6f676"
+  },
+  "0x6935a44ef0f63ab8af65625d9cd0f0acfe0a4283": {
+    "symbol": "\ud83e\udd17",
+    "name": "\ud83e\udd17",
+    "decimals": 18,
+    "address": "0x6935a44ef0f63ab8af65625d9cd0f0acfe0a4283"
+  },
+  "0x6956bd2897b31d14c95dcb59f9be0c5d0ad13266": {
+    "symbol": "Pants on fire",
+    "name": "Pants on fire",
+    "decimals": 18,
+    "address": "0x6956bd2897b31d14c95dcb59f9be0c5d0ad13266"
+  },
+  "0x69f9b82935f96fd0b62eab797540ffc23c787455": {
+    "symbol": "POF",
+    "name": "Pants on fire",
+    "decimals": 18,
+    "address": "0x69f9b82935f96fd0b62eab797540ffc23c787455"
+  },
+  "0x692c1dce97ae690792d81410a2a58f032f35bf8b": {
+    "symbol": "AMKNP",
+    "name": "",
+    "decimals": 18,
+    "address": "0x692c1dce97ae690792d81410a2a58f032f35bf8b"
+  },
+  "0x69aa72339fef13d66f693b5aa9385f7202ad5e53": {
+    "symbol": "AMERICA",
+    "name": "America party",
+    "decimals": 18,
+    "address": "0x69aa72339fef13d66f693b5aa9385f7202ad5e53"
+  },
+  "0x69979f2c6de8824633776ab78660d22d23a655b6": {
+    "symbol": "Vitalik",
+    "name": "Co-founder of Bitcoin Magazine",
+    "decimals": 18,
+    "address": "0x69979f2c6de8824633776ab78660d22d23a655b6"
+  },
+  "0x69b950323fe71d7482dc4d00824b0e2f03364633": {
+    "symbol": "LIAR",
+    "name": "LIAR",
+    "decimals": 18,
+    "address": "0x69b950323fe71d7482dc4d00824b0e2f03364633"
+  },
+  "0x69f8fe7ba65e9434268f4c31f4f9cc7cb594d20a": {
+    "symbol": "Joanna",
+    "name": "Ethereum Dog",
+    "decimals": 18,
+    "address": "0x69f8fe7ba65e9434268f4c31f4f9cc7cb594d20a"
+  },
+  "0x6977c2a3209d7f28d2dbcf9e874a9a4ae9f44886": {
+    "symbol": "thUSD",
+    "name": "thUSD",
+    "decimals": 18,
+    "address": "0x6977c2a3209d7f28d2dbcf9e874a9a4ae9f44886"
+  },
+  "0x0028af54c96e68191fe019e8a0823b372fc8b942": {
+    "symbol": "MEMEBER",
+    "name": "Memeber",
+    "decimals": 18,
+    "address": "0x0028af54c96e68191fe019e8a0823b372fc8b942"
+  },
+  "0x69140e67ead32654e74202203ee4269d2474042c": {
+    "symbol": "Kanro",
+    "name": "Vitalik's biotech project",
+    "decimals": 18,
+    "address": "0x69140e67ead32654e74202203ee4269d2474042c"
+  },
+  "0x00366734a3c68557011066a9348c7c1957ddf406": {
+    "symbol": "MARIE",
+    "name": "Marie Rose",
+    "decimals": 18,
+    "address": "0x00366734a3c68557011066a9348c7c1957ddf406"
+  },
+  "0x69ac0ba8cf0412502243a7fa6c4adc30411b4785": {
+    "symbol": "Victory 45-47",
+    "name": "Trump Fragrance",
+    "decimals": 18,
+    "address": "0x69ac0ba8cf0412502243a7fa6c4adc30411b4785"
+  },
+  "0x6952f686a76ff897e0bde3498efad08a212b0ef6": {
+    "symbol": "\ud83d\ude11",
+    "name": "\ud83d\ude11",
+    "decimals": 18,
+    "address": "0x6952f686a76ff897e0bde3498efad08a212b0ef6"
+  },
+  "0x69bf9e78f82b82f840a8dec798fe3c9d2d72064e": {
+    "symbol": "ARNOLD",
+    "name": "ARNOLD COIN",
+    "decimals": 18,
+    "address": "0x69bf9e78f82b82f840a8dec798fe3c9d2d72064e"
+  },
+  "0x69421130a473a8c519884f081c38953f1ec66e4d": {
+    "symbol": "AMERICA",
+    "name": "America party",
+    "decimals": 18,
+    "address": "0x69421130a473a8c519884f081c38953f1ec66e4d"
+  },
+  "0x69d0e913fc47608a347a7874e406f297df25fcc0": {
+    "symbol": "AP",
+    "name": " AMERICA PARTY",
+    "decimals": 18,
+    "address": "0x69d0e913fc47608a347a7874e406f297df25fcc0"
+  },
+  "0x69cfdab576b30635bbb618dc1d36c992e2a739ee": {
+    "symbol": "usdebtclock",
+    "name": "usdebtclock",
+    "decimals": 18,
+    "address": "0x69cfdab576b30635bbb618dc1d36c992e2a739ee"
+  },
+  "0x69663434ae94d689645291b23e2780fb674d91c7": {
+    "symbol": "BTC",
+    "name": "Bobby The Cat",
+    "decimals": 18,
+    "address": "0x69663434ae94d689645291b23e2780fb674d91c7"
+  },
+  "0x69025329e341c6927794a7b265cf099924bf19a4": {
+    "symbol": "RaDVaC",
+    "name": "RADVACproject",
+    "decimals": 18,
+    "address": "0x69025329e341c6927794a7b265cf099924bf19a4"
+  },
+  "0x69b04db68ac3df95ce2e5eded927e2fc2d26aad3": {
+    "symbol": "JUNO",
+    "name": "Vitalik Dog",
+    "decimals": 18,
+    "address": "0x69b04db68ac3df95ce2e5eded927e2fc2d26aad3"
+  },
+  "0x69a31aad60bf2ca5b299b18a06f660d4bd4d5e89": {
+    "symbol": "ATH",
+    "name": "New All Time High",
+    "decimals": 18,
+    "address": "0x69a31aad60bf2ca5b299b18a06f660d4bd4d5e89"
+  },
+  "0x6951c490f063c83a180a0c1311a12f3bdce51707": {
+    "symbol": "ALFAHIM",
+    "name": "AL FAHIM GROUP",
+    "decimals": 18,
+    "address": "0x6951c490f063c83a180a0c1311a12f3bdce51707"
+  },
+  "0x69ed691265e9b6b7b15d8eb6c1f19abeae44902d": {
+    "symbol": "POF",
+    "name": "Pants on fire",
+    "decimals": 18,
+    "address": "0x69ed691265e9b6b7b15d8eb6c1f19abeae44902d"
+  },
+  "0x697537b742aab58c0b0c8a6081d9b9f159946371": {
+    "symbol": "KIANA",
+    "name": "Kiana",
+    "decimals": 18,
+    "address": "0x697537b742aab58c0b0c8a6081d9b9f159946371"
+  },
+  "0x69f6a79056c96b6b52d9b514639f264095ab400d": {
+    "symbol": "FAIR",
+    "name": "Fair",
+    "decimals": 18,
+    "address": "0x69f6a79056c96b6b52d9b514639f264095ab400d"
+  },
+  "0x69894f5a9dc903619573420201d90320f234758d": {
+    "symbol": "PROMISE ",
+    "name": "PROMISE of REDUCING SPENDING",
+    "decimals": 18,
+    "address": "0x69894f5a9dc903619573420201d90320f234758d"
+  },
+  "0x693d26174f1139ddfa61b22bb17101bfa17e6bba": {
+    "symbol": "KKARD",
+    "name": "Klik Kard",
+    "decimals": 18,
+    "address": "0x693d26174f1139ddfa61b22bb17101bfa17e6bba"
+  },
+  "0x6959f28ee45b387fd344f8e694bed84574b45e9f": {
+    "symbol": "37TrillionDebt",
+    "name": "37TrillionDebt",
+    "decimals": 18,
+    "address": "0x6959f28ee45b387fd344f8e694bed84574b45e9f"
+  }
+}

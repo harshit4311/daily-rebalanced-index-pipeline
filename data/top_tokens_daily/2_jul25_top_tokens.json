@@ -1,0 +1,302 @@
+{
+  "0x6911b306433f39a3fc5d9955fac376d3b40edfa6": {
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "decimals": 18,
+    "address": "0x6911b306433f39a3fc5d9955fac376d3b40edfa6"
+  },
+  "0x695b15a25e5356c963003cd4e1e6d43d19289f8d": {
+    "symbol": "LAUNCHCOIN",
+    "name": "Launch Coin on Believe",
+    "decimals": 18,
+    "address": "0x695b15a25e5356c963003cd4e1e6d43d19289f8d"
+  },
+  "0x6901b510d8d62ee1bfb3ae9580630d0803da733a": {
+    "symbol": "USELESS",
+    "name": "USELESS COIN",
+    "decimals": 18,
+    "address": "0x6901b510d8d62ee1bfb3ae9580630d0803da733a"
+  },
+  "0x6966a1e76dc3aa58cbcc759441db37d7a3164bdf": {
+    "symbol": "This You?",
+    "name": "This You?",
+    "decimals": 18,
+    "address": "0x6966a1e76dc3aa58cbcc759441db37d7a3164bdf"
+  },
+  "0x693a6bc300f2f4ee4754b5ebbcde1dd1074c84c2": {
+    "symbol": "@Thiss_Youu",
+    "name": "This You?",
+    "decimals": 18,
+    "address": "0x693a6bc300f2f4ee4754b5ebbcde1dd1074c84c2"
+  },
+  "0xd199e23e2396b4ad8734b7321ca0d435a97017a0": {
+    "symbol": "TRENCH",
+    "name": "TrenchDigger",
+    "decimals": 18,
+    "address": "0xd199e23e2396b4ad8734b7321ca0d435a97017a0"
+  },
+  "0x6940b9fd8a10d4b5f0816f6add62437d4f78a46c": {
+    "symbol": "Balvi",
+    "name": "Balvi",
+    "decimals": 18,
+    "address": "0x6940b9fd8a10d4b5f0816f6add62437d4f78a46c"
+  },
+  "0x69984efc8244f855a6fecdce254fe51b2836530e": {
+    "symbol": "EFG",
+    "name": "Epic Fail Guy ",
+    "decimals": 18,
+    "address": "0x69984efc8244f855a6fecdce254fe51b2836530e"
+  },
+  "0x69151ff93c26299492398dee96441e0ce424b3ae": {
+    "symbol": "MUCHAN",
+    "name": "Mu-chan",
+    "decimals": 18,
+    "address": "0x69151ff93c26299492398dee96441e0ce424b3ae"
+  },
+  "0x69e06fcce5441d1e6a9a69ce04bff450aca0986c": {
+    "symbol": "CLEAN AIR",
+    "name": "CLEAN AIR",
+    "decimals": 18,
+    "address": "0x69e06fcce5441d1e6a9a69ce04bff450aca0986c"
+  },
+  "0x69dda28c82b1c6a06b6b3edd6c775131968f074f": {
+    "symbol": "MASA",
+    "name": "ALLIGATOR ALCATRAZ: MAKE AMERICA SAFE AGAIN! \ud83c\uddfa\ud83c\uddf8",
+    "decimals": 18,
+    "address": "0x69dda28c82b1c6a06b6b3edd6c775131968f074f"
+  },
+  "0x69018c4de7813a52f161412580210d710a496922": {
+    "symbol": "Milady",
+    "name": "Clear Air",
+    "decimals": 18,
+    "address": "0x69018c4de7813a52f161412580210d710a496922"
+  },
+  "0x693fa58d276810da187b19630679b22aab10be8e": {
+    "symbol": "TAP",
+    "name": "The America Party",
+    "decimals": 18,
+    "address": "0x693fa58d276810da187b19630679b22aab10be8e"
+  },
+  "0xcf5104d094e3864cfcbda43b82e1cefd26a016eb": {
+    "symbol": "H",
+    "name": "Humanity",
+    "decimals": 18,
+    "address": "0xcf5104d094e3864cfcbda43b82e1cefd26a016eb"
+  },
+  "0xf72cd187d64fd11fa36199d6d7a8b1df6f4f3227": {
+    "symbol": "STONKS",
+    "name": "STONKS9800",
+    "decimals": 9,
+    "address": "0xf72cd187d64fd11fa36199d6d7a8b1df6f4f3227"
+  },
+  "0x7af8bb0008a9f497de955ea021385a177f987653": {
+    "symbol": "EFG",
+    "name": "Epic Fail Guy",
+    "decimals": 18,
+    "address": "0x7af8bb0008a9f497de955ea021385a177f987653"
+  },
+  "0x6903608c75f5805c152317ac51322e92f6049986": {
+    "symbol": "FSDPAC",
+    "name": "Full Support for Donald PAC",
+    "decimals": 18,
+    "address": "0x6903608c75f5805c152317ac51322e92f6049986"
+  },
+  "0x697adec53560604bf58a1e11817e4a872093b295": {
+    "symbol": "Milady",
+    "name": "Milady",
+    "decimals": 18,
+    "address": "0x697adec53560604bf58a1e11817e4a872093b295"
+  },
+  "0x69ff515e0e295f1d3115752c6b61f0fbf4b3f213": {
+    "symbol": "Balvi",
+    "name": "Vitalik's biotech project",
+    "decimals": 18,
+    "address": "0x69ff515e0e295f1d3115752c6b61f0fbf4b3f213"
+  },
+  "0x69d1fc2757d9905934505470d4d8975074b81aba": {
+    "symbol": "BILL",
+    "name": "Beautiful Bill",
+    "decimals": 18,
+    "address": "0x69d1fc2757d9905934505470d4d8975074b81aba"
+  },
+  "0x69f595d2e29366054569cd54b9393c33842c5e31": {
+    "symbol": "THISYOU",
+    "name": "This You?",
+    "decimals": 18,
+    "address": "0x69f595d2e29366054569cd54b9393c33842c5e31"
+  },
+  "0x69f60b5435cd1a492e0babed066695d41201ae33": {
+    "symbol": "COIN",
+    "name": "FIRST TOKENIZED STOCK",
+    "decimals": 18,
+    "address": "0x69f60b5435cd1a492e0babed066695d41201ae33"
+  },
+  "0x69dd1e9539cabdee77f82b9eee14cc02073860cb": {
+    "symbol": "CATE",
+    "name": "CATE",
+    "decimals": 18,
+    "address": "0x69dd1e9539cabdee77f82b9eee14cc02073860cb"
+  },
+  "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667": {
+    "symbol": "EVM",
+    "name": "Ethereum Virtual Machine",
+    "decimals": 18,
+    "address": "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667"
+  },
+  "0x6998983d59094a043bb16395eb612300537fe39f": {
+    "symbol": "Shai",
+    "name": "Shailushai",
+    "decimals": 18,
+    "address": "0x6998983d59094a043bb16395eb612300537fe39f"
+  },
+  "0x6908578311d14468e9df0ec2c1143e6d821f2572": {
+    "symbol": "KATSUMI",
+    "name": "Katsumi Konno XDog",
+    "decimals": 18,
+    "address": "0x6908578311d14468e9df0ec2c1143e6d821f2572"
+  },
+  "0x6947e7115ae94bbded110a4690fcb30e190f06a2": {
+    "symbol": "Hobbes",
+    "name": "Elon's dog",
+    "decimals": 18,
+    "address": "0x6947e7115ae94bbded110a4690fcb30e190f06a2"
+  },
+  "0x690461fd0680de3776eb89d05767dcb088c94ea8": {
+    "symbol": "CLEANAIR",
+    "name": "CLEAN AIR",
+    "decimals": 18,
+    "address": "0x690461fd0680de3776eb89d05767dcb088c94ea8"
+  },
+  "0x691ccc95395e228d22819f60772dee8109913cee": {
+    "symbol": "WAVE",
+    "name": "\u30a6\u30a7\u30fc\u30d6",
+    "decimals": 18,
+    "address": "0x691ccc95395e228d22819f60772dee8109913cee"
+  },
+  "0x69ed2893fedb51a9f362b645cf004e9aa8bff534": {
+    "symbol": "Elongate",
+    "name": "Elongate",
+    "decimals": 18,
+    "address": "0x69ed2893fedb51a9f362b645cf004e9aa8bff534"
+  },
+  "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5": {
+    "symbol": "THISYOU",
+    "name": "THISYOU",
+    "decimals": 18,
+    "address": "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5"
+  },
+  "0x69822d17d5d38019a91abc99b1354e13f2835453": {
+    "symbol": "Hosico",
+    "name": "Hosico cat",
+    "decimals": 18,
+    "address": "0x69822d17d5d38019a91abc99b1354e13f2835453"
+  },
+  "0x6985de9b6a4e22b1ea848bf35483cbd76b3df10c": {
+    "symbol": "Milady",
+    "name": "Clean Air",
+    "decimals": 18,
+    "address": "0x6985de9b6a4e22b1ea848bf35483cbd76b3df10c"
+  },
+  "0x69371e03987d7a47fbf5239d8a85446cb1c3c213": {
+    "symbol": "Ethereum Bible",
+    "name": "Ethereum's book",
+    "decimals": 18,
+    "address": "0x69371e03987d7a47fbf5239d8a85446cb1c3c213"
+  },
+  "0xc2a03e92a9001768dcaaa331b2fc0a61eb49e550": {
+    "symbol": "ECF",
+    "name": "Ethereum Community Foundation",
+    "decimals": 18,
+    "address": "0xc2a03e92a9001768dcaaa331b2fc0a61eb49e550"
+  },
+  "0x699c1967104cbc33fee6109d29f96463e995ac74": {
+    "symbol": "PSI",
+    "name": "Polish Sex Industry",
+    "decimals": 18,
+    "address": "0x699c1967104cbc33fee6109d29f96463e995ac74"
+  },
+  "0x696e80dfdf8ecbe95dd779147fe367f96d02843f": {
+    "symbol": "Big Beautiful Beta",
+    "name": "Big Beautiful Beta",
+    "decimals": 18,
+    "address": "0x696e80dfdf8ecbe95dd779147fe367f96d02843f"
+  },
+  "0x69ec4e21ee67297196344b3fd531e77f64a5ec82": {
+    "symbol": "HEMULE",
+    "name": "VITALIK'S FIRST CAT",
+    "decimals": 18,
+    "address": "0x69ec4e21ee67297196344b3fd531e77f64a5ec82"
+  },
+  "0x69e52a7e7e1349df4529c8044bf519e91513a731": {
+    "symbol": "Akagi",
+    "name": "Kabuso's friend",
+    "decimals": 18,
+    "address": "0x69e52a7e7e1349df4529c8044bf519e91513a731"
+  },
+  "0x6936d2b79d5fc1c8240a2ef3817b788c3dfc392d": {
+    "symbol": "Aethers",
+    "name": "Aethers",
+    "decimals": 18,
+    "address": "0x6936d2b79d5fc1c8240a2ef3817b788c3dfc392d"
+  },
+  "0x69b2efd32abdb3fd9bde394375f7c164d85870a8": {
+    "symbol": "KEN",
+    "name": "Doge's Brother",
+    "decimals": 18,
+    "address": "0x69b2efd32abdb3fd9bde394375f7c164d85870a8"
+  },
+  "0x00bc99ed0242f96f94df1fa0175a9adbc5a77751": {
+    "symbol": "Y",
+    "name": "Y",
+    "decimals": 18,
+    "address": "0x00bc99ed0242f96f94df1fa0175a9adbc5a77751"
+  },
+  "0x693b00334d53b06a2b3c1e669ad3a56adeb9dec6": {
+    "symbol": "Rexy",
+    "name": "cute little T-Rex in the Jurassic World ",
+    "decimals": 18,
+    "address": "0x693b00334d53b06a2b3c1e669ad3a56adeb9dec6"
+  },
+  "0x6951bae0c9052bf89712b5153182cba42f2e67c7": {
+    "symbol": "MoonBoys",
+    "name": "MoonBoys",
+    "decimals": 18,
+    "address": "0x6951bae0c9052bf89712b5153182cba42f2e67c7"
+  },
+  "0x69124694cbf340af0b5680fe23bcf8744ae3e4d5": {
+    "symbol": "EBULL",
+    "name": "Ethereum Bull",
+    "decimals": 18,
+    "address": "0x69124694cbf340af0b5680fe23bcf8744ae3e4d5"
+  },
+  "0x697237ce3859ca4a5ff96f35ddca8154c410972b": {
+    "symbol": "Y",
+    "name": "Y",
+    "decimals": 18,
+    "address": "0x697237ce3859ca4a5ff96f35ddca8154c410972b"
+  },
+  "0x69dbeb5967d65f95e8ee546cac0d9a6411c7d591": {
+    "symbol": "WE",
+    "name": "WE",
+    "decimals": 18,
+    "address": "0x69dbeb5967d65f95e8ee546cac0d9a6411c7d591"
+  },
+  "0x398a9630c57775f77bd661474e112b6cf1941d1f": {
+    "symbol": "DOGEG",
+    "name": "Dogecoin Gold",
+    "decimals": 18,
+    "address": "0x398a9630c57775f77bd661474e112b6cf1941d1f"
+  },
+  "0x697040c4748366ccff2615432325e04f28cb2733": {
+    "symbol": "Y",
+    "name": "Y",
+    "decimals": 18,
+    "address": "0x697040c4748366ccff2615432325e04f28cb2733"
+  },
+  "0x694b1ae8c281cf3d9e48a18057265af57e72fc50": {
+    "symbol": "0.0000005",
+    "name": "Eddie The Hamster",
+    "decimals": 18,
+    "address": "0x694b1ae8c281cf3d9e48a18057265af57e72fc50"
+  }
+}
