@@ -137,6 +137,12 @@
     "decimals": 18,
     "address": "0x69dd1e9539cabdee77f82b9eee14cc02073860cb"
   },
+  "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667": {
+    "symbol": "EVM",
+    "name": "Ethereum Virtual Machine",
+    "decimals": 18,
+    "address": "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667"
+  },
   "0x6998983d59094a043bb16395eb612300537fe39f": {
     "symbol": "Shai",
     "name": "Shailushai",
@@ -173,6 +179,12 @@
     "decimals": 18,
     "address": "0x69ed2893fedb51a9f362b645cf004e9aa8bff534"
   },
+  "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5": {
+    "symbol": "THISYOU",
+    "name": "THISYOU",
+    "decimals": 18,
+    "address": "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5"
+  },
   "0x69822d17d5d38019a91abc99b1354e13f2835453": {
     "symbol": "Hosico",
     "name": "Hosico cat",
@@ -185,29 +197,23 @@
     "decimals": 18,
     "address": "0x6985de9b6a4e22b1ea848bf35483cbd76b3df10c"
   },
-  "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5": {
-    "symbol": "THISYOU",
-    "name": "THISYOU",
-    "decimals": 18,
-    "address": "0x695369d063ad6a06299ad5d3b4c865c0a6ca88b5"
-  },
   "0x69371e03987d7a47fbf5239d8a85446cb1c3c213": {
     "symbol": "Ethereum Bible",
     "name": "Ethereum's book",
     "decimals": 18,
     "address": "0x69371e03987d7a47fbf5239d8a85446cb1c3c213"
   },
-  "0x699c1967104cbc33fee6109d29f96463e995ac74": {
-    "symbol": "PSI",
-    "name": "Polish Sex Industry",
-    "decimals": 18,
-    "address": "0x699c1967104cbc33fee6109d29f96463e995ac74"
-  },
   "0xc2a03e92a9001768dcaaa331b2fc0a61eb49e550": {
     "symbol": "ECF",
     "name": "Ethereum Community Foundation",
     "decimals": 18,
     "address": "0xc2a03e92a9001768dcaaa331b2fc0a61eb49e550"
+  },
+  "0x699c1967104cbc33fee6109d29f96463e995ac74": {
+    "symbol": "PSI",
+    "name": "Polish Sex Industry",
+    "decimals": 18,
+    "address": "0x699c1967104cbc33fee6109d29f96463e995ac74"
   },
   "0x696e80dfdf8ecbe95dd779147fe367f96d02843f": {
     "symbol": "Big Beautiful Beta",
@@ -250,12 +256,6 @@
     "name": "cute little T-Rex in the Jurassic World ",
     "decimals": 18,
     "address": "0x693b00334d53b06a2b3c1e669ad3a56adeb9dec6"
-  },
-  "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667": {
-    "symbol": "EVM",
-    "name": "Ethereum Virtual Machine",
-    "decimals": 18,
-    "address": "0x69e081cc827ebfa3a640bdd7c4f37d75a6a2e667"
   },
   "0x6951bae0c9052bf89712b5153182cba42f2e67c7": {
     "symbol": "MoonBoys",
@@ -442,6 +442,12 @@
     "name": "America Party",
     "decimals": 18,
     "address": "0x69af8e697a818c14a5a3f438c54396e9472cba10"
+  },
+  "0x69f2b93dd282d25de310d8521235c6083f629ea2": {
+    "symbol": "UNICORN",
+    "name": "UNICORN",
+    "decimals": 18,
+    "address": "0x69f2b93dd282d25de310d8521235c6083f629ea2"
   },
   "0x69faf3abcc8c98b34ff0bf6654d1d6e3e3b4b290": {
     "symbol": "Y",

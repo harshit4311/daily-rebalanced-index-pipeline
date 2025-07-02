@@ -151,5 +151,5 @@ def fetch_and_save_single_day(file_label, top_n=5, buffer=40):
 
 if __name__ == "__main__":
     # fetch_and_save_daily_ohlcv("jun25", top_n=5) # fetch ohlcv for the whole month
-    fetch_and_save_single_day("30_jun25", top_n=5) # fetch ohlcv for a single day
+    fetch_and_save_single_day("1_jul25", top_n=5) # fetch ohlcv for a single day
 
